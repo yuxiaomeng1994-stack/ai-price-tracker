@@ -1,18 +1,23 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" class="">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI 羊毛雷达 - Claude/GPT/Gemini 订阅优惠追踪</title>
-    <meta name="description" content="自动追踪全网 AI 订阅优惠信息：ChatGPT Plus、Claude Pro、Gemini Advanced 的特惠活动、区域套利、拼车合租、学生优惠等">
+    <meta name="description" content="自动追踪全网 AI 订阅优惠：ChatGPT Plus、Claude Pro、Gemini Advanced 的特惠活动、区域套利、拼车合租、学生优惠等">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
+        // Dark mode: apply before render to prevent flash
+        if (localStorage.getItem('theme') === 'dark' ||
+            (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        }
         tailwind.config = {
             darkMode: 'class',
             theme: {
                 extend: {
                     colors: {
-                        primary: { 50: '#f0f9ff', 100: '#e0f2fe', 200: '#bae6fd', 300: '#7dd3fc', 400: '#38bdf8', 500: '#0ea5e9', 600: '#0284c7', 700: '#0369a1' },
+                        primary: { 50: '#f0f9ff', 100: '#e0f2fe', 200: '#bae6fd', 300: '#7dd3fc', 400: '#38bdf8', 500: '#0ea5e9', 600: '#0284c7', 700: '#0369a1', 800: '#075985', 900: '#0c4a6e' },
                     }
                 }
             }
@@ -21,77 +26,116 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
         body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; }
-        .deal-card { transition: transform 0.15s ease, box-shadow 0.15s ease; }
+        .deal-card { transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease; }
         .deal-card:hover { transform: translateY(-2px); box-shadow: 0 8px 25px -5px rgba(0,0,0,0.1); }
-        .tag { transition: background-color 0.15s ease; }
-        .filter-btn.active { background-color: #0ea5e9; color: white; }
-        .score-bar { background: linear-gradient(90deg, #22c55e 0%, #eab308 50%, #ef4444 100%); }
+        .dark .deal-card:hover { box-shadow: 0 8px 25px -5px rgba(0,0,0,0.5); }
+        .filter-btn.active { background-color: #0ea5e9 !important; color: white !important; border-color: #0ea5e9 !important; }
         .fade-in { animation: fadeIn 0.3s ease-in; }
         @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-        .source-reddit { border-left-color: #ff4500; }
-        .source-v2ex { border-left-color: #1a1a2e; }
-        .source-hackernews { border-left-color: #ff6600; }
-        .source-smzdm { border-left-color: #e4393c; }
+        .source-reddit { border-left-color: #ff4500 !important; }
+        .source-v2ex { border-left-color: #778087 !important; }
+        .source-hackernews { border-left-color: #ff6600 !important; }
+        .source-smzdm { border-left-color: #e4393c !important; }
+        .source-chiphell { border-left-color: #7b68ee !important; }
+        .source-telegram { border-left-color: #0088cc !important; }
         .skeleton { background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; }
+        .dark .skeleton { background: linear-gradient(90deg, #27272a 25%, #3f3f46 50%, #27272a 75%); background-size: 200% 100%; }
         @keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
+        .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+        /* Custom scrollbar */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+        .dark ::-webkit-scrollbar-thumb { background: #475569; }
     </style>
 </head>
-<body class="bg-gray-50 min-h-screen">
+<body class="bg-gray-50 dark:bg-gray-950 min-h-screen text-gray-900 dark:text-gray-100 transition-colors">
     <!-- Header -->
-    <header class="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
+    <header class="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-800 sticky top-0 z-50 shadow-sm dark:shadow-black/20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center gap-3">
                     <div class="text-2xl">🐑</div>
                     <div>
-                        <h1 class="text-xl font-bold text-gray-900">AI 羊毛雷达</h1>
-                        <p class="text-xs text-gray-500 hidden sm:block">Claude · GPT · Gemini 订阅优惠追踪</p>
+                        <h1 class="text-xl font-bold">AI 羊毛雷达</h1>
+                        <p class="text-xs text-gray-500 dark:text-gray-400 hidden sm:block">Claude · GPT · Gemini 订阅优惠追踪</p>
                     </div>
                 </div>
-                <div class="flex items-center gap-3">
-                    <span id="last-updated" class="text-xs text-gray-400 hidden sm:inline"></span>
-                    <span id="deal-count" class="bg-primary-100 text-primary-700 px-2 py-1 rounded-full text-xs font-medium"></span>
+                <div class="flex items-center gap-2 sm:gap-3">
+                    <span id="last-updated" class="text-xs text-gray-400 dark:text-gray-500 hidden md:inline"></span>
+                    <span id="deal-count" class="bg-primary-100 dark:bg-primary-900/40 text-primary-700 dark:text-primary-300 px-2 py-1 rounded-full text-xs font-medium"></span>
+                    <button id="theme-toggle" aria-label="切换主题" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition">
+                        <svg class="w-5 h-5 block dark:hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+                        <svg class="w-5 h-5 hidden dark:block" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+                    </button>
                 </div>
             </div>
         </div>
     </header>
 
-    <!-- Filters -->
-    <div class="bg-white border-b border-gray-100 py-3">
+    <!-- Search + Sort bar -->
+    <div class="bg-white dark:bg-gray-900 border-b border-gray-100 dark:border-gray-800 py-3">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex flex-col sm:flex-row gap-3 items-stretch sm:items-center">
+                <div class="relative flex-1">
+                    <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+                    <input id="search-input" type="text" placeholder="搜索 ChatGPT、Claude、土耳其、学生..." 
+                        class="w-full pl-10 pr-10 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm focus:outline-none focus:ring-2 focus:ring-primary-500 dark:focus:ring-primary-400 transition">
+                    <button id="clear-search" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 dark:hover:text-gray-200">
+                        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+                    </button>
+                </div>
+                <div class="flex items-center gap-2">
+                    <label class="text-xs text-gray-500 dark:text-gray-400 whitespace-nowrap">排序:</label>
+                    <select id="sort-select" class="px-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm focus:outline-none focus:ring-2 focus:ring-primary-500">
+                        <option value="score">热度优先</option>
+                        <option value="time">时间优先</option>
+                        <option value="engagement">互动优先</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Filters -->
+    <div class="bg-white dark:bg-gray-900 border-b border-gray-100 dark:border-gray-800 py-3">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-3">
             <!-- Product filters -->
-            <div class="flex flex-wrap gap-2 mb-3">
-                <span class="text-xs text-gray-500 self-center mr-1 font-medium">产品:</span>
-                <button class="filter-btn active px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="all">全部</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="ChatGPT">ChatGPT</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="Claude">Claude</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="Gemini">Gemini</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="Copilot">Copilot</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="Midjourney">Midjourney</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="Cursor">Cursor</button>
+            <div class="flex flex-wrap gap-2">
+                <span class="text-xs text-gray-500 dark:text-gray-400 self-center mr-1 font-medium w-10 shrink-0">产品:</span>
+                <button class="filter-btn active px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="product" data-value="all">全部</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="product" data-value="ChatGPT">ChatGPT</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="product" data-value="Claude">Claude</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="product" data-value="Gemini">Gemini</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="product" data-value="Copilot">Copilot</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="product" data-value="Midjourney">Midjourney</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="product" data-value="Cursor">Cursor</button>
             </div>
             <!-- Deal type filters -->
-            <div class="flex flex-wrap gap-2 mb-3">
-                <span class="text-xs text-gray-500 self-center mr-1 font-medium">类型:</span>
-                <button class="filter-btn active px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="all">全部</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="区域套利">🌍 区域套利</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="拼车/合租">🚗 拼车/合租</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="优惠码">🎫 优惠码</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="学生/教育">🎓 学生/教育</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="免费/试用">🆓 免费/试用</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="降价/折扣">💰 降价/折扣</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="薅羊毛/技巧">🐑 薅羊毛/技巧</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="API优惠">⚡ API优惠</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="礼品卡">🎁 礼品卡</button>
+            <div class="flex flex-wrap gap-2">
+                <span class="text-xs text-gray-500 dark:text-gray-400 self-center mr-1 font-medium w-10 shrink-0">类型:</span>
+                <button class="filter-btn active px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="type" data-value="all">全部</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="type" data-value="区域套利">🌍 区域套利</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="type" data-value="拼车/合租">🚗 拼车/合租</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="type" data-value="优惠码">🎫 优惠码</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="type" data-value="学生/教育">🎓 学生/教育</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="type" data-value="免费/试用">🆓 免费/试用</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="type" data-value="降价/折扣">💰 降价/折扣</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="type" data-value="薅羊毛/技巧">🐑 薅羊毛/技巧</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="type" data-value="API优惠">⚡ API优惠</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="type" data-value="礼品卡">🎁 礼品卡</button>
             </div>
             <!-- Source filters -->
             <div class="flex flex-wrap gap-2">
-                <span class="text-xs text-gray-500 self-center mr-1 font-medium">来源:</span>
-                <button class="filter-btn active px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="source" data-value="all">全部</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="source" data-value="reddit">Reddit</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="source" data-value="v2ex">V2EX</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="source" data-value="hackernews">HackerNews</button>
-                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="source" data-value="smzdm">什么值得买</button>
+                <span class="text-xs text-gray-500 dark:text-gray-400 self-center mr-1 font-medium w-10 shrink-0">来源:</span>
+                <button class="filter-btn active px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="all">全部</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="reddit">Reddit</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="v2ex">V2EX</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="hackernews">HackerNews</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="smzdm">什么值得买</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="chiphell">Chiphell</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="telegram">Telegram</button>
             </div>
         </div>
     </div>
@@ -99,28 +143,30 @@
     <!-- Main Content -->
     <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <!-- Stats bar -->
-        <div id="stats-bar" class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
-            <div class="bg-white rounded-lg p-3 border border-gray-100 text-center">
-                <div class="text-2xl font-bold text-gray-900" id="stat-total">-</div>
-                <div class="text-xs text-gray-500">总优惠</div>
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
+            <div class="bg-white dark:bg-gray-900 rounded-lg p-3 border border-gray-100 dark:border-gray-800 text-center">
+                <div class="text-2xl font-bold" id="stat-total">-</div>
+                <div class="text-xs text-gray-500 dark:text-gray-400">当前展示</div>
             </div>
-            <div class="bg-white rounded-lg p-3 border border-gray-100 text-center">
-                <div class="text-2xl font-bold text-green-600" id="stat-today">-</div>
-                <div class="text-xs text-gray-500">今日新增</div>
+            <div class="bg-white dark:bg-gray-900 rounded-lg p-3 border border-gray-100 dark:border-gray-800 text-center">
+                <div class="text-2xl font-bold text-green-600 dark:text-green-400" id="stat-today">-</div>
+                <div class="text-xs text-gray-500 dark:text-gray-400">今日新增</div>
             </div>
-            <div class="bg-white rounded-lg p-3 border border-gray-100 text-center">
-                <div class="text-2xl font-bold text-orange-500" id="stat-hot">-</div>
-                <div class="text-xs text-gray-500">热门(50+分)</div>
+            <div class="bg-white dark:bg-gray-900 rounded-lg p-3 border border-gray-100 dark:border-gray-800 text-center">
+                <div class="text-2xl font-bold text-orange-500 dark:text-orange-400" id="stat-hot">-</div>
+                <div class="text-xs text-gray-500 dark:text-gray-400">热门(50+分)</div>
             </div>
-            <div class="bg-white rounded-lg p-3 border border-gray-100 text-center">
-                <div class="text-2xl font-bold text-blue-600" id="stat-sources">4</div>
-                <div class="text-xs text-gray-500">数据源</div>
+            <div class="bg-white dark:bg-gray-900 rounded-lg p-3 border border-gray-100 dark:border-gray-800 text-center">
+                <div class="text-2xl font-bold text-blue-600 dark:text-blue-400" id="stat-sources">6</div>
+                <div class="text-xs text-gray-500 dark:text-gray-400">数据源</div>
             </div>
         </div>
 
         <!-- Deals grid -->
         <div id="deals-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            <!-- Loading skeletons -->
+            <div class="skeleton rounded-lg h-48"></div>
+            <div class="skeleton rounded-lg h-48"></div>
+            <div class="skeleton rounded-lg h-48"></div>
             <div class="skeleton rounded-lg h-48"></div>
             <div class="skeleton rounded-lg h-48"></div>
             <div class="skeleton rounded-lg h-48"></div>
@@ -129,29 +175,29 @@
         <!-- Empty state -->
         <div id="empty-state" class="hidden text-center py-16">
             <div class="text-4xl mb-4">🔍</div>
-            <h3 class="text-lg font-medium text-gray-700">没有找到匹配的优惠信息</h3>
-            <p class="text-sm text-gray-500 mt-1">试试调整筛选条件</p>
+            <h3 class="text-lg font-medium text-gray-700 dark:text-gray-300">没有找到匹配的优惠信息</h3>
+            <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">试试调整筛选条件或清空搜索框</p>
         </div>
 
         <!-- Load more -->
         <div id="load-more" class="hidden text-center py-8">
-            <button onclick="loadMore()" class="bg-white border border-gray-200 px-6 py-2 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-50 transition">
+            <button onclick="loadMore()" class="bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 px-6 py-2 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800 transition">
                 加载更多
             </button>
         </div>
     </main>
 
     <!-- Footer -->
-    <footer class="bg-white border-t border-gray-200 mt-12 py-8">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <p class="text-sm text-gray-500">
+    <footer class="bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800 mt-12 py-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-2">
+            <p class="text-sm text-gray-500 dark:text-gray-400">
                 ⚠️ 风险提示：部分优惠方式可能违反服务条款，请自行评估风险。本站仅聚合公开信息，不提供代充、账号交易等服务。
             </p>
-            <p class="text-xs text-gray-400 mt-2">
-                数据每 4 小时自动更新 · 来源: Reddit / V2EX / HackerNews / 什么值得买
+            <p class="text-xs text-gray-400 dark:text-gray-500">
+                数据每 4 小时自动更新 · 来源: Reddit / V2EX / HackerNews / 什么值得买 / Chiphell / Telegram
             </p>
-            <p class="text-xs text-gray-400 mt-1">
-                <a href="https://github.com/yuxiaomeng1994-stack/ai-price-tracker" class="hover:text-primary-600">GitHub</a>
+            <p class="text-xs text-gray-400 dark:text-gray-500">
+                <a href="https://github.com/yuxiaomeng1994-stack/ai-price-tracker" class="hover:text-primary-600 dark:hover:text-primary-400 underline">GitHub 仓库</a>
             </p>
         </div>
     </footer>
@@ -163,18 +209,16 @@
         let allDeals = [];
         let filteredDeals = [];
         let displayCount = 30;
-        let filters = {
-            product: 'all',
-            type: 'all',
-            source: 'all',
-        };
+        let filters = { product: 'all', type: 'all', source: 'all' };
+        let searchQuery = '';
+        let sortMode = 'score';
 
         // ============================================================
         // DATA LOADING
         // ============================================================
         async function loadData() {
             try {
-                const resp = await fetch('./data/deals.json');
+                const resp = await fetch('./data/deals.json?t=' + Date.now());
                 if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
                 const data = await resp.json();
                 allDeals = data.deals || [];
@@ -185,19 +229,18 @@
                 document.getElementById('deals-container').innerHTML = `
                     <div class="col-span-full text-center py-16">
                         <div class="text-4xl mb-4">📡</div>
-                        <h3 class="text-lg font-medium text-gray-700">数据加载中...</h3>
-                        <p class="text-sm text-gray-500 mt-1">首次运行需要等待 GitHub Actions 抓取数据</p>
-                        <p class="text-xs text-gray-400 mt-3">如果持续看到此消息，请检查 Actions 是否运行成功</p>
+                        <h3 class="text-lg font-medium">数据加载中...</h3>
+                        <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">首次运行需要等待 GitHub Actions 抓取</p>
+                        <p class="text-xs text-gray-400 dark:text-gray-500 mt-3">请前往 Actions 页面手动运行 "Scrape AI Deals"</p>
                     </div>
                 `;
             }
         }
 
         function updateStats(data) {
-            document.getElementById('stat-total').textContent = data.total_deals || 0;
             document.getElementById('last-updated').textContent = 
                 data.last_updated ? `更新: ${formatTime(data.last_updated)}` : '';
-            document.getElementById('deal-count').textContent = `${data.total_deals || 0} 条优惠`;
+            document.getElementById('deal-count').textContent = `${data.total_deals || 0} 条`;
 
             // Today's deals
             const today = new Date().toISOString().split('T')[0];
@@ -208,29 +251,46 @@
             const hotCount = allDeals.filter(d => (d.relevance_score || 0) >= 50).length;
             document.getElementById('stat-hot').textContent = hotCount;
 
-            // Sources
+            // Unique sources
             const sources = new Set(allDeals.map(d => d.source));
-            document.getElementById('stat-sources').textContent = sources.size || 4;
+            document.getElementById('stat-sources').textContent = Math.max(sources.size, 1);
         }
 
         // ============================================================
-        // FILTERING
+        // FILTERING & SORTING
         // ============================================================
         function applyFilters() {
+            const q = searchQuery.trim().toLowerCase();
+
             filteredDeals = allDeals.filter(deal => {
-                // Product filter
                 if (filters.product !== 'all') {
                     if (!deal.products || !deal.products.includes(filters.product)) return false;
                 }
-                // Type filter
                 if (filters.type !== 'all') {
                     if (!deal.deal_types || !deal.deal_types.includes(filters.type)) return false;
                 }
-                // Source filter
                 if (filters.source !== 'all') {
                     if (deal.source !== filters.source) return false;
                 }
+                if (q) {
+                    const haystack = `${deal.title || ''} ${deal.body || ''} ${(deal.tags || []).join(' ')}`.toLowerCase();
+                    if (!haystack.includes(q)) return false;
+                }
                 return true;
+            });
+
+            // Apply sort
+            filteredDeals.sort((a, b) => {
+                if (sortMode === 'time') {
+                    return (b.created_at || '').localeCompare(a.created_at || '');
+                }
+                if (sortMode === 'engagement') {
+                    const ea = (a.score || 0) + (a.num_comments || 0) * 2;
+                    const eb = (b.score || 0) + (b.num_comments || 0) * 2;
+                    return eb - ea;
+                }
+                // Default: score
+                return (b.relevance_score || 0) - (a.relevance_score || 0);
             });
 
             displayCount = 30;
@@ -245,6 +305,8 @@
             const emptyState = document.getElementById('empty-state');
             const loadMoreBtn = document.getElementById('load-more');
 
+            document.getElementById('stat-total').textContent = filteredDeals.length;
+
             if (filteredDeals.length === 0) {
                 container.innerHTML = '';
                 emptyState.classList.remove('hidden');
@@ -254,8 +316,7 @@
 
             emptyState.classList.add('hidden');
             const toShow = filteredDeals.slice(0, displayCount);
-
-            container.innerHTML = toShow.map((deal, i) => renderCard(deal, i)).join('');
+            container.innerHTML = toShow.map((d, i) => renderCard(d, i)).join('');
 
             if (displayCount < filteredDeals.length) {
                 loadMoreBtn.classList.remove('hidden');
@@ -266,69 +327,62 @@
 
         function renderCard(deal, index) {
             const sourceColors = {
-                reddit: 'bg-orange-100 text-orange-700',
-                v2ex: 'bg-gray-100 text-gray-700',
-                hackernews: 'bg-amber-100 text-amber-700',
-                smzdm: 'bg-red-100 text-red-700',
+                reddit: 'bg-orange-100 text-orange-700 dark:bg-orange-900/40 dark:text-orange-300',
+                v2ex: 'bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300',
+                hackernews: 'bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300',
+                smzdm: 'bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300',
+                chiphell: 'bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300',
+                telegram: 'bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300',
             };
             const sourceNames = {
-                reddit: 'Reddit',
-                v2ex: 'V2EX',
-                hackernews: 'HN',
-                smzdm: '值得买',
+                reddit: 'Reddit', v2ex: 'V2EX', hackernews: 'HN',
+                smzdm: '值得买', chiphell: 'Chiphell', telegram: 'Telegram',
             };
             const sourceBorder = {
-                reddit: 'source-reddit',
-                v2ex: 'source-v2ex',
-                hackernews: 'source-hackernews',
-                smzdm: 'source-smzdm',
+                reddit: 'source-reddit', v2ex: 'source-v2ex', hackernews: 'source-hackernews',
+                smzdm: 'source-smzdm', chiphell: 'source-chiphell', telegram: 'source-telegram',
             };
 
-            const scoreColor = deal.relevance_score >= 50 ? 'text-red-600 bg-red-50' :
-                             deal.relevance_score >= 30 ? 'text-orange-600 bg-orange-50' :
-                             'text-green-600 bg-green-50';
+            const score = deal.relevance_score || 0;
+            const scoreColor = score >= 50 ? 'text-red-600 bg-red-50 dark:bg-red-900/30 dark:text-red-300' :
+                             score >= 30 ? 'text-orange-600 bg-orange-50 dark:bg-orange-900/30 dark:text-orange-300' :
+                             'text-green-600 bg-green-50 dark:bg-green-900/30 dark:text-green-300';
 
             const typeEmojis = {
-                '区域套利': '🌍',
-                '拼车/合租': '🚗',
-                '优惠码': '🎫',
-                '学生/教育': '🎓',
-                '免费/试用': '🆓',
-                '降价/折扣': '💰',
-                '薅羊毛/技巧': '🐑',
-                'API优惠': '⚡',
-                '礼品卡': '🎁',
+                '区域套利': '🌍', '拼车/合租': '🚗', '优惠码': '🎫',
+                '学生/教育': '🎓', '免费/试用': '🆓', '降价/折扣': '💰',
+                '薅羊毛/技巧': '🐑', 'API优惠': '⚡', '礼品卡': '🎁',
             };
 
-            const tags = (deal.deal_types || []).map(t => 
-                `<span class="inline-flex items-center gap-0.5 px-2 py-0.5 rounded-full text-xs bg-blue-50 text-blue-700">${typeEmojis[t] || '🏷️'} ${t}</span>`
+            const tags = (deal.deal_types || []).map(t =>
+                `<span class="inline-flex items-center gap-0.5 px-2 py-0.5 rounded-full text-xs bg-blue-50 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300">${typeEmojis[t] || '🏷️'} ${escapeHtml(t)}</span>`
             ).join('');
 
-            const products = (deal.products || []).map(p => 
-                `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs bg-purple-50 text-purple-700 font-medium">${p}</span>`
+            const products = (deal.products || []).map(p =>
+                `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs bg-purple-50 text-purple-700 dark:bg-purple-900/30 dark:text-purple-300 font-medium">${escapeHtml(p)}</span>`
             ).join('');
 
             const body = deal.body ? escapeHtml(deal.body.substring(0, 150)) + (deal.body.length > 150 ? '...' : '') : '';
-            const subredditLabel = deal.subreddit ? `r/${deal.subreddit}` : '';
+            const subredditLabel = deal.subreddit ? escapeHtml(deal.subreddit.startsWith('@') ? deal.subreddit : `r/${deal.subreddit}`) : '';
 
             return `
-                <a href="${escapeHtml(deal.url)}" target="_blank" rel="noopener" 
-                   class="deal-card fade-in bg-white rounded-lg border border-gray-100 p-4 flex flex-col gap-3 border-l-4 ${sourceBorder[deal.source] || ''}"
-                   style="animation-delay: ${index * 30}ms">
+                <a href="${escapeHtml(deal.url)}" target="_blank" rel="noopener noreferrer"
+                   class="deal-card fade-in bg-white dark:bg-gray-900 rounded-lg border border-gray-100 dark:border-gray-800 p-4 flex flex-col gap-3 border-l-4 ${sourceBorder[deal.source] || ''}"
+                   style="animation-delay: ${Math.min(index * 20, 500)}ms">
                     <div class="flex items-start justify-between gap-2">
                         <div class="flex flex-wrap gap-1">
-                            <span class="px-1.5 py-0.5 rounded text-xs font-medium ${sourceColors[deal.source] || 'bg-gray-100'}">${sourceNames[deal.source] || deal.source}</span>
-                            ${subredditLabel ? `<span class="px-1.5 py-0.5 rounded text-xs bg-gray-50 text-gray-500">${subredditLabel}</span>` : ''}
+                            <span class="px-1.5 py-0.5 rounded text-xs font-medium ${sourceColors[deal.source] || 'bg-gray-100 dark:bg-gray-800'}">${sourceNames[deal.source] || escapeHtml(deal.source)}</span>
+                            ${subredditLabel ? `<span class="px-1.5 py-0.5 rounded text-xs bg-gray-50 dark:bg-gray-800 text-gray-500 dark:text-gray-400">${subredditLabel}</span>` : ''}
                         </div>
-                        <span class="px-1.5 py-0.5 rounded text-xs font-bold ${scoreColor}">${deal.relevance_score}分</span>
+                        <span class="px-1.5 py-0.5 rounded text-xs font-bold ${scoreColor} shrink-0">${score}分</span>
                     </div>
-                    <h3 class="text-sm font-semibold text-gray-900 leading-snug line-clamp-2">${escapeHtml(deal.title)}</h3>
-                    ${body ? `<p class="text-xs text-gray-500 leading-relaxed line-clamp-3">${body}</p>` : ''}
+                    <h3 class="text-sm font-semibold leading-snug line-clamp-2">${escapeHtml(deal.title || '')}</h3>
+                    ${body ? `<p class="text-xs text-gray-500 dark:text-gray-400 leading-relaxed line-clamp-3">${body}</p>` : ''}
                     <div class="flex flex-wrap gap-1 mt-auto">
                         ${products}
                         ${tags}
                     </div>
-                    <div class="flex items-center justify-between text-xs text-gray-400 pt-1 border-t border-gray-50">
+                    <div class="flex items-center justify-between text-xs text-gray-400 dark:text-gray-500 pt-1 border-t border-gray-50 dark:border-gray-800">
                         <span>${formatTime(deal.created_at)}</span>
                         <div class="flex items-center gap-2">
                             ${deal.score ? `<span>👍 ${deal.score}</span>` : ''}
@@ -351,12 +405,15 @@
             if (!isoStr) return '';
             try {
                 const date = new Date(isoStr);
+                if (isNaN(date)) return '';
                 const now = new Date();
                 const diff = now - date;
+                const mins = Math.floor(diff / 60000);
                 const hours = Math.floor(diff / 3600000);
                 const days = Math.floor(diff / 86400000);
 
-                if (hours < 1) return '刚刚';
+                if (mins < 1) return '刚刚';
+                if (mins < 60) return `${mins}分钟前`;
                 if (hours < 24) return `${hours}小时前`;
                 if (days < 7) return `${days}天前`;
                 return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
@@ -366,28 +423,68 @@
         }
 
         function escapeHtml(str) {
-            if (!str) return '';
-            return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+            if (str == null) return '';
+            return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+        }
+
+        function debounce(fn, ms) {
+            let t;
+            return (...args) => { clearTimeout(t); t = setTimeout(() => fn(...args), ms); };
         }
 
         // ============================================================
         // EVENT LISTENERS
         // ============================================================
+        // Filter buttons
         document.querySelectorAll('.filter-btn').forEach(btn => {
             btn.addEventListener('click', () => {
                 const filterType = btn.dataset.filter;
                 const value = btn.dataset.value;
-
-                // Update active state
-                document.querySelectorAll(`.filter-btn[data-filter="${filterType}"]`).forEach(b => {
-                    b.classList.remove('active');
-                });
+                document.querySelectorAll(`.filter-btn[data-filter="${filterType}"]`).forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
-
-                // Update filter
                 filters[filterType] = value;
                 applyFilters();
             });
+        });
+
+        // Search input (debounced)
+        const searchInput = document.getElementById('search-input');
+        const clearBtn = document.getElementById('clear-search');
+        const handleSearch = debounce(() => {
+            searchQuery = searchInput.value;
+            clearBtn.classList.toggle('hidden', !searchQuery);
+            applyFilters();
+        }, 200);
+        searchInput.addEventListener('input', handleSearch);
+        clearBtn.addEventListener('click', () => {
+            searchInput.value = '';
+            searchQuery = '';
+            clearBtn.classList.add('hidden');
+            applyFilters();
+            searchInput.focus();
+        });
+
+        // Sort
+        document.getElementById('sort-select').addEventListener('change', (e) => {
+            sortMode = e.target.value;
+            applyFilters();
+        });
+
+        // Theme toggle
+        document.getElementById('theme-toggle').addEventListener('click', () => {
+            const isDark = document.documentElement.classList.toggle('dark');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        });
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (e.key === '/' && document.activeElement !== searchInput) {
+                e.preventDefault();
+                searchInput.focus();
+            }
+            if (e.key === 'Escape' && document.activeElement === searchInput) {
+                searchInput.blur();
+            }
         });
 
         // ============================================================

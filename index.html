@@ -5,7 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI 羊毛雷达 - Claude/GPT/Gemini 订阅优惠追踪</title>
     <meta name="description" content="自动追踪全网 AI 订阅优惠：ChatGPT Plus、Claude Pro、Gemini Advanced 的特惠活动、区域套利、拼车合租、学生优惠等">
+    <link rel="manifest" href="./manifest.json">
+    <meta name="theme-color" content="#0ea5e9">
+    <link rel="apple-touch-icon" href="./icons/icon-192.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
     <script>
         // Dark mode: apply before render to prevent flash
         if (localStorage.getItem('theme') === 'dark' ||
@@ -38,6 +44,8 @@
         .source-smzdm { border-left-color: #e4393c !important; }
         .source-chiphell { border-left-color: #7b68ee !important; }
         .source-telegram { border-left-color: #0088cc !important; }
+        .source-nga { border-left-color: #6366f1 !important; }
+        .source-twitter { border-left-color: #1d9bf0 !important; }
         .skeleton { background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; }
         .dark .skeleton { background: linear-gradient(90deg, #27272a 25%, #3f3f46 50%, #27272a 75%); background-size: 200% 100%; }
         @keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
@@ -136,6 +144,8 @@
                 <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="smzdm">什么值得买</button>
                 <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="chiphell">Chiphell</button>
                 <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="telegram">Telegram</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="nga">NGA</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 hover:bg-primary-500 hover:text-white transition" data-filter="source" data-value="twitter">Twitter/X</button>
             </div>
         </div>
     </div>
@@ -160,6 +170,18 @@
                 <div class="text-2xl font-bold text-blue-600 dark:text-blue-400" id="stat-sources">6</div>
                 <div class="text-xs text-gray-500 dark:text-gray-400">数据源</div>
             </div>
+        </div>
+
+        <!-- Price Trend Chart -->
+        <div id="chart-section" class="mb-6 bg-white dark:bg-gray-900 rounded-lg border border-gray-100 dark:border-gray-800 p-4">
+            <div class="flex items-center justify-between mb-3">
+                <h2 class="text-sm font-semibold">📈 最低价格趋势 (¥/月)</h2>
+                <button id="toggle-chart" class="text-xs text-primary-600 dark:text-primary-400 hover:underline">收起</button>
+            </div>
+            <div id="chart-wrapper" style="height: 220px; position: relative;">
+                <canvas id="price-chart"></canvas>
+            </div>
+            <p class="text-xs text-gray-400 dark:text-gray-500 mt-2 text-center">数据来源于帖子中提取的价格信息，仅供参考</p>
         </div>
 
         <!-- Deals grid -->
@@ -194,7 +216,7 @@
                 ⚠️ 风险提示：部分优惠方式可能违反服务条款，请自行评估风险。本站仅聚合公开信息，不提供代充、账号交易等服务。
             </p>
             <p class="text-xs text-gray-400 dark:text-gray-500">
-                数据每 4 小时自动更新 · 来源: Reddit / V2EX / HackerNews / 什么值得买 / Chiphell / Telegram
+                数据每 4 小时自动更新 · 来源: Reddit / V2EX / HackerNews / 什么值得买 / Chiphell / Telegram / NGA / Twitter
             </p>
             <p class="text-xs text-gray-400 dark:text-gray-500">
                 <a href="https://github.com/yuxiaomeng1994-stack/ai-price-tracker" class="hover:text-primary-600 dark:hover:text-primary-400 underline">GitHub 仓库</a>
@@ -333,14 +355,18 @@
                 smzdm: 'bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300',
                 chiphell: 'bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300',
                 telegram: 'bg-sky-100 text-sky-700 dark:bg-sky-900/40 dark:text-sky-300',
+                nga: 'bg-indigo-100 text-indigo-700 dark:bg-indigo-900/40 dark:text-indigo-300',
+                twitter: 'bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300',
             };
             const sourceNames = {
                 reddit: 'Reddit', v2ex: 'V2EX', hackernews: 'HN',
                 smzdm: '值得买', chiphell: 'Chiphell', telegram: 'Telegram',
+                nga: 'NGA', twitter: 'X/Twitter',
             };
             const sourceBorder = {
                 reddit: 'source-reddit', v2ex: 'source-v2ex', hackernews: 'source-hackernews',
                 smzdm: 'source-smzdm', chiphell: 'source-chiphell', telegram: 'source-telegram',
+                nga: 'source-nga', twitter: 'source-twitter',
             };
 
             const score = deal.relevance_score || 0;
@@ -488,9 +514,107 @@
         });
 
         // ============================================================
+        // CHART
+        // ============================================================
+        let priceChart = null;
+
+        async function loadHistory() {
+            try {
+                const resp = await fetch('./data/history.json?t=' + Date.now());
+                if (!resp.ok) return;
+                const data = await resp.json();
+                renderChart(data);
+            } catch (e) {
+                console.log('No history data yet');
+                document.getElementById('chart-section').style.display = 'none';
+            }
+        }
+
+        function renderChart(data) {
+            const snapshots = data.price_snapshots || [];
+            if (snapshots.length < 2) {
+                document.getElementById('chart-section').style.display = 'none';
+                return;
+            }
+
+            const products = [...new Set(snapshots.map(s => s.product))];
+            const dates = [...new Set(snapshots.map(s => s.date))].sort();
+
+            const colors = {
+                'ChatGPT': '#10b981', 'Claude': '#8b5cf6', 'Gemini': '#f59e0b',
+                'Copilot': '#3b82f6', 'Midjourney': '#ec4899', 'Cursor': '#06b6d4',
+            };
+
+            const datasets = products.map(product => {
+                const productData = snapshots.filter(s => s.product === product);
+                return {
+                    label: product,
+                    data: dates.map(date => {
+                        const found = productData.find(s => s.date === date);
+                        return found ? found.est_price_cny : null;
+                    }),
+                    borderColor: colors[product] || '#6b7280',
+                    backgroundColor: (colors[product] || '#6b7280') + '20',
+                    tension: 0.3,
+                    fill: false,
+                    spanGaps: true,
+                    pointRadius: 3,
+                    pointHoverRadius: 6,
+                };
+            });
+
+            const isDark = document.documentElement.classList.contains('dark');
+            const gridColor = isDark ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.06)';
+            const textColor = isDark ? '#9ca3af' : '#6b7280';
+
+            const ctx = document.getElementById('price-chart').getContext('2d');
+            if (priceChart) priceChart.destroy();
+            priceChart = new Chart(ctx, {
+                type: 'line',
+                data: { labels: dates, datasets },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    interaction: { mode: 'index', intersect: false },
+                    plugins: {
+                        legend: { position: 'top', labels: { color: textColor, boxWidth: 12, font: { size: 11 } } },
+                        tooltip: { callbacks: { label: (ctx) => `${ctx.dataset.label}: ¥${ctx.parsed.y}/月` } },
+                    },
+                    scales: {
+                        x: { grid: { color: gridColor }, ticks: { color: textColor, font: { size: 10 }, maxTicksLimit: 10 } },
+                        y: { grid: { color: gridColor }, ticks: { color: textColor, font: { size: 10 }, callback: v => '¥' + v }, beginAtZero: true },
+                    },
+                },
+            });
+        }
+
+        // Toggle chart visibility
+        document.getElementById('toggle-chart').addEventListener('click', () => {
+            const wrapper = document.getElementById('chart-wrapper');
+            const btn = document.getElementById('toggle-chart');
+            if (wrapper.style.display === 'none') {
+                wrapper.style.display = 'block';
+                btn.textContent = '收起';
+            } else {
+                wrapper.style.display = 'none';
+                btn.textContent = '展开';
+            }
+        });
+
+        // ============================================================
+        // SERVICE WORKER (PWA)
+        // ============================================================
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./sw.js').then(() => {
+                console.log('SW registered');
+            }).catch(err => console.log('SW registration failed:', err));
+        }
+
+        // ============================================================
         // INIT
         // ============================================================
         loadData();
+        loadHistory();
     </script>
 </body>
 </html>

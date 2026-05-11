@@ -1,0 +1,86 @@
+name: "🐑 提交羊毛/优惠信息"
+description: "发现了 AI 订阅优惠？提交到这里！"
+title: "[羊毛] "
+labels: ["deal-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你分享羊毛信息！请填写以下信息。
+  - type: dropdown
+    id: product
+    attributes:
+      label: 相关产品
+      description: 这个优惠涉及哪个 AI 产品？
+      options:
+        - ChatGPT / OpenAI
+        - Claude / Anthropic
+        - Gemini / Google
+        - Copilot / Microsoft
+        - Midjourney
+        - Cursor
+        - 其他
+    validations:
+      required: true
+  - type: dropdown
+    id: deal_type
+    attributes:
+      label: 优惠类型
+      description: 这是什么类型的优惠？
+      options:
+        - 🌍 区域套利（如土耳其、阿根廷区）
+        - 🚗 拼车/合租
+        - 🎫 优惠码/促销码
+        - 🎓 学生/教育优惠
+        - 🎁 礼品卡
+        - 🆓 免费/试用
+        - 💰 降价/折扣
+        - 🐑 薅羊毛技巧
+        - ⚡ API 优惠
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: price
+    attributes:
+      label: 预估价格（人民币）
+      description: "折算成人民币大约多少钱？例如：70元/月"
+      placeholder: "例：70元/月"
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: 详细描述
+      description: 请描述这个优惠的具体方式、操作步骤、注意事项等
+      placeholder: |
+        例如：
+        1. 注册一个土耳其区 Apple ID
+        2. 购买土耳其区 iTunes 礼品卡
+        3. 在 App Store 订阅 ChatGPT Plus
+        4. 价格约 349 TRY ≈ 70-80 人民币/月
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: 信息来源链接
+      description: 你从哪里看到这个信息的？（可选）
+      placeholder: "https://..."
+    validations:
+      required: false
+  - type: input
+    id: expiry
+    attributes:
+      label: 有效期
+      description: 这个优惠大约什么时候失效？（可选）
+      placeholder: "例：长期有效 / 2026年6月底"
+    validations:
+      required: false
+  - type: checkboxes
+    id: risk_acknowledgment
+    attributes:
+      label: 风险确认
+      options:
+        - label: 我了解部分优惠方式可能违反服务条款，信息仅供参考
+          required: true

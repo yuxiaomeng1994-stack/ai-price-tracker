@@ -9,3 +9,6 @@ dist/
 build/
 .pytest_cache/
 node_modules/
+
+# Telegram notification state (don't track sent IDs in git)
+data/.sent_deals.json

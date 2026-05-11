@@ -13,9 +13,11 @@ from pathlib import Path
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from scraper import reddit, v2ex, hackernews, smzdm, chiphell, telegram
+from scraper import reddit, v2ex, hackernews, smzdm, chiphell, telegram, nga, twitter
 from scraper.scorer import filter_and_rank, deduplicate
 from scraper import llm_filter
+from scraper.notify import notify_hot_deals
+from scraper.history import update_history
 
 
 OUTPUT_DIR = Path(__file__).parent.parent / "data"
@@ -72,6 +74,8 @@ def run_scrapers() -> list[dict]:
         ("SMZDM", smzdm),
         ("Chiphell", chiphell),
         ("Telegram", telegram),
+        ("NGA", nga),
+        ("Twitter/X", twitter),
     ]
 
     for i, (name, module) in enumerate(scrapers, 1):
@@ -134,6 +138,13 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print(f"\nOutput written to: {OUTPUT_FILE}")
+
+    # 8. Update history (price trend data)
+    update_history(merged)
+
+    # 9. Telegram push notifications for hot deals
+    notify_hot_deals(merged)
+
     print(f"\nTop 5 deals:")
     for d in merged[:5]:
         print(f"  [{d.get('relevance_score', 0):3d}] [{', '.join(d.get('tags', [])[:3])}] {d['title'][:60]}")

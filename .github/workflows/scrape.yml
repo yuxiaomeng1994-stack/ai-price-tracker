@@ -35,10 +35,14 @@ jobs:
         run: python -m scraper.main
         env:
           PYTHONPATH: .
-          # Optional: set these in Settings > Secrets to enable LLM filter
+          # Optional: LLM filter (set in Settings > Secrets)
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          # Optional: Telegram push (set in Settings > Secrets)
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MIN_SCORE: ${{ secrets.TELEGRAM_MIN_SCORE }}
 
       - name: Commit and push data
         run: |

@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 羊毛雷达 - Claude/GPT/Gemini 订阅优惠追踪</title>
+    <meta name="description" content="自动追踪全网 AI 订阅优惠信息：ChatGPT Plus、Claude Pro、Gemini Advanced 的特惠活动、区域套利、拼车合租、学生优惠等">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: { 50: '#f0f9ff', 100: '#e0f2fe', 200: '#bae6fd', 300: '#7dd3fc', 400: '#38bdf8', 500: '#0ea5e9', 600: '#0284c7', 700: '#0369a1' },
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; }
+        .deal-card { transition: transform 0.15s ease, box-shadow 0.15s ease; }
+        .deal-card:hover { transform: translateY(-2px); box-shadow: 0 8px 25px -5px rgba(0,0,0,0.1); }
+        .tag { transition: background-color 0.15s ease; }
+        .filter-btn.active { background-color: #0ea5e9; color: white; }
+        .score-bar { background: linear-gradient(90deg, #22c55e 0%, #eab308 50%, #ef4444 100%); }
+        .fade-in { animation: fadeIn 0.3s ease-in; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        .source-reddit { border-left-color: #ff4500; }
+        .source-v2ex { border-left-color: #1a1a2e; }
+        .source-hackernews { border-left-color: #ff6600; }
+        .source-smzdm { border-left-color: #e4393c; }
+        .skeleton { background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; }
+        @keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <!-- Header -->
+    <header class="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center gap-3">
+                    <div class="text-2xl">🐑</div>
+                    <div>
+                        <h1 class="text-xl font-bold text-gray-900">AI 羊毛雷达</h1>
+                        <p class="text-xs text-gray-500 hidden sm:block">Claude · GPT · Gemini 订阅优惠追踪</p>
+                    </div>
+                </div>
+                <div class="flex items-center gap-3">
+                    <span id="last-updated" class="text-xs text-gray-400 hidden sm:inline"></span>
+                    <span id="deal-count" class="bg-primary-100 text-primary-700 px-2 py-1 rounded-full text-xs font-medium"></span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Filters -->
+    <div class="bg-white border-b border-gray-100 py-3">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <!-- Product filters -->
+            <div class="flex flex-wrap gap-2 mb-3">
+                <span class="text-xs text-gray-500 self-center mr-1 font-medium">产品:</span>
+                <button class="filter-btn active px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="all">全部</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="ChatGPT">ChatGPT</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="Claude">Claude</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="Gemini">Gemini</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="Copilot">Copilot</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="Midjourney">Midjourney</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="product" data-value="Cursor">Cursor</button>
+            </div>
+            <!-- Deal type filters -->
+            <div class="flex flex-wrap gap-2 mb-3">
+                <span class="text-xs text-gray-500 self-center mr-1 font-medium">类型:</span>
+                <button class="filter-btn active px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="all">全部</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="区域套利">🌍 区域套利</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="拼车/合租">🚗 拼车/合租</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="优惠码">🎫 优惠码</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="学生/教育">🎓 学生/教育</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="免费/试用">🆓 免费/试用</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="降价/折扣">💰 降价/折扣</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="薅羊毛/技巧">🐑 薅羊毛/技巧</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="API优惠">⚡ API优惠</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="type" data-value="礼品卡">🎁 礼品卡</button>
+            </div>
+            <!-- Source filters -->
+            <div class="flex flex-wrap gap-2">
+                <span class="text-xs text-gray-500 self-center mr-1 font-medium">来源:</span>
+                <button class="filter-btn active px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="source" data-value="all">全部</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="source" data-value="reddit">Reddit</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="source" data-value="v2ex">V2EX</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="source" data-value="hackernews">HackerNews</button>
+                <button class="filter-btn px-3 py-1 rounded-full text-xs font-medium border border-gray-200 hover:bg-primary-500 hover:text-white" data-filter="source" data-value="smzdm">什么值得买</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <!-- Stats bar -->
+        <div id="stats-bar" class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
+            <div class="bg-white rounded-lg p-3 border border-gray-100 text-center">
+                <div class="text-2xl font-bold text-gray-900" id="stat-total">-</div>
+                <div class="text-xs text-gray-500">总优惠</div>
+            </div>
+            <div class="bg-white rounded-lg p-3 border border-gray-100 text-center">
+                <div class="text-2xl font-bold text-green-600" id="stat-today">-</div>
+                <div class="text-xs text-gray-500">今日新增</div>
+            </div>
+            <div class="bg-white rounded-lg p-3 border border-gray-100 text-center">
+                <div class="text-2xl font-bold text-orange-500" id="stat-hot">-</div>
+                <div class="text-xs text-gray-500">热门(50+分)</div>
+            </div>
+            <div class="bg-white rounded-lg p-3 border border-gray-100 text-center">
+                <div class="text-2xl font-bold text-blue-600" id="stat-sources">4</div>
+                <div class="text-xs text-gray-500">数据源</div>
+            </div>
+        </div>
+
+        <!-- Deals grid -->
+        <div id="deals-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <!-- Loading skeletons -->
+            <div class="skeleton rounded-lg h-48"></div>
+            <div class="skeleton rounded-lg h-48"></div>
+            <div class="skeleton rounded-lg h-48"></div>
+        </div>
+
+        <!-- Empty state -->
+        <div id="empty-state" class="hidden text-center py-16">
+            <div class="text-4xl mb-4">🔍</div>
+            <h3 class="text-lg font-medium text-gray-700">没有找到匹配的优惠信息</h3>
+            <p class="text-sm text-gray-500 mt-1">试试调整筛选条件</p>
+        </div>
+
+        <!-- Load more -->
+        <div id="load-more" class="hidden text-center py-8">
+            <button onclick="loadMore()" class="bg-white border border-gray-200 px-6 py-2 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-50 transition">
+                加载更多
+            </button>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200 mt-12 py-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <p class="text-sm text-gray-500">
+                ⚠️ 风险提示：部分优惠方式可能违反服务条款，请自行评估风险。本站仅聚合公开信息，不提供代充、账号交易等服务。
+            </p>
+            <p class="text-xs text-gray-400 mt-2">
+                数据每 4 小时自动更新 · 来源: Reddit / V2EX / HackerNews / 什么值得买
+            </p>
+            <p class="text-xs text-gray-400 mt-1">
+                <a href="https://github.com/yuxiaomeng1994-stack/ai-price-tracker" class="hover:text-primary-600">GitHub</a>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // ============================================================
+        // STATE
+        // ============================================================
+        let allDeals = [];
+        let filteredDeals = [];
+        let displayCount = 30;
+        let filters = {
+            product: 'all',
+            type: 'all',
+            source: 'all',
+        };
+
+        // ============================================================
+        // DATA LOADING
+        // ============================================================
+        async function loadData() {
+            try {
+                const resp = await fetch('./data/deals.json');
+                if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+                const data = await resp.json();
+                allDeals = data.deals || [];
+                updateStats(data);
+                applyFilters();
+            } catch (e) {
+                console.error('Failed to load deals:', e);
+                document.getElementById('deals-container').innerHTML = `
+                    <div class="col-span-full text-center py-16">
+                        <div class="text-4xl mb-4">📡</div>
+                        <h3 class="text-lg font-medium text-gray-700">数据加载中...</h3>
+                        <p class="text-sm text-gray-500 mt-1">首次运行需要等待 GitHub Actions 抓取数据</p>
+                        <p class="text-xs text-gray-400 mt-3">如果持续看到此消息，请检查 Actions 是否运行成功</p>
+                    </div>
+                `;
+            }
+        }
+
+        function updateStats(data) {
+            document.getElementById('stat-total').textContent = data.total_deals || 0;
+            document.getElementById('last-updated').textContent = 
+                data.last_updated ? `更新: ${formatTime(data.last_updated)}` : '';
+            document.getElementById('deal-count').textContent = `${data.total_deals || 0} 条优惠`;
+
+            // Today's deals
+            const today = new Date().toISOString().split('T')[0];
+            const todayCount = allDeals.filter(d => (d.created_at || '').startsWith(today)).length;
+            document.getElementById('stat-today').textContent = todayCount;
+
+            // Hot deals
+            const hotCount = allDeals.filter(d => (d.relevance_score || 0) >= 50).length;
+            document.getElementById('stat-hot').textContent = hotCount;
+
+            // Sources
+            const sources = new Set(allDeals.map(d => d.source));
+            document.getElementById('stat-sources').textContent = sources.size || 4;
+        }
+
+        // ============================================================
+        // FILTERING
+        // ============================================================
+        function applyFilters() {
+            filteredDeals = allDeals.filter(deal => {
+                // Product filter
+                if (filters.product !== 'all') {
+                    if (!deal.products || !deal.products.includes(filters.product)) return false;
+                }
+                // Type filter
+                if (filters.type !== 'all') {
+                    if (!deal.deal_types || !deal.deal_types.includes(filters.type)) return false;
+                }
+                // Source filter
+                if (filters.source !== 'all') {
+                    if (deal.source !== filters.source) return false;
+                }
+                return true;
+            });
+
+            displayCount = 30;
+            renderDeals();
+        }
+
+        // ============================================================
+        // RENDERING
+        // ============================================================
+        function renderDeals() {
+            const container = document.getElementById('deals-container');
+            const emptyState = document.getElementById('empty-state');
+            const loadMoreBtn = document.getElementById('load-more');
+
+            if (filteredDeals.length === 0) {
+                container.innerHTML = '';
+                emptyState.classList.remove('hidden');
+                loadMoreBtn.classList.add('hidden');
+                return;
+            }
+
+            emptyState.classList.add('hidden');
+            const toShow = filteredDeals.slice(0, displayCount);
+
+            container.innerHTML = toShow.map((deal, i) => renderCard(deal, i)).join('');
+
+            if (displayCount < filteredDeals.length) {
+                loadMoreBtn.classList.remove('hidden');
+            } else {
+                loadMoreBtn.classList.add('hidden');
+            }
+        }
+
+        function renderCard(deal, index) {
+            const sourceColors = {
+                reddit: 'bg-orange-100 text-orange-700',
+                v2ex: 'bg-gray-100 text-gray-700',
+                hackernews: 'bg-amber-100 text-amber-700',
+                smzdm: 'bg-red-100 text-red-700',
+            };
+            const sourceNames = {
+                reddit: 'Reddit',
+                v2ex: 'V2EX',
+                hackernews: 'HN',
+                smzdm: '值得买',
+            };
+            const sourceBorder = {
+                reddit: 'source-reddit',
+                v2ex: 'source-v2ex',
+                hackernews: 'source-hackernews',
+                smzdm: 'source-smzdm',
+            };
+
+            const scoreColor = deal.relevance_score >= 50 ? 'text-red-600 bg-red-50' :
+                             deal.relevance_score >= 30 ? 'text-orange-600 bg-orange-50' :
+                             'text-green-600 bg-green-50';
+
+            const typeEmojis = {
+                '区域套利': '🌍',
+                '拼车/合租': '🚗',
+                '优惠码': '🎫',
+                '学生/教育': '🎓',
+                '免费/试用': '🆓',
+                '降价/折扣': '💰',
+                '薅羊毛/技巧': '🐑',
+                'API优惠': '⚡',
+                '礼品卡': '🎁',
+            };
+
+            const tags = (deal.deal_types || []).map(t => 
+                `<span class="inline-flex items-center gap-0.5 px-2 py-0.5 rounded-full text-xs bg-blue-50 text-blue-700">${typeEmojis[t] || '🏷️'} ${t}</span>`
+            ).join('');
+
+            const products = (deal.products || []).map(p => 
+                `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs bg-purple-50 text-purple-700 font-medium">${p}</span>`
+            ).join('');
+
+            const body = deal.body ? escapeHtml(deal.body.substring(0, 150)) + (deal.body.length > 150 ? '...' : '') : '';
+            const subredditLabel = deal.subreddit ? `r/${deal.subreddit}` : '';
+
+            return `
+                <a href="${escapeHtml(deal.url)}" target="_blank" rel="noopener" 
+                   class="deal-card fade-in bg-white rounded-lg border border-gray-100 p-4 flex flex-col gap-3 border-l-4 ${sourceBorder[deal.source] || ''}"
+                   style="animation-delay: ${index * 30}ms">
+                    <div class="flex items-start justify-between gap-2">
+                        <div class="flex flex-wrap gap-1">
+                            <span class="px-1.5 py-0.5 rounded text-xs font-medium ${sourceColors[deal.source] || 'bg-gray-100'}">${sourceNames[deal.source] || deal.source}</span>
+                            ${subredditLabel ? `<span class="px-1.5 py-0.5 rounded text-xs bg-gray-50 text-gray-500">${subredditLabel}</span>` : ''}
+                        </div>
+                        <span class="px-1.5 py-0.5 rounded text-xs font-bold ${scoreColor}">${deal.relevance_score}分</span>
+                    </div>
+                    <h3 class="text-sm font-semibold text-gray-900 leading-snug line-clamp-2">${escapeHtml(deal.title)}</h3>
+                    ${body ? `<p class="text-xs text-gray-500 leading-relaxed line-clamp-3">${body}</p>` : ''}
+                    <div class="flex flex-wrap gap-1 mt-auto">
+                        ${products}
+                        ${tags}
+                    </div>
+                    <div class="flex items-center justify-between text-xs text-gray-400 pt-1 border-t border-gray-50">
+                        <span>${formatTime(deal.created_at)}</span>
+                        <div class="flex items-center gap-2">
+                            ${deal.score ? `<span>👍 ${deal.score}</span>` : ''}
+                            ${deal.num_comments ? `<span>💬 ${deal.num_comments}</span>` : ''}
+                        </div>
+                    </div>
+                </a>
+            `;
+        }
+
+        function loadMore() {
+            displayCount += 30;
+            renderDeals();
+        }
+
+        // ============================================================
+        // UTILITIES
+        // ============================================================
+        function formatTime(isoStr) {
+            if (!isoStr) return '';
+            try {
+                const date = new Date(isoStr);
+                const now = new Date();
+                const diff = now - date;
+                const hours = Math.floor(diff / 3600000);
+                const days = Math.floor(diff / 86400000);
+
+                if (hours < 1) return '刚刚';
+                if (hours < 24) return `${hours}小时前`;
+                if (days < 7) return `${days}天前`;
+                return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+            } catch {
+                return '';
+            }
+        }
+
+        function escapeHtml(str) {
+            if (!str) return '';
+            return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+        }
+
+        // ============================================================
+        // EVENT LISTENERS
+        // ============================================================
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const filterType = btn.dataset.filter;
+                const value = btn.dataset.value;
+
+                // Update active state
+                document.querySelectorAll(`.filter-btn[data-filter="${filterType}"]`).forEach(b => {
+                    b.classList.remove('active');
+                });
+                btn.classList.add('active');
+
+                // Update filter
+                filters[filterType] = value;
+                applyFilters();
+            });
+        });
+
+        // ============================================================
+        // INIT
+        // ============================================================
+        loadData();
+    </script>
+</body>
+</html>

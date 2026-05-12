@@ -73,6 +73,9 @@
                 <div class="flex items-center gap-2 sm:gap-3">
                     <span id="last-updated" class="text-xs text-gray-400 dark:text-gray-500 hidden md:inline"></span>
                     <span id="deal-count" class="bg-primary-100 dark:bg-primary-900/40 text-primary-700 dark:text-primary-300 px-2 py-1 rounded-full text-xs font-medium"></span>
+                    <a href="./data/feed.xml" target="_blank" rel="noopener" aria-label="RSS 订阅" title="RSS 订阅" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition text-orange-500">
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M6.503 20.752c0 1.794-1.456 3.248-3.251 3.248S0 22.546 0 20.752s1.456-3.248 3.252-3.248 3.251 1.454 3.251 3.248zM1.677 6.162v4.63c6.813 0 12.37 5.555 12.37 12.37h4.632c0-9.372-7.633-17-17.002-17zm0-6.162v4.617c10.228 0 18.542 8.314 18.542 18.542H24c0-12.807-10.418-23.162-23.323-23.162z"/></svg>
+                    </a>
                     <button id="theme-toggle" aria-label="切换主题" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition">
                         <svg class="w-5 h-5 block dark:hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
                         <svg class="w-5 h-5 hidden dark:block" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
@@ -209,6 +212,23 @@
         </div>
     </main>
 
+    <!-- Detail Modal -->
+    <div id="detail-modal" class="hidden fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm" onclick="if(event.target === this) closeModal()">
+        <div class="bg-white dark:bg-gray-900 rounded-xl max-w-2xl w-full max-h-[85vh] overflow-hidden flex flex-col shadow-2xl">
+            <div class="flex items-center justify-between p-4 border-b border-gray-100 dark:border-gray-800 shrink-0">
+                <h3 id="modal-title" class="text-base font-semibold pr-4 line-clamp-2">详情</h3>
+                <button onclick="closeModal()" class="p-1 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 shrink-0" aria-label="关闭">
+                    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+                </button>
+            </div>
+            <div id="modal-body" class="p-4 overflow-y-auto text-sm"></div>
+            <div class="p-4 border-t border-gray-100 dark:border-gray-800 shrink-0 flex justify-between items-center gap-2">
+                <span class="text-xs text-gray-400 dark:text-gray-500">⚠️ 请自行判断真伪与风险</span>
+                <a id="modal-link" href="#" target="_blank" rel="noopener noreferrer" class="px-4 py-1.5 bg-primary-500 hover:bg-primary-600 text-white text-sm rounded-lg transition">查看原文 →</a>
+            </div>
+        </div>
+    </div>
+
     <!-- Footer -->
     <footer class="bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800 mt-12 py-8">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-2">
@@ -220,6 +240,8 @@
             </p>
             <p class="text-xs text-gray-400 dark:text-gray-500">
                 <a href="https://github.com/yuxiaomeng1994-stack/ai-price-tracker" class="hover:text-primary-600 dark:hover:text-primary-400 underline">GitHub 仓库</a>
+                · <a href="./data/feed.xml" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400 underline">RSS 订阅</a>
+                · <a href="https://github.com/yuxiaomeng1994-stack/ai-price-tracker/issues/new?template=submit_deal.yml" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400 underline">提交羊毛</a>
             </p>
         </div>
     </footer>
@@ -392,9 +414,9 @@
             const subredditLabel = deal.subreddit ? escapeHtml(deal.subreddit.startsWith('@') ? deal.subreddit : `r/${deal.subreddit}`) : '';
 
             return `
-                <a href="${escapeHtml(deal.url)}" target="_blank" rel="noopener noreferrer"
-                   class="deal-card fade-in bg-white dark:bg-gray-900 rounded-lg border border-gray-100 dark:border-gray-800 p-4 flex flex-col gap-3 border-l-4 ${sourceBorder[deal.source] || ''}"
-                   style="animation-delay: ${Math.min(index * 20, 500)}ms">
+                <div class="deal-card fade-in bg-white dark:bg-gray-900 rounded-lg border border-gray-100 dark:border-gray-800 p-4 flex flex-col gap-3 border-l-4 ${sourceBorder[deal.source] || ''} cursor-pointer"
+                   style="animation-delay: ${Math.min(index * 20, 500)}ms"
+                   onclick="openModal(${index})">
                     <div class="flex items-start justify-between gap-2">
                         <div class="flex flex-wrap gap-1">
                             <span class="px-1.5 py-0.5 rounded text-xs font-medium ${sourceColors[deal.source] || 'bg-gray-100 dark:bg-gray-800'}">${sourceNames[deal.source] || escapeHtml(deal.source)}</span>
@@ -415,7 +437,7 @@
                             ${deal.num_comments ? `<span>💬 ${deal.num_comments}</span>` : ''}
                         </div>
                     </div>
-                </a>
+                </div>
             `;
         }
 
@@ -511,7 +533,67 @@
             if (e.key === 'Escape' && document.activeElement === searchInput) {
                 searchInput.blur();
             }
+            if (e.key === 'Escape') {
+                closeModal();
+            }
         });
+
+        // ============================================================
+        // MODAL
+        // ============================================================
+        function openModal(index) {
+            const deal = filteredDeals[index];
+            if (!deal) return;
+
+            const sourceNames = {
+                reddit: 'Reddit', v2ex: 'V2EX', hackernews: 'HackerNews',
+                smzdm: '什么值得买', chiphell: 'Chiphell', telegram: 'Telegram',
+                nga: 'NGA', twitter: 'X/Twitter',
+            };
+            const typeEmojis = {
+                '区域套利': '🌍', '拼车/合租': '🚗', '优惠码': '🎫',
+                '学生/教育': '🎓', '免费/试用': '🆓', '降价/折扣': '💰',
+                '薅羊毛/技巧': '🐑', 'API优惠': '⚡', '礼品卡': '🎁',
+            };
+
+            document.getElementById('modal-title').textContent = deal.title || '无标题';
+            document.getElementById('modal-link').href = deal.url || '#';
+
+            const products = (deal.products || []).map(p =>
+                `<span class="inline-flex items-center px-2 py-1 rounded text-xs bg-purple-50 text-purple-700 dark:bg-purple-900/30 dark:text-purple-300 font-medium">${escapeHtml(p)}</span>`
+            ).join(' ');
+            const types = (deal.deal_types || []).map(t =>
+                `<span class="inline-flex items-center gap-0.5 px-2 py-1 rounded text-xs bg-blue-50 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300">${typeEmojis[t] || '🏷️'} ${escapeHtml(t)}</span>`
+            ).join(' ');
+
+            const body = deal.body ? escapeHtml(deal.body).replace(/\n/g, '<br>') : '<em class="text-gray-400">（无正文预览，点击"查看原文"查看完整内容）</em>';
+
+            document.getElementById('modal-body').innerHTML = `
+                <div class="space-y-4">
+                    <div class="flex flex-wrap gap-2 text-xs">
+                        <span class="px-2 py-1 rounded bg-gray-100 dark:bg-gray-800">📡 ${escapeHtml(sourceNames[deal.source] || deal.source || '')}</span>
+                        ${deal.subreddit ? `<span class="px-2 py-1 rounded bg-gray-100 dark:bg-gray-800">${escapeHtml(deal.subreddit.startsWith('@') ? deal.subreddit : 'r/' + deal.subreddit)}</span>` : ''}
+                        ${deal.author ? `<span class="px-2 py-1 rounded bg-gray-100 dark:bg-gray-800">👤 ${escapeHtml(deal.author)}</span>` : ''}
+                        <span class="px-2 py-1 rounded bg-gray-100 dark:bg-gray-800">🕐 ${formatTime(deal.created_at)}</span>
+                        <span class="px-2 py-1 rounded bg-orange-50 text-orange-700 dark:bg-orange-900/30 dark:text-orange-300 font-semibold">🔥 ${deal.relevance_score || 0}分</span>
+                    </div>
+                    ${products || types ? `<div class="flex flex-wrap gap-2">${products} ${types}</div>` : ''}
+                    <div class="text-gray-700 dark:text-gray-300 leading-relaxed whitespace-pre-wrap">${body}</div>
+                    ${(deal.score || deal.num_comments) ? `<div class="flex gap-4 text-xs text-gray-500 dark:text-gray-400 pt-2 border-t border-gray-100 dark:border-gray-800">
+                        ${deal.score ? `<span>👍 ${deal.score} 赞同</span>` : ''}
+                        ${deal.num_comments ? `<span>💬 ${deal.num_comments} 评论</span>` : ''}
+                    </div>` : ''}
+                </div>
+            `;
+
+            document.getElementById('detail-modal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeModal() {
+            document.getElementById('detail-modal').classList.add('hidden');
+            document.body.style.overflow = '';
+        }
 
         // ============================================================
         // CHART

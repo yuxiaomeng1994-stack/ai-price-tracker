@@ -18,6 +18,8 @@ from scraper.scorer import filter_and_rank, deduplicate
 from scraper import llm_filter
 from scraper.notify import notify_hot_deals
 from scraper.history import update_history
+from scraper.rss import generate_feed
+from scraper.rss import generate_feed
 
 
 OUTPUT_DIR = Path(__file__).parent.parent / "data"
@@ -142,7 +144,10 @@ def main():
     # 8. Update history (price trend data)
     update_history(merged)
 
-    # 9. Telegram push notifications for hot deals
+    # 9. Generate RSS feed
+    generate_feed(merged)
+
+    # 10. Telegram push notifications for hot deals
     notify_hot_deals(merged)
 
     print(f"\nTop 5 deals:")

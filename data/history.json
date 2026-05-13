@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T21:22:21.187227+00:00",
+  "last_updated": "2026-05-13T03:00:27.942927+00:00",
   "daily": [
     {
       "date": "2026-05-11",
@@ -22,6 +22,17 @@
       "Midjourney": 2,
       "Cursor": 14,
       "avg_score": 22.6
+    },
+    {
+      "date": "2026-05-13",
+      "total": 197,
+      "ChatGPT": 95,
+      "Claude": 106,
+      "Gemini": 43,
+      "Copilot": 11,
+      "Midjourney": 2,
+      "Cursor": 14,
+      "avg_score": 22.5
     }
   ],
   "price_snapshots": [
@@ -93,6 +104,42 @@
     },
     {
       "date": "2026-05-12",
+      "product": "Cursor",
+      "est_price_cny": 30,
+      "best_deal": "Typeoff：按住 Fn 直接语音输入的 macOS 工具，送 30 元账户余额体验"
+    },
+    {
+      "date": "2026-05-13",
+      "product": "ChatGPT",
+      "est_price_cny": 1,
+      "best_deal": "Unity2 送福利，支持缓存，低延迟，不注水，支持检测，大厂合作渠道，注册送 2 刀，加群送 10 刀，文末再送 10 个 10 刀 cdk，回复 id 再送"
+    },
+    {
+      "date": "2026-05-13",
+      "product": "Claude",
+      "est_price_cny": 1,
+      "best_deal": "Best Model 五一送 5 刀 纯血 Claude Max API 告别古法编程 人人有份"
+    },
+    {
+      "date": "2026-05-13",
+      "product": "Gemini",
+      "est_price_cny": 2,
+      "best_deal": "用了好多年的机场（梯子）就快停止服务了，求大家推荐一些价格实惠的机场或者梯子"
+    },
+    {
+      "date": "2026-05-13",
+      "product": "Copilot",
+      "est_price_cny": 30,
+      "best_deal": "Typeoff：按住 Fn 直接语音输入的 macOS 工具，送 30 元账户余额体验"
+    },
+    {
+      "date": "2026-05-13",
+      "product": "Midjourney",
+      "est_price_cny": 691,
+      "best_deal": "Midjourney 年付会员礼品卡 8折，$96/年"
+    },
+    {
+      "date": "2026-05-13",
       "product": "Cursor",
       "est_price_cny": 30,
       "best_deal": "Typeoff：按住 Fn 直接语音输入的 macOS 工具，送 30 元账户余额体验"

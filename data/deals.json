@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-13T21:29:05.414083+00:00",
-  "total_deals": 215,
+  "last_updated": "2026-05-14T03:25:15.282216+00:00",
+  "total_deals": 227,
   "sources": {
-    "v2ex": 135,
+    "v2ex": 143,
     "reddit": 5,
     "smzdm": 2,
-    "hackernews": 73
+    "hackernews": 77
   },
   "llm_filtered": false,
   "deals": [
@@ -224,7 +224,7 @@
       "score": 0,
       "num_comments": 120,
       "created_at": "2026-03-23T05:25:36",
-      "fetched_at": "2026-05-13T21:27:05.062464+00:00",
+      "fetched_at": "2026-05-14T03:23:12.622554+00:00",
       "relevance_score": 59,
       "deal_types": [
         "区域套利",
@@ -298,7 +298,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T03:11:36",
-      "fetched_at": "2026-05-13T21:26:36.115586+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394632+00:00",
       "relevance_score": 56,
       "deal_types": [
         "区域套利",
@@ -335,7 +335,7 @@
       "score": 0,
       "num_comments": 36,
       "created_at": "2026-04-17T06:42:59",
-      "fetched_at": "2026-05-13T21:26:46.099885+00:00",
+      "fetched_at": "2026-05-14T03:22:53.827472+00:00",
       "relevance_score": 56,
       "deal_types": [
         "区域套利",
@@ -446,7 +446,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-29T01:28:58",
-      "fetched_at": "2026-05-13T21:26:41.095783+00:00",
+      "fetched_at": "2026-05-14T03:22:49.200735+00:00",
       "relevance_score": 50,
       "deal_types": [
         "优惠码",
@@ -459,18 +459,18 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
+        "Google",
         "OpenAI",
-        "Anthropic",
-        "Google"
+        "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT",
         "优惠码",
         "礼品卡",
@@ -520,7 +520,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-10T07:28:38",
-      "fetched_at": "2026-05-13T21:27:14.768675+00:00",
+      "fetched_at": "2026-05-14T03:23:21.370338+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -560,7 +560,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-05T06:43:33",
-      "fetched_at": "2026-05-13T21:26:57.694056+00:00",
+      "fetched_at": "2026-05-14T03:23:05.632040+00:00",
       "relevance_score": 46,
       "deal_types": [
         "免费/试用",
@@ -665,7 +665,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-05T09:36:00",
-      "fetched_at": "2026-05-13T21:26:36.115614+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394659+00:00",
       "relevance_score": 42,
       "deal_types": [
         "区域套利",
@@ -742,7 +742,7 @@
       "score": 0,
       "num_comments": 28,
       "created_at": "2026-03-21T07:58:01",
-      "fetched_at": "2026-05-13T21:27:05.062470+00:00",
+      "fetched_at": "2026-05-14T03:23:12.622563+00:00",
       "relevance_score": 39,
       "deal_types": [
         "礼品卡",
@@ -782,7 +782,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-13T11:57:36",
-      "fetched_at": "2026-05-13T21:26:38.650546+00:00",
+      "fetched_at": "2026-05-14T03:22:46.894584+00:00",
       "relevance_score": 38,
       "deal_types": [
         "区域套利",
@@ -803,8 +803,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Google"
+        "Google",
+        "OpenAI"
       ],
       "tags": [
         "Gemini",
@@ -828,7 +828,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-10T00:54:38",
-      "fetched_at": "2026-05-13T21:26:36.115572+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394611+00:00",
       "relevance_score": 38,
       "deal_types": [
         "区域套利",
@@ -843,18 +843,18 @@
         "Workaround"
       ],
       "products": [
-        "Claude",
         "Cursor",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
+        "Cursor",
         "OpenAI",
-        "Anthropic",
-        "Cursor"
+        "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Cursor",
+        "Claude",
         "ChatGPT",
         "区域套利",
         "拼车/合租",
@@ -874,7 +874,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-02T08:00:56",
-      "fetched_at": "2026-05-13T21:26:46.099858+00:00",
+      "fetched_at": "2026-05-14T03:22:53.827445+00:00",
       "relevance_score": 38,
       "deal_types": [
         "区域套利",
@@ -897,46 +897,6 @@
         "区域套利",
         "礼品卡",
         "降价/折扣"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1211799",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "Token 自由！ Opus 4.7 Max 推理强度自由！ 498 兑换 2000 美金额度（评论就送＄ 20 额度）！ 0.25 人民币换一美金！",
-      "body": "还在每天苦苦抢各种国产 Coding Plan ？\r\n\r\n还在为了几百万 token 精打细算？\r\n\r\n别抢了。\r\n\r\n现在用官方约 **3.5%** 的价格，就能直接用上 Claude 家最强模型：\r\n\r\n\r\n![](  )\r\n\r\n\r\n# Claude 4.7 Max 推理强度拉满\r\n\r\n- 0.25 元换 1 美金额度\r\n\r\n- 比 GLM / MiniMax 更低\r\n\r\n- 甚至比 DeepSeek 4 Pro 还便宜\r\n\r\n但你用到的是：\r\n\r\nClaude 顶级模型。\r\n\r\n不是平替，\r\n\r\n不是阉割，\r\n\r\n不是二手体验。\r\n\r\n写代码、跑 Agent 、长上下文分析、复杂推理：\r\n\r\n直接 Max 拉满。\r\n\r\n不用每天抠抠搜搜算额度。\r\n\r\n---\r\n\r\n## 本轮只供应一周\r\n\r\n一周后恢复：\r\n\r\n> 1 元 / 刀\r\n\r\n数量有限，先到先得。\r\n\r\n评论区直接送 `$20` 体验额度。\r\n\r\n---\r\n\r\n真正的 Token 自由，\r\n\r\n从不用再抢 Plan 开始。",
-      "url": "https://www.v2ex.com/t/1211799",
-      "author": "bleedfly",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-11T02:36:07",
-      "fetched_at": "2026-05-13T21:26:38.650585+00:00",
-      "relevance_score": 37,
-      "deal_types": [
-        "礼品卡",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Gift Card",
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "礼品卡",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
       ],
       "is_deal": true
     },
@@ -984,6 +944,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1211799",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "Token 自由！ Opus 4.7 Max 推理强度自由！ 498 兑换 2000 美金额度（评论就送＄ 20 额度）！ 0.25 人民币换一美金！",
+      "body": "还在每天苦苦抢各种国产 Coding Plan ？\r\n\r\n还在为了几百万 token 精打细算？\r\n\r\n别抢了。\r\n\r\n现在用官方约 **3.5%** 的价格，就能直接用上 Claude 家最强模型：\r\n\r\n\r\n![](  )\r\n\r\n\r\n# Claude 4.7 Max 推理强度拉满\r\n\r\n- 0.25 元换 1 美金额度\r\n\r\n- 比 GLM / MiniMax 更低\r\n\r\n- 甚至比 DeepSeek 4 Pro 还便宜\r\n\r\n但你用到的是：\r\n\r\nClaude 顶级模型。\r\n\r\n不是平替，\r\n\r\n不是阉割，\r\n\r\n不是二手体验。\r\n\r\n写代码、跑 Agent 、长上下文分析、复杂推理：\r\n\r\n直接 Max 拉满。\r\n\r\n不用每天抠抠搜搜算额度。\r\n\r\n---\r\n\r\n## 本轮只供应一周\r\n\r\n一周后恢复：\r\n\r\n> 1 元 / 刀\r\n\r\n数量有限，先到先得。\r\n\r\n评论区直接送 `$20` 体验额度。\r\n\r\n---\r\n\r\n真正的 Token 自由，\r\n\r\n从不用再抢 Plan 开始。",
+      "url": "https://www.v2ex.com/t/1211799",
+      "author": "bleedfly",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-11T02:36:07",
+      "fetched_at": "2026-05-14T03:22:46.894604+00:00",
+      "relevance_score": 35,
+      "deal_types": [
+        "礼品卡",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Gift Card",
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "礼品卡",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1210705",
       "source": "v2ex",
       "subreddit": 300,
@@ -994,7 +994,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-06T20:02:41",
-      "fetched_at": "2026-05-13T21:26:36.115603+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394649+00:00",
       "relevance_score": 35,
       "deal_types": [
         "区域套利",
@@ -1031,7 +1031,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-05T07:48:22",
-      "fetched_at": "2026-05-13T21:26:36.115617+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394662+00:00",
       "relevance_score": 34,
       "deal_types": [
         "免费/试用",
@@ -1068,7 +1068,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-09T01:42:15",
-      "fetched_at": "2026-05-13T21:27:14.768683+00:00",
+      "fetched_at": "2026-05-14T03:23:21.370345+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -1081,18 +1081,18 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
+        "Google",
         "OpenAI",
-        "Anthropic",
-        "Google"
+        "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT",
         "免费/试用",
         "降价/折扣",
@@ -1111,7 +1111,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-29T02:07:34",
-      "fetched_at": "2026-05-13T21:26:41.095781+00:00",
+      "fetched_at": "2026-05-14T03:22:49.200732+00:00",
       "relevance_score": 33,
       "deal_types": [
         "降价/折扣",
@@ -1122,16 +1122,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "降价/折扣",
         "API优惠"
       ],
@@ -1172,46 +1172,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1211782",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "# 🚀 TokenMesh —— 开发者自用级 AI API 中转站",
-      "body": "> 官网地址: https://yutingx.xyz\r\n\r\n---\r\n\r\n## 💡 三大核心保障\r\n\r\n### 1. 官方原生算力,拒绝逆向混流\r\n- 全程对接官方 API 算力池\r\n- 关键特征严格校验，杜绝网页逆向、Kiro 、低价混流等阉割手段\r\n- 完整保留模型的推理、代码、长文本与复杂逻辑能力\r\n\r\n### 2. 全球低延迟链路\r\n- 优质服务器架构 + 全球加速节点\r\n- 长文本生成、代码调试、批量任务、插件调用均流畅响应\r\n- 显著减少超时、断连、首字延迟过高的问题\r\n\r\n### 3. 标准接口 + 透明计费\r\n- 完全兼容 OpenAI 标准接口格式\r\n- 可直接适配 ** Cursor / Cline / Continue** 等主流客户端\r\n- 计费规则公开透明，无隐藏倍率，消费记录可查\r\n\r\n---\r\n\r\n## 🎁 新用户福利(无套路领取)\r\n\r\n| 福利 | 领取方式 |\r\n|------|---------|\r\n| **$5** 平台余额 | 注册后加客服微信领取 |\r\n\r\n> 📮 客服微信:`z499145330`  \r\n\r\n\r\n---\r\n\r\n🔗 **官网",
-      "url": "https://www.v2ex.com/t/1211782",
-      "author": "tomemi",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-11T02:14:16",
-      "fetched_at": "2026-05-13T21:27:14.768665+00:00",
-      "relevance_score": 32,
-      "deal_types": [
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Price Drop",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Cursor",
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI",
-        "Cursor"
-      ],
-      "tags": [
-        "Cursor",
-        "ChatGPT",
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1211119",
       "source": "v2ex",
       "subreddit": 864,
@@ -1222,7 +1182,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-05-08T03:30:24",
-      "fetched_at": "2026-05-13T21:27:14.768693+00:00",
+      "fetched_at": "2026-05-14T03:23:28.114388+00:00",
       "relevance_score": 32,
       "deal_types": [
         "降价/折扣",
@@ -1233,21 +1193,21 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Cursor",
         "Gemini",
+        "Cursor",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic",
         "Cursor",
-        "Google"
+        "Google",
+        "OpenAI",
+        "Anthropic"
       ],
       "tags": [
-        "Claude",
-        "Cursor",
         "Gemini",
+        "Cursor",
+        "Claude",
         "ChatGPT",
         "降价/折扣",
         "API优惠"
@@ -1265,7 +1225,7 @@
       "score": 0,
       "num_comments": 3,
       "created_at": "2026-04-19T04:40:52",
-      "fetched_at": "2026-05-13T21:26:46.099883+00:00",
+      "fetched_at": "2026-05-14T03:22:53.827469+00:00",
       "relevance_score": 32,
       "deal_types": [
         "区域套利",
@@ -1336,7 +1296,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-06T09:34:00",
-      "fetched_at": "2026-05-13T21:26:38.650618+00:00",
+      "fetched_at": "2026-05-14T03:22:46.894638+00:00",
       "relevance_score": 31,
       "deal_types": [
         "拼车/合租",
@@ -1357,6 +1317,80 @@
       "tags": [
         "Claude",
         "拼车/合租",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1212563",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "继续领 10 刀额度| Claude API 中转服务运营数据与价格说明",
+      "body": "做 aicoding.sh 这个 Claude API 中转服务一年多，目前服务数万用户、超过 100\r\n  家企业客户，分享一下基本情况。\r\n\r\n  价格按官方计费的 0.19 折、0.29 折、0.49\r\n  折三档消耗余额，对应不同模型与用量。计费完全按 token\r\n  实际用量结算，后台用量明细透明可查，每次请求的 input/output token\r\n  都能对得上账。\r\n\r\n  技术侧采用国内直连架构，配合多节点容灾，长连接稳定性是企业客户最关注的指标，我\r\n  们也在持续优化。Claude Code 的接入是标配，按文档配置环境变量即可使用，团队批量\r\n  部署的接入方案也已经跑通多家客户。\r\n\r\n  支付支持国内常用渠道，企业用户可走对公转账并开具发票。\r\n\r\n  新用户加入社群可领取 10 美元额度用于试用： https://aicoding.sh\r\n  ",
+      "url": "https://www.v2ex.com/t/1212563",
+      "author": "aicodingsh",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-14T00:30:42",
+      "fetched_at": "2026-05-14T03:23:25.827395+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1211782",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "# 🚀 TokenMesh —— 开发者自用级 AI API 中转站",
+      "body": "> 官网地址: https://yutingx.xyz\r\n\r\n---\r\n\r\n## 💡 三大核心保障\r\n\r\n### 1. 官方原生算力,拒绝逆向混流\r\n- 全程对接官方 API 算力池\r\n- 关键特征严格校验，杜绝网页逆向、Kiro 、低价混流等阉割手段\r\n- 完整保留模型的推理、代码、长文本与复杂逻辑能力\r\n\r\n### 2. 全球低延迟链路\r\n- 优质服务器架构 + 全球加速节点\r\n- 长文本生成、代码调试、批量任务、插件调用均流畅响应\r\n- 显著减少超时、断连、首字延迟过高的问题\r\n\r\n### 3. 标准接口 + 透明计费\r\n- 完全兼容 OpenAI 标准接口格式\r\n- 可直接适配 ** Cursor / Cline / Continue** 等主流客户端\r\n- 计费规则公开透明，无隐藏倍率，消费记录可查\r\n\r\n---\r\n\r\n## 🎁 新用户福利(无套路领取)\r\n\r\n| 福利 | 领取方式 |\r\n|------|---------|\r\n| **$5** 平台余额 | 注册后加客服微信领取 |\r\n\r\n> 📮 客服微信:`z499145330`  \r\n\r\n\r\n---\r\n\r\n🔗 **官网",
+      "url": "https://www.v2ex.com/t/1211782",
+      "author": "tomemi",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-11T02:14:16",
+      "fetched_at": "2026-05-14T03:23:21.370327+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Price Drop",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Cursor",
+        "ChatGPT"
+      ],
+      "companies": [
+        "Cursor",
+        "OpenAI"
+      ],
+      "tags": [
+        "Cursor",
+        "ChatGPT",
+        "降价/折扣",
         "薅羊毛/技巧",
         "API优惠"
       ],
@@ -1395,43 +1429,6 @@
         "Claude",
         "拼车/合租",
         "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1212349",
-      "source": "v2ex",
-      "subreddit": 1202,
-      "title": "有没有友友知道大量的 claude 的 api 从哪里搞啊？",
-      "body": "自己的项目急需大量的 claude 的额度，一周要 1.5w 美元的额度，不敢上中转，有没有相对便宜点的解决方法啊？目前是买了一大堆 claude max 的号，但是消耗速度也太快 It‘s...",
-      "url": "https://www.v2ex.com/t/1212349",
-      "author": "makictos",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-13T02:45:48",
-      "fetched_at": "2026-05-13T21:26:53.356569+00:00",
-      "relevance_score": 29,
-      "deal_types": [
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Price Drop",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "降价/折扣",
-        "薅羊毛/技巧",
         "API优惠"
       ],
       "is_deal": true
@@ -1478,7 +1475,7 @@
       "score": 14,
       "num_comments": 6,
       "created_at": "2026-04-30T12:44:51Z",
-      "fetched_at": "2026-05-13T21:27:25.092957+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241448+00:00",
       "relevance_score": 29,
       "deal_types": [
         "API优惠"
@@ -1509,7 +1506,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-04-30T03:07:31",
-      "fetched_at": "2026-05-13T21:26:46.099865+00:00",
+      "fetched_at": "2026-05-14T03:22:53.827452+00:00",
       "relevance_score": 29,
       "deal_types": [
         "区域套利",
@@ -1539,41 +1536,38 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1212336",
+      "id": "v2ex_1212349",
       "source": "v2ex",
-      "subreddit": 1148,
-      "title": "无限制 Antigravity 无限额度",
-      "body": "无限制 Antigravity 无限额度\r\n\r\n一直在用 antigravity ide ，官方价格太贵了，然后看闲鱼价格也不便宜\r\n然后我就自己搞了个 antigravity 无限续杯的工具，目前已经搞定了，有需要的小伙伴可以联系我\r\n\r\n价格及其优惠，比闲鱼低多了，大家让我把成本收回来就行\r\n\r\n支持如下特性：\r\nantigravity 无限次数,无限 token\r\n全自动无感续杯，免切号抗封控\r\n可用 gemini, claude opus4.6\r\n非中转不降智，保证数据安全，直连 Google\r\n\r\n限时优惠，价格随时调整\r\n小店链接： https://pay.ldxp.cn/shop/3A2TLWOJ ，可下单 antigravity 一小时体验卡",
-      "url": "https://www.v2ex.com/t/1212336",
-      "author": "bothub",
+      "subreddit": 1202,
+      "title": "有没有友友知道大量的 claude 的 api 从哪里搞啊？",
+      "body": "自己的项目急需大量的 claude 的额度，一周要 1.5w 美元的额度，不敢上中转，有没有相对便宜点的解决方法啊？目前是买了一大堆 claude max 的号，但是消耗速度也太快 It‘s...",
+      "url": "https://www.v2ex.com/t/1212349",
+      "author": "makictos",
       "score": 0,
       "num_comments": 0,
-      "created_at": "2026-05-13T02:19:41",
-      "fetched_at": "2026-05-13T21:26:53.356571+00:00",
-      "relevance_score": 28,
+      "created_at": "2026-05-13T02:45:48",
+      "fetched_at": "2026-05-14T03:23:01.121218+00:00",
+      "relevance_score": 27,
       "deal_types": [
-        "免费/试用",
         "降价/折扣",
+        "薅羊毛/技巧",
         "API优惠"
       ],
       "deal_types_en": [
-        "Free/Trial",
         "Price Drop",
+        "Workaround",
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Claude"
       ],
       "companies": [
-        "Google",
         "Anthropic"
       ],
       "tags": [
         "Claude",
-        "Gemini",
-        "免费/试用",
         "降价/折扣",
+        "薅羊毛/技巧",
         "API优惠"
       ],
       "is_deal": true
@@ -1629,7 +1623,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-03T03:16:27",
-      "fetched_at": "2026-05-13T21:27:02.061124+00:00",
+      "fetched_at": "2026-05-14T03:23:09.911734+00:00",
       "relevance_score": 27,
       "deal_types": [
         "区域套利",
@@ -1666,7 +1660,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-28T14:01:13",
-      "fetched_at": "2026-05-13T21:27:22.974256+00:00",
+      "fetched_at": "2026-05-14T03:23:28.114420+00:00",
       "relevance_score": 27,
       "deal_types": [
         "免费/试用",
@@ -1696,6 +1690,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1212336",
+      "source": "v2ex",
+      "subreddit": 1148,
+      "title": "无限制 Antigravity 无限额度",
+      "body": "无限制 Antigravity 无限额度\r\n\r\n一直在用 antigravity ide ，官方价格太贵了，然后看闲鱼价格也不便宜\r\n然后我就自己搞了个 antigravity 无限续杯的工具，目前已经搞定了，有需要的小伙伴可以联系我\r\n\r\n价格及其优惠，比闲鱼低多了，大家让我把成本收回来就行\r\n\r\n支持如下特性：\r\nantigravity 无限次数,无限 token\r\n全自动无感续杯，免切号抗封控\r\n可用 gemini, claude opus4.6\r\n非中转不降智，保证数据安全，直连 Google\r\n\r\n限时优惠，价格随时调整\r\n小店链接： https://pay.ldxp.cn/shop/3A2TLWOJ ，可下单 antigravity 一小时体验卡",
+      "url": "https://www.v2ex.com/t/1212336",
+      "author": "bothub",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-13T02:19:41",
+      "fetched_at": "2026-05-14T03:23:01.121221+00:00",
+      "relevance_score": 26,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini",
+        "Claude"
+      ],
+      "companies": [
+        "Google",
+        "Anthropic"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1212148",
       "source": "v2ex",
       "subreddit": 1140,
@@ -1706,7 +1740,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-12T06:06:52",
-      "fetched_at": "2026-05-13T21:26:59.948674+00:00",
+      "fetched_at": "2026-05-14T03:23:07.774376+00:00",
       "relevance_score": 26,
       "deal_types": [
         "拼车/合租",
@@ -1740,7 +1774,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-12T01:17:32",
-      "fetched_at": "2026-05-13T21:26:38.650569+00:00",
+      "fetched_at": "2026-05-14T03:22:46.894594+00:00",
       "relevance_score": 26,
       "deal_types": [
         "免费/试用",
@@ -1751,16 +1785,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "免费/试用",
         "API优惠"
       ],
@@ -1879,7 +1913,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-11T07:17:58",
-      "fetched_at": "2026-05-13T21:27:14.768656+00:00",
+      "fetched_at": "2026-05-14T03:23:21.370319+00:00",
       "relevance_score": 25,
       "deal_types": [
         "免费/试用",
@@ -1946,40 +1980,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1211749",
-      "source": "v2ex",
-      "subreddit": 1135,
-      "title": "超低价 Codex API，最低每刀不到 0.06R，纯血 gpt plus 号池反代，可用 gpt5.5， gpt-image2，稳定好用",
-      "body": "https://pay.ldxp.cn/shop/O1Q7PYYC",
-      "url": "https://www.v2ex.com/t/1211749",
-      "author": "runcode",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-11T01:19:51",
-      "fetched_at": "2026-05-13T21:27:14.768668+00:00",
-      "relevance_score": 25,
-      "deal_types": [
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1211512",
       "source": "v2ex",
       "subreddit": 16,
@@ -1990,7 +1990,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-09T09:12:32",
-      "fetched_at": "2026-05-13T21:26:36.115578+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394620+00:00",
       "relevance_score": 25,
       "deal_types": [
         "区域套利",
@@ -2024,7 +2024,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T06:36:19",
-      "fetched_at": "2026-05-13T21:26:36.115581+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394626+00:00",
       "relevance_score": 25,
       "deal_types": [
         "免费/试用",
@@ -2048,37 +2048,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1210723",
-      "source": "v2ex",
-      "subreddit": 12,
-      "title": "202605 开通 chatgpt plus 的最新方法是什么",
-      "body": "iPhone APP store 内购一直提示余额不足，奇怪了，余额是够的",
-      "url": "https://www.v2ex.com/t/1210723",
-      "author": "kevinreadonly",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-07T00:58:44",
-      "fetched_at": "2026-05-13T21:26:36.115600+00:00",
-      "relevance_score": 25,
-      "deal_types": [
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Workaround"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1208174",
       "source": "v2ex",
       "subreddit": "deals",
@@ -2089,7 +2058,7 @@
       "score": 0,
       "num_comments": 14,
       "created_at": "2026-04-24T01:49:28+00:00",
-      "fetched_at": "2026-05-13T21:26:33.538216+00:00",
+      "fetched_at": "2026-05-14T03:22:41.873645+00:00",
       "relevance_score": 25,
       "deal_types": [
         "优惠码",
@@ -2123,7 +2092,7 @@
       "score": 0,
       "num_comments": 77,
       "created_at": "2026-04-17T02:23:41",
-      "fetched_at": "2026-05-13T21:27:02.061335+00:00",
+      "fetched_at": "2026-05-14T03:23:09.911940+00:00",
       "relevance_score": 25,
       "deal_types": [
         "降价/折扣"
@@ -2181,6 +2150,37 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1210723",
+      "source": "v2ex",
+      "subreddit": 12,
+      "title": "202605 开通 chatgpt plus 的最新方法是什么",
+      "body": "iPhone APP store 内购一直提示余额不足，奇怪了，余额是够的",
+      "url": "https://www.v2ex.com/t/1210723",
+      "author": "kevinreadonly",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-07T00:58:44",
+      "fetched_at": "2026-05-14T03:22:44.394646+00:00",
+      "relevance_score": 24,
+      "deal_types": [
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Workaround"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "薅羊毛/技巧"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1210603",
       "source": "v2ex",
       "subreddit": 864,
@@ -2191,7 +2191,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-06T08:49:01",
-      "fetched_at": "2026-05-13T21:26:38.650621+00:00",
+      "fetched_at": "2026-05-14T03:22:46.894641+00:00",
       "relevance_score": 24,
       "deal_types": [
         "优惠码",
@@ -2228,7 +2228,7 @@
       "score": 0,
       "num_comments": 5,
       "created_at": "2026-05-03T10:31:28+00:00",
-      "fetched_at": "2026-05-13T21:26:30.179395+00:00",
+      "fetched_at": "2026-05-14T03:22:36.787725+00:00",
       "relevance_score": 24,
       "deal_types": [
         "拼车/合租",
@@ -2239,16 +2239,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "拼车/合租",
         "API优惠"
       ],
@@ -2299,7 +2299,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-24T09:22:25",
-      "fetched_at": "2026-05-13T21:26:57.694064+00:00",
+      "fetched_at": "2026-05-14T03:23:05.632048+00:00",
       "relevance_score": 24,
       "deal_types": [
         "免费/试用",
@@ -2400,40 +2400,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1212358",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "初来 v 站福利多多，注册就送 30$余额，需要中转的可以薅薅",
-      "body": "小站稳定运营，满血 gpt plus 号池，开通五种套餐订阅：\r\n\r\n| 套餐名 | 价格 | 余额 | 日限额 | 汇率 |\r\n|---|---|---|---|---|\r\n| 日卡 | 3 元 | 50 刀 | 日限额 50 | 3/50=0.06 |\r\n| 周卡 | 19 元 | 400 刀 | 日限额 100 | 20/400=0.05 |\r\n| 月卡 | 49 元 | 1200 刀 | 日限额 200 | 49/1200=0.04 |\r\n| 月卡（大杯） | 89 元 | 3000 刀 | 日限额 400 | 89/3000=0.03 |\r\n| 月卡（超大杯） | 199 元 | 8888 刀 | 日限额 888 | 199/8888=0.0223 |\r\n\r\n> V 站用户专属福利：新用户注册即赠送$6.6 ，在本帖回复注册邮箱，即可免费再送$23.4 余额！（送了的我会在评论区回复）\r\n\r\n欢迎加入 q 群：1092067247\r\n群中已经 150+人啦，初来 v 社，放点福利\r\n主站： https://api.xiaoxin.best/home",
-      "url": "https://www.v2ex.com/t/1212358",
-      "author": "zhlsk",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-13T03:08:49",
-      "fetched_at": "2026-05-13T21:26:43.820935+00:00",
-      "relevance_score": 23,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "hn_48117078",
       "source": "hackernews",
       "subreddit": "",
@@ -2475,7 +2441,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-11T06:11:04",
-      "fetched_at": "2026-05-13T21:26:57.694038+00:00",
+      "fetched_at": "2026-05-14T03:23:05.632020+00:00",
       "relevance_score": 23,
       "deal_types": [
         "薅羊毛/技巧"
@@ -2499,17 +2465,17 @@
       "is_deal": true
     },
     {
-      "id": "hn_48090537",
-      "source": "hackernews",
-      "subreddit": "",
-      "title": "Gemini API File Search is now multimodal",
-      "body": "- Right, R1 affected markets because the market originally believed your theory, but it doesn&#x27;t any more, which is why V4 didn&#x27;t move markets at all.<p>- Sure, you can use US infra providers. Together.ai is a good US provider but then it&#x27;s 15X more expensive than DeepSeek&#x27;s Chinese-subsidized pricing. It&#x27;s really not that attractive at that price point. Anthropic and OpenAI are focused on larger models, but Grok 4.3[1] is smarter and <i>significantly</i> faster + cheaper",
-      "url": "https://news.ycombinator.com/item?id=48080702",
-      "author": "pants2",
+      "id": "v2ex_1211749",
+      "source": "v2ex",
+      "subreddit": 1135,
+      "title": "超低价 Codex API，最低每刀不到 0.06R，纯血 gpt plus 号池反代，可用 gpt5.5， gpt-image2，稳定好用",
+      "body": "https://pay.ldxp.cn/shop/O1Q7PYYC",
+      "url": "https://www.v2ex.com/t/1211749",
+      "author": "runcode",
       "score": 0,
       "num_comments": 0,
-      "created_at": "2026-05-11T02:47:45Z",
-      "fetched_at": "2026-05-13T21:27:26.734695+00:00",
+      "created_at": "2026-05-11T01:19:51",
+      "fetched_at": "2026-05-14T03:23:21.370330+00:00",
       "relevance_score": 23,
       "deal_types": [
         "降价/折扣",
@@ -2520,18 +2486,12 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini",
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic",
-        "Google"
+        "OpenAI"
       ],
       "tags": [
-        "Claude",
-        "Gemini",
         "ChatGPT",
         "降价/折扣",
         "API优惠"
@@ -2549,7 +2509,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-09T03:15:07",
-      "fetched_at": "2026-05-13T21:27:18.185940+00:00",
+      "fetched_at": "2026-05-14T03:23:23.735491+00:00",
       "relevance_score": 23,
       "deal_types": [
         "拼车/合租"
@@ -2580,7 +2540,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T11:28:41",
-      "fetched_at": "2026-05-13T21:27:14.768685+00:00",
+      "fetched_at": "2026-05-14T03:23:21.370348+00:00",
       "relevance_score": 23,
       "deal_types": [
         "降价/折扣",
@@ -2614,7 +2574,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-07T05:49:40",
-      "fetched_at": "2026-05-13T21:26:36.115596+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394641+00:00",
       "relevance_score": 23,
       "deal_types": [
         "区域套利",
@@ -2648,7 +2608,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-05-06T02:02:23",
-      "fetched_at": "2026-05-13T21:26:36.115609+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394654+00:00",
       "relevance_score": 23,
       "deal_types": [
         "区域套利",
@@ -2712,6 +2672,37 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1212625",
+      "source": "v2ex",
+      "subreddit": 69,
+      "title": "出 GPT Business 席位 70/月",
+      "body": "泰国开的，提供 chatgpt 账号，邀请即可加入\r\n\r\n不能获取 openai api key\r\n\r\n只能通过账号登录 codex cli 或者编辑器提供的登录入口使用 codex\r\n\r\n联系绿泡泡：aG93ZWNobmc=",
+      "url": "https://www.v2ex.com/t/1212625",
+      "author": "howeroc",
+      "score": 0,
+      "num_comments": 1,
+      "created_at": "2026-05-14T03:07:23",
+      "fetched_at": "2026-05-14T03:23:25.827158+00:00",
+      "relevance_score": 22,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "hn_48113419",
       "source": "hackernews",
       "subreddit": "",
@@ -2722,7 +2713,7 @@
       "score": 4,
       "num_comments": 0,
       "created_at": "2026-05-12T19:44:46Z",
-      "fetched_at": "2026-05-13T21:27:33.996803+00:00",
+      "fetched_at": "2026-05-14T03:23:39.197076+00:00",
       "relevance_score": 22,
       "deal_types": [
         "学生/教育"
@@ -2743,37 +2734,6 @@
       "is_deal": true
     },
     {
-      "id": "hn_48090276",
-      "source": "hackernews",
-      "subreddit": "",
-      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-      "body": "I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments.<p>On my own PRs, it has been catching dramatically more real bugs than Claude’s built-in &#x2F;review, &#x2F;ultrareview, CodeRabbit, Greptile, and Codex’s built-in review, while producing fewer false positives.<p>adamsreview is six Claude Code slash commands packaged as a plugin: re",
-      "url": "https://github.com/adamjgmiller/adamsreview",
-      "author": "adamthegoalie",
-      "score": 84,
-      "num_comments": 55,
-      "created_at": "2026-05-11T02:06:29Z",
-      "fetched_at": "2026-05-13T21:27:25.092896+00:00",
-      "relevance_score": 22,
-      "deal_types": [
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Workaround"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1210241",
       "source": "v2ex",
       "subreddit": 1140,
@@ -2784,7 +2744,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-04T16:05:24",
-      "fetched_at": "2026-05-13T21:26:41.095750+00:00",
+      "fetched_at": "2026-05-14T03:22:49.200707+00:00",
       "relevance_score": 22,
       "deal_types": [
         "拼车/合租"
@@ -2815,7 +2775,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-04T15:00:36",
-      "fetched_at": "2026-05-13T21:26:41.095756+00:00",
+      "fetched_at": "2026-05-14T03:22:49.200712+00:00",
       "relevance_score": 22,
       "deal_types": [
         "拼车/合租"
@@ -2877,7 +2837,7 @@
       "score": 0,
       "num_comments": 19,
       "created_at": "2026-04-20T04:04:31",
-      "fetched_at": "2026-05-13T21:26:46.099874+00:00",
+      "fetched_at": "2026-05-14T03:22:53.827461+00:00",
       "relevance_score": 22,
       "deal_types": [
         "降价/折扣",
@@ -2911,7 +2871,7 @@
       "score": 0,
       "num_comments": 9,
       "created_at": "2026-03-31T04:19:10",
-      "fetched_at": "2026-05-13T21:27:05.062448+00:00",
+      "fetched_at": "2026-05-14T03:23:12.622548+00:00",
       "relevance_score": 22,
       "deal_types": [
         "学生/教育",
@@ -2937,6 +2897,71 @@
         "学生/教育",
         "免费/试用",
         "薅羊毛/技巧"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1212568",
+      "source": "v2ex",
+      "subreddit": 1135,
+      "title": "发现一个卡网，里面 GPT PLUS 和代充还挺便宜的",
+      "body": "发现一个惊喜卡网，大家可以去看看，PLUS 只要 95 哎   https://songsongcard.shop/",
+      "url": "https://www.v2ex.com/t/1212568",
+      "author": "wangguo1230",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-14T00:56:25",
+      "fetched_at": "2026-05-14T03:23:01.121192+00:00",
+      "relevance_score": 21,
+      "deal_types": [
+        "降价/折扣"
+      ],
+      "deal_types_en": [
+        "Price Drop"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1212358",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "初来 v 站福利多多，注册就送 30$余额，需要中转的可以薅薅",
+      "body": "小站稳定运营，满血 gpt plus 号池，开通五种套餐订阅：\r\n\r\n| 套餐名 | 价格 | 余额 | 日限额 | 汇率 |\r\n|---|---|---|---|---|\r\n| 日卡 | 3 元 | 50 刀 | 日限额 50 | 3/50=0.06 |\r\n| 周卡 | 19 元 | 400 刀 | 日限额 100 | 20/400=0.05 |\r\n| 月卡 | 49 元 | 1200 刀 | 日限额 200 | 49/1200=0.04 |\r\n| 月卡（大杯） | 89 元 | 3000 刀 | 日限额 400 | 89/3000=0.03 |\r\n| 月卡（超大杯） | 199 元 | 8888 刀 | 日限额 888 | 199/8888=0.0223 |\r\n\r\n> V 站用户专属福利：新用户注册即赠送$6.6 ，在本帖回复注册邮箱，即可免费再送$23.4 余额！（送了的我会在评论区回复）\r\n\r\n欢迎加入 q 群：1092067247\r\n群中已经 150+人啦，初来 v 社，放点福利\r\n主站： https://api.xiaoxin.best/home",
+      "url": "https://www.v2ex.com/t/1212358",
+      "author": "zhlsk",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-13T03:08:49",
+      "fetched_at": "2026-05-14T03:22:51.407914+00:00",
+      "relevance_score": 21,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "免费/试用",
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -2975,6 +3000,46 @@
       "is_deal": true
     },
     {
+      "id": "hn_48090537",
+      "source": "hackernews",
+      "subreddit": "",
+      "title": "Gemini API File Search is now multimodal",
+      "body": "- Right, R1 affected markets because the market originally believed your theory, but it doesn&#x27;t any more, which is why V4 didn&#x27;t move markets at all.<p>- Sure, you can use US infra providers. Together.ai is a good US provider but then it&#x27;s 15X more expensive than DeepSeek&#x27;s Chinese-subsidized pricing. It&#x27;s really not that attractive at that price point. Anthropic and OpenAI are focused on larger models, but Grok 4.3[1] is smarter and <i>significantly</i> faster + cheaper",
+      "url": "https://news.ycombinator.com/item?id=48080702",
+      "author": "pants2",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-11T02:47:45Z",
+      "fetched_at": "2026-05-14T03:23:31.913245+00:00",
+      "relevance_score": 21,
+      "deal_types": [
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini",
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "Google",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "ChatGPT",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "hn_48038336",
       "source": "hackernews",
       "subreddit": "",
@@ -2985,7 +3050,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-06T16:43:12Z",
-      "fetched_at": "2026-05-13T21:27:25.092918+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241406+00:00",
       "relevance_score": 21,
       "deal_types": [
         "学生/教育",
@@ -3022,7 +3087,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-05T05:06:57",
-      "fetched_at": "2026-05-13T21:26:41.095745+00:00",
+      "fetched_at": "2026-05-14T03:22:49.200681+00:00",
       "relevance_score": 21,
       "deal_types": [
         "免费/试用",
@@ -3034,18 +3099,18 @@
       ],
       "products": [
         "Gemini",
-        "Midjourney",
-        "ChatGPT"
+        "ChatGPT",
+        "Midjourney"
       ],
       "companies": [
+        "Google",
         "OpenAI",
-        "Midjourney",
-        "Google"
+        "Midjourney"
       ],
       "tags": [
         "Gemini",
-        "Midjourney",
         "ChatGPT",
+        "Midjourney",
         "免费/试用",
         "API优惠"
       ],
@@ -3099,7 +3164,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-28T18:23:57Z",
-      "fetched_at": "2026-05-13T02:58:45.289112+00:00",
+      "fetched_at": "2026-05-14T03:23:36.088664+00:00",
       "relevance_score": 21,
       "deal_types": [
         "降价/折扣",
@@ -3110,16 +3175,16 @@
         "API Deal"
       ],
       "products": [
-        "Copilot",
-        "Claude"
+        "Claude",
+        "Copilot"
       ],
       "companies": [
-        "Microsoft",
-        "Anthropic"
+        "Anthropic",
+        "Microsoft"
       ],
       "tags": [
-        "Copilot",
         "Claude",
+        "Copilot",
         "降价/折扣",
         "API优惠"
       ],
@@ -3136,7 +3201,7 @@
       "score": 0,
       "num_comments": 5,
       "created_at": "2026-04-18T02:18:37",
-      "fetched_at": "2026-05-13T21:26:51.038507+00:00",
+      "fetched_at": "2026-05-14T03:22:58.989831+00:00",
       "relevance_score": 21,
       "deal_types": [
         "区域套利"
@@ -3167,7 +3232,7 @@
       "score": 0,
       "num_comments": 24,
       "created_at": "2026-04-17T01:24:01",
-      "fetched_at": "2026-05-13T21:27:10.312600+00:00",
+      "fetched_at": "2026-05-14T03:23:17.239325+00:00",
       "relevance_score": 21,
       "deal_types": [
         "礼品卡"
@@ -3232,7 +3297,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-11T23:16:10Z",
-      "fetched_at": "2026-05-13T21:27:25.092696+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241238+00:00",
       "relevance_score": 20,
       "deal_types": [
         "薅羊毛/技巧",
@@ -3247,8 +3312,8 @@
         "Gemini"
       ],
       "companies": [
-        "Google",
-        "Cursor"
+        "Cursor",
+        "Google"
       ],
       "tags": [
         "Cursor",
@@ -3355,6 +3420,37 @@
       "is_deal": true
     },
     {
+      "id": "hn_48090276",
+      "source": "hackernews",
+      "subreddit": "",
+      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "body": "I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments.<p>On my own PRs, it has been catching dramatically more real bugs than Claude’s built-in &#x2F;review, &#x2F;ultrareview, CodeRabbit, Greptile, and Codex’s built-in review, while producing fewer false positives.<p>adamsreview is six Claude Code slash commands packaged as a plugin: re",
+      "url": "https://github.com/adamjgmiller/adamsreview",
+      "author": "adamthegoalie",
+      "score": 84,
+      "num_comments": 55,
+      "created_at": "2026-05-11T02:06:29Z",
+      "fetched_at": "2026-05-14T03:23:30.241386+00:00",
+      "relevance_score": 20,
+      "deal_types": [
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Workaround"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "薅羊毛/技巧"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "hn_48084469",
       "source": "hackernews",
       "subreddit": "",
@@ -3365,7 +3461,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-10T14:51:28Z",
-      "fetched_at": "2026-05-13T21:27:32.381689+00:00",
+      "fetched_at": "2026-05-14T03:23:37.680265+00:00",
       "relevance_score": 20,
       "deal_types": [
         "降价/折扣"
@@ -3399,7 +3495,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-09T07:39:24Z",
-      "fetched_at": "2026-05-13T21:27:25.092909+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241398+00:00",
       "relevance_score": 20,
       "deal_types": [
         "降价/折扣",
@@ -3436,7 +3532,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-06T08:07:49",
-      "fetched_at": "2026-05-13T21:27:22.974233+00:00",
+      "fetched_at": "2026-05-14T03:23:28.114399+00:00",
       "relevance_score": 20,
       "deal_types": [
         "拼车/合租",
@@ -3473,7 +3569,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-21T23:30:29Z",
-      "fetched_at": "2026-05-13T21:27:33.176486+00:00",
+      "fetched_at": "2026-05-14T03:23:38.397048+00:00",
       "relevance_score": 20,
       "deal_types": [
         "降价/折扣"
@@ -3482,21 +3578,21 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
-        "Cursor",
         "Gemini",
+        "Cursor",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic",
         "Cursor",
-        "Google"
+        "Google",
+        "OpenAI",
+        "Anthropic"
       ],
       "tags": [
-        "Claude",
-        "Cursor",
         "Gemini",
+        "Cursor",
+        "Claude",
         "ChatGPT",
         "降价/折扣"
       ],
@@ -3513,7 +3609,7 @@
       "score": 0,
       "num_comments": 124,
       "created_at": "2026-02-26T01:42:37",
-      "fetched_at": "2026-05-13T21:27:10.312631+00:00",
+      "fetched_at": "2026-05-14T03:23:17.239366+00:00",
       "relevance_score": 20,
       "deal_types": [
         "免费/试用"
@@ -3522,19 +3618,19 @@
         "Free/Trial"
       ],
       "products": [
-        "Copilot",
         "Cursor",
-        "ChatGPT"
+        "ChatGPT",
+        "Copilot"
       ],
       "companies": [
-        "OpenAI",
         "Cursor",
+        "OpenAI",
         "Microsoft"
       ],
       "tags": [
-        "Copilot",
         "Cursor",
         "ChatGPT",
+        "Copilot",
         "免费/试用"
       ],
       "is_deal": true
@@ -3550,7 +3646,7 @@
       "score": 0,
       "num_comments": 36,
       "created_at": "2026-02-10T09:34:18",
-      "fetched_at": "2026-05-13T21:27:10.312639+00:00",
+      "fetched_at": "2026-05-14T03:23:17.239382+00:00",
       "relevance_score": 20,
       "deal_types": [
         "礼品卡"
@@ -3559,20 +3655,51 @@
         "Gift Card"
       ],
       "products": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
+        "Google",
         "OpenAI",
-        "Anthropic",
-        "Google"
+        "Anthropic"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "ChatGPT",
+        "礼品卡"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "hn_48128843",
+      "source": "hackernews",
+      "subreddit": "",
+      "title": "Claude subscription changes coverage of `claude -p`",
+      "body": "This could end up becoming a cat-and-mouse game where users programmatically try to turn their non-interactive usage of Claude Code to appear interactive and Anthropic tries to detect and charge that under API pricing. I don&#x27;t know if there&#x27;s a proper solution here because there will always be borderline use cases like using Claude Code on a cloud VM, where it would be nicer to interactively do work through sending and receiving messages on a custom frontend rather than SSHing and usin",
+      "url": "https://news.ycombinator.com/item?id=48126281",
+      "author": "alyxya",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-13T23:10:23Z",
+      "fetched_at": "2026-05-14T03:23:32.799381+00:00",
+      "relevance_score": 19,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
       ],
       "tags": [
         "Claude",
-        "Gemini",
-        "ChatGPT",
-        "礼品卡"
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -3679,37 +3806,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1211758",
-      "source": "v2ex",
-      "subreddit": 12,
-      "title": "公司羊毛使劲薅，无聊问的 claude: AI 时代的软件开发：这一代程序员的没落，还是新生产关系的诞生？",
-      "body": "孙割说，不要和老登聊天，多和 AI 聊天，感觉是对的\r\nhttps://swill.fun/blog/ai-era-software-development",
-      "url": "https://www.v2ex.com/t/1211758",
-      "author": "haoswil",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-11T01:36:34",
-      "fetched_at": "2026-05-13T21:26:57.694043+00:00",
-      "relevance_score": 19,
-      "deal_types": [
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Workaround"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1211695",
       "source": "v2ex",
       "subreddit": 1148,
@@ -3720,7 +3816,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-10T14:03:38",
-      "fetched_at": "2026-05-13T21:27:08.017661+00:00",
+      "fetched_at": "2026-05-14T03:23:14.983005+00:00",
       "relevance_score": 19,
       "deal_types": [
         "区域套利",
@@ -3754,7 +3850,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-05-09T18:24:21",
-      "fetched_at": "2026-05-13T21:26:59.948916+00:00",
+      "fetched_at": "2026-05-14T03:23:07.774553+00:00",
       "relevance_score": 19,
       "deal_types": [
         "拼车/合租",
@@ -3788,7 +3884,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-07T13:24:55",
-      "fetched_at": "2026-05-13T21:26:36.115590+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394636+00:00",
       "relevance_score": 19,
       "deal_types": [
         "降价/折扣",
@@ -3927,7 +4023,7 @@
       "score": 0,
       "num_comments": 9,
       "created_at": "2026-04-11T10:22:56",
-      "fetched_at": "2026-05-13T21:27:05.062438+00:00",
+      "fetched_at": "2026-05-14T03:23:12.622540+00:00",
       "relevance_score": 19,
       "deal_types": [
         "拼车/合租"
@@ -3948,6 +4044,37 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1212616",
+      "source": "v2ex",
+      "subreddit": "apple",
+      "title": "尼区 Apple ID 一直无法 purchase，余额够的",
+      "body": "尼区 Apple ID 一直无法 purchase ，余额够的，买 Claude 5x 一直无法完成 purchase ，有人遇到这种情况吗？找苹果客服，让我等了一个又一个 24 小时，还是不行",
+      "url": "https://www.v2ex.com/t/1212616",
+      "author": "emmathoermer",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-14T02:53:46+00:00",
+      "fetched_at": "2026-05-14T03:22:35.377907+00:00",
+      "relevance_score": 18,
+      "deal_types": [
+        "区域套利"
+      ],
+      "deal_types_en": [
+        "Regional Pricing"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "区域套利"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "hn_48121531",
       "source": "hackernews",
       "subreddit": "",
@@ -3958,7 +4085,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-13T13:18:08Z",
-      "fetched_at": "2026-05-13T21:27:25.092691+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241233+00:00",
       "relevance_score": 18,
       "deal_types": [
         "API优惠"
@@ -4190,7 +4317,7 @@
       "score": 0,
       "num_comments": 18,
       "created_at": "2026-03-24T03:55:44",
-      "fetched_at": "2026-05-13T21:27:10.312620+00:00",
+      "fetched_at": "2026-05-14T03:23:17.239351+00:00",
       "relevance_score": 18,
       "deal_types": [
         "礼品卡",
@@ -4209,6 +4336,37 @@
       "tags": [
         "Claude",
         "礼品卡",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "hn_48130245",
+      "source": "hackernews",
+      "subreddit": "",
+      "title": "Show HN: Claude-pee: use Claude -p without the programmatic usage credit pool",
+      "body": "Can you still stream the outputs back using this?<p>I’m about to give up building projects on top of the frameworks these companies provide, I thought I was doing everything right with using the Claude Agent SDK, and that this was how they wanted people to use their product.<p>Not sure how to proceed, because this tool feels exactly the kind of thing about “working around the rules” that I was trying to avoid.",
+      "url": "https://news.ycombinator.com/item?id=48129813",
+      "author": "stingraycharles",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-14T01:57:39Z",
+      "fetched_at": "2026-05-14T03:23:41.546555+00:00",
+      "relevance_score": 17,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
         "API优惠"
       ],
       "is_deal": true
@@ -4255,7 +4413,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-12T01:20:29",
-      "fetched_at": "2026-05-13T21:26:55.368510+00:00",
+      "fetched_at": "2026-05-14T03:23:03.410899+00:00",
       "relevance_score": 17,
       "deal_types": [
         "学生/教育"
@@ -4286,7 +4444,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-11T07:20:57",
-      "fetched_at": "2026-05-13T21:26:55.368530+00:00",
+      "fetched_at": "2026-05-14T03:23:03.410921+00:00",
       "relevance_score": 17,
       "deal_types": [
         "薅羊毛/技巧"
@@ -4310,6 +4468,37 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1211758",
+      "source": "v2ex",
+      "subreddit": 12,
+      "title": "公司羊毛使劲薅，无聊问的 claude: AI 时代的软件开发：这一代程序员的没落，还是新生产关系的诞生？",
+      "body": "孙割说，不要和老登聊天，多和 AI 聊天，感觉是对的\r\nhttps://swill.fun/blog/ai-era-software-development",
+      "url": "https://www.v2ex.com/t/1211758",
+      "author": "haoswil",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-11T01:36:34",
+      "fetched_at": "2026-05-14T03:23:05.632027+00:00",
+      "relevance_score": 17,
+      "deal_types": [
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Workaround"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "薅羊毛/技巧"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "hn_47995645",
       "source": "hackernews",
       "subreddit": "",
@@ -4320,7 +4509,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-03T10:54:55Z",
-      "fetched_at": "2026-05-13T21:27:25.092938+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241428+00:00",
       "relevance_score": 17,
       "deal_types": [
         "薅羊毛/技巧"
@@ -4329,16 +4518,16 @@
         "Workaround"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "薅羊毛/技巧"
       ],
       "is_deal": true
@@ -4354,7 +4543,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-18T12:33:23Z",
-      "fetched_at": "2026-05-13T21:27:28.413030+00:00",
+      "fetched_at": "2026-05-14T03:23:33.594968+00:00",
       "relevance_score": 17,
       "deal_types": [
         "免费/试用",
@@ -4391,7 +4580,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-16T17:32:30Z",
-      "fetched_at": "2026-05-13T21:27:25.910143+00:00",
+      "fetched_at": "2026-05-14T03:23:31.075202+00:00",
       "relevance_score": 17,
       "deal_types": [
         "降价/折扣"
@@ -4400,20 +4589,51 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
+        "Google",
         "OpenAI",
-        "Anthropic",
-        "Google"
+        "Anthropic"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "ChatGPT",
+        "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1212602",
+      "source": "v2ex",
+      "subreddit": 1202,
+      "title": "Claude Code 周限额临时提升 50%",
+      "body": "Anthropic 宣布 Claude Code 周使用限额临时提升 50%，该调整即时生效并持续至 7 月 13 日。据官方公布，Pro 、Max 、Team 及按席位计费的企业用户均已自动获得该额度扩展，无需手动操作。\r\n\r\n![Claude Code 周限额临时提升 50%]( https://storage.llmposts.com/img_20260513_221907_01.webp)\r\n\r\n🔗[Claude Code 周限额临时提升 50% 至 7 月 13 日]( https://llmposts.com/models/claude-code-weekly-limits-increase/)",
+      "url": "https://www.v2ex.com/t/1212602",
+      "author": "Fdyo",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-14T02:24:28",
+      "fetched_at": "2026-05-14T03:22:46.894371+00:00",
+      "relevance_score": 16,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
       ],
       "tags": [
         "Claude",
-        "Gemini",
-        "ChatGPT",
-        "降价/折扣"
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -4429,37 +4649,6 @@
       "num_comments": 0,
       "created_at": "2026-05-13T02:00:32Z",
       "fetched_at": "2026-05-13T06:48:54.075483+00:00",
-      "relevance_score": 16,
-      "deal_types": [
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Price Drop"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "降价/折扣"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1212293",
-      "source": "v2ex",
-      "subreddit": 1347,
-      "title": "Ai2You 智友社---让更多的人用上更好的 Ai，解决您的 AI 焦虑",
-      "body": "首先感谢 V 版管理和 V 版各位朋友一直以来的支持！！\r\n\r\n鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的特价 AI 渠道，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售。\r\n\r\n我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，也欢迎大家随时跟我们推荐稳定的特价 AI 渠道，这样能让更多的人能受益！\r\n\r\n虽然我们找到的渠道稳定，但是我们定价确非常克制，扣去我们的成本，到手其实微利，但是我们愿意做下去，因为我们觉得这是一件很有意义的事。\r\n\r\n我们现在的做法是直接放价给您，所以我们无法也无力再为您提供交付以外的任何售后，希望您能理解，但是我们很乐意听到您的使用反馈，不论好坏。\r\n\r\n目前店铺的特殊渠道特价商品：GPTPlus 成品号、Curser Pro 成品号、Gemini Pro 成品号、Super Grok 和都已经有比较稳定的渠道，欢迎 D 版朋友选购评测。\r\n\r\n由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台---链动",
-      "url": "https://www.v2ex.com/t/1212293",
-      "author": "Ai2You",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-12T23:27:59",
-      "fetched_at": "2026-05-13T21:26:36.115545+00:00",
       "relevance_score": 16,
       "deal_types": [
         "降价/折扣"
@@ -4524,7 +4713,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-12T02:29:05",
-      "fetched_at": "2026-05-13T21:26:36.115564+00:00",
+      "fetched_at": "2026-05-14T03:22:44.394604+00:00",
       "relevance_score": 16,
       "deal_types": [
         "免费/试用",
@@ -4589,7 +4778,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-05-08T08:45:42",
-      "fetched_at": "2026-05-13T21:26:38.650590+00:00",
+      "fetched_at": "2026-05-14T03:22:46.894612+00:00",
       "relevance_score": 16,
       "deal_types": [
         "区域套利"
@@ -4620,7 +4809,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-07T07:09:22",
-      "fetched_at": "2026-05-13T21:27:08.017679+00:00",
+      "fetched_at": "2026-05-14T03:23:14.983024+00:00",
       "relevance_score": 16,
       "deal_types": [
         "礼品卡",
@@ -4644,40 +4833,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1210790",
-      "source": "v2ex",
-      "subreddit": 1160,
-      "title": "Anthropic 与 SpaceX 达成算力合作",
-      "body": "几个感悟：\r\n1. 佩服老马的高瞻远瞩。当初他的 xAI 刚刚起步，就搞一堆的 GPU ，并且把配套设施搞定，真牛逼！回头看，什么最值钱？不是 token ，是算力。\r\n2. 敌人的敌人就是朋友，老马前脚刚和 OpenAI 打官司，后脚就跟 Anthropic 达成合作。跟马斯克做对手真是一件恐怖的事情。\r\n3. 此前 Anthropic 由于算力不足从而进行限速等操作将会取消。Claude Code 的 5 小时滚动限额直接翻倍。Pro 和 Max 用户在高峰时段原本会被压低额度，这个降速从今天起取消。OPENAI 靠“慈善”和 GPT5.5 好不容易扳回的口碑，不知还能维持多久。\r\n4. Anthropic 对中国用户的封号仍未停止。",
-      "url": "https://www.v2ex.com/t/1210790",
-      "author": "dsd2077",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-07T03:04:31",
-      "fetched_at": "2026-05-13T21:26:38.650604+00:00",
-      "relevance_score": 16,
-      "deal_types": [
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "ChatGPT",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "hn_47996041",
       "source": "hackernews",
       "subreddit": "",
@@ -4688,7 +4843,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-03T11:55:21Z",
-      "fetched_at": "2026-05-13T21:27:25.092935+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241426+00:00",
       "relevance_score": 16,
       "deal_types": [
         "薅羊毛/技巧",
@@ -4722,7 +4877,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-30T12:53:51Z",
-      "fetched_at": "2026-05-13T21:27:25.092954+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241445+00:00",
       "relevance_score": 16,
       "deal_types": [
         "API优惠"
@@ -4793,7 +4948,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-13T19:56:28Z",
-      "fetched_at": "2026-05-13T21:27:25.092672+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241221+00:00",
       "relevance_score": 15,
       "deal_types": [
         "API优惠"
@@ -4802,16 +4957,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "API优惠"
       ],
       "is_deal": true
@@ -4827,7 +4982,7 @@
       "score": 0,
       "num_comments": 2,
       "created_at": "2026-05-13T14:42:31+00:00",
-      "fetched_at": "2026-05-13T21:26:32.382235+00:00",
+      "fetched_at": "2026-05-14T03:22:39.377136+00:00",
       "relevance_score": 15,
       "deal_types": [
         "降价/折扣"
@@ -5050,7 +5205,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-07T06:16:25",
-      "fetched_at": "2026-05-13T21:26:38.650601+00:00",
+      "fetched_at": "2026-05-14T03:22:46.894621+00:00",
       "relevance_score": 15,
       "deal_types": [
         "API优惠"
@@ -5071,6 +5226,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1210790",
+      "source": "v2ex",
+      "subreddit": 1160,
+      "title": "Anthropic 与 SpaceX 达成算力合作",
+      "body": "几个感悟：\r\n1. 佩服老马的高瞻远瞩。当初他的 xAI 刚刚起步，就搞一堆的 GPU ，并且把配套设施搞定，真牛逼！回头看，什么最值钱？不是 token ，是算力。\r\n2. 敌人的敌人就是朋友，老马前脚刚和 OpenAI 打官司，后脚就跟 Anthropic 达成合作。跟马斯克做对手真是一件恐怖的事情。\r\n3. 此前 Anthropic 由于算力不足从而进行限速等操作将会取消。Claude Code 的 5 小时滚动限额直接翻倍。Pro 和 Max 用户在高峰时段原本会被压低额度，这个降速从今天起取消。OPENAI 靠“慈善”和 GPT5.5 好不容易扳回的口碑，不知还能维持多久。\r\n4. Anthropic 对中国用户的封号仍未停止。",
+      "url": "https://www.v2ex.com/t/1210790",
+      "author": "dsd2077",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-07T03:04:31",
+      "fetched_at": "2026-05-14T03:22:46.894624+00:00",
+      "relevance_score": 15,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1210543",
       "source": "v2ex",
       "subreddit": 1203,
@@ -5081,7 +5270,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-06T06:26:02",
-      "fetched_at": "2026-05-13T21:26:41.095731+00:00",
+      "fetched_at": "2026-05-14T03:22:49.200676+00:00",
       "relevance_score": 15,
       "deal_types": [
         "免费/试用",
@@ -5146,7 +5335,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-27T19:45:52",
-      "fetched_at": "2026-05-13T21:26:41.095786+00:00",
+      "fetched_at": "2026-05-14T03:22:49.200738+00:00",
       "relevance_score": 15,
       "deal_types": [
         "降价/折扣",
@@ -5159,16 +5348,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "降价/折扣",
         "薅羊毛/技巧",
         "API优惠"
@@ -5220,7 +5409,7 @@
       "score": 0,
       "num_comments": 4,
       "created_at": "2026-02-27T03:31:54",
-      "fetched_at": "2026-05-13T21:27:10.312628+00:00",
+      "fetched_at": "2026-05-14T03:23:17.239361+00:00",
       "relevance_score": 15,
       "deal_types": [
         "区域套利"
@@ -5237,6 +5426,133 @@
       "tags": [
         "Claude",
         "区域套利"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1212595",
+      "source": "v2ex",
+      "subreddit": 12,
+      "title": "claude 这次更新是不是意味着 max 号池中转基本完蛋了",
+      "body": "Claude 订阅（ Max/Pro ）现在会额外发“每月 agent SDK credit”\r\n\r\nhttps://www.reddit.com/r/ClaudeAI/comments/1tc6nah/a_new_monthly_agent_sdk_credit_for_claude_plans/",
+      "url": "https://www.v2ex.com/t/1212595",
+      "author": "K332",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-14T02:03:03",
+      "fetched_at": "2026-05-14T03:22:46.894384+00:00",
+      "relevance_score": 14,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1212588",
+      "source": "v2ex",
+      "subreddit": 1183,
+      "title": "DeepSeek v4 接 VSCode",
+      "body": "好奇 DeepSeek v4 coding 大概是什么水准\r\n看了一圈，大家 IDE 推荐接 VSCode\r\n\r\n看了官方文档，用的是 DeepSeek V4 for Copilot Chat 插件接 Copilot （ Icon 好山寨）：\r\nhttps://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/github_copilot\r\n\r\nAI 搜索普遍推荐用 Continue 插件：\r\nhttps://docs.continue.dev/customize/model-providers/more/deepseek\r\n\r\n那么大家 DeepSeek 接 IDE 是怎么用的，DeepSeek V4 for Copilot Chat 还是 Continue 还是 cline\r\nDeepSeek v4 pro 性能对标 Cursor auto 如何？",
+      "url": "https://www.v2ex.com/t/1212588",
+      "author": "slackerman",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-14T01:48:09",
+      "fetched_at": "2026-05-14T03:23:25.827176+00:00",
+      "relevance_score": 14,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Cursor",
+        "Copilot"
+      ],
+      "companies": [
+        "Cursor",
+        "Microsoft"
+      ],
+      "tags": [
+        "Cursor",
+        "Copilot",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "hn_48128998",
+      "source": "hackernews",
+      "subreddit": "",
+      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+      "body": "It is still there and you may get it easily.<p>If you export your data [0] all your Claude Design chats are in a design_chats directory along with the code, even if your account currently has no access to Claude Design. It is .json, but converting that into usable code is easily done, either manually or by asking any fairly modern LLM via OpenCode. Just did it myself, it works. I will say that I&#x27;d still prefer if they allowed API use of Claude Design, it does have some niceties regarding th",
+      "url": "https://news.ycombinator.com/item?id=48128003",
+      "author": "Topfi",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-13T23:24:26Z",
+      "fetched_at": "2026-05-14T03:23:36.088469+00:00",
+      "relevance_score": 14,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1212293",
+      "source": "v2ex",
+      "subreddit": 1347,
+      "title": "Ai2You 智友社---让更多的人用上更好的 Ai，解决您的 AI 焦虑",
+      "body": "首先感谢 V 版管理和 V 版各位朋友一直以来的支持！！\r\n\r\n鉴于目前国外主流 AI 的正价订购价格昂贵，我们发现市面上有不少的特价 AI 渠道，可惜质量参差不齐，为了节省大家的时间跟金钱，我们花了不少精力对各个渠道商的特价 AI 进行了购买评测，再从中选取稳定的渠道上架出售。\r\n\r\n我们智友社的初衷是帮大家寻找市面上稳定的主流 AI 特价渠道，也欢迎大家随时跟我们推荐稳定的特价 AI 渠道，这样能让更多的人能受益！\r\n\r\n虽然我们找到的渠道稳定，但是我们定价确非常克制，扣去我们的成本，到手其实微利，但是我们愿意做下去，因为我们觉得这是一件很有意义的事。\r\n\r\n我们现在的做法是直接放价给您，所以我们无法也无力再为您提供交付以外的任何售后，希望您能理解，但是我们很乐意听到您的使用反馈，不论好坏。\r\n\r\n目前店铺的特殊渠道特价商品：GPTPlus 成品号、Curser Pro 成品号、Gemini Pro 成品号、Super Grok 和都已经有比较稳定的渠道，欢迎 D 版朋友选购评测。\r\n\r\n由于目前国外 AI 并不能上架国内主流购物平台，所以我们只能把店铺开在了一个小众平台---链动",
+      "url": "https://www.v2ex.com/t/1212293",
+      "author": "Ai2You",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-12T23:27:59",
+      "fetched_at": "2026-05-14T03:22:44.394597+00:00",
+      "relevance_score": 14,
+      "deal_types": [
+        "降价/折扣"
+      ],
+      "deal_types_en": [
+        "Price Drop"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "降价/折扣"
       ],
       "is_deal": true
     },
@@ -5344,7 +5660,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-11T13:18:27Z",
-      "fetched_at": "2026-05-13T21:27:27.585118+00:00",
+      "fetched_at": "2026-05-14T03:23:32.799413+00:00",
       "relevance_score": 14,
       "deal_types": [
         "API优惠"
@@ -5406,7 +5722,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T01:04:18",
-      "fetched_at": "2026-05-13T21:27:12.564162+00:00",
+      "fetched_at": "2026-05-14T03:23:19.333477+00:00",
       "relevance_score": 14,
       "deal_types": [
         "拼车/合租",
@@ -5440,7 +5756,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-04T19:33:07Z",
-      "fetched_at": "2026-05-13T21:27:25.092926+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241414+00:00",
       "relevance_score": 14,
       "deal_types": [
         "降价/折扣"
@@ -5449,16 +5765,16 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
-        "Cursor"
+        "Cursor",
+        "Claude"
       ],
       "companies": [
         "Cursor",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Cursor",
+        "Claude",
         "降价/折扣"
       ],
       "is_deal": true
@@ -5474,7 +5790,7 @@
       "score": 3,
       "num_comments": 0,
       "created_at": "2026-05-04T14:20:57Z",
-      "fetched_at": "2026-05-13T21:27:33.997009+00:00",
+      "fetched_at": "2026-05-14T03:23:39.197124+00:00",
       "relevance_score": 14,
       "deal_types": [
         "学生/教育"
@@ -5601,7 +5917,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-03-25T08:33:02",
-      "fetched_at": "2026-05-13T21:27:05.062451+00:00",
+      "fetched_at": "2026-05-14T03:23:12.622551+00:00",
       "relevance_score": 14,
       "deal_types": [
         "学生/教育"
@@ -5694,7 +6010,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-12T16:22:59",
-      "fetched_at": "2026-05-13T21:26:55.368505+00:00",
+      "fetched_at": "2026-05-14T03:23:03.410894+00:00",
       "relevance_score": 13,
       "deal_types": [
         "礼品卡",
@@ -5762,7 +6078,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T00:12:48Z",
-      "fetched_at": "2026-05-13T21:27:27.585124+00:00",
+      "fetched_at": "2026-05-14T03:23:32.799428+00:00",
       "relevance_score": 13,
       "deal_types": [
         "降价/折扣"
@@ -5779,40 +6095,6 @@
       "tags": [
         "Claude",
         "降价/折扣"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1210786",
-      "source": "v2ex",
-      "subreddit": 17,
-      "title": "[送码] 用 Codex Claude 写了第一个 iOS App 方便自己阅读书籍",
-      "body": "这两天上架了一个 iOS App ，名称叫 [ Readori ]  ，是自己用 Ai 手搓的第一个 Ios 应用。\r\n\r\n起因：想看点电子书，App Store 一搜大部分里面都是广告加持，越看越烦就自己用 Ai 手搓了一个，看中英文电子书籍的应用。\r\n\r\n坦白：代码和 UI 设计全是 Codex 、Claude 生成的。我不是专业开发者，只是给了它一个安卓开源项目应用做参考，它自动全程设计规划完工。\r\n\r\n版权：Readori 提供经典公版作品浏览与阅读功能。相关内容来源于公开可访问且允许商业使用的公版书籍资源站点，主要包括已进入公有领域或版权保护期届满的文学、历史、哲学及人文类作品。\r\n\r\nReadori 尊重版权与知识产权，仅展示来源清晰、授权明确或符合公版使用条件的内容。由于版权期限会因国家和地区而异，部分作品的展示和访问可能会根据适用法律法规进行调整。\r\n\r\n该应用已上架除中国区以外 App Store 。\r\n\r\nApp Store 地址： https://apps.apple.com/us/app/readori/id6761813747\r\n\r\n顺便放 100 个兑换码，",
-      "url": "https://www.v2ex.com/t/1210786",
-      "author": "1024ba",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-07T02:55:22",
-      "fetched_at": "2026-05-13T21:26:38.650606+00:00",
-      "relevance_score": 13,
-      "deal_types": [
-        "优惠码",
-        "礼品卡"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Gift Card"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "优惠码",
-        "礼品卡"
       ],
       "is_deal": true
     },
@@ -5901,7 +6183,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-13T10:10:37",
-      "fetched_at": "2026-05-13T21:27:20.777436+00:00",
+      "fetched_at": "2026-05-14T03:23:25.827421+00:00",
       "relevance_score": 12,
       "deal_types": [
         "免费/试用"
@@ -5963,7 +6245,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-11T15:46:47",
-      "fetched_at": "2026-05-13T21:26:38.650577+00:00",
+      "fetched_at": "2026-05-14T03:22:46.894599+00:00",
       "relevance_score": 12,
       "deal_types": [
         "API优惠"
@@ -5972,16 +6254,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "API优惠"
       ],
       "is_deal": true
@@ -5997,7 +6279,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-10T13:50:35",
-      "fetched_at": "2026-05-13T21:27:08.017663+00:00",
+      "fetched_at": "2026-05-14T03:23:14.983008+00:00",
       "relevance_score": 12,
       "deal_types": [
         "API优惠"
@@ -6014,6 +6296,40 @@
       "tags": [
         "Claude",
         "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1210786",
+      "source": "v2ex",
+      "subreddit": 17,
+      "title": "[送码] 用 Codex Claude 写了第一个 iOS App 方便自己阅读书籍",
+      "body": "这两天上架了一个 iOS App ，名称叫 [ Readori ]  ，是自己用 Ai 手搓的第一个 Ios 应用。\r\n\r\n起因：想看点电子书，App Store 一搜大部分里面都是广告加持，越看越烦就自己用 Ai 手搓了一个，看中英文电子书籍的应用。\r\n\r\n坦白：代码和 UI 设计全是 Codex 、Claude 生成的。我不是专业开发者，只是给了它一个安卓开源项目应用做参考，它自动全程设计规划完工。\r\n\r\n版权：Readori 提供经典公版作品浏览与阅读功能。相关内容来源于公开可访问且允许商业使用的公版书籍资源站点，主要包括已进入公有领域或版权保护期届满的文学、历史、哲学及人文类作品。\r\n\r\nReadori 尊重版权与知识产权，仅展示来源清晰、授权明确或符合公版使用条件的内容。由于版权期限会因国家和地区而异，部分作品的展示和访问可能会根据适用法律法规进行调整。\r\n\r\n该应用已上架除中国区以外 App Store 。\r\n\r\nApp Store 地址： https://apps.apple.com/us/app/readori/id6761813747\r\n\r\n顺便放 100 个兑换码，",
+      "url": "https://www.v2ex.com/t/1210786",
+      "author": "1024ba",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-07T02:55:22",
+      "fetched_at": "2026-05-14T03:22:46.894627+00:00",
+      "relevance_score": 12,
+      "deal_types": [
+        "优惠码",
+        "礼品卡"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Gift Card"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "优惠码",
+        "礼品卡"
       ],
       "is_deal": true
     },
@@ -6099,7 +6415,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-02T21:03:41Z",
-      "fetched_at": "2026-05-13T21:27:26.734749+00:00",
+      "fetched_at": "2026-05-14T03:23:31.913274+00:00",
       "relevance_score": 12,
       "deal_types": [
         "免费/试用"
@@ -6108,16 +6424,16 @@
         "Free/Trial"
       ],
       "products": [
-        "Copilot",
-        "ChatGPT"
+        "ChatGPT",
+        "Copilot"
       ],
       "companies": [
         "OpenAI",
         "Microsoft"
       ],
       "tags": [
-        "Copilot",
         "ChatGPT",
+        "Copilot",
         "免费/试用"
       ],
       "is_deal": true
@@ -6133,8 +6449,39 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-24T18:42:01Z",
-      "fetched_at": "2026-05-13T21:27:28.413021+00:00",
+      "fetched_at": "2026-05-14T03:23:33.594954+00:00",
       "relevance_score": 12,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1212567",
+      "source": "v2ex",
+      "subreddit": 17,
+      "title": "分享个 2026 世界杯飞书公共日历，再也不怕因为上班错过比赛了！",
+      "body": "下个月就到世界杯了，48 队、16 城、104 场、4 个时区，光靠看赛程图容易眼花，还可能错过比赛现场。刚好平时我自己就用飞书办公，日程安排都在飞书里，索性就通过 Lark-CLI 把赛程图制作成了个专门的飞书公共日历 —— 这下每场谁跟谁对战、当地时间、球场等信息都一目了然了。\r\n\r\n把它分享出来，[**点击订阅**]( https://www.larkoffice.com/calendar/share/calendar?token=iFiSSWGxNXKZIVUVpWB6clEEbypNzI92X8qOlw6hYqrFux5Q2kim-ems6EV7FEZjeqZrlsVMBA==) 之后就能直接在你自己的飞书日历上看每天都有啥比赛。想专门追某场关键比赛的，也可以把那场复制一份到自己平时的个人日历，就更方便安排时间了。\r\n\r\n![飞书日历 1](  )\r\n\r\n![飞书日历 1](  )\r\n\r\nP.S. 这次的实现方式：Claude Code 写了个 Python 调 Lark-CLI ，从拉 FIFA 赛程、上传海报附件、到批量建 104 场日程全自动化，一次都不需要我自己在 A",
+      "url": "https://www.v2ex.com/t/1212567",
+      "author": "feehey",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-14T00:56:08",
+      "fetched_at": "2026-05-14T03:22:51.407862+00:00",
+      "relevance_score": 11,
       "deal_types": [
         "API优惠"
       ],
@@ -6164,7 +6511,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-13T05:52:41",
-      "fetched_at": "2026-05-13T21:27:20.777445+00:00",
+      "fetched_at": "2026-05-14T03:23:25.827433+00:00",
       "relevance_score": 11,
       "deal_types": [
         "API优惠"
@@ -6257,7 +6604,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-09T03:37:11",
-      "fetched_at": "2026-05-13T21:27:08.017671+00:00",
+      "fetched_at": "2026-05-14T03:23:14.983016+00:00",
       "relevance_score": 11,
       "deal_types": [
         "免费/试用"
@@ -6288,7 +6635,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T17:10:55Z",
-      "fetched_at": "2026-05-13T21:27:33.997004+00:00",
+      "fetched_at": "2026-05-14T03:23:39.197115+00:00",
       "relevance_score": 11,
       "deal_types": [
         "学生/教育"
@@ -6322,7 +6669,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-06T15:27:22Z",
-      "fetched_at": "2026-05-13T21:27:25.092922+00:00",
+      "fetched_at": "2026-05-14T03:23:30.241411+00:00",
       "relevance_score": 11,
       "deal_types": [
         "API优惠"
@@ -6331,16 +6678,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Cursor"
+        "Cursor",
+        "Claude"
       ],
       "companies": [
         "Cursor",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Cursor",
+        "Claude",
         "API优惠"
       ],
       "is_deal": true
@@ -6356,7 +6703,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-06T09:18:16Z",
-      "fetched_at": "2026-05-13T21:27:28.413011+00:00",
+      "fetched_at": "2026-05-14T03:23:33.594934+00:00",
       "relevance_score": 11,
       "deal_types": [
         "降价/折扣"
@@ -6387,7 +6734,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-05T22:38:55",
-      "fetched_at": "2026-05-13T21:26:41.095739+00:00",
+      "fetched_at": "2026-05-14T03:22:49.200678+00:00",
       "relevance_score": 11,
       "deal_types": [
         "薅羊毛/技巧",
@@ -6421,7 +6768,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-04T17:30:55Z",
-      "fetched_at": "2026-05-13T18:02:01.508247+00:00",
+      "fetched_at": "2026-05-14T03:23:39.197119+00:00",
       "relevance_score": 11,
       "deal_types": [
         "学生/教育"
@@ -6486,7 +6833,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-25T00:53:21Z",
-      "fetched_at": "2026-05-13T21:27:28.413019+00:00",
+      "fetched_at": "2026-05-14T03:23:33.594951+00:00",
       "relevance_score": 11,
       "deal_types": [
         "薅羊毛/技巧"
@@ -6495,16 +6842,16 @@
         "Workaround"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "薅羊毛/技巧"
       ],
       "is_deal": true
@@ -6551,7 +6898,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-13T14:20:44Z",
-      "fetched_at": "2026-05-13T21:27:27.585089+00:00",
+      "fetched_at": "2026-05-14T03:23:32.799401+00:00",
       "relevance_score": 10,
       "deal_types": [
         "API优惠"
@@ -6564,8 +6911,8 @@
         "Copilot"
       ],
       "companies": [
-        "Microsoft",
-        "Anthropic"
+        "Anthropic",
+        "Microsoft"
       ],
       "tags": [
         "Claude",
@@ -6585,7 +6932,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-11T16:27:17Z",
-      "fetched_at": "2026-05-13T21:27:25.910135+00:00",
+      "fetched_at": "2026-05-14T03:23:31.075193+00:00",
       "relevance_score": 10,
       "deal_types": [
         "降价/折扣"
@@ -6647,7 +6994,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T05:08:56",
-      "fetched_at": "2026-05-13T21:26:38.650593+00:00",
+      "fetched_at": "2026-05-14T03:22:46.894615+00:00",
       "relevance_score": 10,
       "deal_types": [
         "API优惠"
@@ -6656,16 +7003,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Cursor"
+        "Cursor",
+        "Claude"
       ],
       "companies": [
         "Cursor",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Cursor",
+        "Claude",
         "API优惠"
       ],
       "is_deal": true
@@ -6681,7 +7028,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-05T03:05:56",
-      "fetched_at": "2026-05-13T21:27:02.061119+00:00",
+      "fetched_at": "2026-05-14T03:23:09.911729+00:00",
       "relevance_score": 10,
       "deal_types": [
         "降价/折扣"
@@ -6694,8 +7041,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Google"
+        "Google",
+        "OpenAI"
       ],
       "tags": [
         "Gemini",
@@ -6746,7 +7093,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-27T15:06:04Z",
-      "fetched_at": "2026-05-13T21:27:31.535836+00:00",
+      "fetched_at": "2026-05-14T03:23:36.889310+00:00",
       "relevance_score": 10,
       "deal_types": [
         "免费/试用"
@@ -6755,16 +7102,16 @@
         "Free/Trial"
       ],
       "products": [
-        "Copilot",
-        "ChatGPT"
+        "ChatGPT",
+        "Copilot"
       ],
       "companies": [
         "OpenAI",
         "Microsoft"
       ],
       "tags": [
-        "Copilot",
         "ChatGPT",
+        "Copilot",
         "免费/试用"
       ],
       "is_deal": true
@@ -6814,7 +7161,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-24T21:28:04Z",
-      "fetched_at": "2026-05-13T10:28:45.153566+00:00",
+      "fetched_at": "2026-05-14T03:23:36.889316+00:00",
       "relevance_score": 10,
       "deal_types": [
         "API优惠"
@@ -6845,7 +7192,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-22T12:44:47Z",
-      "fetched_at": "2026-05-13T21:27:30.746414+00:00",
+      "fetched_at": "2026-05-14T03:23:36.088678+00:00",
       "relevance_score": 10,
       "deal_types": [
         "降价/折扣"
@@ -6930,6 +7277,37 @@
         "ChatGPT",
         "降价/折扣",
         "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "hn_48128453",
+      "source": "hackernews",
+      "subreddit": "",
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+      "body": "&gt; Now students have ChatGPT to write their papers and they&#x27;ve been practicing how to use cell phones without the teacher noticing for 10 years before getting to college.<p>Colleges will need to remodel the rooms where these tests are given to become large SCIF type rooms so that wireless communication is not possible. Let the students go back to writing on their arms, wearing eye patches, or shoving notes up their casts. Yeah, I&#x27;ve probably seen Spies Like Us a <i>couple</i> of time",
+      "url": "https://news.ycombinator.com/item?id=48126848",
+      "author": "dylan604",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-05-13T22:31:21Z",
+      "fetched_at": "2026-05-14T03:23:39.196907+00:00",
+      "relevance_score": 9,
+      "deal_types": [
+        "学生/教育"
+      ],
+      "deal_types_en": [
+        "Student/Edu"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "学生/教育"
       ],
       "is_deal": true
     },
@@ -7037,7 +7415,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-06T16:20:47",
-      "fetched_at": "2026-05-13T21:26:38.650616+00:00",
+      "fetched_at": "2026-05-14T03:22:46.894635+00:00",
       "relevance_score": 9,
       "deal_types": [
         "API优惠"
@@ -7068,7 +7446,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-05-01T09:21:22",
-      "fetched_at": "2026-05-13T21:26:41.095769+00:00",
+      "fetched_at": "2026-05-14T03:22:49.200721+00:00",
       "relevance_score": 9,
       "deal_types": [
         "API优惠"
@@ -7077,16 +7455,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "API优惠"
       ],
       "is_deal": true
@@ -7102,7 +7480,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-30T07:46:34Z",
-      "fetched_at": "2026-05-13T21:27:33.176478+00:00",
+      "fetched_at": "2026-05-14T03:23:38.397040+00:00",
       "relevance_score": 9,
       "deal_types": [
         "降价/折扣",
@@ -7136,7 +7514,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-20T12:34:33Z",
-      "fetched_at": "2026-05-13T21:27:35.614768+00:00",
+      "fetched_at": "2026-05-14T03:23:40.773356+00:00",
       "relevance_score": 9,
       "deal_types": [
         "API优惠"
@@ -7229,7 +7607,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-10T05:27:50",
-      "fetched_at": "2026-05-13T21:27:12.564147+00:00",
+      "fetched_at": "2026-05-14T03:23:19.333459+00:00",
       "relevance_score": 8,
       "deal_types": [
         "免费/试用"
@@ -7260,7 +7638,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-05T20:16:45Z",
-      "fetched_at": "2026-05-13T21:27:26.734725+00:00",
+      "fetched_at": "2026-05-14T03:23:31.913250+00:00",
       "relevance_score": 8,
       "deal_types": [
         "API优惠"
@@ -7322,7 +7700,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-04-29T11:47:04Z",
-      "fetched_at": "2026-05-13T21:27:30.746394+00:00",
+      "fetched_at": "2026-05-14T03:23:36.088661+00:00",
       "relevance_score": 8,
       "deal_types": [
         "API优惠"
@@ -7331,16 +7709,16 @@
         "API Deal"
       ],
       "products": [
-        "Copilot",
-        "ChatGPT"
+        "ChatGPT",
+        "Copilot"
       ],
       "companies": [
         "OpenAI",
         "Microsoft"
       ],
       "tags": [
-        "Copilot",
         "ChatGPT",
+        "Copilot",
         "API优惠"
       ],
       "is_deal": true

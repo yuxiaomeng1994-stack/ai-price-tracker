@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T21:22:01.921026+00:00",
+  "last_updated": "2026-05-20T03:33:10.297340+00:00",
   "daily": [
     {
       "date": "2026-05-11",
@@ -99,6 +99,17 @@
       "Midjourney": 2,
       "Cursor": 29,
       "avg_score": 23.4
+    },
+    {
+      "date": "2026-05-20",
+      "total": 300,
+      "ChatGPT": 117,
+      "Claude": 196,
+      "Gemini": 61,
+      "Copilot": 11,
+      "Midjourney": 2,
+      "Cursor": 28,
+      "avg_score": 23.6
     }
   ],
   "price_snapshots": [
@@ -422,6 +433,42 @@
     },
     {
       "date": "2026-05-19",
+      "product": "Cursor",
+      "est_price_cny": 10,
+      "best_deal": "🚀 自建高优 API 中转站，算力富余，开放上车！倍率 1.0，充值比例 1:10, 满 50 送 100 刀"
+    },
+    {
+      "date": "2026-05-20",
+      "product": "ChatGPT",
+      "est_price_cny": 1,
+      "best_deal": "Unity2 送福利，支持缓存，低延迟，不注水，支持检测，大厂合作渠道，注册送 2 刀，加群送 10 刀，文末再送 10 个 10 刀 cdk，回复 id 再送"
+    },
+    {
+      "date": "2026-05-20",
+      "product": "Claude",
+      "est_price_cny": 1,
+      "best_deal": "Best Model 五一送 5 刀 纯血 Claude Max API 告别古法编程 人人有份"
+    },
+    {
+      "date": "2026-05-20",
+      "product": "Gemini",
+      "est_price_cny": 5,
+      "best_deal": "[限时福利] 300 刀 codex， 100 刀 cladue 额度进群领，下方评论后可带截图找群主领取 5 元体验券，限量送完即止，每日真实福利（已累计赠送"
+    },
+    {
+      "date": "2026-05-20",
+      "product": "Copilot",
+      "est_price_cny": 30,
+      "best_deal": "Typeoff：按住 Fn 直接语音输入的 macOS 工具，送 30 元账户余额体验"
+    },
+    {
+      "date": "2026-05-20",
+      "product": "Midjourney",
+      "est_price_cny": 691,
+      "best_deal": "Midjourney 年付会员礼品卡 8折，$96/年"
+    },
+    {
+      "date": "2026-05-20",
       "product": "Cursor",
       "est_price_cny": 10,
       "best_deal": "🚀 自建高优 API 中转站，算力富余，开放上车！倍率 1.0，充值比例 1:10, 满 50 送 100 刀"

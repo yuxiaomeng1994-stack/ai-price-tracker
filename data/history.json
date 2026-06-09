@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T21:52:06.444368+00:00",
+  "last_updated": "2026-06-09T03:28:26.271517+00:00",
   "daily": [
     {
       "date": "2026-05-11",
@@ -319,6 +319,17 @@
       "Midjourney": 4,
       "Cursor": 45,
       "avg_score": 29.9
+    },
+    {
+      "date": "2026-06-09",
+      "total": 300,
+      "ChatGPT": 135,
+      "Claude": 201,
+      "Gemini": 67,
+      "Copilot": 15,
+      "Midjourney": 4,
+      "Cursor": 45,
+      "avg_score": 30.0
     }
   ],
   "price_snapshots": [
@@ -1362,6 +1373,42 @@
     },
     {
       "date": "2026-06-08",
+      "product": "Cursor",
+      "est_price_cny": 9,
+      "best_deal": "🔥 今日限时福利： GPT 模型全场免费调用"
+    },
+    {
+      "date": "2026-06-09",
+      "product": "ChatGPT",
+      "est_price_cny": 1,
+      "best_deal": "[自荐] 个人自建 AI 中转站求分摊服务器费用 | 1 元起步 | 余额随时可退 | GPT Plus 池"
+    },
+    {
+      "date": "2026-06-09",
+      "product": "Claude",
+      "est_price_cny": 1,
+      "best_deal": "[自荐] 个人自建 AI 中转站求分摊服务器费用 | 1 元起步 | 余额随时可退 | GPT Plus 池"
+    },
+    {
+      "date": "2026-06-09",
+      "product": "Gemini",
+      "est_price_cny": 1,
+      "best_deal": "AI 中转站-时脉 API 服务平台"
+    },
+    {
+      "date": "2026-06-09",
+      "product": "Copilot",
+      "est_price_cny": 48,
+      "best_deal": "Microsoft 365 家庭版 车位 空出 1 位"
+    },
+    {
+      "date": "2026-06-09",
+      "product": "Midjourney",
+      "est_price_cny": 691,
+      "best_deal": "Midjourney 年付会员礼品卡 8折，$96/年"
+    },
+    {
+      "date": "2026-06-09",
       "product": "Cursor",
       "est_price_cny": 9,
       "best_deal": "🔥 今日限时福利： GPT 模型全场免费调用"

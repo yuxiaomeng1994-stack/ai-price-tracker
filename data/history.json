@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T22:05:28.007665+00:00",
+  "last_updated": "2026-06-12T03:56:09.711738+00:00",
   "daily": [
     {
       "date": "2026-05-11",
@@ -349,6 +349,17 @@
       "Claude": 196,
       "Gemini": 70,
       "Copilot": 11,
+      "Midjourney": 4,
+      "Cursor": 48,
+      "avg_score": 30.9
+    },
+    {
+      "date": "2026-06-12",
+      "total": 300,
+      "ChatGPT": 143,
+      "Claude": 197,
+      "Gemini": 70,
+      "Copilot": 12,
       "Midjourney": 4,
       "Cursor": 48,
       "avg_score": 30.9
@@ -1503,6 +1514,42 @@
     },
     {
       "date": "2026-06-11",
+      "product": "Cursor",
+      "est_price_cny": 9,
+      "best_deal": "🔥 今日限时福利： GPT 模型全场免费调用"
+    },
+    {
+      "date": "2026-06-12",
+      "product": "ChatGPT",
+      "est_price_cny": 1,
+      "best_deal": "[自荐] 个人自建 AI 中转站求分摊服务器费用 | 1 元起步 | 余额随时可退 | GPT Plus 池"
+    },
+    {
+      "date": "2026-06-12",
+      "product": "Claude",
+      "est_price_cny": 1,
+      "best_deal": "Best Model 五一送 5 刀 纯血 Claude Max API 告别古法编程 人人有份"
+    },
+    {
+      "date": "2026-06-12",
+      "product": "Gemini",
+      "est_price_cny": 1,
+      "best_deal": "AI 太空站 - 国内直连 13 个顶级 AI 模型， OpenAI 兼容 API"
+    },
+    {
+      "date": "2026-06-12",
+      "product": "Copilot",
+      "est_price_cny": 72,
+      "best_deal": "Claude Fable is relentlessly proactive"
+    },
+    {
+      "date": "2026-06-12",
+      "product": "Midjourney",
+      "est_price_cny": 691,
+      "best_deal": "Midjourney 年付会员礼品卡 8折，$96/年"
+    },
+    {
+      "date": "2026-06-12",
       "product": "Cursor",
       "est_price_cny": 9,
       "best_deal": "🔥 今日限时福利： GPT 模型全场免费调用"

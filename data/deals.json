@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T03:34:02.567496+00:00",
+  "last_updated": "2026-06-24T07:43:02.156382+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 254,
@@ -54,7 +54,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T09:19:35",
-      "fetched_at": "2026-06-24T03:31:14.154164+00:00",
+      "fetched_at": "2026-06-24T07:40:15.901070+00:00",
       "relevance_score": 79,
       "deal_types": [
         "区域套利",
@@ -344,7 +344,7 @@
       "score": 0,
       "num_comments": 120,
       "created_at": "2026-03-23T05:25:36",
-      "fetched_at": "2026-06-24T03:31:47.796630+00:00",
+      "fetched_at": "2026-06-24T07:40:50.722946+00:00",
       "relevance_score": 59,
       "deal_types": [
         "区域套利",
@@ -535,7 +535,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T03:11:36",
-      "fetched_at": "2026-06-24T03:31:53.211510+00:00",
+      "fetched_at": "2026-06-24T07:40:56.444292+00:00",
       "relevance_score": 55,
       "deal_types": [
         "区域套利",
@@ -606,7 +606,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-23T02:33:30",
-      "fetched_at": "2026-06-24T03:31:16.943116+00:00",
+      "fetched_at": "2026-06-24T07:40:18.637542+00:00",
       "relevance_score": 51,
       "deal_types": [
         "拼车/合租",
@@ -889,7 +889,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-23T03:22:16",
-      "fetched_at": "2026-06-24T03:31:36.767826+00:00",
+      "fetched_at": "2026-06-24T07:40:39.802980+00:00",
       "relevance_score": 46,
       "deal_types": [
         "免费/试用",
@@ -1092,7 +1092,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-05T02:52:31",
-      "fetched_at": "2026-06-24T03:31:39.918801+00:00",
+      "fetched_at": "2026-06-24T07:40:42.449458+00:00",
       "relevance_score": 45,
       "deal_types": [
         "礼品卡",
@@ -1258,7 +1258,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-02T14:58:57",
-      "fetched_at": "2026-06-24T03:31:44.795973+00:00",
+      "fetched_at": "2026-06-24T07:40:47.371858+00:00",
       "relevance_score": 44,
       "deal_types": [
         "拼车/合租",
@@ -1269,22 +1269,22 @@
         "API Deal"
       ],
       "products": [
+        "Cursor",
         "Claude",
         "ChatGPT",
-        "Gemini",
-        "Cursor"
+        "Gemini"
       ],
       "companies": [
+        "Cursor",
         "Google",
         "OpenAI",
-        "Anthropic",
-        "Cursor"
+        "Anthropic"
       ],
       "tags": [
+        "Cursor",
         "Claude",
         "ChatGPT",
         "Gemini",
-        "Cursor",
         "拼车/合租",
         "API优惠"
       ],
@@ -1321,49 +1321,6 @@
         "Claude",
         "区域套利",
         "礼品卡"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1221728",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "二狗 API｜ GPT/Claude 纯血模型 0.1x~0.2x 低价 API",
-      "body": "**二狗 API**： https://ergouapi.com/\r\n\r\n- 全站定价 0.1x~0.2x 超低倍率，主打纯血原生大模型接口：GPT 全系列、Claude 全系列。\r\n- 郑重承诺：全站接口绝不掺水、不降级、不套壳中转；发现模型注水 / 降级，支持无条件全额退款。\r\n\r\n**开票服务**\r\n\r\n1. 支持个人 / 企业正规开票，主体为科技类公司\r\n2. 满 200 元即可申请开票，无额外开票手续费\r\n\r\n**完整退款规则**\r\n\r\n1. 退款仅收取 5% 手续费（覆盖 Stripe 渠道费 + 人工处理成本）\r\n2. 无过期限制：未消耗实付余额随时可退\r\n3. 退款核算口径：仅计算用户实际支付金额，赠送额度、活动奖励、KOL 邀请奖励、优惠折扣、兑换码权益不计入可退款余额\r\n\r\n评论区留言 **用户名** 可获得 **￥ 5**\r\n\r\n欢迎各位开发者、工作室注册使用，有任何问题可站内留言咨询.",
-      "url": "https://www.v2ex.com/t/1221728",
-      "author": "rocododd",
-      "score": 0,
-      "num_comments": 1,
-      "created_at": "2026-06-21T04:52:46",
-      "fetched_at": "2026-06-24T03:31:36.767873+00:00",
-      "relevance_score": 43,
-      "deal_types": [
-        "优惠码",
-        "礼品卡",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Gift Card",
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "优惠码",
-        "礼品卡",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
       ],
       "is_deal": true
     },
@@ -1516,6 +1473,49 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1221728",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "二狗 API｜ GPT/Claude 纯血模型 0.1x~0.2x 低价 API",
+      "body": "**二狗 API**： https://ergouapi.com/\r\n\r\n- 全站定价 0.1x~0.2x 超低倍率，主打纯血原生大模型接口：GPT 全系列、Claude 全系列。\r\n- 郑重承诺：全站接口绝不掺水、不降级、不套壳中转；发现模型注水 / 降级，支持无条件全额退款。\r\n\r\n**开票服务**\r\n\r\n1. 支持个人 / 企业正规开票，主体为科技类公司\r\n2. 满 200 元即可申请开票，无额外开票手续费\r\n\r\n**完整退款规则**\r\n\r\n1. 退款仅收取 5% 手续费（覆盖 Stripe 渠道费 + 人工处理成本）\r\n2. 无过期限制：未消耗实付余额随时可退\r\n3. 退款核算口径：仅计算用户实际支付金额，赠送额度、活动奖励、KOL 邀请奖励、优惠折扣、兑换码权益不计入可退款余额\r\n\r\n评论区留言 **用户名** 可获得 **￥ 5**\r\n\r\n欢迎各位开发者、工作室注册使用，有任何问题可站内留言咨询.",
+      "url": "https://www.v2ex.com/t/1221728",
+      "author": "rocododd",
+      "score": 0,
+      "num_comments": 1,
+      "created_at": "2026-06-21T04:52:46",
+      "fetched_at": "2026-06-24T07:40:39.803018+00:00",
+      "relevance_score": 41,
+      "deal_types": [
+        "优惠码",
+        "礼品卡",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Gift Card",
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "优惠码",
+        "礼品卡",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1219078",
       "source": "v2ex",
       "subreddit": 99,
@@ -1600,7 +1600,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-21T13:31:29",
-      "fetched_at": "2026-06-24T03:31:34.409452+00:00",
+      "fetched_at": "2026-06-24T07:41:02.192237+00:00",
       "relevance_score": 39,
       "deal_types": [
         "免费/试用",
@@ -1856,7 +1856,7 @@
       "score": 0,
       "num_comments": 28,
       "created_at": "2026-03-21T07:58:01",
-      "fetched_at": "2026-06-24T03:31:47.796636+00:00",
+      "fetched_at": "2026-06-24T07:40:50.722952+00:00",
       "relevance_score": 39,
       "deal_types": [
         "礼品卡",
@@ -1896,7 +1896,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-23T02:35:12",
-      "fetched_at": "2026-06-24T03:31:14.154084+00:00",
+      "fetched_at": "2026-06-24T07:40:15.900998+00:00",
       "relevance_score": 38,
       "deal_types": [
         "免费/试用",
@@ -2441,7 +2441,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T11:22:13",
-      "fetched_at": "2026-06-24T03:31:19.959629+00:00",
+      "fetched_at": "2026-06-24T07:40:21.554908+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -2668,49 +2668,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1221722",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "[开源] 带领 AI 团队开发了一个极轻量的 GT AI Gateway：支持协议转换、请求查看，还能大幅降低 Claude Code 等调用成本",
-      "body": "大家好，最近带领 AI 团队，开发了一个轻量级大模型网关项目：[GT AI Gateway]( https://github.com/alexazhou/gt_ai_gateway)\r\n\r\n我们在平时开发和使用大模型 API 时，经常会碰到下面这些痛点：\r\n1. **费用黑洞**：把 API Key 填进各种工具（比如最近很火的 Claude Code ）里跑，额度跑飞了都不知道，缓存命中率极低，成本居高不下。\r\n2. **协议壁垒**：手里的工具支持 Anthropic 协议，但上游 api 只有 openai 格式。\r\n3. **黑盒调试**：Prompt 发出去之后，很难知道底层到底拼接了什么历史消息和工具调用，出了 Bug 只能靠盲猜。\r\n4. **共享风控**：想把自己的 Key 分给朋友或小号用，但又怕他们不小心额度超标，或者直接泄露。\r\n\r\n为了把这些问题一揽子解决，我写了 **GT AI Gateway**。它的定位是：**轻量、全能、还能帮你省钱的透明代理**。\r\n\r\n#### 🌟 核心杀手锏\r\n\r\n**1. 智能请求拦截与缓存优化（帮你省钱）**\r\n这是个非常实用的",
-      "url": "https://www.v2ex.com/t/1221722",
-      "author": "AlexaZhou",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-06-21T03:50:31",
-      "fetched_at": "2026-06-24T03:32:08.604505+00:00",
-      "relevance_score": 35,
-      "deal_types": [
-        "拼车/合租",
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Price Drop",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "ChatGPT",
-        "拼车/合租",
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1220972",
       "source": "v2ex",
       "subreddit": 864,
@@ -2721,7 +2678,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-17T01:40:19",
-      "fetched_at": "2026-06-24T03:31:56.152203+00:00",
+      "fetched_at": "2026-06-24T07:40:58.981886+00:00",
       "relevance_score": 35,
       "deal_types": [
         "免费/试用",
@@ -2732,19 +2689,19 @@
         "API Deal"
       ],
       "products": [
+        "Cursor",
         "Claude",
-        "Gemini",
-        "Cursor"
+        "Gemini"
       ],
       "companies": [
+        "Cursor",
         "Google",
-        "Anthropic",
-        "Cursor"
+        "Anthropic"
       ],
       "tags": [
+        "Cursor",
         "Claude",
         "Gemini",
-        "Cursor",
         "免费/试用",
         "API优惠"
       ],
@@ -3334,7 +3291,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-23T02:04:09",
-      "fetched_at": "2026-06-24T03:31:16.943127+00:00",
+      "fetched_at": "2026-06-24T07:40:18.637545+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -3353,6 +3310,49 @@
       "tags": [
         "Claude",
         "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1221722",
+      "source": "v2ex",
+      "subreddit": 300,
+      "title": "[开源] 带领 AI 团队开发了一个极轻量的 GT AI Gateway：支持协议转换、请求查看，还能大幅降低 Claude Code 等调用成本",
+      "body": "大家好，最近带领 AI 团队，开发了一个轻量级大模型网关项目：[GT AI Gateway]( https://github.com/alexazhou/gt_ai_gateway)\r\n\r\n我们在平时开发和使用大模型 API 时，经常会碰到下面这些痛点：\r\n1. **费用黑洞**：把 API Key 填进各种工具（比如最近很火的 Claude Code ）里跑，额度跑飞了都不知道，缓存命中率极低，成本居高不下。\r\n2. **协议壁垒**：手里的工具支持 Anthropic 协议，但上游 api 只有 openai 格式。\r\n3. **黑盒调试**：Prompt 发出去之后，很难知道底层到底拼接了什么历史消息和工具调用，出了 Bug 只能靠盲猜。\r\n4. **共享风控**：想把自己的 Key 分给朋友或小号用，但又怕他们不小心额度超标，或者直接泄露。\r\n\r\n为了把这些问题一揽子解决，我写了 **GT AI Gateway**。它的定位是：**轻量、全能、还能帮你省钱的透明代理**。\r\n\r\n#### 🌟 核心杀手锏\r\n\r\n**1. 智能请求拦截与缓存优化（帮你省钱）**\r\n这是个非常实用的",
+      "url": "https://www.v2ex.com/t/1221722",
+      "author": "AlexaZhou",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-06-21T03:50:31",
+      "fetched_at": "2026-06-24T07:41:10.516467+00:00",
+      "relevance_score": 33,
+      "deal_types": [
+        "拼车/合租",
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Price Drop",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "拼车/合租",
+        "降价/折扣",
+        "薅羊毛/技巧",
         "API优惠"
       ],
       "is_deal": true
@@ -3405,7 +3405,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T03:05:46",
-      "fetched_at": "2026-06-24T03:31:14.154167+00:00",
+      "fetched_at": "2026-06-24T07:40:15.901073+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -3439,7 +3439,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-06-24T03:31:14.154170+00:00",
+      "fetched_at": "2026-06-24T07:40:15.901075+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -4083,7 +4083,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-24T02:39:09",
-      "fetched_at": "2026-06-24T03:32:05.646702+00:00",
+      "fetched_at": "2026-06-24T07:41:07.999958+00:00",
       "relevance_score": 31,
       "deal_types": [
         "免费/试用",
@@ -4711,6 +4711,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1222537",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "送 $5 余额｜ Claude 满血 Opus 99% SLA / 全 pro 号池 GPT 不到一折， API 中转站",
+      "body": "# 再送 5 刀 API 中转站：comeu.ai\r\n\r\n站点地址：[https://comeu.ai]( https://comeu.ai/)\r\n\r\n## 线路分组 & 价格\r\n\r\n### Claude 系列\r\n\r\n| 线路 | 适合场景 | 价格 |\r\n| --- | --- | --- |\r\n| Claude 稳定线路 | 日常主力推荐，稳定性优先 | 2.6 元/刀 |\r\n| Claude 普通线路 | 常规使用，性价比路线 | 1.5 元/刀 |\r\n| Claude 特价线路 | 低成本 Claude 调用，适合日常轻量任务和批量测试 | 1 元/刀 |\r\n| Claude 逆向 | 更低成本备用选择，明确标注为逆向 | 0.5 元/刀 |\r\n\r\n### GPT 系列\r\n\r\n| 线路 | 适合场景 | 价格 |\r\n| --- | --- | --- |\r\n| GPT 普通线路 | 普通 GPT 调用，适合低成本测试和日常使用 | 0.3 元/刀 |\r\n\r\n### 生图专用\r\n\r\n| 分组 | 支持能力 |\r\n| --- | --- |\r\n| 生图专用 | 支持 OpenAI ",
+      "url": "https://www.v2ex.com/t/1222537",
+      "author": "zws74100000",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-06-24T06:59:54",
+      "fetched_at": "2026-06-24T07:40:18.637482+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1221793",
       "source": "v2ex",
       "subreddit": 12,
@@ -4721,7 +4758,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-21T12:25:47",
-      "fetched_at": "2026-06-24T03:31:14.154124+00:00",
+      "fetched_at": "2026-06-24T07:40:15.901026+00:00",
       "relevance_score": 30,
       "deal_types": [
         "区域套利",
@@ -5106,7 +5143,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-22T14:50:55",
-      "fetched_at": "2026-06-24T03:31:47.796595+00:00",
+      "fetched_at": "2026-06-24T07:40:50.722919+00:00",
       "relevance_score": 30,
       "deal_types": [
         "学生/教育"
@@ -5356,7 +5393,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-23T16:19:41",
-      "fetched_at": "2026-06-24T03:31:14.154062+00:00",
+      "fetched_at": "2026-06-24T07:40:15.900979+00:00",
       "relevance_score": 29,
       "deal_types": [
         "区域套利"
@@ -5430,7 +5467,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-06-18T16:29:51",
-      "fetched_at": "2026-06-24T03:31:59.036434+00:00",
+      "fetched_at": "2026-06-24T07:41:02.192250+00:00",
       "relevance_score": 29,
       "deal_types": [
         "拼车/合租",
@@ -5991,7 +6028,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-24T01:53:15",
-      "fetched_at": "2026-06-24T03:31:16.943079+00:00",
+      "fetched_at": "2026-06-24T07:40:18.637504+00:00",
       "relevance_score": 28,
       "deal_types": [
         "降价/折扣",
@@ -6028,7 +6065,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-20T17:46:36",
-      "fetched_at": "2026-06-24T03:32:08.604508+00:00",
+      "fetched_at": "2026-06-24T07:41:10.516470+00:00",
       "relevance_score": 28,
       "deal_types": [
         "学生/教育",
@@ -6614,7 +6651,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-22T10:52:59",
-      "fetched_at": "2026-06-24T03:31:34.409415+00:00",
+      "fetched_at": "2026-06-24T07:40:36.234165+00:00",
       "relevance_score": 27,
       "deal_types": [
         "拼车/合租",
@@ -7301,7 +7338,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-16T16:58:12Z",
-      "fetched_at": "2026-06-24T03:32:10.604454+00:00",
+      "fetched_at": "2026-06-24T07:41:12.538091+00:00",
       "relevance_score": 26,
       "deal_types": [
         "降价/折扣",
@@ -7312,18 +7349,18 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
         "Copilot",
+        "Claude",
         "Cursor"
       ],
       "companies": [
+        "Cursor",
         "Microsoft",
-        "Anthropic",
-        "Cursor"
+        "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Copilot",
+        "Claude",
         "Cursor",
         "降价/折扣",
         "API优惠"
@@ -7341,7 +7378,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-16T11:11:22",
-      "fetched_at": "2026-06-24T03:31:14.154150+00:00",
+      "fetched_at": "2026-06-24T07:40:15.901056+00:00",
       "relevance_score": 26,
       "deal_types": [
         "拼车/合租",
@@ -7643,7 +7680,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-02T14:38:18Z",
-      "fetched_at": "2026-06-24T03:32:18.982895+00:00",
+      "fetched_at": "2026-06-24T07:41:21.220652+00:00",
       "relevance_score": 26,
       "deal_types": [
         "学生/教育",
@@ -8111,37 +8148,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1221736",
-      "source": "v2ex",
-      "subreddit": 69,
-      "title": "ChatGPT Pro（Codex 20X）长期拼车｜还差 2 个车位",
-      "body": "🚗 ChatGPT Pro （ Codex 20X ）拼车\r\n\r\n剩余 2 个车位\r\n\r\n💰 320 元/月/人\r\n✅ ChatGPT Pro\r\n✅ Codex 20X\r\n✅ 长期稳定\r\n✅ 微信群管理\r\n\r\n微信：HeatLX\r\n加好友备注：Pro 拼车 即可。",
-      "url": "https://www.v2ex.com/t/1221736",
-      "author": "bofei",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-06-21T05:34:39",
-      "fetched_at": "2026-06-24T03:31:42.394613+00:00",
-      "relevance_score": 25,
-      "deal_types": [
-        "拼车/合租"
-      ],
-      "deal_types_en": [
-        "Group Buy"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "拼车/合租"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "hn_48568673",
       "source": "hackernews",
       "subreddit": "",
@@ -8186,7 +8192,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-15T01:41:22",
-      "fetched_at": "2026-06-24T03:31:19.959618+00:00",
+      "fetched_at": "2026-06-24T07:40:21.554896+00:00",
       "relevance_score": 25,
       "deal_types": [
         "免费/试用",
@@ -8260,7 +8266,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-12T12:01:23",
-      "fetched_at": "2026-06-24T03:31:25.958755+00:00",
+      "fetched_at": "2026-06-24T07:40:26.548600+00:00",
       "relevance_score": 25,
       "deal_types": [
         "区域套利",
@@ -8328,7 +8334,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-10T03:43:07",
-      "fetched_at": "2026-06-24T03:31:25.958811+00:00",
+      "fetched_at": "2026-06-24T07:40:26.548631+00:00",
       "relevance_score": 25,
       "deal_types": [
         "区域套利",
@@ -8399,7 +8405,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-07T15:14:21",
-      "fetched_at": "2026-06-24T03:31:25.958814+00:00",
+      "fetched_at": "2026-06-24T07:40:26.548634+00:00",
       "relevance_score": 25,
       "deal_types": [
         "区域套利",
@@ -9071,40 +9077,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1222317",
-      "source": "v2ex",
-      "subreddit": "programmer",
-      "title": "为了省点 Claude Code 钱，研究到了凌晨 3 点",
-      "body": "昨天晚上，我突然觉得 Claude Code 有点贵。\r\n\r\n当然，不是昨天才觉得。\r\n\r\n是每次看到额度快见底的时候，都会有一种熟悉的味道。\r\n\r\n就像穷的时候看着钱包里最后的碎银几两。\r\n\r\n总觉得还能再撑两天。\r\n\r\n\r\n于是我开始思考一个问题。\r\n\r\n有没有什么办法，可以让 Claude Code Token 消耗的慢一些？\r\n\r\n作为一个从小穷过的人，我有个不太好的习惯。\r\n\r\n就是当钱要花出去的时候，第一反应不是扫码，\r\n\r\n而是看看能不能，晚一点再支付。\r\n\r\n\r\n这时候，窗外的一抹夕阳，照射在我脸上，多么高光的时刻。\r\n\r\n顶着不下班的幌子，启动了我那不太优秀，但爱钻研学习的大脑。\r\n\r\n\r\n第一个想法：\r\n\r\n用 Claude code ，主要用的还是 Opus 4.8 ，也是目前能用最贵的。\r\n\r\n执行一个任务，它总要疯狂地看文件、修改文件\r\n\r\n如果是只让 Opus 负责思考、总结、下达任务，而那些搬砖、码字、改文件的脏活、累活，都让本地模型跑，或者更便宜的模型跑，这样是不是会更好？\r\n\r\n\r\n说干就干，名字叫 dsb 。\r\n\r\n为啥？咱不是要省 token 吗？",
-      "url": "https://www.v2ex.com/t/1222317",
-      "author": "olddogs",
-      "score": 0,
-      "num_comments": 22,
-      "created_at": "2026-06-23T09:12:54+00:00",
-      "fetched_at": "2026-06-24T03:31:09.775046+00:00",
-      "relevance_score": 24,
-      "deal_types": [
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1222078",
       "source": "v2ex",
       "subreddit": 69,
@@ -9115,7 +9087,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-22T12:21:19",
-      "fetched_at": "2026-06-24T03:31:16.943130+00:00",
+      "fetched_at": "2026-06-24T07:40:18.637548+00:00",
       "relevance_score": 24,
       "deal_types": [
         "拼车/合租",
@@ -9322,7 +9294,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T01:53:27",
-      "fetched_at": "2026-06-24T03:31:25.958806+00:00",
+      "fetched_at": "2026-06-24T07:40:26.548626+00:00",
       "relevance_score": 24,
       "deal_types": [
         "区域套利",
@@ -9504,7 +9476,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-05T09:00:19",
-      "fetched_at": "2026-06-24T03:31:53.211493+00:00",
+      "fetched_at": "2026-06-24T07:40:56.444280+00:00",
       "relevance_score": 24,
       "deal_types": [
         "区域套利",
@@ -10446,7 +10418,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-23T14:41:12",
-      "fetched_at": "2026-06-24T03:31:16.943084+00:00",
+      "fetched_at": "2026-06-24T07:40:18.637508+00:00",
       "relevance_score": 23,
       "deal_types": [
         "API优惠"
@@ -10637,6 +10609,37 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1221736",
+      "source": "v2ex",
+      "subreddit": 69,
+      "title": "ChatGPT Pro（Codex 20X）长期拼车｜还差 2 个车位",
+      "body": "🚗 ChatGPT Pro （ Codex 20X ）拼车\r\n\r\n剩余 2 个车位\r\n\r\n💰 320 元/月/人\r\n✅ ChatGPT Pro\r\n✅ Codex 20X\r\n✅ 长期稳定\r\n✅ 微信群管理\r\n\r\n微信：HeatLX\r\n加好友备注：Pro 拼车 即可。",
+      "url": "https://www.v2ex.com/t/1221736",
+      "author": "bofei",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-06-21T05:34:39",
+      "fetched_at": "2026-06-24T07:40:44.726640+00:00",
+      "relevance_score": 23,
+      "deal_types": [
+        "拼车/合租"
+      ],
+      "deal_types_en": [
+        "Group Buy"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "拼车/合租"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1221653",
       "source": "v2ex",
       "subreddit": "programmer",
@@ -10715,7 +10718,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-18T01:32:16",
-      "fetched_at": "2026-06-24T03:31:19.959604+00:00",
+      "fetched_at": "2026-06-24T07:40:21.554880+00:00",
       "relevance_score": 23,
       "deal_types": [
         "降价/折扣",
@@ -10752,7 +10755,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-18T01:10:36",
-      "fetched_at": "2026-06-24T03:31:56.152191+00:00",
+      "fetched_at": "2026-06-24T07:40:58.981879+00:00",
       "relevance_score": 23,
       "deal_types": [
         "免费/试用",
@@ -10767,8 +10770,8 @@
         "Cursor"
       ],
       "companies": [
-        "Anthropic",
-        "Cursor"
+        "Cursor",
+        "Anthropic"
       ],
       "tags": [
         "Claude",
@@ -10857,7 +10860,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-12T10:08:02",
-      "fetched_at": "2026-06-24T03:31:14.154156+00:00",
+      "fetched_at": "2026-06-24T07:40:15.901062+00:00",
       "relevance_score": 23,
       "deal_types": [
         "API优惠"

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T21:30:33.827217+00:00",
+  "last_updated": "2026-07-02T03:32:35.713733+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 264,
@@ -54,7 +54,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T09:19:35",
-      "fetched_at": "2026-07-01T21:28:01.621170+00:00",
+      "fetched_at": "2026-07-02T03:30:08.038536+00:00",
       "relevance_score": 79,
       "deal_types": [
         "区域套利",
@@ -71,8 +71,8 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
@@ -344,7 +344,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-25T07:29:53",
-      "fetched_at": "2026-07-01T21:28:42.252245+00:00",
+      "fetched_at": "2026-07-02T03:30:51.092413+00:00",
       "relevance_score": 59,
       "deal_types": [
         "拼车/合租",
@@ -365,8 +365,8 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
@@ -390,7 +390,7 @@
       "score": 0,
       "num_comments": 120,
       "created_at": "2026-03-23T05:25:36",
-      "fetched_at": "2026-07-01T21:28:23.363704+00:00",
+      "fetched_at": "2026-07-02T03:30:31.420934+00:00",
       "relevance_score": 59,
       "deal_types": [
         "区域套利",
@@ -409,8 +409,8 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
@@ -581,7 +581,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T03:11:36",
-      "fetched_at": "2026-07-01T21:28:28.418650+00:00",
+      "fetched_at": "2026-07-02T03:30:36.758948+00:00",
       "relevance_score": 55,
       "deal_types": [
         "区域套利",
@@ -772,7 +772,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-23T02:33:30",
-      "fetched_at": "2026-07-01T21:27:56.491922+00:00",
+      "fetched_at": "2026-07-02T03:30:02.707839+00:00",
       "relevance_score": 48,
       "deal_types": [
         "拼车/合租",
@@ -789,16 +789,16 @@
         "API Deal"
       ],
       "products": [
-        "Gemini",
-        "Claude"
+        "Claude",
+        "Gemini"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "拼车/合租",
         "优惠码",
         "礼品卡",
@@ -1633,43 +1633,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1224134",
-      "source": "v2ex",
-      "subreddit": "apple",
-      "title": "使用土耳其 appleid 订阅的 claude/chatgpt 会员，账号被封后申请退款， appleid 有概率被封",
-      "body": "具体规律没有研究明白，但我 的两个土耳其 appleid 都是在申请退款后的次日被封，被封后，即使账户有余额也很难退款，联系客服，客服回复[关于这个问题，我无法帮助到你]\r\n\r\n账号来源：牛牛苹果\r\n提交时网络环境：cn\r\n支付方式：iTunes card\r\niTunes card 来源：seagm\r\n账号已绑个人手机号\r\n\r\n大家尽量小心些吧",
-      "url": "https://www.v2ex.com/t/1224134",
-      "author": "losscontrol",
-      "score": 0,
-      "num_comments": 2,
-      "created_at": "2026-07-01T02:41:08+00:00",
-      "fetched_at": "2026-07-01T21:27:42.863676+00:00",
-      "relevance_score": 41,
-      "deal_types": [
-        "区域套利",
-        "礼品卡"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Gift Card"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "ChatGPT",
-        "Claude",
-        "区域套利",
-        "礼品卡"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1221728",
       "source": "v2ex",
       "subreddit": 864,
@@ -1783,6 +1746,43 @@
         "免费/试用",
         "薅羊毛/技巧",
         "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1224134",
+      "source": "v2ex",
+      "subreddit": 184,
+      "title": "使用土耳其 appleid 订阅的 claude/chatgpt 会员，账号被封后申请退款， appleid 有概率被封",
+      "body": "具体规律没有研究明白，但我 的两个土耳其 appleid 都是在申请退款后的次日被封，被封后，即使账户有余额也很难退款，联系客服，客服回复[关于这个问题，我无法帮助到你]\r\n\r\n账号来源：牛牛苹果\r\n提交时网络环境：cn\r\n支付方式：iTunes card\r\niTunes card 来源：seagm\r\n账号已绑个人手机号\r\n\r\n大家尽量小心些吧",
+      "url": "https://www.v2ex.com/t/1224134",
+      "author": "losscontrol",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-07-01T02:41:08",
+      "fetched_at": "2026-07-02T03:30:08.038330+00:00",
+      "relevance_score": 39,
+      "deal_types": [
+        "区域套利",
+        "礼品卡"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Gift Card"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "区域套利",
+        "礼品卡"
       ],
       "is_deal": true
     },
@@ -2010,7 +2010,7 @@
       "score": 0,
       "num_comments": 28,
       "created_at": "2026-03-21T07:58:01",
-      "fetched_at": "2026-07-01T21:28:23.363710+00:00",
+      "fetched_at": "2026-07-02T03:30:31.420945+00:00",
       "relevance_score": 39,
       "deal_types": [
         "礼品卡",
@@ -2048,9 +2048,9 @@
       "url": "https://www.v2ex.com/t/1224350",
       "author": "qinsisuo",
       "score": 0,
-      "num_comments": 0,
+      "num_comments": 3,
       "created_at": "2026-07-01T16:47:18+00:00",
-      "fetched_at": "2026-07-01T21:27:42.863473+00:00",
+      "fetched_at": "2026-07-02T03:29:50.408631+00:00",
       "relevance_score": 38,
       "deal_types": [
         "区域套利",
@@ -2084,7 +2084,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T09:47:16",
-      "fetched_at": "2026-07-01T21:27:53.567762+00:00",
+      "fetched_at": "2026-07-02T03:29:59.835838+00:00",
       "relevance_score": 38,
       "deal_types": [
         "拼车/合租",
@@ -2343,7 +2343,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-29T13:56:49",
-      "fetched_at": "2026-07-01T21:28:12.223165+00:00",
+      "fetched_at": "2026-07-02T03:30:18.862902+00:00",
       "relevance_score": 37,
       "deal_types": [
         "优惠码",
@@ -2650,6 +2650,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1224363",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[aitokensflux] 主打 cx-Pro20 / cc-Max20， GPT 0.2 倍率，回复后进群 @机器人 /cdk 每天领 5 美元，活动到 7 月 3 日，还剩 2 天，欢迎大家来测试。",
+      "body": "大家好，我们做了一个 AI API 中转站点：Ai Tokens Flux 。\r\n\r\n站点： https://aitokensflux.com\r\nQQ 群：826073513\r\n\r\n目前主推：\r\n\r\n- cx-Pro20：GPT / Codex 相关，当前 0.2X 倍率\r\n- cc-Max20：Claude 相关，1.3X 倍率\r\n\r\n活动说明：\r\n\r\n进群后，@群机器人发送：\r\n\r\n/cdk\r\n\r\n即可领取兑换码。\r\n\r\n活动期间每个 QQ 用户每天可领取 1 次，每次 5 美元额度，新老用户都可以参与。\r\n\r\n领取到兑换码后，到 TokenFlux 后台的「立即充值」处兑换使用。\r\n\r\n活动截止时间：2026 年 7 月 3 日 23:59:59 。\r\n\r\n我们希望把规则做得简单一点：\r\n\r\n- 充值 1 RMB 到账 1 余额\r\n- 不掺假\r\n- 不随意调价\r\n- 重视数据隐私\r\n- 支持无理由退款\r\n\r\n企业用户或调用量较大的用户，可以联系做独立号池、直连状态和独立售后。\r\n\r\n欢迎大家进群测试，也欢迎反馈稳定性、价格和体验问题。",
+      "url": "https://www.v2ex.com/t/1224363",
+      "author": "liuxm6",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-07-02T00:11:10",
+      "fetched_at": "2026-07-02T03:29:59.835652+00:00",
+      "relevance_score": 36,
+      "deal_types": [
+        "优惠码",
+        "礼品卡",
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Gift Card",
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "优惠码",
+        "礼品卡",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1224181",
       "source": "v2ex",
       "subreddit": 864,
@@ -2814,7 +2854,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-26T02:22:50",
-      "fetched_at": "2026-07-01T21:27:56.491899+00:00",
+      "fetched_at": "2026-07-02T03:30:02.707818+00:00",
       "relevance_score": 36,
       "deal_types": [
         "优惠码",
@@ -3201,40 +3241,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1223583",
-      "source": "v2ex",
-      "subreddit": 1148,
-      "title": "Claude 尼日利亚 AppStore 订阅 涨价了?",
-      "body": "今天刷了一下比价网站,价格翻倍了?\r\nClaude Pro - Monthly NGN 29900.00 (≈ ¥147.61)\r\nClaude Max 5x - Monthly NGN 199900.00 (≈ ¥986.84)\r\nClaude Max 20x - Monthly NGN 399900.00 (≈ ¥1974.17)\r\n\r\n\r\n礼品卡也涨价,现在订阅价格也翻倍了,不过 appstore 订阅下个月还是原价是吧,就和土耳其 gpt 涨价一样",
-      "url": "https://www.v2ex.com/t/1223583",
-      "author": "b2byco",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-06-29T02:22:02",
-      "fetched_at": "2026-07-01T21:27:53.567808+00:00",
-      "relevance_score": 35,
-      "deal_types": [
-        "区域套利",
-        "礼品卡"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Gift Card"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "区域套利",
-        "礼品卡"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1222175",
       "source": "v2ex",
       "subreddit": 12,
@@ -3245,7 +3251,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-23T02:35:12",
-      "fetched_at": "2026-07-01T21:27:51.023248+00:00",
+      "fetched_at": "2026-07-02T03:29:57.658713+00:00",
       "relevance_score": 35,
       "deal_types": [
         "免费/试用",
@@ -3260,8 +3266,8 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
@@ -3612,7 +3618,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T09:20:05",
-      "fetched_at": "2026-07-01T21:28:39.441018+00:00",
+      "fetched_at": "2026-07-02T03:30:48.603271+00:00",
       "relevance_score": 34,
       "deal_types": [
         "免费/试用",
@@ -3623,19 +3629,19 @@
         "API Deal"
       ],
       "products": [
-        "Gemini",
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "OpenAI",
-        "Google",
-        "Anthropic"
-      ],
-      "tags": [
-        "Gemini",
         "ChatGPT",
         "Claude",
+        "Gemini"
+      ],
+      "companies": [
+        "Google",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
         "免费/试用",
         "API优惠"
       ],
@@ -4015,7 +4021,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T11:59:37",
-      "fetched_at": "2026-07-01T21:27:53.567736+00:00",
+      "fetched_at": "2026-07-02T03:29:59.835670+00:00",
       "relevance_score": 33,
       "deal_types": [
         "优惠码",
@@ -4055,7 +4061,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T10:05:42",
-      "fetched_at": "2026-07-01T21:28:09.649573+00:00",
+      "fetched_at": "2026-07-02T03:30:16.547800+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -4125,6 +4131,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1223583",
+      "source": "v2ex",
+      "subreddit": 1148,
+      "title": "Claude 尼日利亚 AppStore 订阅 涨价了?",
+      "body": "今天刷了一下比价网站,价格翻倍了?\r\nClaude Pro - Monthly NGN 29900.00 (≈ ¥147.61)\r\nClaude Max 5x - Monthly NGN 199900.00 (≈ ¥986.84)\r\nClaude Max 20x - Monthly NGN 399900.00 (≈ ¥1974.17)\r\n\r\n\r\n礼品卡也涨价,现在订阅价格也翻倍了,不过 appstore 订阅下个月还是原价是吧,就和土耳其 gpt 涨价一样",
+      "url": "https://www.v2ex.com/t/1223583",
+      "author": "b2byco",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-06-29T02:22:02",
+      "fetched_at": "2026-07-02T03:29:59.835881+00:00",
+      "relevance_score": 33,
+      "deal_types": [
+        "区域套利",
+        "礼品卡"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Gift Card"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "区域套利",
+        "礼品卡"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1223310",
       "source": "v2ex",
       "subreddit": 1202,
@@ -4135,7 +4175,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-27T07:47:49",
-      "fetched_at": "2026-07-01T21:28:42.252240+00:00",
+      "fetched_at": "2026-07-02T03:30:51.092407+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -4212,7 +4252,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T03:05:46",
-      "fetched_at": "2026-07-01T21:28:01.621176+00:00",
+      "fetched_at": "2026-07-02T03:30:08.038542+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -4246,7 +4286,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-07-01T21:28:01.621178+00:00",
+      "fetched_at": "2026-07-02T03:30:08.038544+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -4557,7 +4597,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-21T03:50:31",
-      "fetched_at": "2026-07-01T21:28:42.252279+00:00",
+      "fetched_at": "2026-07-02T03:30:51.092448+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -4576,8 +4616,8 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
@@ -4976,7 +5016,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-29T05:13:17",
-      "fetched_at": "2026-07-01T21:28:33.894732+00:00",
+      "fetched_at": "2026-07-02T03:30:43.114841+00:00",
       "relevance_score": 31,
       "deal_types": [
         "降价/折扣",
@@ -4991,8 +5031,8 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
@@ -5731,7 +5771,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T05:44:05",
-      "fetched_at": "2026-07-01T21:28:17.835223+00:00",
+      "fetched_at": "2026-07-02T03:30:25.415886+00:00",
       "relevance_score": 30,
       "deal_types": [
         "拼车/合租",
@@ -6218,7 +6258,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-22T14:50:55",
-      "fetched_at": "2026-07-01T21:28:23.363673+00:00",
+      "fetched_at": "2026-07-02T03:30:31.420907+00:00",
       "relevance_score": 30,
       "deal_types": [
         "学生/教育"
@@ -7710,40 +7750,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1224135",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "超低价 Codex API，最低每刀不到 0.05R，纯血 gpt plus 号池反代，可用 gpt5.5， gpt-image2，稳定好用",
-      "body": "https://pay.ldxp.cn/shop/O1Q7PYYC",
-      "url": "https://www.v2ex.com/t/1224135",
-      "author": "runcode",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-01T02:42:16",
-      "fetched_at": "2026-07-01T21:28:33.894691+00:00",
-      "relevance_score": 27,
-      "deal_types": [
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1223689",
       "source": "v2ex",
       "subreddit": "programmer",
@@ -7788,7 +7794,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-26T08:23:33",
-      "fetched_at": "2026-07-01T21:27:51.023233+00:00",
+      "fetched_at": "2026-07-02T03:29:57.658698+00:00",
       "relevance_score": 27,
       "deal_types": [
         "免费/试用"
@@ -7893,7 +7899,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-21T12:25:47",
-      "fetched_at": "2026-07-01T21:27:51.023259+00:00",
+      "fetched_at": "2026-07-02T03:29:57.658726+00:00",
       "relevance_score": 27,
       "deal_types": [
         "区域套利",
@@ -8614,7 +8620,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-30T06:21:21",
-      "fetched_at": "2026-07-01T21:28:17.835230+00:00",
+      "fetched_at": "2026-07-02T03:30:25.415892+00:00",
       "relevance_score": 26,
       "deal_types": [
         "拼车/合租",
@@ -8648,7 +8654,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-29T06:59:14",
-      "fetched_at": "2026-07-01T21:28:17.835239+00:00",
+      "fetched_at": "2026-07-02T03:30:25.416096+00:00",
       "relevance_score": 26,
       "deal_types": [
         "拼车/合租",
@@ -8663,8 +8669,8 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
@@ -8685,7 +8691,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-28T15:34:35",
-      "fetched_at": "2026-07-01T21:27:51.023215+00:00",
+      "fetched_at": "2026-07-02T03:29:57.658681+00:00",
       "relevance_score": 26,
       "deal_types": [
         "API优惠"
@@ -8694,19 +8700,19 @@
         "API Deal"
       ],
       "products": [
-        "Gemini",
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "OpenAI",
-        "Google",
-        "Anthropic"
-      ],
-      "tags": [
-        "Gemini",
         "ChatGPT",
         "Claude",
+        "Gemini"
+      ],
+      "companies": [
+        "Google",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
         "API优惠"
       ],
       "is_deal": true
@@ -9600,6 +9606,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1224135",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "超低价 Codex API，最低每刀不到 0.05R，纯血 gpt plus 号池反代，可用 gpt5.5， gpt-image2，稳定好用",
+      "body": "https://pay.ldxp.cn/shop/O1Q7PYYC",
+      "url": "https://www.v2ex.com/t/1224135",
+      "author": "runcode",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-07-01T02:42:16",
+      "fetched_at": "2026-07-02T03:30:43.114824+00:00",
+      "relevance_score": 25,
+      "deal_types": [
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "hn_48734560",
       "source": "hackernews",
       "subreddit": "",
@@ -9644,7 +9684,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-30T01:56:03",
-      "fetched_at": "2026-07-01T21:28:17.835233+00:00",
+      "fetched_at": "2026-07-02T03:30:25.416088+00:00",
       "relevance_score": 25,
       "deal_types": [
         "拼车/合租",
@@ -9681,7 +9721,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-25T05:00:46",
-      "fetched_at": "2026-07-01T21:28:25.712560+00:00",
+      "fetched_at": "2026-07-02T03:30:34.284319+00:00",
       "relevance_score": 25,
       "deal_types": [
         "礼品卡",
@@ -9696,8 +9736,8 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
@@ -9752,7 +9792,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-24T06:59:54",
-      "fetched_at": "2026-07-01T21:27:56.491902+00:00",
+      "fetched_at": "2026-07-02T03:30:02.707821+00:00",
       "relevance_score": 25,
       "deal_types": [
         "降价/折扣",
@@ -9767,8 +9807,8 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
@@ -9897,7 +9937,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-12T12:01:23",
-      "fetched_at": "2026-07-01T21:28:01.621153+00:00",
+      "fetched_at": "2026-07-02T03:30:08.038525+00:00",
       "relevance_score": 25,
       "deal_types": [
         "区域套利",
@@ -10742,43 +10782,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1223536",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "Claude360，一个面向开发者和团队的 Claude / GPT 模型中转服务平台。",
-      "body": "大家好，我们是 **Claude360**，一个面向开发者和团队的 **Claude / GPT 模型中转服务平台**。\r\n\r\n> 🚀 **不卷倍率，我们想卷稳定性。**\r\n\r\n今天不少模型服务都出现了断断续续不可用的情况，很多中转站体验也受到了影响。\r\n\r\n对开发者来说，模型调用已经不是“尝鲜工具”，而是每天写代码、做 Code Review 、生成文档、跑 Agent 工作流的生产力基础设施。\r\n\r\n---\r\n\r\n## ✅ Claude360 的重点\r\n\r\n我们不主打极限低价，也不靠夸张倍率吸引用户。\r\n\r\n相比：\r\n\r\n> “便宜，但关键时候不可用”\r\n\r\n我们更想做的是：\r\n\r\n> **稳定、持续、适合长期放进工作流里的模型服务。**\r\n\r\n本站全部使用 **ChatGPT 官方正价 Pro 号池**，通过稳定的账号池调度，尽量保障高频开发场景下的持续可用性。\r\n\r\n---\r\n\r\n## 🤖 当前支持\r\n\r\n* Claude Opus / Sonnet / Haiku 系列\r\n* GPT-5.5 / GPT 系列模型\r\n* Kiro 反代分组\r\n\r\n适合用于：\r\n\r\n* AI 编",
-      "url": "https://www.v2ex.com/t/1223536",
-      "author": "Johnhpure",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-06-29T01:03:33",
-      "fetched_at": "2026-07-01T21:27:53.567824+00:00",
-      "relevance_score": 24,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "ChatGPT",
-        "Claude",
-        "免费/试用",
-        "降价/折扣"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1223515",
       "source": "v2ex",
       "subreddit": 17,
@@ -10823,7 +10826,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-27T11:00:11",
-      "fetched_at": "2026-07-01T21:27:56.491890+00:00",
+      "fetched_at": "2026-07-02T03:30:02.707808+00:00",
       "relevance_score": 24,
       "deal_types": [
         "拼车/合租"
@@ -10888,7 +10891,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-23T16:19:41",
-      "fetched_at": "2026-07-01T21:27:51.023245+00:00",
+      "fetched_at": "2026-07-02T03:29:57.658710+00:00",
       "relevance_score": 24,
       "deal_types": [
         "区域套利"
@@ -11092,7 +11095,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T01:53:27",
-      "fetched_at": "2026-07-01T21:28:01.621183+00:00",
+      "fetched_at": "2026-07-02T03:30:08.038552+00:00",
       "relevance_score": 24,
       "deal_types": [
         "区域套利",

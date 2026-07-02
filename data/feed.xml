@@ -5,7 +5,7 @@
     <link>https://yuxiaomeng1994-stack.github.io/ai-price-tracker/</link>
     <description>自动追踪全网 Claude/ChatGPT/Gemini 等 AI 订阅优惠信息</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 Jul 2026 03:32:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:34:15 +0000</lastBuildDate>
     <atom:link href="https://yuxiaomeng1994-stack.github.io/ai-price-tracker/data/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -21,7 +21,7 @@
       <link>https://www.v2ex.com/t/1219693</link>
       <guid isPermaLink="false">v2ex_1219693</guid>
       <pubDate>Thu, 11 Jun 2026 09:19:35 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 79 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Claude</p><p><strong>类型:</strong> 区域套利, 免费/试用, 降价/折扣</p><p>🚨 ChatGPT Plus 土区价格翻倍！ Claude 仍是尼日利亚最低价！
+      <description><![CDATA[<p><strong>评分:</strong> 79 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude, ChatGPT</p><p><strong>类型:</strong> 区域套利, 免费/试用, 降价/折扣</p><p>🚨 ChatGPT Plus 土区价格翻倍！ Claude 仍是尼日利亚最低价！
 
  [ 2026.06.11 快讯] 
 
@@ -42,7 +42,7 @@ Anthropic 近期重磅发布了最强长周期推理模型 Claude Fable 5,目前
 开 新号： 选用 菲律宾 直接接棒新低价。
 
 冲刺 Fable 5： 选用 尼日利亚号段注</p>]]></description>
-      <category>ChatGPT</category><category>Claude</category><category>区域套利</category><category>免费/试用</category><category>降价/折扣</category>
+      <category>Claude</category><category>ChatGPT</category><category>区域套利</category><category>免费/试用</category><category>降价/折扣</category>
     </item>
     <item>
       <title>PSA: ChatGPT Plus is much cheaper if you subscribe via Turkey App Store</title>
@@ -121,42 +121,11 @@ OpenAI 兼容接口：/v1/chat/completions 、/v1/responses
       <category>Gemini</category><category>Cursor</category><category>Claude</category><category>学生/教育</category><category>免费/试用</category>
     </item>
     <item>
-      <title>发现一个开源路由工具，注册各家免费 API 就能零成本撸到 10 亿+ Token</title>
-      <link>https://www.v2ex.com/t/1222796</link>
-      <guid isPermaLink="false">v2ex_1222796</guid>
-      <pubDate>Thu, 25 Jun 2026 07:29:53 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 59 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Claude</p><p><strong>类型:</strong> 拼车/合租, 免费/试用, 降价/折扣, 薅羊毛/技巧, API优惠</p><p>原理很简单：它把各家厂商的免费 API 额度整合到一起，通过一个本地路由自动分配请求，相当于白嫖一个聚合 API 。
-https://github.com/tashfeenahmed/freellmapi
-
-操作极简：
-
-1. 克隆仓库
-2. 去各家（ OpenAI 、Google 、Anthropic 等）申请免费 API key
-3. 填入配置文件
-4. 把你的应用指向本地端点
-
-30 秒就能跑起来，它自动做负载均衡和故障切换，不需要你手写回退逻辑。
-据说加起来能白嫖到 **10 亿+ 免费 Token**。
-
-当然有几点要注意：
-
-- 免费额度各家有限制，不是真的无限
-- 适合个人开发和测试用，生产环境还是建议付费
-- 延迟可能比直连高一点点
-
-但对大多数个人开发者来说，日常写代码、测试、学习用完全够了。
-
-项目已经 12.3k Star ，有没有人已经试过了，实际效果怎么样？
-
-另外 Dify 上也有人分享了一个省钱技巧：加一个 openrouter/free 节点做异常兜底，每天可以白嫖 1000 次调用。</p>]]></description>
-      <category>ChatGPT</category><category>Claude</category><category>拼车/合租</category><category>免费/试用</category><category>降价/折扣</category><category>薅羊毛/技巧</category><category>API优惠</category>
-    </item>
-    <item>
       <title>「教程揭秘向」扒完中转站掺假，再扒低价代充——顺便教你自己订阅 Claude/ChatGPT，一分钱不经手中间商</title>
       <link>https://www.v2ex.com/t/1200385</link>
       <guid isPermaLink="false">v2ex_1200385</guid>
       <pubDate>Mon, 23 Mar 2026 05:25:36 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 59 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Claude</p><p><strong>类型:</strong> 区域套利, 礼品卡, 降价/折扣, 薅羊毛/技巧</p><p>---
+      <description><![CDATA[<p><strong>评分:</strong> 59 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude, ChatGPT</p><p><strong>类型:</strong> 区域套利, 礼品卡, 降价/折扣, 薅羊毛/技巧</p><p>---
 
 上一篇扒了 AI 中转站掺假的事，评论区炸了——但说实话，被人当傻子宰了，谁能忍？
 
@@ -182,7 +151,38 @@ https://github.com/tashfeenahmed/freellmapi
 
 **③ 礼品卡链接订阅 → 赌运气**
 有些礼品卡是黑卡买的。一旦上游被追溯，你的账</p>]]></description>
-      <category>ChatGPT</category><category>Claude</category><category>区域套利</category><category>礼品卡</category><category>降价/折扣</category><category>薅羊毛/技巧</category>
+      <category>Claude</category><category>ChatGPT</category><category>区域套利</category><category>礼品卡</category><category>降价/折扣</category><category>薅羊毛/技巧</category>
+    </item>
+    <item>
+      <title>发现一个开源路由工具，注册各家免费 API 就能零成本撸到 10 亿+ Token</title>
+      <link>https://www.v2ex.com/t/1222796</link>
+      <guid isPermaLink="false">v2ex_1222796</guid>
+      <pubDate>Thu, 25 Jun 2026 07:29:53 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 58 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude, ChatGPT</p><p><strong>类型:</strong> 拼车/合租, 免费/试用, 降价/折扣, 薅羊毛/技巧, API优惠</p><p>原理很简单：它把各家厂商的免费 API 额度整合到一起，通过一个本地路由自动分配请求，相当于白嫖一个聚合 API 。
+https://github.com/tashfeenahmed/freellmapi
+
+操作极简：
+
+1. 克隆仓库
+2. 去各家（ OpenAI 、Google 、Anthropic 等）申请免费 API key
+3. 填入配置文件
+4. 把你的应用指向本地端点
+
+30 秒就能跑起来，它自动做负载均衡和故障切换，不需要你手写回退逻辑。
+据说加起来能白嫖到 **10 亿+ 免费 Token**。
+
+当然有几点要注意：
+
+- 免费额度各家有限制，不是真的无限
+- 适合个人开发和测试用，生产环境还是建议付费
+- 延迟可能比直连高一点点
+
+但对大多数个人开发者来说，日常写代码、测试、学习用完全够了。
+
+项目已经 12.3k Star ，有没有人已经试过了，实际效果怎么样？
+
+另外 Dify 上也有人分享了一个省钱技巧：加一个 openrouter/free 节点做异常兜底，每天可以白嫖 1000 次调用。</p>]]></description>
+      <category>Claude</category><category>ChatGPT</category><category>拼车/合租</category><category>免费/试用</category><category>降价/折扣</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
     <item>
       <title>新用户福利|pointfixAPI 免费 10 刀额度等你来拿 注册送站内试用额度 想请各位大佬测试体验一下</title>
@@ -916,11 +916,19 @@ https://youtu.be/-oft6v82Nv0</p>]]></description>
       <category>Claude</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
     <item>
+      <title>美区 ID 开通 ChatGPT plus 到别人帐号了怎么办</title>
+      <link>https://www.v2ex.com/t/1224350</link>
+      <guid isPermaLink="false">v2ex_1224350</guid>
+      <pubDate>Wed, 01 Jul 2026 16:47:18 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 39 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT</p><p><strong>类型:</strong> 区域套利, 降价/折扣</p><p>我的美区 Apple ID 之前帮别人开通 ChatGPT Plus ，但是我记得好像是有六个月过了六个月以后就可以再给别的号开通了，然后我刚才直接就充值了 20 美元开通以后他说我已完成购买，紧接着提示我什么开通到其他账号了然后我就去 Apple 官网申请退款了，能成功退款吗？另外我想问一下大家，现在土耳其的低价区已经没有了，大家都是用什么方式去开通呢？</p>]]></description>
+      <category>ChatGPT</category><category>区域套利</category><category>降价/折扣</category>
+    </item>
+    <item>
       <title>使用土耳其 appleid 订阅的 claude/chatgpt 会员，账号被封后申请退款， appleid 有概率被封</title>
       <link>https://www.v2ex.com/t/1224134</link>
       <guid isPermaLink="false">v2ex_1224134</guid>
       <pubDate>Wed, 01 Jul 2026 02:41:08 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 39 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Claude</p><p><strong>类型:</strong> 区域套利, 礼品卡</p><p>具体规律没有研究明白，但我 的两个土耳其 appleid 都是在申请退款后的次日被封，被封后，即使账户有余额也很难退款，联系客服，客服回复[关于这个问题，我无法帮助到你]
+      <description><![CDATA[<p><strong>评分:</strong> 39 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude, ChatGPT</p><p><strong>类型:</strong> 区域套利, 礼品卡</p><p>具体规律没有研究明白，但我 的两个土耳其 appleid 都是在申请退款后的次日被封，被封后，即使账户有余额也很难退款，联系客服，客服回复[关于这个问题，我无法帮助到你]
 
 账号来源：牛牛苹果
 提交时网络环境：cn
@@ -929,7 +937,7 @@ iTunes card 来源：seagm
 账号已绑个人手机号
 
 大家尽量小心些吧</p>]]></description>
-      <category>ChatGPT</category><category>Claude</category><category>区域套利</category><category>礼品卡</category>
+      <category>Claude</category><category>ChatGPT</category><category>区域套利</category><category>礼品卡</category>
     </item>
     <item>
       <title>智友社上新啦， Claude-Kiro VIP API KEY 800M Token RPM 800（7 天有效期，支持 opus4.7/4.8）</title>
@@ -970,31 +978,6 @@ iTunes card 来源：seagm
       <pubDate>Thu, 04 Jun 2026 05:37:31 +0000</pubDate>
       <description><![CDATA[<p><strong>评分:</strong> 39 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT</p><p><strong>类型:</strong> 区域套利, 优惠码, 礼品卡</p><p>想订阅 ChatGPT 的 plus 会员</p>]]></description>
       <category>ChatGPT</category><category>区域套利</category><category>优惠码</category><category>礼品卡</category>
-    </item>
-    <item>
-      <title>[源头工厂] 顶级 GPT&amp;Claude ProMAX， $20 刀 Codex/GPT5 免费体验，企业级稳定！</title>
-      <link>https://www.v2ex.com/t/1217435</link>
-      <guid isPermaLink="false">v2ex_1217435</guid>
-      <pubDate>Tue, 02 Jun 2026 15:47:14 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 39 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude</p><p><strong>类型:</strong> 免费/试用, API优惠</p><p>#MuskAI 稳定生产力的源泉
-
-- 💎超大源头 GPT5.5 、Claude 纯正 MAX20
-- 💎超低延迟，专线接入
-- 💎稳定持续可用，适合长期使用与业务接入
-- 💎适合需要稳定渠道的客户！
-
-V 友专属福利：$20 刀 Codex/GPT5 爽用
-
-领取步骤
-- 1 、加入 TG 群： https://t.me/muskapi
-- 2 、打开 http://muskapi.cc 注册账户
-- 3 、在本帖回帖，留下你的注册邮箱，将为你发放订阅（不是余额，到 [我的订阅] 页面查收）
-
-&gt; 数千名用户优选，感谢大家的信任，我们一直坚持为大家提供能力范围内最佳的 AI 服务
-
-![codex.jpg](  )
-![claude20.jpg](  )</p>]]></description>
-      <category>Claude</category><category>免费/试用</category><category>API优惠</category>
     </item>
   </channel>
 </rss>

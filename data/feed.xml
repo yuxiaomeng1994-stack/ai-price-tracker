@@ -5,7 +5,7 @@
     <link>https://yuxiaomeng1994-stack.github.io/ai-price-tracker/</link>
     <description>自动追踪全网 Claude/ChatGPT/Gemini 等 AI 订阅优惠信息</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 12 Jul 2026 20:47:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 02:43:22 +0000</lastBuildDate>
     <atom:link href="https://yuxiaomeng1994-stack.github.io/ai-price-tracker/data/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -389,7 +389,7 @@ Gemini pro 也可以代充，欢迎咨询。
       <link>https://www.v2ex.com/t/1222174</link>
       <guid isPermaLink="false">v2ex_1222174</guid>
       <pubDate>Tue, 23 Jun 2026 02:33:30 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 48 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude, Gemini</p><p><strong>类型:</strong> 拼车/合租, 优惠码, 礼品卡, 免费/试用, API优惠</p><p>大家好，嘀嘀嘀 AI （ dddAI ）继续做拉新。
+      <description><![CDATA[<p><strong>评分:</strong> 48 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Gemini, Claude</p><p><strong>类型:</strong> 拼车/合租, 优惠码, 礼品卡, 免费/试用, API优惠</p><p>大家好，嘀嘀嘀 AI （ dddAI ）继续做拉新。
 
 自建 Pro 号池 API 中转，GPT 低倍率分组，Claude / Gemini 等常用模型也一起支持，个人开发、团队工具、自建站和下游应用都可以接。
 
@@ -411,7 +411,7 @@ Gemini pro 也可以代充，欢迎咨询。
 - 当前活动是余额充值加赠，充值 `¥1 = $1` 入余额，按美元额度计价，可用于站内可见模型。
 - 活动期内充值 / 兑换码入账自动加赠 10%，单笔满 $10 触发。大概就是充 $10 送 $1 ，充 $100 送 $10 。
 - 活动期间 Plus 分组目前是 `0.12` </p>]]></description>
-      <category>Claude</category><category>Gemini</category><category>拼车/合租</category><category>优惠码</category><category>礼品卡</category><category>免费/试用</category><category>API优惠</category>
+      <category>Gemini</category><category>Claude</category><category>拼车/合租</category><category>优惠码</category><category>礼品卡</category><category>免费/试用</category><category>API优惠</category>
     </item>
     <item>
       <title>Cursor Pro free for open source maintainers</title>
@@ -702,6 +702,29 @@ LCSC9WHOU56AV3KB
       <pubDate>Sun, 10 May 2026 20:00:00 +0000</pubDate>
       <description><![CDATA[<p><strong>评分:</strong> 45 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT</p><p><strong>类型:</strong> API优惠, 薅羊毛/技巧</p><p>OpenAI 给新注册用户 $5 免费 API 额度。如果你有多个手机号可以多次获取。配合某些接码平台成本极低。仅供学习用途。</p>]]></description>
       <category>ChatGPT</category><category>API优惠</category><category>薅羊毛/技巧</category>
+    </item>
+    <item>
+      <title>自己搭的 Claude / AI API 网关,开放注册了,顺便说下邮箱限制</title>
+      <link>https://www.v2ex.com/t/1226821</link>
+      <guid isPermaLink="false">v2ex_1226821</guid>
+      <pubDate>Mon, 13 Jul 2026 00:57:43 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 44 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Gemini, Claude, ChatGPT</p><p><strong>类型:</strong> 学生/教育, 薅羊毛/技巧, API优惠</p><p>之前发过一次,自己搭着玩的 AI 模型 API 中转,平时自己和朋友在用,跑了一段时间还算稳定,继续开放一些注册名额。
+
+- 兼容 Anthropic / OpenAI 格式,常见客户端和编辑器插件直接就能接
+- Claude / GPT / Gemini 这些常用模型都有
+- 新注册送了点额度,可以先试试再决定用不用
+- 怎么接入看站内教程就行
+
+之前被人批量注册小号薅新人额度薅得有点狠,所以现在注册加了邮箱域名限制,**只支持这些邮箱**:
+
+`gmail.com` / `outlook.com` / `hotmail.com` / `qq.com` / `foxmail.com` / `163.com` / `126.com` / `139.com` / `*.edu.cn` 教育邮箱
+
+用别的邮箱注册不了是正常的,换个上面的就行,见谅。
+
+如果是公司或团队,想统一用自己公司域名的邮箱(比如 `@yourcompany.com`)批量给成员注册,可以站内私信我,单独给你们域名加白。
+
+链接放附言里,佛系维护,有问题私信</p>]]></description>
+      <category>Gemini</category><category>Claude</category><category>ChatGPT</category><category>学生/教育</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
     <item>
       <title>中转站破千庆典送福利： GPT&amp;Claude 免费额度开放领取 加群参与抽奖和各种福利</title>
@@ -1015,32 +1038,6 @@ TG 频道： https://t.me/Ai_0elog
   
   自己用 Claude 比较多,顺手做成了服务。欢迎试用,有问题直接反馈。</p>]]></description>
       <category>Claude</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
-    </item>
-    <item>
-      <title>二狗 API｜ GPT/Claude 纯血模型 0.1x~0.2x 低价 API</title>
-      <link>https://www.v2ex.com/t/1221728</link>
-      <guid isPermaLink="false">v2ex_1221728</guid>
-      <pubDate>Sun, 21 Jun 2026 04:52:46 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 40 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude</p><p><strong>类型:</strong> 优惠码, 礼品卡, 免费/试用, 降价/折扣, API优惠</p><p>**二狗 API**： https://ergouapi.com/
-
-- 全站定价 0.1x~0.2x 超低倍率，主打纯血原生大模型接口：GPT 全系列、Claude 全系列。
-- 郑重承诺：全站接口绝不掺水、不降级、不套壳中转；发现模型注水 / 降级，支持无条件全额退款。
-
-**开票服务**
-
-1. 支持个人 / 企业正规开票，主体为科技类公司
-2. 满 200 元即可申请开票，无额外开票手续费
-
-**完整退款规则**
-
-1. 退款仅收取 5% 手续费（覆盖 Stripe 渠道费 + 人工处理成本）
-2. 无过期限制：未消耗实付余额随时可退
-3. 退款核算口径：仅计算用户实际支付金额，赠送额度、活动奖励、KOL 邀请奖励、优惠折扣、兑换码权益不计入可退款余额
-
-评论区留言 **用户名** 可获得 **￥ 5**
-
-欢迎各位开发者、工作室注册使用，有任何问题可站内留言咨询.</p>]]></description>
-      <category>Claude</category><category>优惠码</category><category>礼品卡</category><category>免费/试用</category><category>降价/折扣</category><category>API优惠</category>
     </item>
   </channel>
 </rss>

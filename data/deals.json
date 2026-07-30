@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T14:00:36.619139+00:00",
+  "last_updated": "2026-07-30T17:28:44.733946+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 275,
@@ -390,7 +390,7 @@
       "score": 0,
       "num_comments": 120,
       "created_at": "2026-03-23T05:25:36",
-      "fetched_at": "2026-07-30T13:58:16.755874+00:00",
+      "fetched_at": "2026-07-30T17:26:39.830993+00:00",
       "relevance_score": 59,
       "deal_types": [
         "区域套利",
@@ -627,7 +627,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T03:11:36",
-      "fetched_at": "2026-07-30T13:58:21.695290+00:00",
+      "fetched_at": "2026-07-30T17:26:43.892545+00:00",
       "relevance_score": 55,
       "deal_types": [
         "区域套利",
@@ -1310,7 +1310,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-30T09:35:56",
-      "fetched_at": "2026-07-30T13:58:03.197258+00:00",
+      "fetched_at": "2026-07-30T17:26:28.296453+00:00",
       "relevance_score": 45,
       "deal_types": [
         "优惠码",
@@ -2129,7 +2129,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-26T09:36:40",
-      "fetched_at": "2026-07-30T13:57:47.163535+00:00",
+      "fetched_at": "2026-07-30T17:26:14.246001+00:00",
       "relevance_score": 40,
       "deal_types": [
         "免费/试用",
@@ -2317,7 +2317,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-28T01:10:53",
-      "fetched_at": "2026-07-30T13:57:47.163507+00:00",
+      "fetched_at": "2026-07-30T17:26:14.245975+00:00",
       "relevance_score": 39,
       "deal_types": [
         "礼品卡"
@@ -2327,18 +2327,18 @@
       ],
       "products": [
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "ChatGPT",
+        "Gemini"
       ],
       "companies": [
-        "Google",
         "OpenAI",
+        "Google",
         "Anthropic"
       ],
       "tags": [
         "Claude",
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "礼品卡"
       ],
       "is_deal": true
@@ -2644,7 +2644,7 @@
       "score": 0,
       "num_comments": 28,
       "created_at": "2026-03-21T07:58:01",
-      "fetched_at": "2026-07-30T13:58:16.755880+00:00",
+      "fetched_at": "2026-07-30T17:26:39.831003+00:00",
       "relevance_score": 39,
       "deal_types": [
         "礼品卡",
@@ -2670,43 +2670,6 @@
         "免费/试用",
         "薅羊毛/技巧",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1230851",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "半价 新加坡 Claude 20x",
-      "body": "楼主前几天 bug 时期薅了 2 个号，一个谷歌邮箱的，另一个自建邮箱的，谷歌邮箱的没用，自建邮箱的号拿来给以前的项目做重构了，大半天的时间好像跑了周限的 20%左右。第二天这两个号的订阅都没了，变成了 free 。\r\n\r\n今天上号看自建邮箱的那个号已经被封了，hold 的状态，切换到谷歌邮箱的号没被封，紧接着跳出个弹窗，显示 137 新加坡元可以买 20x 的套餐，坛友有出现过这种情况吗？如果被封了会被退款吗？不知道前一个号是因为薅羊毛被封还是 ip 不干净被封的。\r\n\r\n![截屏 2026-07-29 23.36.04.png]( https://picui.ogmua.cn/s1/2026/07/29/6a6a1f9a988a2.webp)",
-      "url": "https://www.v2ex.com/t/1230851",
-      "author": "810244966",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-29T15:43:38",
-      "fetched_at": "2026-07-30T13:57:52.879592+00:00",
-      "relevance_score": 38,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "Workaround"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -3091,7 +3054,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-24T23:49:26",
-      "fetched_at": "2026-07-30T13:57:49.818920+00:00",
+      "fetched_at": "2026-07-30T17:26:16.665797+00:00",
       "relevance_score": 37,
       "deal_types": [
         "拼车/合租",
@@ -3103,18 +3066,18 @@
       ],
       "products": [
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "ChatGPT",
+        "Gemini"
       ],
       "companies": [
-        "Google",
         "OpenAI",
+        "Google",
         "Anthropic"
       ],
       "tags": [
         "Claude",
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "拼车/合租",
         "API优惠"
       ],
@@ -3131,7 +3094,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-23T05:02:39",
-      "fetched_at": "2026-07-30T13:58:34.099784+00:00",
+      "fetched_at": "2026-07-30T17:26:55.268612+00:00",
       "relevance_score": 37,
       "deal_types": [
         "降价/折扣",
@@ -3142,8 +3105,8 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
         "Cursor",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
@@ -3152,8 +3115,8 @@
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Cursor",
+        "Claude",
         "ChatGPT",
         "降价/折扣",
         "API优惠"
@@ -3555,45 +3518,39 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1230258",
+      "id": "v2ex_1230851",
       "source": "v2ex",
-      "subreddit": 69,
-      "title": "Pro20x 拼车招募 4 位车友",
-      "body": "我是美区的 chatgpt 账号，之前也是用的 5x （连续续费使用 3 个月了，可以提供 apple 礼品卡账单，支付宝购买），准备下个月准备升级 20x 使用，\r\n\r\n200 刀 正价购买，差不多 1350 左右，我不走低价区，一是麻烦，二是低价区增加封号的概率。\r\n\r\n5 人使用 1350/5=270 。  就算 250/月，多的我的来承担，额度均分（包含重置）\r\n\r\n交付方式是 sub2api ，希望找可以长期使用的，5 人车包括我，再找 4 个人，会拉群。\r\n\r\n搭建的服务器是三网优化的，速度和稳定性都没有问题。\r\n\r\n周限额 400 美月，日限额 100 美元 （这是按照官方周额度 2000 美元计算的，具体额度可能会调整，纯看实际额度）\r\n\r\n假设遇到封号问题，官方退款我就会退款，否则我也没办法，但是账号已经稳定使用多个月了，封号概率应该很小。\r\n\r\n使用规则：\r\n\t请勿使用任何违规、违反法律的行为，一旦发现提出车队，不予退款。\r\n\r\n下车规则：\r\n    半路跳车，当月费用不退\r\n    次月不再需要请提前告知，到期后可自行下车\r\n    续费提前 3 天即可\r\n\r\n禁",
-      "url": "https://www.v2ex.com/t/1230258",
-      "author": "qi12371",
+      "subreddit": 300,
+      "title": "半价 新加坡 Claude 20x",
+      "body": "楼主前几天 bug 时期薅了 2 个号，一个谷歌邮箱的，另一个自建邮箱的，谷歌邮箱的没用，自建邮箱的号拿来给以前的项目做重构了，大半天的时间好像跑了周限的 20%左右。第二天这两个号的订阅都没了，变成了 free 。\r\n\r\n今天上号看自建邮箱的那个号已经被封了，hold 的状态，切换到谷歌邮箱的号没被封，紧接着跳出个弹窗，显示 137 新加坡元可以买 20x 的套餐，坛友有出现过这种情况吗？如果被封了会被退款吗？不知道前一个号是因为薅羊毛被封还是 ip 不干净被封的。\r\n\r\n![截屏 2026-07-29 23.36.04.png]( https://picui.ogmua.cn/s1/2026/07/29/6a6a1f9a988a2.webp)",
+      "url": "https://www.v2ex.com/t/1230851",
+      "author": "810244966",
       "score": 0,
-      "num_comments": 1,
-      "created_at": "2026-07-27T15:31:17",
-      "fetched_at": "2026-07-30T13:58:11.046199+00:00",
+      "num_comments": 0,
+      "created_at": "2026-07-29T15:43:38",
+      "fetched_at": "2026-07-30T17:26:18.900008+00:00",
       "relevance_score": 36,
       "deal_types": [
-        "区域套利",
-        "拼车/合租",
-        "礼品卡",
+        "免费/试用",
         "降价/折扣",
-        "API优惠"
+        "薅羊毛/技巧"
       ],
       "deal_types_en": [
-        "Regional Pricing",
-        "Group Buy",
-        "Gift Card",
+        "Free/Trial",
         "Price Drop",
-        "API Deal"
+        "Workaround"
       ],
       "products": [
-        "ChatGPT"
+        "Claude"
       ],
       "companies": [
-        "OpenAI"
+        "Anthropic"
       ],
       "tags": [
-        "ChatGPT",
-        "区域套利",
-        "拼车/合租",
-        "礼品卡",
+        "Claude",
+        "免费/试用",
         "降价/折扣",
-        "API优惠"
+        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -3811,7 +3768,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T02:41:08",
-      "fetched_at": "2026-07-30T13:57:55.387149+00:00",
+      "fetched_at": "2026-07-30T17:26:21.273528+00:00",
       "relevance_score": 36,
       "deal_types": [
         "区域套利",
@@ -4793,6 +4750,49 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1230258",
+      "source": "v2ex",
+      "subreddit": 69,
+      "title": "Pro20x 拼车招募 4 位车友",
+      "body": "我是美区的 chatgpt 账号，之前也是用的 5x （连续续费使用 3 个月了，可以提供 apple 礼品卡账单，支付宝购买），准备下个月准备升级 20x 使用，\r\n\r\n200 刀 正价购买，差不多 1350 左右，我不走低价区，一是麻烦，二是低价区增加封号的概率。\r\n\r\n5 人使用 1350/5=270 。  就算 250/月，多的我的来承担，额度均分（包含重置）\r\n\r\n交付方式是 sub2api ，希望找可以长期使用的，5 人车包括我，再找 4 个人，会拉群。\r\n\r\n搭建的服务器是三网优化的，速度和稳定性都没有问题。\r\n\r\n周限额 400 美月，日限额 100 美元 （这是按照官方周额度 2000 美元计算的，具体额度可能会调整，纯看实际额度）\r\n\r\n假设遇到封号问题，官方退款我就会退款，否则我也没办法，但是账号已经稳定使用多个月了，封号概率应该很小。\r\n\r\n使用规则：\r\n\t请勿使用任何违规、违反法律的行为，一旦发现提出车队，不予退款。\r\n\r\n下车规则：\r\n    半路跳车，当月费用不退\r\n    次月不再需要请提前告知，到期后可自行下车\r\n    续费提前 3 天即可\r\n\r\n禁",
+      "url": "https://www.v2ex.com/t/1230258",
+      "author": "qi12371",
+      "score": 0,
+      "num_comments": 1,
+      "created_at": "2026-07-27T15:31:17",
+      "fetched_at": "2026-07-30T17:26:35.034489+00:00",
+      "relevance_score": 34,
+      "deal_types": [
+        "区域套利",
+        "拼车/合租",
+        "礼品卡",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Group Buy",
+        "Gift Card",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "区域套利",
+        "拼车/合租",
+        "礼品卡",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1228372",
       "source": "v2ex",
       "subreddit": 864,
@@ -5245,43 +5245,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1230257",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[源头工厂] 稳定 6 个月 GPT&Claude MAX20， $20 刀 Codex/GPT5 免费体验，企业级稳定！",
-      "body": "MuskAI 稳定生产力的源泉\r\n💎超大源头 GPT5.5 、Claude 纯正 MAX20\r\n💎超低延迟，专线接入\r\n💎稳定持续可用，适合长期使用与业务接入\r\n💎适合需要稳定渠道的客户！\r\nV 友专属福利：$20 刀 Codex/GPT5 爽用\r\n\r\n领取步骤\r\n1 、加入 TG 群： https://t.me/muskapi\r\n2 、打开 http://muskapi.cc 注册账户\r\n3 、在本帖回帖，留下你的注册邮箱，将为你发放订阅（不是余额，到 [我的订阅] 页面查收） 数千名用户优选，感谢大家的信任，我们一直坚持为大家提供能力范围内最佳的 AI 服务\r\n\r\n![Claude MAX20 AI 中转站 MuskAI.cc](  )\r\n\r\n\r\n![OpenAI GPT Pro20 AI 中转站 MuskAI.cc] )",
-      "url": "https://www.v2ex.com/t/1230257",
-      "author": "wtcoder",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-27T15:30:33",
-      "fetched_at": "2026-07-30T13:57:47.163510+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "ChatGPT",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1229877",
       "source": "v2ex",
       "subreddit": 16,
@@ -5477,7 +5440,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T16:47:18",
-      "fetched_at": "2026-07-30T13:57:55.387147+00:00",
+      "fetched_at": "2026-07-30T17:26:21.273525+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -5659,7 +5622,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-07-30T13:57:57.969601+00:00",
+      "fetched_at": "2026-07-30T17:26:23.548009+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -6170,7 +6133,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-29T02:22:02",
-      "fetched_at": "2026-07-30T13:57:55.387155+00:00",
+      "fetched_at": "2026-07-30T17:26:21.273534+00:00",
       "relevance_score": 32,
       "deal_types": [
         "区域套利",
@@ -6663,7 +6626,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-07-30T03:20:58",
-      "fetched_at": "2026-07-30T13:58:31.456123+00:00",
+      "fetched_at": "2026-07-30T17:26:53.077149+00:00",
       "relevance_score": 31,
       "deal_types": [
         "免费/试用",
@@ -6681,6 +6644,43 @@
       ],
       "tags": [
         "Claude",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1230257",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[源头工厂] 稳定 6 个月 GPT&Claude MAX20， $20 刀 Codex/GPT5 免费体验，企业级稳定！",
+      "body": "MuskAI 稳定生产力的源泉\r\n💎超大源头 GPT5.5 、Claude 纯正 MAX20\r\n💎超低延迟，专线接入\r\n💎稳定持续可用，适合长期使用与业务接入\r\n💎适合需要稳定渠道的客户！\r\nV 友专属福利：$20 刀 Codex/GPT5 爽用\r\n\r\n领取步骤\r\n1 、加入 TG 群： https://t.me/muskapi\r\n2 、打开 http://muskapi.cc 注册账户\r\n3 、在本帖回帖，留下你的注册邮箱，将为你发放订阅（不是余额，到 [我的订阅] 页面查收） 数千名用户优选，感谢大家的信任，我们一直坚持为大家提供能力范围内最佳的 AI 服务\r\n\r\n![Claude MAX20 AI 中转站 MuskAI.cc](  )\r\n\r\n\r\n![OpenAI GPT Pro20 AI 中转站 MuskAI.cc] )",
+      "url": "https://www.v2ex.com/t/1230257",
+      "author": "wtcoder",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-07-27T15:30:33",
+      "fetched_at": "2026-07-30T17:26:14.245977+00:00",
+      "relevance_score": 31,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
         "免费/试用",
         "API优惠"
       ],
@@ -7637,7 +7637,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-30T01:21:48",
-      "fetched_at": "2026-07-30T13:58:05.887776+00:00",
+      "fetched_at": "2026-07-30T17:26:30.710579+00:00",
       "relevance_score": 30,
       "deal_types": [
         "降价/折扣",
@@ -7674,7 +7674,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-28T02:59:45",
-      "fetched_at": "2026-07-30T13:57:47.163499+00:00",
+      "fetched_at": "2026-07-30T17:26:14.245969+00:00",
       "relevance_score": 30,
       "deal_types": [
         "降价/折扣",
@@ -7700,40 +7700,6 @@
         "降价/折扣",
         "薅羊毛/技巧",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1230245",
-      "source": "v2ex",
-      "subreddit": 69,
-      "title": "Google AI Pro 家庭组还有 3 位，￥ 8.8/月",
-      "body": "Pixel 福利薅的羊毛，上车发邮箱，翻车按比例退。\r\n季付。\r\n\r\n- Gemini PRO\r\n- 共享 5T\r\n\r\n小飞机 Zm9vbHJheQ==",
-      "url": "https://www.v2ex.com/t/1230245",
-      "author": "foolray0303",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-27T14:35:08",
-      "fetched_at": "2026-07-30T13:57:49.818906+00:00",
-      "relevance_score": 30,
-      "deal_types": [
-        "拼车/合租",
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Workaround"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "拼车/合租",
-        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -8454,7 +8420,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-22T14:50:55",
-      "fetched_at": "2026-07-30T13:58:16.755844+00:00",
+      "fetched_at": "2026-07-30T17:26:39.830967+00:00",
       "relevance_score": 30,
       "deal_types": [
         "学生/教育"
@@ -8704,7 +8670,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-07-23T08:26:50",
-      "fetched_at": "2026-07-30T13:58:13.188361+00:00",
+      "fetched_at": "2026-07-30T17:26:37.243708+00:00",
       "relevance_score": 29,
       "deal_types": [
         "拼车/合租",
@@ -8716,18 +8682,18 @@
       ],
       "products": [
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "ChatGPT",
+        "Gemini"
       ],
       "companies": [
-        "Google",
         "OpenAI",
+        "Google",
         "Anthropic"
       ],
       "tags": [
         "Claude",
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "拼车/合租",
         "免费/试用"
       ],
@@ -9730,6 +9696,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1230245",
+      "source": "v2ex",
+      "subreddit": 69,
+      "title": "Google AI Pro 家庭组还有 3 位，￥ 8.8/月",
+      "body": "Pixel 福利薅的羊毛，上车发邮箱，翻车按比例退。\r\n季付。\r\n\r\n- Gemini PRO\r\n- 共享 5T\r\n\r\n小飞机 Zm9vbHJheQ==",
+      "url": "https://www.v2ex.com/t/1230245",
+      "author": "foolray0303",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-07-27T14:35:08",
+      "fetched_at": "2026-07-30T17:26:16.665784+00:00",
+      "relevance_score": 28,
+      "deal_types": [
+        "拼车/合租",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Workaround"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "拼车/合租",
+        "薅羊毛/技巧"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1230027",
       "source": "v2ex",
       "subreddit": 864,
@@ -9777,7 +9777,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-26T10:02:58",
-      "fetched_at": "2026-07-30T13:58:11.046215+00:00",
+      "fetched_at": "2026-07-30T17:26:35.034510+00:00",
       "relevance_score": 28,
       "deal_types": [
         "拼车/合租",
@@ -9814,7 +9814,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-25T03:14:15",
-      "fetched_at": "2026-07-30T13:58:11.046235+00:00",
+      "fetched_at": "2026-07-30T17:26:35.034530+00:00",
       "relevance_score": 28,
       "deal_types": [
         "拼车/合租",
@@ -10384,7 +10384,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-02T11:55:08",
-      "fetched_at": "2026-07-30T13:57:55.387144+00:00",
+      "fetched_at": "2026-07-30T17:26:21.273518+00:00",
       "relevance_score": 28,
       "deal_types": [
         "区域套利",
@@ -11041,7 +11041,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-29T09:51:23",
-      "fetched_at": "2026-07-30T13:58:03.197294+00:00",
+      "fetched_at": "2026-07-30T17:26:28.296483+00:00",
       "relevance_score": 27,
       "deal_types": [
         "拼车/合租",

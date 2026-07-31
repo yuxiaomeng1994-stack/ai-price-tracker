@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T02:44:48.763400+00:00",
+  "last_updated": "2026-07-31T06:45:35.151597+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 275,
@@ -390,7 +390,7 @@
       "score": 0,
       "num_comments": 120,
       "created_at": "2026-03-23T05:25:36",
-      "fetched_at": "2026-07-31T02:42:48.009810+00:00",
+      "fetched_at": "2026-07-31T06:43:24.311841+00:00",
       "relevance_score": 59,
       "deal_types": [
         "区域套利",
@@ -627,7 +627,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T03:11:36",
-      "fetched_at": "2026-07-31T02:42:52.093863+00:00",
+      "fetched_at": "2026-07-31T06:43:28.876494+00:00",
       "relevance_score": 55,
       "deal_types": [
         "区域套利",
@@ -1310,7 +1310,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-30T09:35:56",
-      "fetched_at": "2026-07-31T02:42:36.588335+00:00",
+      "fetched_at": "2026-07-31T06:43:12.562070+00:00",
       "relevance_score": 45,
       "deal_types": [
         "优惠码",
@@ -2129,7 +2129,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-31T02:22:57",
-      "fetched_at": "2026-07-31T02:43:00.882784+00:00",
+      "fetched_at": "2026-07-31T06:43:38.239133+00:00",
       "relevance_score": 40,
       "deal_types": [
         "免费/试用",
@@ -2641,7 +2641,7 @@
       "score": 0,
       "num_comments": 28,
       "created_at": "2026-03-21T07:58:01",
-      "fetched_at": "2026-07-31T02:42:48.009816+00:00",
+      "fetched_at": "2026-07-31T06:43:24.311873+00:00",
       "relevance_score": 39,
       "deal_types": [
         "礼品卡",
@@ -3051,7 +3051,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-28T01:10:53",
-      "fetched_at": "2026-07-31T02:42:22.876080+00:00",
+      "fetched_at": "2026-07-31T06:42:57.824882+00:00",
       "relevance_score": 37,
       "deal_types": [
         "礼品卡"
@@ -3088,7 +3088,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-24T23:49:26",
-      "fetched_at": "2026-07-31T02:42:25.355801+00:00",
+      "fetched_at": "2026-07-31T06:43:00.327000+00:00",
       "relevance_score": 37,
       "deal_types": [
         "拼车/合租",
@@ -3128,7 +3128,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-23T05:02:39",
-      "fetched_at": "2026-07-31T02:43:03.230840+00:00",
+      "fetched_at": "2026-07-31T06:43:40.795638+00:00",
       "relevance_score": 37,
       "deal_types": [
         "降价/折扣",
@@ -3139,19 +3139,19 @@
         "API Deal"
       ],
       "products": [
+        "Cursor",
         "ChatGPT",
-        "Claude",
-        "Cursor"
+        "Claude"
       ],
       "companies": [
-        "Cursor",
         "Anthropic",
-        "OpenAI"
+        "OpenAI",
+        "Cursor"
       ],
       "tags": [
+        "Cursor",
         "ChatGPT",
         "Claude",
-        "Cursor",
         "降价/折扣",
         "API优惠"
       ],
@@ -3552,6 +3552,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1231158",
+      "source": "v2ex",
+      "subreddit": 300,
+      "title": "大家怎么管理 AGENTS.md、CLAUDE.md，以及不同 Agent 之间的记忆？",
+      "body": "最近 Codex 、Claude Code 、Cursor 换着用。项目里同时存在 AGENTS.md 、CLAUDE.md 和各种 rules ，项目一多，不仅容易各写各的，换个 Agent 还得重新交代上下文。\r\n\r\n所以我们做了 Memmy Agent 。架构上把 Agent Runtime 和 Memory Service 拆开：既能使用内置的通用 Agent ，也能让 Codex 、Claude 、Cursor 共用记忆。\r\n\r\nMemmy 不只是扫描历史记录。接入 Hook 后，新的对话会继续沉淀，用户反馈也会用于修正旧记忆，再逐步归纳成经验和 Skill 。我们希望这层记忆能够越用越准，而不是简单把聊天记录做成 embedding 。\r\n\r\n另外，现在注册会送 2000000 Token ，用的是 gpt 模型，不用先填 API Key 。免费额度可以先薅一把再说 😂，用完也可以切 BYOK 。\r\n\r\n项目地址放下面，有兴趣的可以试试，大家有类似方案也欢迎交流。  \r\nhttps://github.com/MemTensor/memmy-agent",
+      "url": "https://www.v2ex.com/t/1231158",
+      "author": "spammy88",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-07-31T02:30:35",
+      "fetched_at": "2026-07-31T06:43:38.239128+00:00",
+      "relevance_score": 36,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Cursor",
+        "Claude"
+      ],
+      "companies": [
+        "Cursor",
+        "Anthropic"
+      ],
+      "tags": [
+        "Cursor",
+        "Claude",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1230851",
       "source": "v2ex",
       "subreddit": 300,
@@ -3562,7 +3599,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-29T15:43:38",
-      "fetched_at": "2026-07-31T02:42:27.760718+00:00",
+      "fetched_at": "2026-07-31T06:43:03.211567+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -3802,7 +3839,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T02:41:08",
-      "fetched_at": "2026-07-31T02:42:30.040880+00:00",
+      "fetched_at": "2026-07-31T06:43:05.708721+00:00",
       "relevance_score": 36,
       "deal_types": [
         "区域套利",
@@ -4784,6 +4821,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1231171",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "🔥尔信中转·注册就送体验额度·不定时免费抽奖·底价速刷随机空投~！",
+      "body": "🔥 🔥尔信中转： https://aierxin.cc🔥 🔥\r\n💠 GPT Plus 0.1x\r\n\r\n💠 GPT pro 0.2×\r\n\r\n💠 Claude-max 1.4×\r\n\r\n🎁 注册进群就送体验额度🎁\r\n\r\n💰群内不定时免费抽奖 💰\r\n\r\n🎰随机空投底价福利速刷分组🎰\r\n\r\n📮 QQ 群：726533341\r\n\r\n\r\n\r\n点击链接加入群聊 [ Erxin_AI ] ： https://qm.qq.com/q/xGt0RK4Bwc",
+      "url": "https://www.v2ex.com/t/1231171",
+      "author": "beishuihan",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-07-31T03:02:08",
+      "fetched_at": "2026-07-31T06:42:57.824628+00:00",
+      "relevance_score": 34,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1230258",
       "source": "v2ex",
       "subreddit": 69,
@@ -4794,7 +4868,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-07-27T15:31:17",
-      "fetched_at": "2026-07-31T02:42:43.174855+00:00",
+      "fetched_at": "2026-07-31T06:43:19.469080+00:00",
       "relevance_score": 34,
       "deal_types": [
         "区域套利",
@@ -5474,7 +5548,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T16:47:18",
-      "fetched_at": "2026-07-31T02:42:30.040878+00:00",
+      "fetched_at": "2026-07-31T06:43:05.708718+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -5656,7 +5730,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-07-31T02:42:32.124623+00:00",
+      "fetched_at": "2026-07-31T06:43:07.947376+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -6167,7 +6241,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-29T02:22:02",
-      "fetched_at": "2026-07-31T02:42:30.040888+00:00",
+      "fetched_at": "2026-07-31T06:43:05.708729+00:00",
       "relevance_score": 32,
       "deal_types": [
         "区域套利",
@@ -6650,6 +6724,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1231188",
+      "source": "v2ex",
+      "subreddit": "openai",
+      "title": "OpenAI 大降价， API 账单怎么解决支付问题",
+      "body": "之前用的 DeepSeek V4Pro ，现在想换成了 OpenAI ，卡在 API 账单，试了好几张卡都被拒绝了，V 友们怎么解决的\r\n\r\n| 模型                  | 输入（旧 → 新）      | 缓存输入（旧 → 新）   | 输出（旧 → 新）       | 降幅   |\r\n|-----------------------|----------------------|------------------------|------------------------|--------|\r\n| **GPT-5.6 Luna**（最快、最便宜） | $1.00 → **$0.20**   | $0.10 → **$0.02**     | $6.00 → **$1.20**     | **80%** |\r\n| **GPT-5.6 Terra**（均衡日常）   | $2.50 → **$2.00**   | $0.25 → **$0.20**     | $15.00 → **$12.00**   | **20%** |\r\n| **GPT-5.6 Sol*",
+      "url": "https://www.v2ex.com/t/1231188",
+      "author": "haoduo",
+      "score": 0,
+      "num_comments": 7,
+      "created_at": "2026-07-31T03:45:23+00:00",
+      "fetched_at": "2026-07-31T06:42:45.872161+00:00",
+      "relevance_score": 31,
+      "deal_types": [
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1230944",
       "source": "v2ex",
       "subreddit": 864,
@@ -6694,7 +6802,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-27T15:30:33",
-      "fetched_at": "2026-07-31T02:42:22.876083+00:00",
+      "fetched_at": "2026-07-31T06:42:57.824891+00:00",
       "relevance_score": 31,
       "deal_types": [
         "免费/试用",
@@ -7661,46 +7769,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1230351",
-      "source": "v2ex",
-      "subreddit": 16,
-      "title": "分享一个给 Shopify 独立站做转化率归因的工具，用了贝叶斯因果推断",
-      "body": "最近在研究 CausalImpact （ Google 开源的贝叶斯结构时间序列方法）在电商场景的应用，找到一个 Shopify 应用实际落地了这个方案：GCY: AI CVR Optimizer 。\r\n\r\n简单说下它做的事情：\r\n\r\n安装后通过 Shopify App Pixel 自动采集页面事件（ PV 、加购、转化等）\r\n对产品页做 6 维 AI 诊断（ SEO / 图片 / 文案 / 定价 / 信任 / UX ），每个维度 1-5 分并给出具体优化建议\r\n你按建议改完产品页后，启动归因追踪\r\n跑 2-3 周数据，用 CausalImpact 模型算出改动带来的增量效果，并给出是否统计显著的结论\r\n比传统 A/B 测试好的地方是不需要分流——它用改动前的时间序列建立反事实基线，然后和改动后的实际数据对比。对于日均几十到几百 UV 的小站来说，这比 A/B 测试实际多了。\r\n\r\n另外支持 BYOK ，接自己的 LLM API Key （ DeepSeek V4 Pro / GPT-4o / Claude ），诊断成本基本可以忽略不计，比那些 $99/mo 起的 CRO 工具划算很多",
-      "url": "https://www.v2ex.com/t/1230351",
-      "author": "max20062007",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-28T02:59:45",
-      "fetched_at": "2026-07-31T02:42:22.876073+00:00",
-      "relevance_score": 30,
-      "deal_types": [
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Price Drop",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "Claude",
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1230150",
       "source": "v2ex",
       "subreddit": "programmer",
@@ -8417,7 +8485,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-22T14:50:55",
-      "fetched_at": "2026-07-31T02:42:48.009784+00:00",
+      "fetched_at": "2026-07-31T06:43:24.311816+00:00",
       "relevance_score": 30,
       "deal_types": [
         "学生/教育"
@@ -8657,6 +8725,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1231121",
+      "source": "v2ex",
+      "subreddit": 300,
+      "title": "别再买 AI 课了，我做了个免费网站比任何课程都值",
+      "body": "![image-20260730175633212](  )\r\n\r\n月底了，发现 AI API 额度还剩一大截。不做点什么就亏了，我寻思做个什么工具站吧。\r\n\r\n最近一直在看 Claude Code 的系统提示词，于是我花了一些时间做了个网站，把这些提示词的演变做成了可视化时间线。\r\n\r\n然后我发现，这玩意比任何 AI 课程都值。\r\n\r\n> 地址: https://prompt529650.xyz\r\n\r\n![image-20260730175233554](  )\r\n\r\n\r\n\r\n## 我为什么觉得课程不靠谱\r\n\r\n我身边有不少人花几百块甚至上千块买 AI 课程。打开任何一个平台搜 Claude Code 教程，标价 199 、299 、999 的课一堆。点进去一看，教的东西大同小异，怎么配环境、怎么写 CLAUDE.md 、怎么用 slash command 。\r\n\r\n我看完就一个感觉，这些课都在教\"怎么用\"，从来不告诉你\"为什么这样设计\"。\r\n\r\n但我翻了 Claude Code 的系统提示词演变之后，发现真正值钱的东西全在\"为什么\"里。Anthropic 的工程师为什么把记忆系统从",
+      "url": "https://www.v2ex.com/t/1231121",
+      "author": "JustW",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-07-31T00:49:31",
+      "fetched_at": "2026-07-31T06:43:38.239144+00:00",
+      "relevance_score": 29,
+      "deal_types": [
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1229324",
       "source": "v2ex",
       "subreddit": 69,
@@ -8667,7 +8772,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-07-23T08:26:50",
-      "fetched_at": "2026-07-31T02:42:45.380739+00:00",
+      "fetched_at": "2026-07-31T06:43:21.683372+00:00",
       "relevance_score": 29,
       "deal_types": [
         "拼车/合租",
@@ -9703,7 +9808,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-30T01:21:48",
-      "fetched_at": "2026-07-31T02:42:38.884642+00:00",
+      "fetched_at": "2026-07-31T06:43:15.077604+00:00",
       "relevance_score": 28,
       "deal_types": [
         "降价/折扣",
@@ -9730,6 +9835,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1230351",
+      "source": "v2ex",
+      "subreddit": 16,
+      "title": "分享一个给 Shopify 独立站做转化率归因的工具，用了贝叶斯因果推断",
+      "body": "最近在研究 CausalImpact （ Google 开源的贝叶斯结构时间序列方法）在电商场景的应用，找到一个 Shopify 应用实际落地了这个方案：GCY: AI CVR Optimizer 。\r\n\r\n简单说下它做的事情：\r\n\r\n安装后通过 Shopify App Pixel 自动采集页面事件（ PV 、加购、转化等）\r\n对产品页做 6 维 AI 诊断（ SEO / 图片 / 文案 / 定价 / 信任 / UX ），每个维度 1-5 分并给出具体优化建议\r\n你按建议改完产品页后，启动归因追踪\r\n跑 2-3 周数据，用 CausalImpact 模型算出改动带来的增量效果，并给出是否统计显著的结论\r\n比传统 A/B 测试好的地方是不需要分流——它用改动前的时间序列建立反事实基线，然后和改动后的实际数据对比。对于日均几十到几百 UV 的小站来说，这比 A/B 测试实际多了。\r\n\r\n另外支持 BYOK ，接自己的 LLM API Key （ DeepSeek V4 Pro / GPT-4o / Claude ），诊断成本基本可以忽略不计，比那些 $99/mo 起的 CRO 工具划算很多",
+      "url": "https://www.v2ex.com/t/1230351",
+      "author": "max20062007",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-07-28T02:59:45",
+      "fetched_at": "2026-07-31T06:42:57.824843+00:00",
+      "relevance_score": 28,
+      "deal_types": [
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Price Drop",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1230245",
       "source": "v2ex",
       "subreddit": 69,
@@ -9740,7 +9885,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-27T14:35:08",
-      "fetched_at": "2026-07-31T02:42:25.355792+00:00",
+      "fetched_at": "2026-07-31T06:43:00.326986+00:00",
       "relevance_score": 28,
       "deal_types": [
         "拼车/合租",
@@ -9811,7 +9956,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-26T10:02:58",
-      "fetched_at": "2026-07-31T02:42:43.174874+00:00",
+      "fetched_at": "2026-07-31T06:43:19.469102+00:00",
       "relevance_score": 28,
       "deal_types": [
         "拼车/合租",
@@ -9848,7 +9993,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-25T03:14:15",
-      "fetched_at": "2026-07-31T02:42:43.174893+00:00",
+      "fetched_at": "2026-07-31T06:43:19.469123+00:00",
       "relevance_score": 28,
       "deal_types": [
         "拼车/合租",
@@ -10418,7 +10563,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-02T11:55:08",
-      "fetched_at": "2026-07-31T02:42:30.040875+00:00",
+      "fetched_at": "2026-07-31T06:43:05.708715+00:00",
       "relevance_score": 28,
       "deal_types": [
         "区域套利",
@@ -11065,43 +11210,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1231121",
-      "source": "v2ex",
-      "subreddit": "programmer",
-      "title": "别再买 AI 课了，我做了个免费网站比任何课程都值",
-      "body": "![image-20260730175633212]( https://img.529650.xyz/file/1785410559479_image-20260730175633212.png)\r\n\r\n月底了，发现 AI API 额度还剩一大截。不做点什么就亏了，我寻思做个什么工具站吧。\r\n\r\n最近一直在看 Claude Code 的系统提示词，于是我花了一些时间做了个网站，把这些提示词的演变做成了可视化时间线。\r\n\r\n然后我发现，这玩意比任何 AI 课程都值。\r\n\r\n> 地址: https://prompt.529650.xyz\r\n\r\n![image-20260730175233554]( https://img.529650.xyz/file/1785410567992_image-20260730175233554.png)\r\n\r\n\r\n\r\n## 我为什么觉得课程不靠谱\r\n\r\n我身边有不少人花几百块甚至上千块买 AI 课程。打开任何一个平台搜 Claude Code 教程，标价 199 、299 、999 的课一堆。点进去一看，教的东西大同小异，怎么配环境、怎么写 CLAUDE.",
-      "url": "https://www.v2ex.com/t/1231121",
-      "author": "JustW",
-      "score": 0,
-      "num_comments": 4,
-      "created_at": "2026-07-31T00:49:31+00:00",
-      "fetched_at": "2026-07-31T02:42:17.043786+00:00",
-      "relevance_score": 27,
-      "deal_types": [
-        "免费/试用",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1230796",
       "source": "v2ex",
       "subreddit": 17,
@@ -11112,7 +11220,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-29T09:51:23",
-      "fetched_at": "2026-07-31T02:42:36.588363+00:00",
+      "fetched_at": "2026-07-31T06:43:12.562094+00:00",
       "relevance_score": 27,
       "deal_types": [
         "拼车/合租",
@@ -11280,108 +11388,6 @@
         "区域套利",
         "降价/折扣",
         "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1227835",
-      "source": "v2ex",
-      "subreddit": "programmer",
-      "title": "开源送的 GitHub Copilot Pro 没了",
-      "body": "因为做开源项目，有 Github Copilot Pro 的免费用的资格，虽然也就只有 10 刀的额度。然后，上个月花 30 刀升到 Pro+，现在到期后发现直接降级到 Free 了，也没地方再领 Pro 了。",
-      "url": "https://www.v2ex.com/t/1227835",
-      "author": "MegatronKing",
-      "score": 0,
-      "num_comments": 1,
-      "created_at": "2026-07-16T12:11:00+00:00",
-      "fetched_at": "2026-07-16T20:56:15.989596+00:00",
-      "relevance_score": 27,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Copilot"
-      ],
-      "companies": [
-        "Microsoft"
-      ],
-      "tags": [
-        "Copilot",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1227528",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "分享一个 GPT/Claude API 中转站，价格比官方便宜很多，开业送福利 🎁",
-      "body": "最近在用一个国内自建的 API 中转站 🛠️，用了一段时间感觉还不错，分享给有需要的朋友。\r\n\r\n站点：aierxin.cc 🔗\r\n\r\n\r\n💰 价格：\r\n\r\n\r\n🤖 自建 GPT-pro 号池，0.25 倍率\r\n\r\n🧠 自建 Claude Max 号池，1.2 倍率\r\n\r\n\r\n官转价格大家都知道，这个价位算是比较实惠的了 👍\r\n\r\n\r\n🎉 开业福利：\r\n\r\n回复本帖即可参与，先到先得 👇\r\n\r\n\r\n🥇 1 - 100 楼：每位送 $10 额度\r\n\r\n🥈 101 - 300 楼：每位送 $5 额度\r\n\r\n\r\n进群注册后联系客服核销：QQ 群 726533341 📲\r\n\r\n\r\n\r\n⚡ 稳定性：\r\n\r\n自建号池，不是简单倒卖 🙅，售后响应比较快 ✅，有问题进群直接问。\r\n\r\n\r\n不是打广告，纯分享 🙏，有需要的可以去看看。\r\n用过的朋友欢迎评价 💬，也欢迎对比其他家。",
-      "url": "https://www.v2ex.com/t/1227528",
-      "author": "beishuihan",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-15T09:44:10",
-      "fetched_at": "2026-07-20T21:12:03.479879+00:00",
-      "relevance_score": 27,
-      "deal_types": [
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1227359",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[aitokensflux] 主打 cx-Pro20 / cc-Max20 GPT 0.3 倍率， claude 1.0 倍率，欢迎大家来体验，进群找群主领体验金额",
-      "body": "站点： https://aitokensflux.com\r\nQQ 群：826073513\r\n\r\n目前主推：\r\n\r\n- cx-Pro20：GPT / Codex 相关，当前 0.3X 倍率\r\n- cc-Max20：Claude 相关，1.0X 倍率\r\n\r\n活动说明：\r\n\r\n1 、进群后，@群机器人发送：签到 id 每天可领取随机额度\r\n2 、新用户进群后找群主 给与 5 刀的测试额度\r\n\r\n我们希望把规则做得简单一点：\r\n\r\n- 充值 1 RMB 到账 1 余额\r\n- 不掺假\r\n- 不随意调价\r\n- 重视数据隐私\r\n- 支持无理由退款\r\n\r\n企业用户或调用量较大的用户，可以联系做独立号池、直连状态和独立售后。\r\n\r\n欢迎大家进群测试，也欢迎反馈稳定性、价格和体验问题。",
-      "url": "https://www.v2ex.com/t/1227359",
-      "author": "liuxm6",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-15T01:16:54",
-      "fetched_at": "2026-07-19T20:45:25.223769+00:00",
-      "relevance_score": 27,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "API优惠"
       ],
       "is_deal": true
     }

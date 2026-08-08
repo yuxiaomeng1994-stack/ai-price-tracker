@@ -5,7 +5,7 @@
     <link>https://yuxiaomeng1994-stack.github.io/ai-price-tracker/</link>
     <description>自动追踪全网 Claude/ChatGPT/Gemini 等 AI 订阅优惠信息</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 08 Aug 2026 16:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 20:30:43 +0000</lastBuildDate>
     <atom:link href="https://yuxiaomeng1994-stack.github.io/ai-price-tracker/data/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -278,6 +278,21 @@ OpenAI 兼容接口：/v1/chat/completions 、/v1/responses
       <pubDate>Mon, 11 May 2026 06:00:00 +0000</pubDate>
       <description><![CDATA[<p><strong>评分:</strong> 58 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude</p><p><strong>类型:</strong> 拼车/合租</p><p>Claude Pro 家庭版支持5个席位，目前车上3人，还剩2个位置。每人每月35元，需提前支付3个月。稳定老车，已运行6个月。</p>]]></description>
       <category>Claude</category><category>拼车/合租</category>
+    </item>
+    <item>
+      <title>[薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）</title>
+      <link>https://www.v2ex.com/t/1232965</link>
+      <guid isPermaLink="false">v2ex_1232965</guid>
+      <pubDate>Sat, 08 Aug 2026 18:19:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 57 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude, ChatGPT</p><p><strong>类型:</strong> 优惠码, 免费/试用, 薅羊毛/技巧, API优惠</p><p>下载地址： https://mirasim.ai/
+
+前 1000 人注册(需要邀请码注册)送 12 个月 $89/月套餐，额度差不多为 Codex Pro 5×和 Claude Code Max 5×。
+邀请 10 人继续升级到 $199/月套餐
+注意：不是送 Claude / ChatGPT 官方账号，模型额度只能在 Mirasim 里用。
+感兴趣可以去试一下。
+
+邀请码：MIRA-AB7G-TKYM-YR0N ，还有 3 个名额</p>]]></description>
+      <category>Claude</category><category>ChatGPT</category><category>优惠码</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
     <item>
       <title>从 X 上搬运来的白嫖 GPT Plus 教程</title>
@@ -1052,32 +1067,6 @@ Claude API KEY 10M Token （ 1 天有效期，支持 opus4.7/4.8 ）
   详情： https://aicoding.inc
  </p>]]></description>
       <category>Claude</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
-    </item>
-    <item>
-      <title>个人自用的 Claude API 中转,分享一下,有点小福利</title>
-      <link>https://www.v2ex.com/t/1228520</link>
-      <guid isPermaLink="false">v2ex_1228520</guid>
-      <pubDate>Mon, 20 Jul 2026 04:32:02 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 42 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Claude, Gemini</p><p><strong>类型:</strong> 学生/教育, 免费/试用, 薅羊毛/技巧, API优惠</p><p>自用的 AI 模型 API 中转,平时自己和朋友在用,跑了挺长时间比较稳定,又继续开放注册了。
-  
-福利规则:
-
-- **充值加赠 5%**:每次充值都多到账 5%，48 小时到 72 小时内到账
-- **邀请返利 5%**:邀请的朋友每次充值,你获得他充值金额 5% 的余额,返利在充值后 48 小时到 72 小时内到账
-- 返利和加赠直接抵扣用量
-
-**退款说明**:余额支持退款,只退未消费的充值本金,收 5% 手续费;加赠和返利等一切赠送余额不退、不折现;被邀请人退款时,该笔充值产生的返利一并扣回。
-
-服务说明:
-
-- 兼容 Anthropic / OpenAI 格式,常见客户端和编辑器插件直接接
-- Claude / GPT / Gemini 常用模型都有
-- 接入方法看站内教程
-
-注册只支持常见邮箱(gmail / outlook / qq / 163 / 126 / foxmail / 139 / edu.cn 等),用别的邮箱注册不了属正常,见谅。
-
-链接在楼下,佛系维护,有问题私信</p>]]></description>
-      <category>ChatGPT</category><category>Claude</category><category>Gemini</category><category>学生/教育</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
   </channel>
 </rss>

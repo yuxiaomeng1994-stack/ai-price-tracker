@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T05:41:48.788227+00:00",
+  "last_updated": "2026-08-13T09:13:24.506146+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 279,
@@ -716,7 +716,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T03:11:36",
-      "fetched_at": "2026-08-13T05:39:39.636398+00:00",
+      "fetched_at": "2026-08-13T09:11:17.088287+00:00",
       "relevance_score": 55,
       "deal_types": [
         "区域套利",
@@ -753,7 +753,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-08T18:19:00",
-      "fetched_at": "2026-08-13T05:39:27.905168+00:00",
+      "fetched_at": "2026-08-13T09:11:04.029362+00:00",
       "relevance_score": 52,
       "deal_types": [
         "优惠码",
@@ -1633,7 +1633,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-12T14:34:43",
-      "fetched_at": "2026-08-13T05:39:25.549975+00:00",
+      "fetched_at": "2026-08-13T09:11:01.628238+00:00",
       "relevance_score": 44,
       "deal_types": [
         "优惠码",
@@ -1673,7 +1673,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-11T10:07:27",
-      "fetched_at": "2026-08-13T05:39:23.199279+00:00",
+      "fetched_at": "2026-08-13T09:10:59.083587+00:00",
       "relevance_score": 44,
       "deal_types": [
         "免费/试用",
@@ -1713,7 +1713,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-01T02:35:46",
-      "fetched_at": "2026-08-13T05:39:27.905372+00:00",
+      "fetched_at": "2026-08-13T09:11:04.029563+00:00",
       "relevance_score": 44,
       "deal_types": [
         "拼车/合租",
@@ -2002,7 +2002,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-08T19:31:15",
-      "fetched_at": "2026-08-13T05:39:07.416120+00:00",
+      "fetched_at": "2026-08-13T09:10:42.764910+00:00",
       "relevance_score": 43,
       "deal_types": [
         "优惠码",
@@ -2452,7 +2452,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-12T23:40:23",
-      "fetched_at": "2026-08-13T05:39:07.416068+00:00",
+      "fetched_at": "2026-08-13T09:10:42.764861+00:00",
       "relevance_score": 40,
       "deal_types": [
         "API优惠"
@@ -2462,9 +2462,9 @@
       ],
       "products": [
         "ChatGPT",
+        "Claude",
         "Gemini",
-        "Cursor",
-        "Claude"
+        "Cursor"
       ],
       "companies": [
         "Google",
@@ -2474,9 +2474,9 @@
       ],
       "tags": [
         "ChatGPT",
+        "Claude",
         "Gemini",
         "Cursor",
-        "Claude",
         "API优惠"
       ],
       "is_deal": true
@@ -2757,7 +2757,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-08T21:43:25",
-      "fetched_at": "2026-08-13T05:39:27.905130+00:00",
+      "fetched_at": "2026-08-13T09:11:04.029349+00:00",
       "relevance_score": 39,
       "deal_types": [
         "优惠码",
@@ -3127,7 +3127,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-11T09:42:07",
-      "fetched_at": "2026-08-13T05:39:23.199282+00:00",
+      "fetched_at": "2026-08-13T09:10:59.083590+00:00",
       "relevance_score": 38,
       "deal_types": [
         "优惠码",
@@ -3204,7 +3204,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-09T02:07:14",
-      "fetched_at": "2026-08-13T05:39:27.905126+00:00",
+      "fetched_at": "2026-08-13T09:11:04.029346+00:00",
       "relevance_score": 38,
       "deal_types": [
         "优惠码",
@@ -3614,7 +3614,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-13T03:50:02",
-      "fetched_at": "2026-08-13T05:39:12.932979+00:00",
+      "fetched_at": "2026-08-13T09:10:48.449955+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -4615,7 +4615,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T02:41:08",
-      "fetched_at": "2026-08-13T05:39:15.424964+00:00",
+      "fetched_at": "2026-08-13T09:10:50.957639+00:00",
       "relevance_score": 36,
       "deal_types": [
         "区域套利",
@@ -5071,40 +5071,6 @@
         "Cursor",
         "拼车/合租",
         "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1233242",
-      "source": "v2ex",
-      "subreddit": 69,
-      "title": "菲区 x20 拼车，差一人",
-      "body": "ChatGPT pro 20x 找人一起分摊成本。\r\n\r\n300RMB/月，每周限额 500 刀，官方重置额度，账号会同步重置。\r\n\r\n保证账号稳定续费。跟随官方重置额度。提供最大可能的技术支持。\r\n\r\n菲区购买，通过官网网页直购，如果发生被封，大家一起承担，奥特曼退就退。\r\n\r\nsub2api 交付。\r\n\r\n关于账号：\r\n\r\n上车的车友，可提供官网订购记录，100%保证是官网订购的。\r\n\r\n\r\n使用说明：\r\n\r\n1 、禁止破限制逆向等违规行为，发现清退车，不退款。\r\n\r\n2 、半路跳车不退。\r\n\r\n3 、禁止共享，禁止高并发，禁止违法用途。\r\n\r\n绿泡泡：am9udHkwNTIx",
-      "url": "https://www.v2ex.com/t/1233242",
-      "author": "jonty",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-08-10T06:11:29",
-      "fetched_at": "2026-08-13T05:39:30.180931+00:00",
-      "relevance_score": 35,
-      "deal_types": [
-        "拼车/合租",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "拼车/合租",
         "API优惠"
       ],
       "is_deal": true
@@ -5675,7 +5641,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-13T02:43:47",
-      "fetched_at": "2026-08-13T05:39:12.932990+00:00",
+      "fetched_at": "2026-08-13T09:10:48.449963+00:00",
       "relevance_score": 34,
       "deal_types": [
         "优惠码",
@@ -6268,6 +6234,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1233242",
+      "source": "v2ex",
+      "subreddit": 69,
+      "title": "菲区 x20 拼车，差一人",
+      "body": "ChatGPT pro 20x 找人一起分摊成本。\r\n\r\n300RMB/月，每周限额 500 刀，官方重置额度，账号会同步重置。\r\n\r\n保证账号稳定续费。跟随官方重置额度。提供最大可能的技术支持。\r\n\r\n菲区购买，通过官网网页直购，如果发生被封，大家一起承担，奥特曼退就退。\r\n\r\nsub2api 交付。\r\n\r\n关于账号：\r\n\r\n上车的车友，可提供官网订购记录，100%保证是官网订购的。\r\n\r\n\r\n使用说明：\r\n\r\n1 、禁止破限制逆向等违规行为，发现清退车，不退款。\r\n\r\n2 、半路跳车不退。\r\n\r\n3 、禁止共享，禁止高并发，禁止违法用途。\r\n\r\n绿泡泡：am9udHkwNTIx",
+      "url": "https://www.v2ex.com/t/1233242",
+      "author": "jonty",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-08-10T06:11:29",
+      "fetched_at": "2026-08-13T09:11:06.632770+00:00",
+      "relevance_score": 33,
+      "deal_types": [
+        "拼车/合租",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "拼车/合租",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1232891",
       "source": "v2ex",
       "subreddit": 17,
@@ -6278,7 +6278,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-08T05:38:57",
-      "fetched_at": "2026-08-13T05:39:04.865399+00:00",
+      "fetched_at": "2026-08-13T09:10:40.074264+00:00",
       "relevance_score": 33,
       "deal_types": [
         "优惠码",
@@ -6312,7 +6312,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-29T15:43:38",
-      "fetched_at": "2026-08-13T05:39:27.905378+00:00",
+      "fetched_at": "2026-08-13T09:11:04.029571+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -6577,7 +6577,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T16:47:18",
-      "fetched_at": "2026-08-13T05:39:15.424961+00:00",
+      "fetched_at": "2026-08-13T09:10:50.957637+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -6759,7 +6759,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-08-13T05:39:18.001460+00:00",
+      "fetched_at": "2026-08-13T09:10:53.792451+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -7027,7 +7027,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-10T10:31:13",
-      "fetched_at": "2026-08-13T05:39:07.416091+00:00",
+      "fetched_at": "2026-08-13T09:10:42.764883+00:00",
       "relevance_score": 32,
       "deal_types": [
         "免费/试用",
@@ -7344,7 +7344,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-29T02:22:02",
-      "fetched_at": "2026-08-13T05:39:15.424969+00:00",
+      "fetched_at": "2026-08-13T09:10:50.957646+00:00",
       "relevance_score": 32,
       "deal_types": [
         "区域套利",
@@ -7837,7 +7837,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-10T03:12:23",
-      "fetched_at": "2026-08-13T05:39:04.865381+00:00",
+      "fetched_at": "2026-08-13T09:10:40.074245+00:00",
       "relevance_score": 31,
       "deal_types": [
         "拼车/合租",
@@ -8885,7 +8885,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-03T01:25:29",
-      "fetched_at": "2026-08-13T05:39:04.865418+00:00",
+      "fetched_at": "2026-08-13T09:10:40.074284+00:00",
       "relevance_score": 30,
       "deal_types": [
         "免费/试用",
@@ -8897,8 +8897,8 @@
       ],
       "products": [
         "ChatGPT",
-        "Gemini",
-        "Claude"
+        "Claude",
+        "Gemini"
       ],
       "companies": [
         "Google",
@@ -8907,8 +8907,8 @@
       ],
       "tags": [
         "ChatGPT",
-        "Gemini",
         "Claude",
+        "Gemini",
         "免费/试用",
         "API优惠"
       ],
@@ -9708,7 +9708,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-22T14:50:55",
-      "fetched_at": "2026-08-13T05:39:35.131654+00:00",
+      "fetched_at": "2026-08-13T09:11:11.817383+00:00",
       "relevance_score": 30,
       "deal_types": [
         "学生/教育"
@@ -10023,7 +10023,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-08T18:25:02",
-      "fetched_at": "2026-08-13T05:39:07.416128+00:00",
+      "fetched_at": "2026-08-13T09:10:42.764917+00:00",
       "relevance_score": 29,
       "deal_types": [
         "优惠码",
@@ -10066,7 +10066,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-08T13:48:02",
-      "fetched_at": "2026-08-13T05:39:44.463736+00:00",
+      "fetched_at": "2026-08-13T09:11:22.193331+00:00",
       "relevance_score": 29,
       "deal_types": [
         "免费/试用",
@@ -10109,7 +10109,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-03T04:40:24",
-      "fetched_at": "2026-08-13T05:39:04.865416+00:00",
+      "fetched_at": "2026-08-13T09:10:40.074281+00:00",
       "relevance_score": 29,
       "deal_types": [
         "拼车/合租",
@@ -10121,8 +10121,8 @@
       ],
       "products": [
         "ChatGPT",
-        "Cursor",
-        "Claude"
+        "Claude",
+        "Cursor"
       ],
       "companies": [
         "Cursor",
@@ -10131,8 +10131,8 @@
       ],
       "tags": [
         "ChatGPT",
-        "Cursor",
         "Claude",
+        "Cursor",
         "拼车/合租",
         "降价/折扣"
       ],

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T08:38:31.706366+00:00",
+  "last_updated": "2026-08-19T12:45:31.799986+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 278,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-08-19T08:35:44.614405+00:00",
+      "fetched_at": "2026-08-19T12:42:58.156378+00:00",
       "relevance_score": 69,
       "deal_types": [
         "区域套利",
@@ -750,7 +750,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-08T03:11:36",
-      "fetched_at": "2026-08-19T08:36:20.626001+00:00",
+      "fetched_at": "2026-08-19T12:43:30.091152+00:00",
       "relevance_score": 55,
       "deal_types": [
         "区域套利",
@@ -821,7 +821,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-08T18:19:00",
-      "fetched_at": "2026-08-19T08:36:08.463929+00:00",
+      "fetched_at": "2026-08-19T12:43:19.263858+00:00",
       "relevance_score": 51,
       "deal_types": [
         "优惠码",
@@ -984,7 +984,7 @@
       "score": 0,
       "num_comments": 2,
       "created_at": "2026-08-15T11:01:57",
-      "fetched_at": "2026-08-19T08:35:44.614400+00:00",
+      "fetched_at": "2026-08-19T12:42:58.156374+00:00",
       "relevance_score": 48,
       "deal_types": [
         "区域套利",
@@ -1747,7 +1747,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-01T02:35:46",
-      "fetched_at": "2026-08-19T08:36:08.463947+00:00",
+      "fetched_at": "2026-08-19T12:43:19.263884+00:00",
       "relevance_score": 44,
       "deal_types": [
         "拼车/合租",
@@ -2110,7 +2110,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-08T19:31:15",
-      "fetched_at": "2026-08-19T08:36:08.463925+00:00",
+      "fetched_at": "2026-08-19T12:43:19.263853+00:00",
       "relevance_score": 42,
       "deal_types": [
         "优惠码",
@@ -3327,7 +3327,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-08T21:43:25",
-      "fetched_at": "2026-08-19T08:36:08.463923+00:00",
+      "fetched_at": "2026-08-19T12:43:19.263850+00:00",
       "relevance_score": 38,
       "deal_types": [
         "优惠码",
@@ -3340,16 +3340,16 @@
         "Workaround"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Anthropic",
         "Google"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "优惠码",
         "免费/试用",
         "薅羊毛/技巧"
@@ -3727,43 +3727,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1235350",
-      "source": "v2ex",
-      "subreddit": 17,
-      "title": "写了个本地 CLI：一条命令看 Codex / Cursor / Grok / OpenCode / Z.ai 剩余额度",
-      "body": "最近本地 coding agent 越装越多。真正卡手的往往不是模型选哪个，是开一个长任务前，不知道这家订阅还剩多少额度。\r\n\r\n每个厂商一张账本，入口还不一样：有的在网页 dashboard ，有的绑桌面登录态，有的看 ChatGPT 套餐。额度接口基本都不当公开稳定 API 文档化。\r\n\r\n所以写了 ai-quota 。非官方，一条命令读本机已有登录态，把 Codex 、ZCode/Z.ai 、OpenCode Go 、Grok 、Cursor 的剩余额度打出来。默认只读。Token 不出本机，只发给对应厂商。\r\n\r\n注意：\r\n\r\n- 不是官方工具，接口随时可能变或挂\r\n- Claude 还没接\r\n- Codex 用的是 ChatGPT 登录，不是 OpenAI API key\r\n- Cursor 读的是桌面端登录，不是 cursor-agent login\r\n\r\n仓库： https://github.com/hunterzhang86/ai-quota\r\n\r\n有同类痛点的可以试试。也欢迎拍接口变更和缺的厂商。",
-      "url": "https://www.v2ex.com/t/1235350",
-      "author": "NoOneAI",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-08-18T08:47:06",
-      "fetched_at": "2026-08-19T08:35:52.864581+00:00",
-      "relevance_score": 37,
-      "deal_types": [
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "Cursor",
-        "ChatGPT"
-      ],
-      "companies": [
-        "Anthropic",
-        "Cursor",
-        "OpenAI"
-      ],
-      "tags": [
-        "Claude",
-        "Cursor",
-        "ChatGPT",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1233879",
       "source": "v2ex",
       "subreddit": 864,
@@ -3811,7 +3774,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-09T02:07:14",
-      "fetched_at": "2026-08-19T08:36:08.463905+00:00",
+      "fetched_at": "2026-08-19T12:43:19.263848+00:00",
       "relevance_score": 37,
       "deal_types": [
         "优惠码",
@@ -4424,7 +4387,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-12T23:40:23",
-      "fetched_at": "2026-08-19T08:35:47.397531+00:00",
+      "fetched_at": "2026-08-19T12:43:00.743728+00:00",
       "relevance_score": 36,
       "deal_types": [
         "API优惠"
@@ -4433,20 +4396,20 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
         "Cursor",
+        "Claude",
         "Gemini",
         "ChatGPT"
       ],
       "companies": [
-        "Google",
         "Anthropic",
         "Cursor",
+        "Google",
         "OpenAI"
       ],
       "tags": [
-        "Claude",
         "Cursor",
+        "Claude",
         "Gemini",
         "ChatGPT",
         "API优惠"
@@ -5279,6 +5242,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1235350",
+      "source": "v2ex",
+      "subreddit": 17,
+      "title": "写了个本地 CLI：一条命令看 Codex / Cursor / Grok / OpenCode / Z.ai 剩余额度",
+      "body": "最近本地 coding agent 越装越多。真正卡手的往往不是模型选哪个，是开一个长任务前，不知道这家订阅还剩多少额度。\r\n\r\n每个厂商一张账本，入口还不一样：有的在网页 dashboard ，有的绑桌面登录态，有的看 ChatGPT 套餐。额度接口基本都不当公开稳定 API 文档化。\r\n\r\n所以写了 ai-quota 。非官方，一条命令读本机已有登录态，把 Codex 、ZCode/Z.ai 、OpenCode Go 、Grok 、Cursor 的剩余额度打出来。默认只读。Token 不出本机，只发给对应厂商。\r\n\r\n注意：\r\n\r\n- 不是官方工具，接口随时可能变或挂\r\n- Claude 还没接\r\n- Codex 用的是 ChatGPT 登录，不是 OpenAI API key\r\n- Cursor 读的是桌面端登录，不是 cursor-agent login\r\n\r\n仓库： https://github.com/hunterzhang86/ai-quota\r\n\r\n有同类痛点的可以试试。也欢迎拍接口变更和缺的厂商。",
+      "url": "https://www.v2ex.com/t/1235350",
+      "author": "NoOneAI",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-08-18T08:47:06",
+      "fetched_at": "2026-08-19T12:43:05.483332+00:00",
+      "relevance_score": 35,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Cursor",
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "Anthropic",
+        "Cursor",
+        "OpenAI"
+      ],
+      "tags": [
+        "Cursor",
+        "Claude",
+        "ChatGPT",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1234055",
       "source": "v2ex",
       "subreddit": 864,
@@ -5881,7 +5881,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-18T03:17:47",
-      "fetched_at": "2026-08-19T08:35:47.397499+00:00",
+      "fetched_at": "2026-08-19T12:43:00.743690+00:00",
       "relevance_score": 34,
       "deal_types": [
         "优惠码",
@@ -6505,49 +6505,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1235356",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "ds 大涨下，还是上车了 codex plus",
-      "body": "ds 涨价前在用 claude code 接入 ds v4 flash 来完成日常一些 crud 任务，一天用 2-3 块钱。涨价后昨天没怎么写代码，问了些简单问题就用了 600 万 Token ，一看已经烧了 2.5 块，人麻了要是按照正常开发强度，flash 涨价幅度 5 倍，一天不得 10 多块。\r\n\r\n决定还是开 codex plus ，今天花了上午两小时时间折腾订阅，成功订阅上 plus 。方法大概是电脑装个 mumu 安卓模拟器，挂全局梯子后安装 Play 商店，然后自己 Google 帐号转美区，再用美区地址加国内 Visa 信用卡成功支付。这样就不需要买 apple 礼品卡，也不用安卓手机。\r\n\r\n一开始想去菲律宾区，可能因为梯子不是菲律宾节点的问题，支付一直失败，一急眼改回美区了。\r\n然后刚改回美区时被风控了支付失败，然后去商店随便下载了几个免费 app ，等了一会再去支付就成功了。但是忘记了把支付地址改为美国的免税州，多扣了一刀，实际支付 20.99 刀。\r\n\r\n下午体验了下 codex ，现在开发任务都不是很复杂，所以用 5.6 luna xhigh 感觉就够了，",
-      "url": "https://www.v2ex.com/t/1235356",
-      "author": "kerwin1874",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-08-18T08:57:13",
-      "fetched_at": "2026-08-19T08:35:44.614394+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "区域套利",
-        "礼品卡",
-        "免费/试用",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Gift Card",
-        "Free/Trial",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "区域套利",
-        "礼品卡",
-        "免费/试用",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "hn_49325310",
       "source": "hackernews",
       "subreddit": "",
@@ -6965,7 +6922,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-07-01T16:47:18",
-      "fetched_at": "2026-08-19T08:35:55.361811+00:00",
+      "fetched_at": "2026-08-19T12:43:07.522553+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -7147,7 +7104,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-08-19T08:35:58.038302+00:00",
+      "fetched_at": "2026-08-19T12:43:09.906221+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -7455,7 +7412,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-08-14T06:17:16",
-      "fetched_at": "2026-08-19T08:35:47.397521+00:00",
+      "fetched_at": "2026-08-19T12:43:00.743716+00:00",
       "relevance_score": 32,
       "deal_types": [
         "优惠码",
@@ -7477,8 +7434,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "Google",
         "Anthropic",
+        "Google",
         "OpenAI"
       ],
       "tags": [
@@ -7544,7 +7501,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-08T05:38:57",
-      "fetched_at": "2026-08-19T08:35:44.614445+00:00",
+      "fetched_at": "2026-08-19T12:42:58.156428+00:00",
       "relevance_score": 32,
       "deal_types": [
         "优惠码",
@@ -8334,6 +8291,49 @@
         "ChatGPT",
         "区域套利",
         "礼品卡"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1235356",
+      "source": "v2ex",
+      "subreddit": 300,
+      "title": "ds 大涨下，还是上车了 codex plus",
+      "body": "ds 涨价前在用 claude code 接入 ds v4 flash 来完成日常一些 crud 任务，一天用 2-3 块钱。涨价后昨天没怎么写代码，问了些简单问题就用了 600 万 Token ，一看已经烧了 2.5 块，人麻了要是按照正常开发强度，flash 涨价幅度 5 倍，一天不得 10 多块。\r\n\r\n决定还是开 codex plus ，今天花了上午两小时时间折腾订阅，成功订阅上 plus 。方法大概是电脑装个 mumu 安卓模拟器，挂全局梯子后安装 Play 商店，然后自己 Google 帐号转美区，再用美区地址加国内 Visa 信用卡成功支付。这样就不需要买 apple 礼品卡，也不用安卓手机。\r\n\r\n一开始想去菲律宾区，可能因为梯子不是菲律宾节点的问题，支付一直失败，一急眼改回美区了。\r\n然后刚改回美区时被风控了支付失败，然后去商店随便下载了几个免费 app ，等了一会再去支付就成功了。但是忘记了把支付地址改为美国的免税州，多扣了一刀，实际支付 20.99 刀。\r\n\r\n下午体验了下 codex ，现在开发任务都不是很复杂，所以用 5.6 luna xhigh 感觉就够了，",
+      "url": "https://www.v2ex.com/t/1235356",
+      "author": "kerwin1874",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-08-18T08:57:13",
+      "fetched_at": "2026-08-19T12:42:58.156370+00:00",
+      "relevance_score": 31,
+      "deal_types": [
+        "区域套利",
+        "礼品卡",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Gift Card",
+        "Free/Trial",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "区域套利",
+        "礼品卡",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -9454,6 +9454,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1235694",
+      "source": "v2ex",
+      "subreddit": "openai",
+      "title": "发现一个 openai 额度重置的问题",
+      "body": "做着项目，突然 codex 里面提示当前模型普通的 chatgpt 账户用不了，并且看到额度已经变成 100%了，这说明我的 plus 已经到期了，到期前的 plus 剩余额度是 27%，重置时间是明天早上。\r\n我以前一直是用苹果礼品卡充值的，等着到期了，再充值，这样额度又会变成 plus 的额度，而且是 100%的，重置时间也是充值之后的一周后。\r\n今天我充值完毕之后，额度又变成了 27%，而且重置时间没变，还是明天早上！但是这次因为我明天早上就要重置了，所以其实影响不大。\r\n我分析了一下，有两种可能\r\n1：付费的额度到期之后，需要使用一下免费账户的额度，这样下次付费之后才会重置付费的额度和时间。\r\n2：openai 改代码了。\r\n\r\n有经验的大佬们分享一下，是不是需要试用一下免费账户的额度才能重置。，还是说现在就是 openai 改代码了，怎么折腾都没用了。",
+      "url": "https://www.v2ex.com/t/1235694",
+      "author": "prosgtsr",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-08-19T10:58:46+00:00",
+      "fetched_at": "2026-08-19T12:42:48.705197+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "礼品卡",
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Gift Card",
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "礼品卡",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1233189",
       "source": "v2ex",
       "subreddit": 69,
@@ -9464,7 +9501,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-10T03:12:23",
-      "fetched_at": "2026-08-19T08:35:44.614433+00:00",
+      "fetched_at": "2026-08-19T12:42:58.156413+00:00",
       "relevance_score": 30,
       "deal_types": [
         "拼车/合租",
@@ -10324,7 +10361,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-22T14:50:55",
-      "fetched_at": "2026-08-19T08:36:15.743452+00:00",
+      "fetched_at": "2026-08-19T12:43:25.919759+00:00",
       "relevance_score": 30,
       "deal_types": [
         "学生/教育"
@@ -10741,7 +10778,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-10T10:31:13",
-      "fetched_at": "2026-08-19T08:35:50.003064+00:00",
+      "fetched_at": "2026-08-19T12:43:03.004911+00:00",
       "relevance_score": 29,
       "deal_types": [
         "免费/试用",
@@ -10754,16 +10791,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Anthropic",
         "Google"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -10781,7 +10818,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-03T04:40:24",
-      "fetched_at": "2026-08-19T08:36:23.104379+00:00",
+      "fetched_at": "2026-08-19T12:43:32.433373+00:00",
       "relevance_score": 29,
       "deal_types": [
         "拼车/合租",
@@ -10792,8 +10829,8 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
         "Cursor",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
@@ -10802,8 +10839,8 @@
         "OpenAI"
       ],
       "tags": [
-        "Claude",
         "Cursor",
+        "Claude",
         "ChatGPT",
         "拼车/合租",
         "降价/折扣"
@@ -11395,46 +11432,6 @@
         "ChatGPT",
         "区域套利",
         "礼品卡",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1218143",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "中转站 10 天破 500 用户庆典 所有套餐限时八折 注册送体验额度!",
-      "body": "地址： https://psce.pw/958ykz\r\n\r\n主打满血稳定、快速接入、开发测试方便用。 新用户注册即送测试额度，支持多模型 API 调用，个人开发者和小团队都可以用。\r\n\r\n欢迎 V 友体验\r\n本帖下回复「已注册 + 注册邮箱」 我会发一份测试额度。\r\n\r\n其他 OpenAI SDK / CLI 工具\r\n\r\n超低倍率，适合高频开发、批量调用和日常写代码\r\n\r\n满血不掺水，请求什么模型就按对应模型/渠道转发\r\n\r\n不偷换低价模型，不做隐藏降级\r\n\r\n后台可查余额和用量，消耗透明\r\n\r\n额度不过期，慢慢用也不浪费\r\n\r\n接口报错可以带 request id 找我排查\r\n\r\nV:13025686554",
-      "url": "https://www.v2ex.com/t/1218143",
-      "author": "443038716",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-06-05T03:43:04",
-      "fetched_at": "2026-06-11T03:55:01.036991+00:00",
-      "relevance_score": 29,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧",
         "API优惠"
       ],
       "is_deal": true

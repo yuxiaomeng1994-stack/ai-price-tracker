@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T08:39:57.852845+00:00",
+  "last_updated": "2026-09-08T16:04:07.894773+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 277,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-09-08T08:37:36.145097+00:00",
+      "fetched_at": "2026-09-08T16:01:43.604052+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -627,7 +627,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-05T23:26:15",
-      "fetched_at": "2026-09-08T08:37:26.799580+00:00",
+      "fetched_at": "2026-09-08T16:01:32.914034+00:00",
       "relevance_score": 57,
       "deal_types": [
         "优惠码",
@@ -638,19 +638,19 @@
         "Price Drop"
       ],
       "products": [
+        "Claude",
         "Gemini",
-        "ChatGPT",
-        "Claude"
+        "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
+        "Anthropic",
         "Google",
-        "Anthropic"
+        "OpenAI"
       ],
       "tags": [
+        "Claude",
         "Gemini",
         "ChatGPT",
-        "Claude",
         "优惠码",
         "降价/折扣"
       ],
@@ -1101,7 +1101,7 @@
       "score": 0,
       "num_comments": 2,
       "created_at": "2026-08-15T11:01:57",
-      "fetched_at": "2026-09-08T08:37:40.885617+00:00",
+      "fetched_at": "2026-09-08T16:01:49.256729+00:00",
       "relevance_score": 47,
       "deal_types": [
         "区域套利",
@@ -1556,7 +1556,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-07T23:35:36",
-      "fetched_at": "2026-09-08T08:37:26.799565+00:00",
+      "fetched_at": "2026-09-08T16:01:32.914016+00:00",
       "relevance_score": 45,
       "deal_types": [
         "优惠码",
@@ -1567,19 +1567,19 @@
         "Price Drop"
       ],
       "products": [
+        "Claude",
         "Gemini",
-        "ChatGPT",
-        "Claude"
+        "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
+        "Anthropic",
         "Google",
-        "Anthropic"
+        "OpenAI"
       ],
       "tags": [
+        "Claude",
         "Gemini",
         "ChatGPT",
-        "Claude",
         "优惠码",
         "降价/折扣"
       ],
@@ -3487,7 +3487,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-29T10:54:30",
-      "fetched_at": "2026-09-08T08:38:00.794818+00:00",
+      "fetched_at": "2026-09-08T16:02:09.902413+00:00",
       "relevance_score": 38,
       "deal_types": [
         "优惠码",
@@ -4137,7 +4137,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-08T03:07:25",
-      "fetched_at": "2026-09-08T08:37:31.304550+00:00",
+      "fetched_at": "2026-09-08T16:01:38.074372+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -4821,7 +4821,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-21T07:58:35",
-      "fetched_at": "2026-09-08T08:37:47.608594+00:00",
+      "fetched_at": "2026-09-08T16:01:56.243106+00:00",
       "relevance_score": 36,
       "deal_types": [
         "薅羊毛/技巧"
@@ -6602,7 +6602,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-09-08T08:37:26.799796+00:00",
+      "fetched_at": "2026-09-08T16:01:32.914274+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -7230,7 +7230,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-07T01:29:05",
-      "fetched_at": "2026-09-08T08:37:26.799577+00:00",
+      "fetched_at": "2026-09-08T16:01:32.914031+00:00",
       "relevance_score": 33,
       "deal_types": [
         "礼品卡"
@@ -7239,16 +7239,16 @@
         "Gift Card"
       ],
       "products": [
-        "ChatGPT",
-        "Claude"
+        "Claude",
+        "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
-        "ChatGPT",
         "Claude",
+        "ChatGPT",
         "礼品卡"
       ],
       "is_deal": true
@@ -7819,7 +7819,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-09-08T08:37:38.414983+00:00",
+      "fetched_at": "2026-09-08T16:01:46.651727+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -8077,43 +8077,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1240173",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "🚀 AigateGo · 实充 ChatGPT Pro 号池 0.2x｜回帖送 $2 进群送 $1 / 邀请送 $2",
-      "body": "👉 https://api.aigatego.com\r\n\r\n最近低价组又开始各种问题，用着真的心累：\r\n\r\n> **第一章 天才陨落** our server is currently overloaded please try later.  \r\n> **第二章 不翼而飞** unknown provider for model gpt‑5.6‑sol  \r\n> **第三章 山穷水尽** Selected model is at capacity.  \r\n> **第四章 封神提名** User has been banned  \r\n> **第五章 穷途末路** exceeded retry limit, last status: 429 Too Many Requests\r\n\r\n问题往往不在模型，在号。  \r\n拼盘通道、共享额度、全家桶硬塞——便宜是真的，翻车也是一套的。\r\n\r\n## AigateGo 只做一件事\r\n\r\n- ✅ **实充 ChatGPT Pro 号池**，不是尾货、不是拼盘\r\n- ✅ **0.2x 超低倍率**，把成本打下来，把稳定性留住\r\n- ✅ **只接 GPT*",
-      "url": "https://www.v2ex.com/t/1240173",
-      "author": "ttokens",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-07T12:44:02",
-      "fetched_at": "2026-09-08T08:37:43.261595+00:00",
-      "relevance_score": 32,
-      "deal_types": [
-        "拼车/合租",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "拼车/合租",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1239512",
       "source": "v2ex",
       "subreddit": "programmer",
@@ -8167,7 +8130,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-31T12:32:34",
-      "fetched_at": "2026-09-08T08:37:29.125369+00:00",
+      "fetched_at": "2026-09-08T16:01:35.426492+00:00",
       "relevance_score": 32,
       "deal_types": [
         "优惠码",
@@ -9162,7 +9125,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-04T02:18:14",
-      "fetched_at": "2026-09-08T08:37:29.125344+00:00",
+      "fetched_at": "2026-09-08T16:01:35.426452+00:00",
       "relevance_score": 31,
       "deal_types": [
         "免费/试用",
@@ -10508,6 +10471,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1240173",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "🚀 AigateGo · 实充 ChatGPT Pro 号池 0.2x｜回帖送 $2 进群送 $1 / 邀请送 $2",
+      "body": "👉 https://api.aigatego.com\r\n\r\n最近低价组又开始各种问题，用着真的心累：\r\n\r\n> **第一章 天才陨落** our server is currently overloaded please try later.  \r\n> **第二章 不翼而飞** unknown provider for model gpt‑5.6‑sol  \r\n> **第三章 山穷水尽** Selected model is at capacity.  \r\n> **第四章 封神提名** User has been banned  \r\n> **第五章 穷途末路** exceeded retry limit, last status: 429 Too Many Requests\r\n\r\n问题往往不在模型，在号。  \r\n拼盘通道、共享额度、全家桶硬塞——便宜是真的，翻车也是一套的。\r\n\r\n## AigateGo 只做一件事\r\n\r\n- ✅ **实充 ChatGPT Pro 号池**，不是尾货、不是拼盘\r\n- ✅ **0.2x 超低倍率**，把成本打下来，把稳定性留住\r\n- ✅ **只接 GPT*",
+      "url": "https://www.v2ex.com/t/1240173",
+      "author": "ttokens",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-07T12:44:02",
+      "fetched_at": "2026-09-08T16:01:51.627858+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "拼车/合租",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "拼车/合租",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1238791",
       "source": "v2ex",
       "subreddit": 1353,
@@ -10555,7 +10555,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-17T00:36:31Z",
-      "fetched_at": "2026-09-08T08:38:19.958933+00:00",
+      "fetched_at": "2026-09-08T16:02:28.842976+00:00",
       "relevance_score": 30,
       "deal_types": [
         "降价/折扣",
@@ -11449,7 +11449,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-05-22T14:50:55",
-      "fetched_at": "2026-09-08T08:37:54.173893+00:00",
+      "fetched_at": "2026-09-08T16:02:03.407948+00:00",
       "relevance_score": 30,
       "deal_types": [
         "学生/教育"

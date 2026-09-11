@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T22:19:23.302576+00:00",
+  "last_updated": "2026-09-11T03:10:04.893331+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 277,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-09-10T22:16:59.075149+00:00",
+      "fetched_at": "2026-09-11T03:07:47.923058+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -670,7 +670,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-05T23:26:15",
-      "fetched_at": "2026-09-10T22:16:47.286869+00:00",
+      "fetched_at": "2026-09-11T03:07:38.747365+00:00",
       "relevance_score": 55,
       "deal_types": [
         "优惠码",
@@ -681,18 +681,18 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "Claude"
       ],
       "companies": [
+        "Anthropic",
         "OpenAI",
-        "Google",
-        "Anthropic"
+        "Google"
       ],
       "tags": [
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "Claude",
         "优惠码",
         "降价/折扣"
@@ -1091,46 +1091,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1240948",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "Claude API 月账单又爆了？社群送 10 美元体验折扣价",
-      "body": "用 Claude API 的都算过账，官方价格确实不便宜。尤其 Code 或 Cursor 这种高频调用场景，账单涨得快。\r\n\r\naicoding.inc 按 1.9 折到 4.9 折消耗余额，相当于官方价格打折。国内直连，不用梯子，支付也是国内渠道。数万开发者在用，企业客户 200 多家。\r\n\r\n计费清楚，后台能看到每次调用的 token 消耗和扣费记录。新注册加社群送 10 美元，可以先对比下成本。\r\n  ",
-      "url": "https://www.v2ex.com/t/1240948",
-      "author": "aicodinginc",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-10T03:07:19",
-      "fetched_at": "2026-09-10T22:17:06.278681+00:00",
-      "relevance_score": 47,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "Cursor"
-      ],
-      "companies": [
-        "Anthropic",
-        "Cursor"
-      ],
-      "tags": [
-        "Claude",
-        "Cursor",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1234650",
       "source": "v2ex",
       "subreddit": 148,
@@ -1141,7 +1101,7 @@
       "score": 0,
       "num_comments": 2,
       "created_at": "2026-08-15T11:01:57",
-      "fetched_at": "2026-09-10T22:17:03.687441+00:00",
+      "fetched_at": "2026-09-11T03:07:52.674603+00:00",
       "relevance_score": 47,
       "deal_types": [
         "区域套利",
@@ -1581,6 +1541,46 @@
         "免费/试用",
         "降价/折扣",
         "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1240948",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "Claude API 月账单又爆了？社群送 10 美元体验折扣价",
+      "body": "用 Claude API 的都算过账，官方价格确实不便宜。尤其 Code 或 Cursor 这种高频调用场景，账单涨得快。\r\n\r\naicoding.inc 按 1.9 折到 4.9 折消耗余额，相当于官方价格打折。国内直连，不用梯子，支付也是国内渠道。数万开发者在用，企业客户 200 多家。\r\n\r\n计费清楚，后台能看到每次调用的 token 消耗和扣费记录。新注册加社群送 10 美元，可以先对比下成本。\r\n  ",
+      "url": "https://www.v2ex.com/t/1240948",
+      "author": "aicodinginc",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-10T03:07:19",
+      "fetched_at": "2026-09-11T03:07:54.916633+00:00",
+      "relevance_score": 45,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Cursor",
+        "Claude"
+      ],
+      "companies": [
+        "Cursor",
+        "Anthropic"
+      ],
+      "tags": [
+        "Cursor",
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
@@ -2136,46 +2136,6 @@
         "Claude",
         "区域套利",
         "礼品卡"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1240241",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "HuiAi 国内 ChatGPT plus/Claude 大神们的福利，可开票",
-      "body": "方便不想折腾海外卡的大神开\r\nPlus 折扣码 HUIAIV210 立减 10 元\r\nPro 5x 折扣 HUIAIV230 立减 30 元\r\nPro 20x 折扣 HUIAIV260 立减 60 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra\r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.shop/\r\n有问题直接回帖",
-      "url": "https://www.v2ex.com/t/1240241",
-      "author": "pandom2003",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-07T23:35:36",
-      "fetched_at": "2026-09-10T22:16:47.286858+00:00",
-      "relevance_score": 43,
-      "deal_types": [
-        "优惠码",
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Price Drop"
-      ],
-      "products": [
-        "Gemini",
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "OpenAI",
-        "Google",
-        "Anthropic"
-      ],
-      "tags": [
-        "Gemini",
-        "ChatGPT",
-        "Claude",
-        "优惠码",
-        "降价/折扣"
       ],
       "is_deal": true
     },
@@ -2753,17 +2713,17 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1240858",
+      "id": "v2ex_1240241",
       "source": "v2ex",
       "subreddit": 864,
-      "title": "Huiai 做了个国内付的 AI 订阅站 Codex、Claude Code、Gemini 方便不想折腾海外卡的人，可开票",
-      "body": "Plus 折扣码 HUIAIV210 立减 10 元\r\nPro 5x 折扣 HUIAIV230 立减 30 元\r\nPro 20x 折扣 HUIAIV260 立减 60 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra\r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.shop/\r\n有问题直接回帖。",
-      "url": "https://www.v2ex.com/t/1240858",
+      "title": "HuiAi 国内 ChatGPT plus/Claude 大神们的福利，可开票",
+      "body": "方便不想折腾海外卡的大神开\r\nPlus 折扣码 HUIAIV210 立减 10 元\r\nPro 5x 折扣 HUIAIV230 立减 30 元\r\nPro 20x 折扣 HUIAIV260 立减 60 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra\r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.shop/\r\n有问题直接回帖",
+      "url": "https://www.v2ex.com/t/1240241",
       "author": "pandom2003",
       "score": 0,
       "num_comments": 0,
-      "created_at": "2026-09-09T22:43:54",
-      "fetched_at": "2026-09-10T22:16:47.286822+00:00",
+      "created_at": "2026-09-07T23:35:36",
+      "fetched_at": "2026-09-11T03:07:38.747354+00:00",
       "relevance_score": 41,
       "deal_types": [
         "优惠码",
@@ -2774,18 +2734,18 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "Claude"
       ],
       "companies": [
+        "Anthropic",
         "OpenAI",
-        "Google",
-        "Anthropic"
+        "Google"
       ],
       "tags": [
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "Claude",
         "优惠码",
         "降价/折扣"
@@ -3227,6 +3187,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1240858",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "Huiai 做了个国内付的 AI 订阅站 Codex、Claude Code、Gemini 方便不想折腾海外卡的人，可开票",
+      "body": "Plus 折扣码 HUIAIV210 立减 10 元\r\nPro 5x 折扣 HUIAIV230 立减 30 元\r\nPro 20x 折扣 HUIAIV260 立减 60 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra\r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.shop/\r\n有问题直接回帖。",
+      "url": "https://www.v2ex.com/t/1240858",
+      "author": "pandom2003",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-09T22:43:54",
+      "fetched_at": "2026-09-11T03:07:38.747168+00:00",
+      "relevance_score": 39,
+      "deal_types": [
+        "优惠码",
+        "降价/折扣"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Price Drop"
+      ],
+      "products": [
+        "ChatGPT",
+        "Gemini",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI",
+        "Google"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Gemini",
+        "Claude",
+        "优惠码",
+        "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1229632",
       "source": "v2ex",
       "subreddit": 864,
@@ -3567,7 +3567,7 @@
       "score": 3,
       "num_comments": 0,
       "created_at": "2026-09-10T10:00:54Z",
-      "fetched_at": "2026-09-10T22:17:48.399270+00:00",
+      "fetched_at": "2026-09-11T03:08:34.387458+00:00",
       "relevance_score": 38,
       "deal_types": [
         "免费/试用",
@@ -3582,8 +3582,8 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
@@ -4941,7 +4941,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-21T07:58:35",
-      "fetched_at": "2026-09-10T22:17:11.176627+00:00",
+      "fetched_at": "2026-09-11T03:07:59.464920+00:00",
       "relevance_score": 36,
       "deal_types": [
         "薅羊毛/技巧"
@@ -5782,77 +5782,6 @@
         "Cursor",
         "拼车/合租",
         "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1240946",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[羊毛贴] 超低价 0.07x 的 gpt， 0.05x 的 opus， 0.15x 的 fable",
-      "body": "rsiai.net —— 一个全新的 AI 网关，支持 Claude Opus 5 、Fable 5 、GPT-5.6 等前沿模型，价格只要官方的 5%–15%。\r\n\r\n🚀 首发活动：首充双倍返现\r\n第一次充值，充多少送多少。\r\n充 $10 ，到账 $20 额度。 充 $50 ，到账 $100 额度。\r\n无套路，不限模型，用完即止。\r\n\r\n🔥 价格对比\r\nOpus5 - 95% off\r\nFable5 - 85% off\r\nGPT5.6 - 93% off\r\n跑一个 Agent 任务，原来花 $10 ，现在只要 $0.5 。\r\n\r\n⚡ AFF 项目\r\n推荐他人充值即可享 20%佣金返现\r\n\r\n🛠️ 适合谁用\r\n* 用 Claude Code 写代码的开发者\r\n* 跑 AI Agent / 自动化脚本 的极客\r\n* 做 模型评测、批量推理 的研究者\r\n* 任何觉得官方 API 太贵、又不想用缩水替代品的人\r\n\r\n\r\n⚡ 快速上手\r\n# 1. 注册 rsiai.net\r\n# 2. 首次充值，双倍到账\r\n# 3. 替换 API Base URL 为 rsiai.net 地址\r\n# 4. 开跑",
-      "url": "https://www.v2ex.com/t/1240946",
-      "author": "yjyxabc",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-10T03:05:42",
-      "fetched_at": "2026-09-10T22:17:27.969543+00:00",
-      "relevance_score": 35,
-      "deal_types": [
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Price Drop",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1240321",
-      "source": "v2ex",
-      "subreddit": 1135,
-      "title": "每天合计 600 张 image-2 免费生图网站 额外每人赠送 200 张",
-      "body": "免费支持 **Image-2 、1K 分辨率，每天 600 张额度**，防滥用次日 6-8 点随机一个时间点恢复额度。\r\n- **生图站：** [image.routerapi.net]( https://image.routerapi.net) \r\n- 试用 key：sk-QJD2V7kmPKnDz0UAJ7l60MnrP9kNHpY5JCXyQ18qT0QdrkYQ\r\n\r\n\r\n## 留 ID ，再送两天\r\n- **主站：** [routerapi.net]( https://routerapi.net)\r\n\r\n**注册后在评论区留下你的用户 ID ，每天赠送 100 张 image-2 1k ，连续送 2 天，一共 200 张。**\r\n\r\n注册用户不限制模型和分辨率，具体数量看使用的模型</br>\r\n余额支持其他模型，支持 0.2 的 gpt-pro\r\n\r\n- 支持 image-2 1k 、2k 、4k\r\n- 支持 Gemini-3.1-flash-image (nano banana 2) 1k 、2k 、4k\r\n- 支持 Gemini-3-pro-image-preview (",
-      "url": "https://www.v2ex.com/t/1240321",
-      "author": "ShawnShi",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-08T03:07:25",
-      "fetched_at": "2026-09-10T22:16:52.976175+00:00",
-      "relevance_score": 35,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "免费/试用",
         "API优惠"
       ],
       "is_deal": true
@@ -6716,7 +6645,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-10T17:04:01",
-      "fetched_at": "2026-09-10T22:16:55.981118+00:00",
+      "fetched_at": "2026-09-11T03:07:45.526064+00:00",
       "relevance_score": 34,
       "deal_types": [
         "拼车/合租"
@@ -6824,7 +6753,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-09-10T22:17:18.212181+00:00",
+      "fetched_at": "2026-09-11T03:08:05.885200+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -7442,41 +7371,72 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1240920",
+      "id": "v2ex_1240946",
       "source": "v2ex",
-      "subreddit": 1357,
-      "title": "# [合租巴士] 企业级大模型中转站 | “不降智”的 Astra 满血方案",
-      "body": "最近 GPT-6 Astra 降智频发，很多中转站被爆出并发就被路由到小模型。\r\n如果确定模型被降智，最简单的测试是问一句“你的知识训练截止日期是什么时间”——回答 2024 年 6 月的，100% 是降智路由到了 GPT-4o ，或者更高级的玩儿法，测试糖果和醍醐。\r\n\r\n##  新突破！\r\n### 合租巴士目前已突破降智困境，现阶段主打的就是 “不降智的 GPT-6 Astra”\r\n合租巴士目前支持统一调用，保真可测，“醍醐”与“糖果”都有。支持开票，主打一个稳字。\r\n\r\n### 💰 当前充值加赠活动（具体金额动态调整，截至发帖日如下）\r\n目前平台开启了阶梯充值赠送，充值越多加赠比例越高。实测充值 ¥1000 直接到账 ¥1300 ，相当于 77 折，拿来跑长任务/高频并发非常划算，另外平台还有订阅卡可选购。\r\n\r\n| 充值金额 | 实际到账 | 加赠额度 |\r\n| :--- | :--- | :--- |\r\n| ¥10 / ¥50 | 原价到账 | 无 |\r\n| ¥100 | **¥110** | 加赠 ¥10 |\r\n| ¥200 | **¥230** | 加赠 ¥30 |\r\n|",
-      "url": "https://www.v2ex.com/t/1240920",
-      "author": "213dafssa",
+      "subreddit": 864,
+      "title": "[羊毛贴] 超低价 0.07x 的 gpt， 0.05x 的 opus， 0.15x 的 fable",
+      "body": "rsiai.net —— 一个全新的 AI 网关，支持 Claude Opus 5 、Fable 5 、GPT-5.6 等前沿模型，价格只要官方的 5%–15%。\r\n\r\n🚀 首发活动：首充双倍返现\r\n第一次充值，充多少送多少。\r\n充 $10 ，到账 $20 额度。 充 $50 ，到账 $100 额度。\r\n无套路，不限模型，用完即止。\r\n\r\n🔥 价格对比\r\nOpus5 - 95% off\r\nFable5 - 85% off\r\nGPT5.6 - 93% off\r\n跑一个 Agent 任务，原来花 $10 ，现在只要 $0.5 。\r\n\r\n⚡ AFF 项目\r\n推荐他人充值即可享 20%佣金返现\r\n\r\n🛠️ 适合谁用\r\n* 用 Claude Code 写代码的开发者\r\n* 跑 AI Agent / 自动化脚本 的极客\r\n* 做 模型评测、批量推理 的研究者\r\n* 任何觉得官方 API 太贵、又不想用缩水替代品的人\r\n\r\n\r\n⚡ 快速上手\r\n# 1. 注册 rsiai.net\r\n# 2. 首次充值，双倍到账\r\n# 3. 替换 API Base URL 为 rsiai.net 地址\r\n# 4. 开跑",
+      "url": "https://www.v2ex.com/t/1240946",
+      "author": "yjyxabc",
       "score": 0,
       "num_comments": 0,
-      "created_at": "2026-09-10T02:20:57",
-      "fetched_at": "2026-09-10T22:16:55.981166+00:00",
+      "created_at": "2026-09-10T03:05:42",
+      "fetched_at": "2026-09-11T03:08:14.793481+00:00",
       "relevance_score": 33,
       "deal_types": [
-        "拼车/合租",
-        "免费/试用",
         "降价/折扣",
+        "薅羊毛/技巧",
         "API优惠"
       ],
       "deal_types_en": [
-        "Group Buy",
-        "Free/Trial",
         "Price Drop",
+        "Workaround",
         "API Deal"
       ],
       "products": [
-        "ChatGPT"
+        "Claude"
       ],
       "companies": [
-        "OpenAI"
+        "Anthropic"
       ],
       "tags": [
-        "ChatGPT",
-        "拼车/合租",
-        "免费/试用",
+        "Claude",
         "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1240321",
+      "source": "v2ex",
+      "subreddit": 1135,
+      "title": "每天合计 600 张 image-2 免费生图网站 额外每人赠送 200 张",
+      "body": "免费支持 **Image-2 、1K 分辨率，每天 600 张额度**，防滥用次日 6-8 点随机一个时间点恢复额度。\r\n- **生图站：** [image.routerapi.net]( https://image.routerapi.net) \r\n- 试用 key：sk-QJD2V7kmPKnDz0UAJ7l60MnrP9kNHpY5JCXyQ18qT0QdrkYQ\r\n\r\n\r\n## 留 ID ，再送两天\r\n- **主站：** [routerapi.net]( https://routerapi.net)\r\n\r\n**注册后在评论区留下你的用户 ID ，每天赠送 100 张 image-2 1k ，连续送 2 天，一共 200 张。**\r\n\r\n注册用户不限制模型和分辨率，具体数量看使用的模型</br>\r\n余额支持其他模型，支持 0.2 的 gpt-pro\r\n\r\n- 支持 image-2 1k 、2k 、4k\r\n- 支持 Gemini-3.1-flash-image (nano banana 2) 1k 、2k 、4k\r\n- 支持 Gemini-3-pro-image-preview (",
+      "url": "https://www.v2ex.com/t/1240321",
+      "author": "ShawnShi",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-08T03:07:25",
+      "fetched_at": "2026-09-11T03:07:43.045423+00:00",
+      "relevance_score": 33,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "免费/试用",
         "API优惠"
       ],
       "is_deal": true
@@ -8047,7 +8007,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-09-10T22:17:01.307561+00:00",
+      "fetched_at": "2026-09-11T03:07:50.432624+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9343,6 +9303,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1240920",
+      "source": "v2ex",
+      "subreddit": 1357,
+      "title": "# [合租巴士] 企业级大模型中转站 | “不降智”的 Astra 满血方案",
+      "body": "最近 GPT-6 Astra 降智频发，很多中转站被爆出并发就被路由到小模型。\r\n如果确定模型被降智，最简单的测试是问一句“你的知识训练截止日期是什么时间”——回答 2024 年 6 月的，100% 是降智路由到了 GPT-4o ，或者更高级的玩儿法，测试糖果和醍醐。\r\n\r\n##  新突破！\r\n### 合租巴士目前已突破降智困境，现阶段主打的就是 “不降智的 GPT-6 Astra”\r\n合租巴士目前支持统一调用，保真可测，“醍醐”与“糖果”都有。支持开票，主打一个稳字。\r\n\r\n### 💰 当前充值加赠活动（具体金额动态调整，截至发帖日如下）\r\n目前平台开启了阶梯充值赠送，充值越多加赠比例越高。实测充值 ¥1000 直接到账 ¥1300 ，相当于 77 折，拿来跑长任务/高频并发非常划算，另外平台还有订阅卡可选购。\r\n\r\n| 充值金额 | 实际到账 | 加赠额度 |\r\n| :--- | :--- | :--- |\r\n| ¥10 / ¥50 | 原价到账 | 无 |\r\n| ¥100 | **¥110** | 加赠 ¥10 |\r\n| ¥200 | **¥230** | 加赠 ¥30 |\r\n|",
+      "url": "https://www.v2ex.com/t/1240920",
+      "author": "213dafssa",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-10T02:20:57",
+      "fetched_at": "2026-09-11T03:07:45.526132+00:00",
+      "relevance_score": 31,
+      "deal_types": [
+        "拼车/合租",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "拼车/合租",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1239912",
       "source": "v2ex",
       "subreddit": 864,
@@ -9353,7 +9353,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-07T01:29:05",
-      "fetched_at": "2026-09-10T22:16:47.286866+00:00",
+      "fetched_at": "2026-09-11T03:07:38.747362+00:00",
       "relevance_score": 31,
       "deal_types": [
         "礼品卡"
@@ -9366,53 +9366,13 @@
         "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
         "Claude",
         "礼品卡"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1239397",
-      "source": "v2ex",
-      "subreddit": 1304,
-      "title": "自建的 API 中转站，主打稳定",
-      "body": "👉 https://api.mytokens.pro/\r\n目前提供 gpt/claude/grok 模型。\r\n\r\n价格可能没有部分站点便宜，但线路和网络稳定性会更好一些，比较适合长期使用，尤其是 Codex 、Claude Code 这类对连接稳定性要求比较高的场景。\r\n模型只用真实模型，不做模型替换、不掺水。宁可暂停服务，也不会拿其他模型顶上。\r\n如果有使用 API 需求，可以注册试试。\r\nhttps://api.mytokens.pro/\r\n(注册无赠送，薅羊毛的就算了)",
-      "url": "https://www.v2ex.com/t/1239397",
-      "author": "mytokens",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-04T02:18:14",
-      "fetched_at": "2026-09-10T22:16:50.780122+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
       ],
       "is_deal": true
     },
@@ -10735,15 +10695,15 @@
     {
       "id": "v2ex_1241096",
       "source": "v2ex",
-      "subreddit": "programmer",
+      "subreddit": 300,
       "title": "做了一个 claude 拼车额度拆分的产品，有没有试用的",
       "body": "留下联系方式，我来联系你\r\n\r\n或者联系 shipbox.cloud ，上面有邮件\r\n\r\n如果需求强烈的话可以开源",
       "url": "https://www.v2ex.com/t/1241096",
       "author": "bfc",
       "score": 0,
       "num_comments": 0,
-      "created_at": "2026-09-10T09:09:19+00:00",
-      "fetched_at": "2026-09-10T22:16:43.227367+00:00",
+      "created_at": "2026-09-10T09:09:19",
+      "fetched_at": "2026-09-11T03:08:01.600079+00:00",
       "relevance_score": 30,
       "deal_types": [
         "拼车/合租",
@@ -10810,6 +10770,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1239397",
+      "source": "v2ex",
+      "subreddit": 1304,
+      "title": "自建的 API 中转站，主打稳定",
+      "body": "👉 https://api.mytokens.pro/\r\n目前提供 gpt/claude/grok 模型。\r\n\r\n价格可能没有部分站点便宜，但线路和网络稳定性会更好一些，比较适合长期使用，尤其是 Codex 、Claude Code 这类对连接稳定性要求比较高的场景。\r\n模型只用真实模型，不做模型替换、不掺水。宁可暂停服务，也不会拿其他模型顶上。\r\n如果有使用 API 需求，可以注册试试。\r\nhttps://api.mytokens.pro/\r\n(注册无赠送，薅羊毛的就算了)",
+      "url": "https://www.v2ex.com/t/1239397",
+      "author": "mytokens",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-04T02:18:14",
+      "fetched_at": "2026-09-11T03:07:40.790981+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1238791",
       "source": "v2ex",
       "subreddit": 1353,
@@ -10857,7 +10857,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-17T00:36:31Z",
-      "fetched_at": "2026-09-10T22:17:45.665815+00:00",
+      "fetched_at": "2026-09-11T03:08:31.618678+00:00",
       "relevance_score": 30,
       "deal_types": [
         "降价/折扣",

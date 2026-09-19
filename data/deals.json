@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T22:21:48.390295+00:00",
+  "last_updated": "2026-09-19T03:17:33.764674+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 278,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-09-18T22:19:30.481148+00:00",
+      "fetched_at": "2026-09-19T03:15:12.408234+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -787,7 +787,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-05T23:26:15",
-      "fetched_at": "2026-09-18T22:19:25.523807+00:00",
+      "fetched_at": "2026-09-19T03:15:05.541085+00:00",
       "relevance_score": 54,
       "deal_types": [
         "优惠码",
@@ -798,19 +798,19 @@
         "Price Drop"
       ],
       "products": [
-        "ChatGPT",
+        "Claude",
         "Gemini",
-        "Claude"
+        "ChatGPT"
       ],
       "companies": [
         "Anthropic",
-        "Google",
-        "OpenAI"
+        "OpenAI",
+        "Google"
       ],
       "tags": [
-        "ChatGPT",
-        "Gemini",
         "Claude",
+        "Gemini",
+        "ChatGPT",
         "优惠码",
         "降价/折扣"
       ],
@@ -1101,7 +1101,7 @@
       "score": 0,
       "num_comments": 2,
       "created_at": "2026-08-15T11:01:57",
-      "fetched_at": "2026-09-18T22:19:35.096516+00:00",
+      "fetched_at": "2026-09-19T03:15:17.167056+00:00",
       "relevance_score": 47,
       "deal_types": [
         "区域套利",
@@ -2713,43 +2713,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1242908",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[OpenAI Pro 号池] 支持 Luna / gpt-6-astra｜价格更新至 0.2x｜注册即送 $2 体验额度，充值多赠 10%，充值用户独享 VIP 分组及特定折扣",
-      "body": "大家好，来更新一下 Quick Pivot 目前的模型支持、价格和新用户体验活动。\r\n\r\n先说重点：支持 Luna 和 gpt-6-astra ，目前价格更新至 0.2x ，具体模型单价以价格表为准。新用户现在注册就送 $2 平台体验额度，可以先试再决定是否充值。\r\n\r\n站点： https://quick-pivot.com/\r\n\r\n## 支持 Luna 和 gpt-6-astra\r\n\r\n如果你之前在其他中转站没找到 Luna 或 gpt-6-astra ，这边都支持，欢迎用赠送额度测试自己的实际使用场景。\r\n\r\n目前提供 OpenAI Pro 号池线路，兼容 OpenAI Chat Completions 和 Responses API ，可接入 Codex 及其他 OpenAI 兼容客户端。\r\n\r\n完整模型列表及当前可用情况，以控制台展示和 API 实际返回为准。\r\n\r\n## 价格更新：0.2x ，具体以价格表为准\r\n\r\n目前价格已更新至 0.2x 。不同模型的输入、输出和缓存读取价格，请直接查看完整价格表：\r\n\r\nhttps://quick-pivot.com/model-pri",
-      "url": "https://www.v2ex.com/t/1242908",
-      "author": "doanything",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-18T03:00:00",
-      "fetched_at": "2026-09-18T22:20:02.286093+00:00",
-      "relevance_score": 41,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1235954",
       "source": "v2ex",
       "subreddit": 864,
@@ -2800,7 +2763,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-07T23:35:36",
-      "fetched_at": "2026-09-18T22:19:25.523802+00:00",
+      "fetched_at": "2026-09-19T03:15:05.541080+00:00",
       "relevance_score": 40,
       "deal_types": [
         "优惠码",
@@ -2811,19 +2774,19 @@
         "Price Drop"
       ],
       "products": [
-        "ChatGPT",
+        "Claude",
         "Gemini",
-        "Claude"
+        "ChatGPT"
       ],
       "companies": [
         "Anthropic",
-        "Google",
-        "OpenAI"
+        "OpenAI",
+        "Google"
       ],
       "tags": [
-        "ChatGPT",
-        "Gemini",
         "Claude",
+        "Gemini",
+        "ChatGPT",
         "优惠码",
         "降价/折扣"
       ],
@@ -3224,6 +3187,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1242908",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[OpenAI Pro 号池] 支持 Luna / gpt-6-astra｜价格更新至 0.2x｜注册即送 $2 体验额度，充值多赠 10%，充值用户独享 VIP 分组及特定折扣",
+      "body": "大家好，来更新一下 Quick Pivot 目前的模型支持、价格和新用户体验活动。\r\n\r\n先说重点：支持 Luna 和 gpt-6-astra ，目前价格更新至 0.2x ，具体模型单价以价格表为准。新用户现在注册就送 $2 平台体验额度，可以先试再决定是否充值。\r\n\r\n站点： https://quick-pivot.com/\r\n\r\n## 支持 Luna 和 gpt-6-astra\r\n\r\n如果你之前在其他中转站没找到 Luna 或 gpt-6-astra ，这边都支持，欢迎用赠送额度测试自己的实际使用场景。\r\n\r\n目前提供 OpenAI Pro 号池线路，兼容 OpenAI Chat Completions 和 Responses API ，可接入 Codex 及其他 OpenAI 兼容客户端。\r\n\r\n完整模型列表及当前可用情况，以控制台展示和 API 实际返回为准。\r\n\r\n## 价格更新：0.2x ，具体以价格表为准\r\n\r\n目前价格已更新至 0.2x 。不同模型的输入、输出和缓存读取价格，请直接查看完整价格表：\r\n\r\nhttps://quick-pivot.com/model-pri",
+      "url": "https://www.v2ex.com/t/1242908",
+      "author": "doanything",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-18T03:00:00",
+      "fetched_at": "2026-09-19T03:15:44.172925+00:00",
+      "relevance_score": 39,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1229632",
       "source": "v2ex",
       "subreddit": 864,
@@ -3564,7 +3564,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-14T11:22:37",
-      "fetched_at": "2026-09-18T22:19:20.938086+00:00",
+      "fetched_at": "2026-09-19T03:15:01.121274+00:00",
       "relevance_score": 38,
       "deal_types": [
         "优惠码",
@@ -3575,19 +3575,19 @@
         "Price Drop"
       ],
       "products": [
-        "ChatGPT",
+        "Claude",
         "Gemini",
-        "Claude"
+        "ChatGPT"
       ],
       "companies": [
         "Anthropic",
-        "Google",
-        "OpenAI"
+        "OpenAI",
+        "Google"
       ],
       "tags": [
-        "ChatGPT",
-        "Gemini",
         "Claude",
+        "Gemini",
+        "ChatGPT",
         "优惠码",
         "降价/折扣"
       ],
@@ -4941,7 +4941,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-09T22:43:54",
-      "fetched_at": "2026-09-18T22:19:25.523797+00:00",
+      "fetched_at": "2026-09-19T03:15:05.541074+00:00",
       "relevance_score": 36,
       "deal_types": [
         "优惠码",
@@ -4952,19 +4952,19 @@
         "Price Drop"
       ],
       "products": [
-        "ChatGPT",
+        "Claude",
         "Gemini",
-        "Claude"
+        "ChatGPT"
       ],
       "companies": [
         "Anthropic",
-        "Google",
-        "OpenAI"
+        "OpenAI",
+        "Google"
       ],
       "tags": [
-        "ChatGPT",
-        "Gemini",
         "Claude",
+        "Gemini",
+        "ChatGPT",
         "优惠码",
         "降价/折扣"
       ],
@@ -5018,7 +5018,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-21T07:58:35",
-      "fetched_at": "2026-09-18T22:19:41.850529+00:00",
+      "fetched_at": "2026-09-19T03:15:24.190547+00:00",
       "relevance_score": 36,
       "deal_types": [
         "薅羊毛/技巧"
@@ -6799,7 +6799,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-09-18T22:19:48.781741+00:00",
+      "fetched_at": "2026-09-19T03:15:30.660439+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -7427,7 +7427,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-09-18T22:19:23.178202+00:00",
+      "fetched_at": "2026-09-19T03:15:03.499090+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -8019,7 +8019,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-09-18T22:19:32.637424+00:00",
+      "fetched_at": "2026-09-19T03:15:14.658595+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -8318,7 +8318,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-08T03:07:25",
-      "fetched_at": "2026-09-18T22:19:25.523800+00:00",
+      "fetched_at": "2026-09-19T03:15:05.541077+00:00",
       "relevance_score": 32,
       "deal_types": [
         "免费/试用",
@@ -10780,7 +10780,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-18T07:15:55",
-      "fetched_at": "2026-09-18T22:19:37.344732+00:00",
+      "fetched_at": "2026-09-19T03:15:19.960476+00:00",
       "relevance_score": 30,
       "deal_types": [
         "免费/试用",
@@ -10817,7 +10817,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-10T03:05:42",
-      "fetched_at": "2026-09-18T22:19:57.460137+00:00",
+      "fetched_at": "2026-09-19T03:15:39.531848+00:00",
       "relevance_score": 30,
       "deal_types": [
         "降价/折扣",
@@ -10928,7 +10928,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-04T02:18:14",
-      "fetched_at": "2026-09-18T22:19:41.850489+00:00",
+      "fetched_at": "2026-09-19T03:15:24.190500+00:00",
       "relevance_score": 30,
       "deal_types": [
         "免费/试用",
@@ -11443,7 +11443,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-09-15T00:56:14",
-      "fetched_at": "2026-09-18T22:19:25.523742+00:00",
+      "fetched_at": "2026-09-19T03:15:05.541049+00:00",
       "relevance_score": 29,
       "deal_types": [
         "API优惠"
@@ -11452,19 +11452,19 @@
         "API Deal"
       ],
       "products": [
-        "ChatGPT",
+        "Claude",
         "Gemini",
-        "Claude"
+        "ChatGPT"
       ],
       "companies": [
         "Anthropic",
-        "Google",
-        "OpenAI"
+        "OpenAI",
+        "Google"
       ],
       "tags": [
-        "ChatGPT",
-        "Gemini",
         "Claude",
+        "Gemini",
+        "ChatGPT",
         "API优惠"
       ],
       "is_deal": true

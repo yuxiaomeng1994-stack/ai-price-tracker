@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-22T09:04:39.693087+00:00",
+  "last_updated": "2026-09-22T16:22:38.235024+00:00",
   "total_deals": 300,
   "sources": {
-    "v2ex": 278,
+    "v2ex": 279,
     "reddit": 5,
     "smzdm": 2,
-    "hackernews": 15
+    "hackernews": 14
   },
   "llm_filtered": false,
   "deals": [
@@ -205,7 +205,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-20T07:32:01",
-      "fetched_at": "2026-09-22T09:02:10.613106+00:00",
+      "fetched_at": "2026-09-22T16:19:45.602189+00:00",
       "relevance_score": 70,
       "deal_types": [
         "区域套利",
@@ -222,19 +222,19 @@
         "Workaround"
       ],
       "products": [
-        "Claude",
         "Cursor",
-        "ChatGPT"
+        "ChatGPT",
+        "Claude"
       ],
       "companies": [
         "Cursor",
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
-        "Claude",
         "Cursor",
         "ChatGPT",
+        "Claude",
         "区域套利",
         "礼品卡",
         "免费/试用",
@@ -288,7 +288,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-09-22T09:02:19.580502+00:00",
+      "fetched_at": "2026-09-22T16:19:58.980000+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -1150,7 +1150,7 @@
       "score": 0,
       "num_comments": 2,
       "created_at": "2026-08-15T11:01:57",
-      "fetched_at": "2026-09-22T09:02:25.813357+00:00",
+      "fetched_at": "2026-09-22T16:20:04.290307+00:00",
       "relevance_score": 47,
       "deal_types": [
         "区域套利",
@@ -1826,46 +1826,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1243754",
-      "source": "v2ex",
-      "subreddit": 12,
-      "title": "Huiai 代充 ChatGPT/Claude/Gemini,可开票。",
-      "body": "Plus 折扣码 HUIAIV25 立减 5 元\r\nPro 5x 折扣 HUIAIV215 立减 15 元\r\nPro 20x 折扣 HUIAIV230 立减 30 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra\r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.me/",
-      "url": "https://www.v2ex.com/t/1243754",
-      "author": "pandom2003",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-21T13:20:59",
-      "fetched_at": "2026-09-22T09:02:10.612876+00:00",
-      "relevance_score": 44,
-      "deal_types": [
-        "优惠码",
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Price Drop"
-      ],
-      "products": [
-        "Claude",
-        "Gemini",
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI",
-        "Google",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "Gemini",
-        "ChatGPT",
-        "优惠码",
-        "降价/折扣"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1236457",
       "source": "v2ex",
       "subreddit": 1298,
@@ -2263,17 +2223,17 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1243509",
+      "id": "v2ex_1243754",
       "source": "v2ex",
-      "subreddit": 864,
-      "title": "自查 ChatGPT 的 20X 是否有效，订阅站 HuiAI 给你答案， ChatGPT/Claude/Gemini,可开票",
-      "body": "今天 Plus 折扣码 HUIAIV210 立减 10 元\r\nPro 5x 折扣 HUIAIV230 立减 30 元\r\nPro 20x 折扣 HUIAIV260 立减 60 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra\r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.shop/\r\n有问题直接回帖。",
-      "url": "https://www.v2ex.com/t/1243509",
+      "subreddit": 12,
+      "title": "Huiai 代充 ChatGPT/Claude/Gemini,可开票。",
+      "body": "Plus 折扣码 HUIAIV25 立减 5 元\r\nPro 5x 折扣 HUIAIV215 立减 15 元\r\nPro 20x 折扣 HUIAIV230 立减 30 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra\r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.me/",
+      "url": "https://www.v2ex.com/t/1243754",
       "author": "pandom2003",
       "score": 0,
       "num_comments": 0,
-      "created_at": "2026-09-21T00:18:03",
-      "fetched_at": "2026-09-22T09:02:10.612906+00:00",
+      "created_at": "2026-09-21T13:20:59",
+      "fetched_at": "2026-09-22T16:19:45.601989+00:00",
       "relevance_score": 42,
       "deal_types": [
         "优惠码",
@@ -2284,19 +2244,59 @@
         "Price Drop"
       ],
       "products": [
+        "ChatGPT",
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "Gemini"
       ],
       "companies": [
+        "Anthropic",
         "OpenAI",
-        "Google",
-        "Anthropic"
+        "Google"
       ],
       "tags": [
+        "ChatGPT",
         "Claude",
         "Gemini",
+        "优惠码",
+        "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1243509",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "自查 ChatGPT 的 20X 是否有效，订阅站 HuiAI 给你答案， ChatGPT/Claude/Gemini,可开票",
+      "body": "今天 Plus 折扣码 HUIAIV210 立减 10 元\r\nPro 5x 折扣 HUIAIV230 立减 30 元\r\nPro 20x 折扣 HUIAIV260 立减 60 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra\r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.shop/\r\n有问题直接回帖。",
+      "url": "https://www.v2ex.com/t/1243509",
+      "author": "pandom2003",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-21T00:18:03",
+      "fetched_at": "2026-09-22T16:19:45.602015+00:00",
+      "relevance_score": 42,
+      "deal_types": [
+        "优惠码",
+        "降价/折扣"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Price Drop"
+      ],
+      "products": [
         "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI",
+        "Google"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
         "优惠码",
         "降价/折扣"
       ],
@@ -3720,43 +3720,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1243743",
-      "source": "v2ex",
-      "subreddit": 285,
-      "title": "[换] 三个月 GPT team 会员 换一个教育优惠资格（mac mini m6）",
-      "body": "这板块真冷清，我来搞个活动吧。\r\n\r\n这个活动只有学生仔才能参与哦。\r\n我需要在京东购买一个 mac mini m6 ，需要国补叠加教育优惠。\r\n\r\ngpt team 会员其实就是 gpt plus ，一个月价值官网是 140 ，\r\n有优惠码拼车的话，价值大概也是 90 元一个月。\r\n\r\n三个月 GPT 会员换一个代购资格买 mac mini m6  [ 16g 512G/24g 512G ] 这两个规格都可以。\r\n\r\n截止日期到国庆节结束我就不要了哈。",
-      "url": "https://www.v2ex.com/t/1243743",
-      "author": "yinjun622",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-09-22T09:02:30.899878+00:00",
-      "relevance_score": 38,
-      "deal_types": [
-        "拼车/合租",
-        "优惠码",
-        "学生/教育"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Promo Code",
-        "Student/Edu"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "拼车/合租",
-        "优惠码",
-        "学生/教育"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "hn_49641128",
       "source": "hackernews",
       "subreddit": "",
@@ -4454,7 +4417,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-14T11:22:37",
-      "fetched_at": "2026-09-22T09:02:10.613148+00:00",
+      "fetched_at": "2026-09-22T16:19:45.602221+00:00",
       "relevance_score": 37,
       "deal_types": [
         "优惠码",
@@ -4465,19 +4428,19 @@
         "Price Drop"
       ],
       "products": [
+        "ChatGPT",
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "Gemini"
       ],
       "companies": [
+        "Anthropic",
         "OpenAI",
-        "Google",
-        "Anthropic"
+        "Google"
       ],
       "tags": [
+        "ChatGPT",
         "Claude",
         "Gemini",
-        "ChatGPT",
         "优惠码",
         "降价/折扣"
       ],
@@ -5134,6 +5097,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1243743",
+      "source": "v2ex",
+      "subreddit": 285,
+      "title": "[换] 三个月 GPT team 会员 换一个教育优惠资格（mac mini m6）",
+      "body": "这板块真冷清，我来搞个活动吧。\r\n\r\n这个活动只有学生仔才能参与哦。\r\n我需要在京东购买一个 mac mini m6 ，需要国补叠加教育优惠。\r\n\r\ngpt team 会员其实就是 gpt plus ，一个月价值官网是 140 ，\r\n有优惠码拼车的话，价值大概也是 90 元一个月。\r\n\r\n三个月 GPT 会员换一个代购资格买 mac mini m6  [ 16g 512G/24g 512G ] 这两个规格都可以。\r\n\r\n截止日期到国庆节结束我就不要了哈。",
+      "url": "https://www.v2ex.com/t/1243743",
+      "author": "yinjun622",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-21T12:30:28",
+      "fetched_at": "2026-09-22T16:20:12.590459+00:00",
+      "relevance_score": 36,
+      "deal_types": [
+        "拼车/合租",
+        "优惠码",
+        "学生/教育"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Promo Code",
+        "Student/Edu"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "拼车/合租",
+        "优惠码",
+        "学生/教育"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1240858",
       "source": "v2ex",
       "subreddit": 864,
@@ -5221,7 +5221,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-21T07:58:35",
-      "fetched_at": "2026-09-22T09:02:33.382181+00:00",
+      "fetched_at": "2026-09-22T16:20:15.325840+00:00",
       "relevance_score": 36,
       "deal_types": [
         "薅羊毛/技巧"
@@ -7002,7 +7002,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-09-22T09:02:40.995985+00:00",
+      "fetched_at": "2026-09-22T16:20:24.599829+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -7630,7 +7630,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-19T23:31:11",
-      "fetched_at": "2026-09-22T09:02:10.613110+00:00",
+      "fetched_at": "2026-09-22T16:19:45.602193+00:00",
       "relevance_score": 33,
       "deal_types": [
         "优惠码",
@@ -7641,19 +7641,19 @@
         "Price Drop"
       ],
       "products": [
+        "ChatGPT",
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "Gemini"
       ],
       "companies": [
+        "Anthropic",
         "OpenAI",
-        "Google",
-        "Anthropic"
+        "Google"
       ],
       "tags": [
+        "ChatGPT",
         "Claude",
         "Gemini",
-        "ChatGPT",
         "优惠码",
         "降价/折扣"
       ],
@@ -8225,7 +8225,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-09-22T09:02:23.095883+00:00",
+      "fetched_at": "2026-09-22T16:20:01.459238+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -8524,7 +8524,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-09-22T09:02:12.819179+00:00",
+      "fetched_at": "2026-09-22T16:20:20.991783+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -11013,6 +11013,80 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1244040",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "GPT codex/Claude pro 官方正版订阅代充值,V 友优惠",
+      "body": "GPT codex/Claude pro 官方正版订阅代充值\r\n\r\nV 友优惠码 HUIAI@5 立减 5 元\r\n\r\nHUIAIV230 立减 30 元\r\nHUIAIV215 立减 15 元\r\n充您自己的帐号，可以续费\r\n\r\nOpenAI 官方直充，长期稳定使用，全程质保包售后服务。\r\n\r\nGPT Plus 订阅代充值秒充，可开正规企业发票。\r\n正版正价 plus 订阅代充\r\n\r\nGPT pro5x 和 pro20x 订阅也可以代充。\r\n\r\nClaude pro 订阅是 155 元/月。\r\n可沉浸式全程自助充值:https://huiai.me",
+      "url": "https://www.v2ex.com/t/1244040",
+      "author": "pandom2003",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-22T10:47:49",
+      "fetched_at": "2026-09-22T16:19:48.577414+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "优惠码"
+      ],
+      "deal_types_en": [
+        "Promo Code"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "优惠码"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1244021",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[送额度] 灵眸 AI 全员福利：注册 $2 + 回帖再送 $9",
+      "body": "灵眸 AI 给 V2EX 的朋友发点额度。\r\n\r\n**🎁 福利内容**\r\n\r\n- 注册即可领 **$2** 账户余额，注册地址 https://api.lmuai.ai/g/bF5zuCmw\r\n- 回帖的账号**额外再送 $9**\r\n\r\n**✨ 领取条件**\r\n\r\n不分新老用户，有账号就能领\r\n\r\n**📦 领取方式**\r\n\r\n回帖贴你的 **灵眸 AI 注册邮箱**，我会手动发放，到账即刻可用\r\n\r\n**关于灵眸 AI**\r\n\r\n一个 AI API 聚合网关，一个 Base URL 接 Claude 5 / GPT-6 / Gemini / Grok ，以及 GLM 、Qwen 、DeepSeek 、Kimi 这些国产模型。同时提供 Anthropic 原生协议（`/v1/messages`）和 OpenAI 兼容协议，Claude Code 、Codex 、Cursor 、Trae 这类工具都能直接接。\r\n\r\n海外模型在 `api.lmuai.ai`（境外站点，面向海外用户），国产模型在 `api.lmuai.com`。\r\n\r\n**不想先注册也能验一下端点是不是真的**，零凭证、不消",
+      "url": "https://www.v2ex.com/t/1244021",
+      "author": "vioparkdaisy",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-22T09:23:27",
+      "fetched_at": "2026-09-22T16:20:45.090449+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Cursor",
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "companies": [
+        "Cursor",
+        "Anthropic",
+        "OpenAI",
+        "Google"
+      ],
+      "tags": [
+        "Cursor",
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1240946",
       "source": "v2ex",
       "subreddit": 864,
@@ -11134,7 +11208,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-04T02:18:14",
-      "fetched_at": "2026-09-22T09:02:33.382112+00:00",
+      "fetched_at": "2026-09-22T16:20:15.325619+00:00",
       "relevance_score": 30,
       "deal_types": [
         "免费/试用",
@@ -11416,80 +11490,6 @@
         "Anthropic"
       ],
       "tags": [
-        "Claude",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "hn_49046009",
-      "source": "hackernews",
-      "subreddit": "",
-      "title": "Wisprkey – 100% free and local voice typing for Mac",
-      "body": "Hey<p>My name is Roni, I am a serial solo builder &amp; founder based in Stockholm<p>I built wisprkey to be more productive in my AI coding workflow, prompting Claude Code&#x2F;Codex was the bottleneck. Every voice-typing tool I tried had a limited free tier or a pricy pro plan, so I built one that is 100% free.<p>What’s in it:\n100% Free to use: unlimited voice typing, 31 languages, 98% accuracy.\nPro ($4.99&#x2F;mo): text-to-speech in 64 voices, translation to 31 languages. Agent cursor coming s",
-      "url": "https://news.ycombinator.com/item?id=49046008",
-      "author": "RoniHenareh",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-25T09:25:07Z",
-      "fetched_at": "2026-07-26T17:00:18.086939+00:00",
-      "relevance_score": 30,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "Cursor"
-      ],
-      "companies": [
-        "Cursor",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "Cursor",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1226502",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "FastAIToken 夏季开业福利公告： OpenAI 0.02x、Claude Kiro 0.7x， GPT5.6 畅用爽蹬（0.02x 倍率 5 元等于 250 美刀额度）！每个人注册联系客服直接送 5 元！",
-      "body": "# FastAIToken 夏季开业福利公告：OpenAI 0.02x 、Claude Kiro 0.7x ，GPT5.6 畅用（ 0.02x 倍率 5 元等于 250 美刀额度）！！！\r\n\r\n各位佬友好。\r\n\r\n经过两个月左右的内测、调试，以及在论坛长期学习和打磨之后，FastAIToken 正式敲定开业期间的福利策略。\r\n\r\n官方网站： https://www.fastaitoken.com/\r\n文档地址： https://docs.fastaitoken.com/docs/\r\n\r\n## 交流群组\r\n\r\n- QQ 群：1054566214\r\n- telegram： https://t.me/+stwq0MLi0PtkZTZl\r\n\r\n- 各类佬友凭借评论截图+QQ 群联系客服，免费领取 5 元额度，即 0.02x 分组 250 美刀爽蹬 GPT5.6 ！！！\r\n\r\n## 限时福利分组\r\n\r\n### OpenAI：0.02x 倍率福利分组\r\n\r\nOpenAI 福利分组按 0.02x 倍率开放。\r\n\r\n按活动倍率折算，5 RMB 约等于 250 美元官方额度，也就是约 250M toke",
-      "url": "https://www.v2ex.com/t/1226502",
-      "author": "hyf3690",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-10T15:22:47",
-      "fetched_at": "2026-07-14T02:25:08.784378+00:00",
-      "relevance_score": 30,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "ChatGPT",
         "Claude",
         "免费/试用",
         "API优惠"

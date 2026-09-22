@@ -5,7 +5,7 @@
     <link>https://yuxiaomeng1994-stack.github.io/ai-price-tracker/</link>
     <description>自动追踪全网 Claude/ChatGPT/Gemini 等 AI 订阅优惠信息</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 21 Sep 2026 23:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:28:43 +0000</lastBuildDate>
     <atom:link href="https://yuxiaomeng1994-stack.github.io/ai-price-tracker/data/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -925,27 +925,13 @@ LCSC9WHOU56AV3KB
       <link>https://www.v2ex.com/t/1243754</link>
       <guid isPermaLink="false">v2ex_1243754</guid>
       <pubDate>Mon, 21 Sep 2026 13:20:59 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 44 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Gemini, Claude</p><p><strong>类型:</strong> 优惠码, 降价/折扣</p><p>Plus 折扣码 HUIAIV25 立减 5 元
+      <description><![CDATA[<p><strong>评分:</strong> 44 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Claude, Gemini</p><p><strong>类型:</strong> 优惠码, 降价/折扣</p><p>Plus 折扣码 HUIAIV25 立减 5 元
 Pro 5x 折扣 HUIAIV215 立减 15 元
 Pro 20x 折扣 HUIAIV230 立减 30 元
 ChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra
 微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修
 下单:https://www.huiai.me/</p>]]></description>
-      <category>ChatGPT</category><category>Gemini</category><category>Claude</category><category>优惠码</category><category>降价/折扣</category>
-    </item>
-    <item>
-      <title>自查 ChatGPT 的 20X 是否有效，订阅站 HuiAI 给你答案， ChatGPT/Claude/Gemini,可开票</title>
-      <link>https://www.v2ex.com/t/1243509</link>
-      <guid isPermaLink="false">v2ex_1243509</guid>
-      <pubDate>Mon, 21 Sep 2026 00:18:03 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 44 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Gemini, Claude</p><p><strong>类型:</strong> 优惠码, 降价/折扣</p><p>今天 Plus 折扣码 HUIAIV210 立减 10 元
-Pro 5x 折扣 HUIAIV230 立减 30 元
-Pro 20x 折扣 HUIAIV260 立减 60 元
-ChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra
-微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修
-下单:https://www.huiai.shop/
-有问题直接回帖。</p>]]></description>
-      <category>ChatGPT</category><category>Gemini</category><category>Claude</category><category>优惠码</category><category>降价/折扣</category>
+      <category>ChatGPT</category><category>Claude</category><category>Gemini</category><category>优惠码</category><category>降价/折扣</category>
     </item>
     <item>
       <title>菲律宾区域的 Apple Id 如何购买礼品卡用于订阅 ChatGPT 呢？</title>
@@ -975,6 +961,27 @@ https://share.acedata.cloud/r/1uNgMBErje
 
 时不时费力去和 A➗ 斗智斗勇，太累了。</p>]]></description>
       <category>Gemini</category><category>Claude</category><category>免费/试用</category><category>降价/折扣</category><category>API优惠</category>
+    </item>
+    <item>
+      <title>薅羊毛，注册送 68 元额度， 14 个大模型可用</title>
+      <link>https://www.v2ex.com/t/1231385</link>
+      <guid isPermaLink="false">v2ex_1231385</guid>
+      <pubDate>Sat, 01 Aug 2026 02:35:46 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 44 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Claude</p><p><strong>类型:</strong> 拼车/合租, 免费/试用, 薅羊毛/技巧, API优惠</p><p>帮我助力，一起拿大奖！完成注册即可获得 68 元免费 token 额度
+https://tokenrhythm.studio/i/rf_tr_tH9u8OGkOUTsihuaaXCyupnf
+
+
+# API 接口说明
+
+**统一基础地址**：`https://tokenrhythm.studio/v1`
+
+| 能力 | 接口 |
+| :--- | :--- |
+| 模型列表 | `GET /v1/models` |
+| OpenAI 对话 | `POST /v1/chat/completions` |
+| Anthropic 对话 | `POST /v1/messages` |
+| 向量嵌入 | `POST /v1/embeddings` |</p>]]></description>
+      <category>ChatGPT</category><category>Claude</category><category>拼车/合租</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
   </channel>
 </rss>

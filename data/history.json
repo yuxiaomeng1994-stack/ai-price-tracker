@@ -1,17 +1,6 @@
 {
-  "last_updated": "2026-09-23T22:44:39.081305+00:00",
+  "last_updated": "2026-09-24T03:18:50.683947+00:00",
   "daily": [
-    {
-      "date": "2026-06-26",
-      "total": 300,
-      "ChatGPT": 153,
-      "Claude": 199,
-      "Gemini": 76,
-      "Copilot": 8,
-      "Midjourney": 4,
-      "Cursor": 49,
-      "avg_score": 32.5
-    },
     {
       "date": "2026-06-27",
       "total": 300,
@@ -990,46 +979,21 @@
       "Midjourney": 3,
       "Cursor": 47,
       "avg_score": 38.3
+    },
+    {
+      "date": "2026-09-24",
+      "total": 300,
+      "ChatGPT": 149,
+      "Claude": 219,
+      "Gemini": 91,
+      "Copilot": 6,
+      "Midjourney": 3,
+      "Cursor": 47,
+      "avg_score": 38.3
     }
   ],
   "price_snapshots": [
     {
-      "date": "2026-06-26",
-      "product": "ChatGPT",
-      "est_price_cny": 1,
-      "best_deal": "[自荐] 个人自建 AI 中转站求分摊服务器费用 | 1 元起步 | 余额随时可退 | GPT Plus 池"
-    },
-    {
-      "date": "2026-06-26",
-      "product": "Claude",
-      "est_price_cny": 1,
-      "best_deal": "嘀嘀嘀 AI 自建 Pro 号池 API 中转，注册送体验额度，回复留用户 ID 送测试额度，支持 GPT / Claude / Gemini"
-    },
-    {
-      "date": "2026-06-26",
-      "product": "Gemini",
-      "est_price_cny": 1,
-      "best_deal": "嘀嘀嘀 AI 自建 Pro 号池 API 中转，注册送体验额度，回复留用户 ID 送测试额度，支持 GPT / Claude / Gemini"
-    },
-    {
-      "date": "2026-06-26",
-      "product": "Copilot",
-      "est_price_cny": 280,
-      "best_deal": "GitHub Copilot 新计费规则后，大家都在用什么替代方案？"
-    },
-    {
-      "date": "2026-06-26",
-      "product": "Midjourney",
-      "est_price_cny": 691,
-      "best_deal": "Midjourney 年付会员礼品卡 8折，$96/年"
-    },
-    {
-      "date": "2026-06-26",
-      "product": "Cursor",
-      "est_price_cny": 1,
-      "best_deal": "[送 1M gpt-5.5]折腾出来的“满血版” GPT-5.5 接口站， Lugyy 邀 V 友内测，不仅是稳定，更是为了 token 自由"
-    },
-    {
       "date": "2026-06-27",
       "product": "ChatGPT",
       "est_price_cny": 1,
@@ -4229,6 +4193,42 @@
     },
     {
       "date": "2026-09-23",
+      "product": "Cursor",
+      "est_price_cny": 1,
+      "best_deal": "[送 1M gpt-5.5]折腾出来的“满血版” GPT-5.5 接口站， Lugyy 邀 V 友内测，不仅是稳定，更是为了 token 自由"
+    },
+    {
+      "date": "2026-09-24",
+      "product": "ChatGPT",
+      "est_price_cny": 1,
+      "best_deal": "[自荐] 个人自建 AI 中转站求分摊服务器费用 | 1 元起步 | 余额随时可退 | GPT Plus 池"
+    },
+    {
+      "date": "2026-09-24",
+      "product": "Claude",
+      "est_price_cny": 1,
+      "best_deal": "嘀嘀嘀 AI 自建 Pro 号池 API 中转，注册送体验额度，回复留用户 ID 送测试额度，支持 GPT / Claude / Gemini"
+    },
+    {
+      "date": "2026-09-24",
+      "product": "Gemini",
+      "est_price_cny": 1,
+      "best_deal": "嘀嘀嘀 AI 自建 Pro 号池 API 中转，注册送体验额度，回复留用户 ID 送测试额度，支持 GPT / Claude / Gemini"
+    },
+    {
+      "date": "2026-09-24",
+      "product": "Copilot",
+      "est_price_cny": 72,
+      "best_deal": "感觉现在关于 github copilot 的讨论少了，还有人在主力使用的吗？想听听实际体验"
+    },
+    {
+      "date": "2026-09-24",
+      "product": "Midjourney",
+      "est_price_cny": 691,
+      "best_deal": "Midjourney 年付会员礼品卡 8折，$96/年"
+    },
+    {
+      "date": "2026-09-24",
       "product": "Cursor",
       "est_price_cny": 1,
       "best_deal": "[送 1M gpt-5.5]折腾出来的“满血版” GPT-5.5 接口站， Lugyy 邀 V 友内测，不仅是稳定，更是为了 token 自由"

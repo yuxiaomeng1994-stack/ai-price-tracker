@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T03:36:10.461893+00:00",
+  "last_updated": "2026-09-25T09:26:38.278685+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 278,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-20T07:32:01",
-      "fetched_at": "2026-09-25T03:33:44.612843+00:00",
+      "fetched_at": "2026-09-25T09:24:00.625469+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -257,18 +257,18 @@
       ],
       "products": [
         "ChatGPT",
-        "Claude",
-        "Cursor"
+        "Cursor",
+        "Claude"
       ],
       "companies": [
-        "Anthropic",
         "Cursor",
+        "Anthropic",
         "OpenAI"
       ],
       "tags": [
         "ChatGPT",
-        "Claude",
         "Cursor",
+        "Claude",
         "区域套利",
         "礼品卡",
         "免费/试用",
@@ -288,7 +288,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-09-25T03:33:53.669492+00:00",
+      "fetched_at": "2026-09-25T09:24:11.153000+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -866,6 +866,49 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1244728",
+      "source": "v2ex",
+      "subreddit": "programmer",
+      "title": "一个不需要 gemini pro 的完全免费的注册 Muse 的方法",
+      "body": "这个网站注册就送 15 美元额度，用来注册 Muse 只用几十美分，理论上可以免费注册十几个 Muse 账户，流程如下，第一次可以用我的邀请码免费获得额度奖励，**邀请码：1BV6FT**，后面就可以左脚踩右脚额度腾飞了，这次 meta 在促销规则上确实给力^-^: \r\n\r\n- 网页登陆 https://cloud.browser-use.com\r\n- 任意方式注册\r\n- 登陆后选择 Browser,  也可以直接地址栏输入这个路径:  https://cloud.browser-use.com/browser\r\n- 点击右上角 “Launch & Open” ,   这时候会弹出一个浏览器窗口, 地址栏输入 http://muse.ai ,  \r\n- 按正常流程注册即可\r\n- 结束后记得右上角关闭这个实例，确保安全",
+      "url": "https://www.v2ex.com/t/1244728",
+      "author": "kav2",
+      "score": 0,
+      "num_comments": 28,
+      "created_at": "2026-09-25T04:43:34+00:00",
+      "fetched_at": "2026-09-25T09:23:56.745495+00:00",
+      "relevance_score": 52,
+      "deal_types": [
+        "优惠码",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Free/Trial",
+        "Price Drop",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "优惠码",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "reddit_005",
       "source": "reddit",
       "subreddit": "Bard",
@@ -896,6 +939,46 @@
         "Gemini",
         "学生/教育",
         "免费/试用"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1244726",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "今天中秋节 Huiai 过节大放价， ChatGPT Plus/Pro 特惠，¥128 起； ChatGPT/Claude/Gemini,可开票",
+      "body": "今天 ChatGPT Plus/Pro 特惠，¥128 起。\r\nPlus 折扣码 HUIAIV2@5 立减 5 元\r\nPro 5x 折扣 HUIAIV215 立减 15 元\r\nPro 20x 折扣 HUIAIV230 立减 30 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra\r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.me/\r\n有问题直接回帖。",
+      "url": "https://www.v2ex.com/t/1244726",
+      "author": "pandom2003",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-25T04:40:36",
+      "fetched_at": "2026-09-25T09:24:00.625256+00:00",
+      "relevance_score": 51,
+      "deal_types": [
+        "优惠码",
+        "降价/折扣"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Price Drop"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "companies": [
+        "Google",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "优惠码",
+        "降价/折扣"
       ],
       "is_deal": true
     },
@@ -1073,7 +1156,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-24T17:03:56",
-      "fetched_at": "2026-09-25T03:33:46.946135+00:00",
+      "fetched_at": "2026-09-25T09:24:03.101077+00:00",
       "relevance_score": 49,
       "deal_types": [
         "优惠码",
@@ -2858,7 +2941,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T13:20:59",
-      "fetched_at": "2026-09-25T03:33:44.612827+00:00",
+      "fetched_at": "2026-09-25T09:24:00.625454+00:00",
       "relevance_score": 40,
       "deal_types": [
         "优惠码",
@@ -2869,19 +2952,19 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "ChatGPT",
-        "Claude"
+        "Claude",
+        "Gemini"
       ],
       "companies": [
-        "Anthropic",
         "Google",
+        "Anthropic",
         "OpenAI"
       ],
       "tags": [
-        "Gemini",
         "ChatGPT",
         "Claude",
+        "Gemini",
         "优惠码",
         "降价/折扣"
       ],
@@ -2898,7 +2981,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T00:18:03",
-      "fetched_at": "2026-09-25T03:33:44.612839+00:00",
+      "fetched_at": "2026-09-25T09:24:00.625466+00:00",
       "relevance_score": 40,
       "deal_types": [
         "优惠码",
@@ -2909,19 +2992,19 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "ChatGPT",
-        "Claude"
+        "Claude",
+        "Gemini"
       ],
       "companies": [
-        "Anthropic",
         "Google",
+        "Anthropic",
         "OpenAI"
       ],
       "tags": [
-        "Gemini",
         "ChatGPT",
         "Claude",
+        "Gemini",
         "优惠码",
         "降价/折扣"
       ],
@@ -3372,7 +3455,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-23T20:14:21",
-      "fetched_at": "2026-09-25T03:33:44.612815+00:00",
+      "fetched_at": "2026-09-25T09:24:00.625445+00:00",
       "relevance_score": 39,
       "deal_types": [
         "免费/试用",
@@ -4503,7 +4586,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-14T11:22:37",
-      "fetched_at": "2026-09-25T03:33:44.612874+00:00",
+      "fetched_at": "2026-09-25T09:24:05.663003+00:00",
       "relevance_score": 37,
       "deal_types": [
         "优惠码",
@@ -4514,19 +4597,19 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "ChatGPT",
-        "Claude"
+        "Claude",
+        "Gemini"
       ],
       "companies": [
-        "Anthropic",
         "Google",
+        "Anthropic",
         "OpenAI"
       ],
       "tags": [
-        "Gemini",
         "ChatGPT",
         "Claude",
+        "Gemini",
         "优惠码",
         "降价/折扣"
       ],
@@ -5270,7 +5353,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-21T07:58:35",
-      "fetched_at": "2026-09-25T03:34:05.273314+00:00",
+      "fetched_at": "2026-09-25T09:24:24.797008+00:00",
       "relevance_score": 36,
       "deal_types": [
         "薅羊毛/技巧"
@@ -7014,7 +7097,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-09-25T03:34:03.045948+00:00",
+      "fetched_at": "2026-09-25T09:24:22.189053+00:00",
       "relevance_score": 34,
       "deal_types": [
         "拼车/合租",
@@ -7128,7 +7211,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-09-25T03:34:12.032860+00:00",
+      "fetched_at": "2026-09-25T09:24:32.362000+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8311,7 +8394,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-09-25T03:33:55.902367+00:00",
+      "fetched_at": "2026-09-25T09:24:13.764693+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -8610,7 +8693,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-09-25T03:34:09.693491+00:00",
+      "fetched_at": "2026-09-25T09:24:29.805348+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -9756,7 +9839,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-19T23:31:11",
-      "fetched_at": "2026-09-25T03:33:44.612846+00:00",
+      "fetched_at": "2026-09-25T09:24:00.625472+00:00",
       "relevance_score": 31,
       "deal_types": [
         "优惠码",
@@ -9767,19 +9850,19 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "ChatGPT",
-        "Claude"
+        "Claude",
+        "Gemini"
       ],
       "companies": [
-        "Anthropic",
         "Google",
+        "Anthropic",
         "OpenAI"
       ],
       "tags": [
-        "Gemini",
         "ChatGPT",
         "Claude",
+        "Gemini",
         "优惠码",
         "降价/折扣"
       ],
@@ -11176,43 +11259,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1244544",
-      "source": "v2ex",
-      "subreddit": "programmer",
-      "title": "注册 muse ai 方法, 跳过绑账号、绑卡方法",
-      "body": "一切前提是有 Gemini Pro\r\n\r\n打开 Gemini Spark： https://gemini.google.com/spark\r\n\r\n对话里说：打开 https://muse.ai/join\r\n\r\n点击允许\r\n\r\n告诉 Gemini 每步填写什么\r\n\r\n到“确认”注册页面时, 接管远程电脑, 点击“确认”, 完成注册\r\n\r\n期间邮箱, 验证码, 年龄验证都是交给 Gemini 来填写的, 你只需要点击对话框里的允许即可\r\n\r\n进去后, 再让  Gemini 帮你填写邀请码, 即可各自获得 10 亿 永久 token\r\n\r\n这是我的邀请码：01CJME\r\n\r\n然后你的邀请码在右上角的礼物盒里, 也让 Gemini 帮你打印出来即可",
-      "url": "https://www.v2ex.com/t/1244544",
-      "author": "exc",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-24T06:29:06+00:00",
-      "fetched_at": "2026-09-25T03:33:40.868612+00:00",
-      "relevance_score": 30,
-      "deal_types": [
-        "优惠码",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "优惠码",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1244021",
       "source": "v2ex",
       "subreddit": 864,
@@ -11374,7 +11420,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-04T02:18:14",
-      "fetched_at": "2026-09-25T03:34:05.273245+00:00",
+      "fetched_at": "2026-09-25T09:24:24.796979+00:00",
       "relevance_score": 30,
       "deal_types": [
         "免费/试用",
@@ -11470,43 +11516,6 @@
       "tags": [
         "Claude",
         "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1244389",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "注册 Meta 的 muse，免费领取 10 亿 token",
-      "body": "1.打开 gemini pro 的 spark-->\r\n输入:打开 https://muse.ai/join-->\r\n授予权限-->\r\n在 remote 浏览器中进行注册-->\r\n输入邮箱-->\r\n接验证码-->\r\n要求验证年龄-->\r\n选择第一个验证方式(信用卡验证,可以使用国内 visa 信用卡)-->\r\n注册成功.\r\n\r\n登录后在设置中输入邀请码：3V29K7 后可以获得 10 亿 token 。",
-      "url": "https://www.v2ex.com/t/1244389",
-      "author": "emmathoermer",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-24T00:12:09",
-      "fetched_at": "2026-09-25T03:33:49.220670+00:00",
-      "relevance_score": 29,
-      "deal_types": [
-        "优惠码",
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "优惠码",
-        "免费/试用",
         "API优惠"
       ],
       "is_deal": true

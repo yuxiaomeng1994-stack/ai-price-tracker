@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T03:50:44.701843+00:00",
+  "last_updated": "2026-09-27T09:52:54.686050+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 279,
@@ -229,55 +229,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1243385",
-      "source": "v2ex",
-      "subreddit": 17,
-      "title": "做了一个全球 AI 订阅实时比价与换区决策站 AISubDeal，顺便聊聊各区 Apple ID 订阅避坑经验",
-      "body": "各位 V 友大家好，\r\n\r\n最近几个月因为团队频繁使用 ChatGPT Plus 、Claude 3.5 Sonnet 和 Cursor ，一直在折腾各地区的订阅成本。我们发现很多所谓的「低价区教程」存在严重的信息不对等——比如某些地区标价虽然看起来极低，但当地 App Store 充值卡严重缺货，或者第三方卡溢价高达 40%，算上真实到手成本根本不划算，甚至还有封号风险。\r\n\r\n为了帮大家彻底算清「真实到手价」，我们做了这个数据驱动的订阅比价工具：**AISubDeal** ( https://www.aisubdeal.com )\r\n\r\n### 核心特性：\r\n1. **真实到手成本核算（ Floor vs Buyable ）**：不仅列出 App Store 账面最低标价，更结合当地真实数字充值卡的实时溢价，算出第一笔支付的真实扣款成本。\r\n2. **多大区库存与风控预警**：当检测到某些小众区存在支付风控或货源断供时，系统会自动提供美区 (US) / 日区 (JP) 等稳定大区的退守方案。\r\n3. **纯静态零隐私追踪**：无打扰广告，数据每日定时同步。\r\n\r\n欢迎大家试用并提建",
-      "url": "https://www.v2ex.com/t/1243385",
-      "author": "robin421",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-20T07:32:01",
-      "fetched_at": "2026-09-27T03:48:09.556984+00:00",
-      "relevance_score": 68,
-      "deal_types": [
-        "区域套利",
-        "礼品卡",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Gift Card",
-        "Free/Trial",
-        "Price Drop",
-        "Workaround"
-      ],
-      "products": [
-        "Claude",
-        "Cursor",
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI",
-        "Cursor",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "Cursor",
-        "ChatGPT",
-        "区域套利",
-        "礼品卡",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1234624",
       "source": "v2ex",
       "subreddit": 16,
@@ -288,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-09-27T03:48:20.227717+00:00",
+      "fetched_at": "2026-09-27T09:50:34.581051+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -308,6 +259,55 @@
         "ChatGPT",
         "区域套利",
         "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1243385",
+      "source": "v2ex",
+      "subreddit": 17,
+      "title": "做了一个全球 AI 订阅实时比价与换区决策站 AISubDeal，顺便聊聊各区 Apple ID 订阅避坑经验",
+      "body": "各位 V 友大家好，\r\n\r\n最近几个月因为团队频繁使用 ChatGPT Plus 、Claude 3.5 Sonnet 和 Cursor ，一直在折腾各地区的订阅成本。我们发现很多所谓的「低价区教程」存在严重的信息不对等——比如某些地区标价虽然看起来极低，但当地 App Store 充值卡严重缺货，或者第三方卡溢价高达 40%，算上真实到手成本根本不划算，甚至还有封号风险。\r\n\r\n为了帮大家彻底算清「真实到手价」，我们做了这个数据驱动的订阅比价工具：**AISubDeal** ( https://www.aisubdeal.com )\r\n\r\n### 核心特性：\r\n1. **真实到手成本核算（ Floor vs Buyable ）**：不仅列出 App Store 账面最低标价，更结合当地真实数字充值卡的实时溢价，算出第一笔支付的真实扣款成本。\r\n2. **多大区库存与风控预警**：当检测到某些小众区存在支付风控或货源断供时，系统会自动提供美区 (US) / 日区 (JP) 等稳定大区的退守方案。\r\n3. **纯静态零隐私追踪**：无打扰广告，数据每日定时同步。\r\n\r\n欢迎大家试用并提建",
+      "url": "https://www.v2ex.com/t/1243385",
+      "author": "robin421",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-20T07:32:01",
+      "fetched_at": "2026-09-27T09:50:23.933489+00:00",
+      "relevance_score": 67,
+      "deal_types": [
+        "区域套利",
+        "礼品卡",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Gift Card",
+        "Free/Trial",
+        "Price Drop",
+        "Workaround"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "companies": [
+        "Anthropic",
+        "Cursor",
+        "OpenAI"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "Cursor",
+        "区域套利",
+        "礼品卡",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -1159,7 +1159,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-25T04:40:36",
-      "fetched_at": "2026-09-27T03:48:09.556784+00:00",
+      "fetched_at": "2026-09-27T09:50:23.933248+00:00",
       "relevance_score": 49,
       "deal_types": [
         "优惠码",
@@ -1170,18 +1170,18 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
+        "Anthropic",
         "Google",
-        "Anthropic"
+        "OpenAI"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT",
         "优惠码",
         "降价/折扣"
@@ -1276,7 +1276,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-24T17:03:56",
-      "fetched_at": "2026-09-27T03:48:12.233918+00:00",
+      "fetched_at": "2026-09-27T09:50:26.465688+00:00",
       "relevance_score": 47,
       "deal_types": [
         "优惠码",
@@ -1297,8 +1297,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "Claude",
@@ -2984,7 +2984,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T13:20:59",
-      "fetched_at": "2026-09-27T03:48:09.556968+00:00",
+      "fetched_at": "2026-09-27T09:50:23.933470+00:00",
       "relevance_score": 40,
       "deal_types": [
         "优惠码",
@@ -2995,18 +2995,18 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
+        "Anthropic",
         "Google",
-        "Anthropic"
+        "OpenAI"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT",
         "优惠码",
         "降价/折扣"
@@ -3024,7 +3024,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T00:18:03",
-      "fetched_at": "2026-09-27T03:48:09.556981+00:00",
+      "fetched_at": "2026-09-27T09:50:23.933485+00:00",
       "relevance_score": 40,
       "deal_types": [
         "优惠码",
@@ -3035,18 +3035,18 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
+        "Anthropic",
         "Google",
-        "Anthropic"
+        "OpenAI"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT",
         "优惠码",
         "降价/折扣"
@@ -4589,7 +4589,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-23T20:14:21",
-      "fetched_at": "2026-09-27T03:48:09.556955+00:00",
+      "fetched_at": "2026-09-27T09:50:23.933459+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -4606,8 +4606,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "Claude",
@@ -4629,7 +4629,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-14T11:22:37",
-      "fetched_at": "2026-09-27T03:48:14.684694+00:00",
+      "fetched_at": "2026-09-27T09:50:28.894891+00:00",
       "relevance_score": 37,
       "deal_types": [
         "优惠码",
@@ -4640,18 +4640,18 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
+        "Anthropic",
         "Google",
-        "Anthropic"
+        "OpenAI"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT",
         "优惠码",
         "降价/折扣"
@@ -5396,7 +5396,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-21T07:58:35",
-      "fetched_at": "2026-09-27T03:48:32.765603+00:00",
+      "fetched_at": "2026-09-27T09:50:47.167639+00:00",
       "relevance_score": 36,
       "deal_types": [
         "薅羊毛/技巧"
@@ -7140,7 +7140,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-09-27T03:48:30.247543+00:00",
+      "fetched_at": "2026-09-27T09:50:49.306463+00:00",
       "relevance_score": 34,
       "deal_types": [
         "拼车/合租",
@@ -7254,7 +7254,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-09-27T03:48:39.860737+00:00",
+      "fetched_at": "2026-09-27T09:50:53.729165+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8437,7 +8437,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-09-27T03:48:22.507524+00:00",
+      "fetched_at": "2026-09-27T09:50:37.118345+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -8736,7 +8736,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-09-27T03:48:37.240975+00:00",
+      "fetched_at": "2026-09-27T09:50:51.441909+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -11312,7 +11312,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-19T23:31:11",
-      "fetched_at": "2026-09-27T03:48:09.556986+00:00",
+      "fetched_at": "2026-09-27T09:50:23.933493+00:00",
       "relevance_score": 30,
       "deal_types": [
         "优惠码",
@@ -11323,18 +11323,18 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
+        "Anthropic",
         "Google",
-        "Anthropic"
+        "OpenAI"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT",
         "优惠码",
         "降价/折扣"
@@ -11463,7 +11463,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-04T02:18:14",
-      "fetched_at": "2026-09-27T03:48:32.765578+00:00",
+      "fetched_at": "2026-09-27T09:50:47.167598+00:00",
       "relevance_score": 30,
       "deal_types": [
         "免费/试用",

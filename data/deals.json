@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T09:52:54.686050+00:00",
+  "last_updated": "2026-09-27T16:29:50.631690+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 279,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-09-27T09:50:34.581051+00:00",
+      "fetched_at": "2026-09-27T16:27:11.605914+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -273,7 +273,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-20T07:32:01",
-      "fetched_at": "2026-09-27T09:50:23.933489+00:00",
+      "fetched_at": "2026-09-27T16:26:54.414143+00:00",
       "relevance_score": 67,
       "deal_types": [
         "区域套利",
@@ -290,19 +290,19 @@
         "Workaround"
       ],
       "products": [
+        "Cursor",
         "Claude",
-        "ChatGPT",
-        "Cursor"
+        "ChatGPT"
       ],
       "companies": [
-        "Anthropic",
         "Cursor",
+        "Anthropic",
         "OpenAI"
       ],
       "tags": [
+        "Cursor",
         "Claude",
         "ChatGPT",
-        "Cursor",
         "区域套利",
         "礼品卡",
         "免费/试用",
@@ -1159,7 +1159,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-25T04:40:36",
-      "fetched_at": "2026-09-27T09:50:23.933248+00:00",
+      "fetched_at": "2026-09-27T16:26:54.414083+00:00",
       "relevance_score": 49,
       "deal_types": [
         "优惠码",
@@ -1170,8 +1170,8 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "ChatGPT"
       ],
       "companies": [
@@ -1180,8 +1180,8 @@
         "OpenAI"
       ],
       "tags": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "ChatGPT",
         "优惠码",
         "降价/折扣"
@@ -1266,6 +1266,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1245083",
+      "source": "v2ex",
+      "subreddit": "programmer",
+      "title": "大家是有啥薅免费模型羊毛的路子吗",
+      "body": "想问一下各位 V 友有啥免费又好用的模型可以薅羊毛的么？\r\n\r\n最近这几个月一直在高强度开发 [DataZen](!https://github.com/flyxl/datazen)。之前一直用公司用 cursor 年费套餐，模型额度用完之后还可以免费用 composer 2.5 。现在 cursor 不让续订年费套餐，套餐大幅缩水，完全不够用来开发 DataZen ，只能自己想办法。刚开始用了几天的 DS 的 API ，不过账单实在是忍不了，于是各种找免费模型。当时正好 opencode 在搞 DS flash 的免费赠送活动，于是下载了 opencode 桌面版，搞了一波，但免费额度也不够日常开发用。好在公司又续费了一个月的 cursor 套餐，正好赶上 gemini 3.8 flash 在 cursor 上免费用，又使劲薅了一阵，但好景不长，cursor 年费套餐续费是临时方案，cursor 官方只给我们公司用 10 天……\r\n\r\n后来 ox-alpha 很火，同时上线 opencode 和 openrouter 。opencode 免费模型按照 ip 有每日限额，openrou",
+      "url": "https://www.v2ex.com/t/1245083",
+      "author": "flyxl",
+      "score": 0,
+      "num_comments": 4,
+      "created_at": "2026-09-27T14:40:23+00:00",
+      "fetched_at": "2026-09-27T16:26:50.387807+00:00",
+      "relevance_score": 47,
+      "deal_types": [
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Cursor",
+        "Gemini"
+      ],
+      "companies": [
+        "Cursor",
+        "Google"
+      ],
+      "tags": [
+        "Cursor",
+        "Gemini",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1244679",
       "source": "v2ex",
       "subreddit": 1241,
@@ -1276,7 +1316,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-24T17:03:56",
-      "fetched_at": "2026-09-27T09:50:26.465688+00:00",
+      "fetched_at": "2026-09-27T16:27:00.000215+00:00",
       "relevance_score": 47,
       "deal_types": [
         "优惠码",
@@ -2984,7 +3024,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T13:20:59",
-      "fetched_at": "2026-09-27T09:50:23.933470+00:00",
+      "fetched_at": "2026-09-27T16:26:54.414127+00:00",
       "relevance_score": 40,
       "deal_types": [
         "优惠码",
@@ -2995,8 +3035,8 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "ChatGPT"
       ],
       "companies": [
@@ -3005,8 +3045,8 @@
         "OpenAI"
       ],
       "tags": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "ChatGPT",
         "优惠码",
         "降价/折扣"
@@ -3024,7 +3064,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T00:18:03",
-      "fetched_at": "2026-09-27T09:50:23.933485+00:00",
+      "fetched_at": "2026-09-27T16:26:54.414139+00:00",
       "relevance_score": 40,
       "deal_types": [
         "优惠码",
@@ -3035,8 +3075,8 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "ChatGPT"
       ],
       "companies": [
@@ -3045,8 +3085,8 @@
         "OpenAI"
       ],
       "tags": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "ChatGPT",
         "优惠码",
         "降价/折扣"
@@ -4589,7 +4629,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-23T20:14:21",
-      "fetched_at": "2026-09-27T09:50:23.933459+00:00",
+      "fetched_at": "2026-09-27T16:26:54.414118+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -4629,7 +4669,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-14T11:22:37",
-      "fetched_at": "2026-09-27T09:50:28.894891+00:00",
+      "fetched_at": "2026-09-27T16:27:02.700154+00:00",
       "relevance_score": 37,
       "deal_types": [
         "优惠码",
@@ -4640,8 +4680,8 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "ChatGPT"
       ],
       "companies": [
@@ -4650,8 +4690,8 @@
         "OpenAI"
       ],
       "tags": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "ChatGPT",
         "优惠码",
         "降价/折扣"
@@ -5396,7 +5436,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-21T07:58:35",
-      "fetched_at": "2026-09-27T09:50:47.167639+00:00",
+      "fetched_at": "2026-09-27T16:27:26.283991+00:00",
       "relevance_score": 36,
       "deal_types": [
         "薅羊毛/技巧"
@@ -7140,7 +7180,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-09-27T09:50:49.306463+00:00",
+      "fetched_at": "2026-09-27T16:27:29.480757+00:00",
       "relevance_score": 34,
       "deal_types": [
         "拼车/合租",
@@ -7254,7 +7294,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-09-27T09:50:53.729165+00:00",
+      "fetched_at": "2026-09-27T16:27:37.786827+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8437,7 +8477,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-09-27T09:50:37.118345+00:00",
+      "fetched_at": "2026-09-27T16:27:14.312885+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -8736,7 +8776,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-09-27T09:50:51.441909+00:00",
+      "fetched_at": "2026-09-27T16:27:34.582126+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -11312,7 +11352,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-19T23:31:11",
-      "fetched_at": "2026-09-27T09:50:23.933493+00:00",
+      "fetched_at": "2026-09-27T16:26:54.414145+00:00",
       "relevance_score": 30,
       "deal_types": [
         "优惠码",
@@ -11323,8 +11363,8 @@
         "Price Drop"
       ],
       "products": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "ChatGPT"
       ],
       "companies": [
@@ -11333,8 +11373,8 @@
         "OpenAI"
       ],
       "tags": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "ChatGPT",
         "优惠码",
         "降价/折扣"
@@ -11463,7 +11503,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-04T02:18:14",
-      "fetched_at": "2026-09-27T09:50:47.167598+00:00",
+      "fetched_at": "2026-09-27T16:27:26.283961+00:00",
       "relevance_score": 30,
       "deal_types": [
         "免费/试用",
@@ -11488,43 +11528,6 @@
         "免费/试用",
         "降价/折扣",
         "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1238791",
-      "source": "v2ex",
-      "subreddit": 1353,
-      "title": "Ollama 也改成 token 计费了",
-      "body": "Ollama 的 Pro 、Max 和 Team 计划现采用透明的按 token 计费模式。\n\t\nPro：$20/月，包含 $60 月度使用额度\nMax：$100/月，包含 $300 月度使用额度\nTeam：$500/月，包含 $1,000 共享月度使用额度，适用于无限用户\n\t\n如果您当前使用的是 Pro 、Max 或 Team 计划，您的计划将按原样继续运行。您可以随时在 Ollama 账户设置中升级至新定价方案。\n\n对于大一些模型（ qwen 3.8 和 k3 ），这是好事，对于不怎么吃算力小模型，使用量下降明显，继智谱后，又一个传家宝套餐诞生。算一下，现在最便宜的划算的的竟然是 Cursor 。\n\n信息来源： https://ollama.com/blog/transparent-pricing",
-      "url": "https://www.v2ex.com/t/1238791",
-      "author": "SiWXie",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-01T15:44:17",
-      "fetched_at": "2026-09-04T03:01:39.226858+00:00",
-      "relevance_score": 30,
-      "deal_types": [
-        "拼车/合租",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Cursor"
-      ],
-      "companies": [
-        "Cursor"
-      ],
-      "tags": [
-        "Cursor",
-        "拼车/合租",
-        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true

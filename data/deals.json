@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T01:10:36.298706+00:00",
+  "last_updated": "2026-10-06T11:04:32.734274+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 279,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-10-06T01:08:12.051870+00:00",
+      "fetched_at": "2026-10-06T11:01:53.942008+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -273,7 +273,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-20T07:32:01",
-      "fetched_at": "2026-10-06T01:08:01.670534+00:00",
+      "fetched_at": "2026-10-06T11:01:40.257341+00:00",
       "relevance_score": 67,
       "deal_types": [
         "区域套利",
@@ -291,18 +291,18 @@
       ],
       "products": [
         "ChatGPT",
-        "Cursor",
-        "Claude"
+        "Claude",
+        "Cursor"
       ],
       "companies": [
         "Anthropic",
-        "OpenAI",
-        "Cursor"
+        "Cursor",
+        "OpenAI"
       ],
       "tags": [
         "ChatGPT",
-        "Cursor",
         "Claude",
+        "Cursor",
         "区域套利",
         "礼品卡",
         "免费/试用",
@@ -1482,7 +1482,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-25T04:40:36",
-      "fetched_at": "2026-10-06T01:08:01.670508+00:00",
+      "fetched_at": "2026-10-06T11:01:40.257324+00:00",
       "relevance_score": 46,
       "deal_types": [
         "优惠码",
@@ -1493,8 +1493,8 @@
         "Price Drop"
       ],
       "products": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "Claude"
       ],
       "companies": [
@@ -1503,8 +1503,8 @@
         "OpenAI"
       ],
       "tags": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "Claude",
         "优惠码",
         "降价/折扣"
@@ -2002,7 +2002,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-24T17:03:56",
-      "fetched_at": "2026-10-06T01:08:04.213634+00:00",
+      "fetched_at": "2026-10-06T11:01:42.609917+00:00",
       "relevance_score": 44,
       "deal_types": [
         "优惠码",
@@ -3458,7 +3458,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T13:20:59",
-      "fetched_at": "2026-10-06T01:08:01.670524+00:00",
+      "fetched_at": "2026-10-06T11:01:40.257335+00:00",
       "relevance_score": 39,
       "deal_types": [
         "优惠码",
@@ -3469,8 +3469,8 @@
         "Price Drop"
       ],
       "products": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "Claude"
       ],
       "companies": [
@@ -3479,8 +3479,8 @@
         "OpenAI"
       ],
       "tags": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "Claude",
         "优惠码",
         "降价/折扣"
@@ -3535,7 +3535,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T00:18:03",
-      "fetched_at": "2026-10-06T01:08:01.670531+00:00",
+      "fetched_at": "2026-10-06T11:01:40.257340+00:00",
       "relevance_score": 39,
       "deal_types": [
         "优惠码",
@@ -3546,8 +3546,8 @@
         "Price Drop"
       ],
       "products": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "Claude"
       ],
       "companies": [
@@ -3556,8 +3556,8 @@
         "OpenAI"
       ],
       "tags": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "Claude",
         "优惠码",
         "降价/折扣"
@@ -4619,40 +4619,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1246251",
-      "source": "v2ex",
-      "subreddit": 1135,
-      "title": "体感上， ChatGPT plus 5 小时额度少于 Claude pro",
-      "body": "",
-      "url": "https://www.v2ex.com/t/1246251",
-      "author": "chen88ijn",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-03T07:31:54",
-      "fetched_at": "2026-10-06T01:08:01.670314+00:00",
-      "relevance_score": 37,
-      "deal_types": [
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "Claude",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1241957",
       "source": "v2ex",
       "subreddit": 864,
@@ -5353,7 +5319,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-23T20:14:21",
-      "fetched_at": "2026-10-06T01:08:01.670515+00:00",
+      "fetched_at": "2026-10-06T11:01:40.257329+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -5470,7 +5436,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-21T07:58:35",
-      "fetched_at": "2026-10-06T01:08:24.956280+00:00",
+      "fetched_at": "2026-10-06T11:02:08.117378+00:00",
       "relevance_score": 36,
       "deal_types": [
         "薅羊毛/技巧"
@@ -6311,6 +6277,40 @@
         "Cursor",
         "拼车/合租",
         "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1246251",
+      "source": "v2ex",
+      "subreddit": 1135,
+      "title": "体感上， ChatGPT plus 5 小时额度少于 Claude pro",
+      "body": "",
+      "url": "https://www.v2ex.com/t/1246251",
+      "author": "chen88ijn",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-03T07:31:54",
+      "fetched_at": "2026-10-06T11:01:40.257192+00:00",
+      "relevance_score": 35,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
         "API优惠"
       ],
       "is_deal": true
@@ -7328,7 +7328,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-06T01:08:32.285585+00:00",
+      "fetched_at": "2026-10-06T11:02:16.336237+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -7956,7 +7956,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-06T01:08:32.285387+00:00",
+      "fetched_at": "2026-10-06T11:02:16.336089+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -8548,7 +8548,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-06T01:08:14.666632+00:00",
+      "fetched_at": "2026-10-06T11:01:56.825425+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -8806,43 +8806,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1246212",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[推广] QuickSilver Pro： Claude 全线降价一半，至少官方价 5 折（Opus 5.5 $1.6/$8）， OpenAI 兼容， Claude Code 可直连",
-      "body": "大家好，我们是 QuickSilver Pro （ quicksilverpro.io ），由美国正规公司运营的 OpenAI 兼容 API 网关，可开发票（ stripe ），目前接入了 67 个模型。\r\n\r\n今天上线：Claude 全线降价 50%\r\n\r\n| 模型              | 我们的价格（每百万 token ，输入/输出） | Anthropic 官方 |\r\n|-------------------|---------------------------------------|----------------|\r\n| Claude Opus 5.5   | $1.60 / $8                            | $4 / $20       |\r\n| Claude Sonnet 5.5 | $1 / $5                               | $2 / $10       |\r\n| Claude Fable 5.1  | $4 / $20                              | $10 / ",
-      "url": "https://www.v2ex.com/t/1246212",
-      "author": "raullen",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-03T01:50:08",
-      "fetched_at": "2026-10-06T01:08:04.213576+00:00",
-      "relevance_score": 32,
-      "deal_types": [
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "Claude",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1242722",
       "source": "v2ex",
       "subreddit": 1140,
@@ -8884,7 +8847,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-06T01:08:29.780276+00:00",
+      "fetched_at": "2026-10-06T11:02:13.884741+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -9993,7 +9956,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-30T07:47:07",
-      "fetched_at": "2026-10-06T01:08:01.670484+00:00",
+      "fetched_at": "2026-10-06T11:01:40.257307+00:00",
       "relevance_score": 31,
       "deal_types": [
         "学生/教育",
@@ -10016,49 +9979,6 @@
       "tags": [
         "ChatGPT",
         "学生/教育",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1245527",
-      "source": "v2ex",
-      "subreddit": 12,
-      "title": "[快跑 AI]渠道合作与邀请返现躺着也能赚钱！新用户注册领取 10 刀",
-      "body": "各位老板，大家好！\r\n\r\n**快跑 AI 是一个聚合中转平台 —— 低价、稳定、长期服务，主做 C 端客户，支持开票，开清单。**\r\n\r\n**新用户注册并在帖子下方回复 id 赠送 10$体验额度**\r\n\r\n我们不是只做单一模型，而是做一套 **AI 模型 API 聚合服务**： \r\n文本模型 / 图片模型 / 视频模型 / 国产模型 / Claude / OpenAI / Grok 都支持。\r\n低价稳定｜高速响应｜按量计费｜用量透明｜售后保障｜支持开票清单\r\n\r\n\r\n**有优质模型渠道？加入快跑 AI ，成为渠道合作伙伴，一起做稳定的 AI 中转服务。推荐渠道、邀请好友，还能获得长期返现！推荐一次，后续持续有机会获得收益——躺着也能赚钱！**\r\n\r\n 推荐渠道，持续拿返现\r\n提交真实、可核查的优质渠道，无需提供密钥。审核通过后，每条奖励 ¥50 现金；渠道接入后，还可按该渠道在快跑 AI 的已用金额享受 1% 永久返现。\r\n\r\n邀请好友，充值有返现\r\n分享专属邀请链接。好友注册并绑定邀请关系后，每次充值，您都可获得充值金额 5% 的返现，长期有效；奖励也可划转至余额使用。\r\n\r\n返现",
-      "url": "https://www.v2ex.com/t/1245527",
-      "author": "kuaipaoAI",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-29T06:25:17",
-      "fetched_at": "2026-10-06T01:08:04.213606+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "拼车/合租",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "Claude",
-        "拼车/合租",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -11493,6 +11413,86 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1246212",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[推广] QuickSilver Pro： Claude 全线降价一半，至少官方价 5 折（Opus 5.5 $1.6/$8）， OpenAI 兼容， Claude Code 可直连",
+      "body": "大家好，我们是 QuickSilver Pro （ quicksilverpro.io ），由美国正规公司运营的 OpenAI 兼容 API 网关，可开发票（ stripe ），目前接入了 67 个模型。\r\n\r\n今天上线：Claude 全线降价 50%\r\n\r\n| 模型              | 我们的价格（每百万 token ，输入/输出） | Anthropic 官方 |\r\n|-------------------|---------------------------------------|----------------|\r\n| Claude Opus 5.5   | $1.60 / $8                            | $4 / $20       |\r\n| Claude Sonnet 5.5 | $1 / $5                               | $2 / $10       |\r\n| Claude Fable 5.1  | $4 / $20                              | $10 / ",
+      "url": "https://www.v2ex.com/t/1246212",
+      "author": "raullen",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-03T01:50:08",
+      "fetched_at": "2026-10-06T11:01:42.609885+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1245527",
+      "source": "v2ex",
+      "subreddit": 12,
+      "title": "[快跑 AI]渠道合作与邀请返现躺着也能赚钱！新用户注册领取 10 刀",
+      "body": "各位老板，大家好！\r\n\r\n**快跑 AI 是一个聚合中转平台 —— 低价、稳定、长期服务，主做 C 端客户，支持开票，开清单。**\r\n\r\n**新用户注册并在帖子下方回复 id 赠送 10$体验额度**\r\n\r\n我们不是只做单一模型，而是做一套 **AI 模型 API 聚合服务**： \r\n文本模型 / 图片模型 / 视频模型 / 国产模型 / Claude / OpenAI / Grok 都支持。\r\n低价稳定｜高速响应｜按量计费｜用量透明｜售后保障｜支持开票清单\r\n\r\n\r\n**有优质模型渠道？加入快跑 AI ，成为渠道合作伙伴，一起做稳定的 AI 中转服务。推荐渠道、邀请好友，还能获得长期返现！推荐一次，后续持续有机会获得收益——躺着也能赚钱！**\r\n\r\n 推荐渠道，持续拿返现\r\n提交真实、可核查的优质渠道，无需提供密钥。审核通过后，每条奖励 ¥50 现金；渠道接入后，还可按该渠道在快跑 AI 的已用金额享受 1% 永久返现。\r\n\r\n邀请好友，充值有返现\r\n分享专属邀请链接。好友注册并绑定邀请关系后，每次充值，您都可获得充值金额 5% 的返现，长期有效；奖励也可划转至余额使用。\r\n\r\n返现",
+      "url": "https://www.v2ex.com/t/1245527",
+      "author": "kuaipaoAI",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-09-29T06:25:17",
+      "fetched_at": "2026-10-06T11:01:42.609901+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "拼车/合租",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "拼车/合租",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1243231",
       "source": "v2ex",
       "subreddit": 864,
@@ -11503,7 +11503,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-19T23:31:11",
-      "fetched_at": "2026-10-06T01:08:01.670537+00:00",
+      "fetched_at": "2026-10-06T11:01:40.257345+00:00",
       "relevance_score": 30,
       "deal_types": [
         "优惠码",
@@ -11514,8 +11514,8 @@
         "Price Drop"
       ],
       "products": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "Claude"
       ],
       "companies": [
@@ -11524,8 +11524,8 @@
         "OpenAI"
       ],
       "tags": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "Claude",
         "优惠码",
         "降价/折扣"

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T04:40:57.074235+00:00",
+  "last_updated": "2026-10-08T15:16:58.348602+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 277,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-10-08T04:38:29.547416+00:00",
+      "fetched_at": "2026-10-08T15:14:18.097145+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -273,7 +273,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-20T07:32:01",
-      "fetched_at": "2026-10-08T04:38:19.135445+00:00",
+      "fetched_at": "2026-10-08T15:14:04.754480+00:00",
       "relevance_score": 67,
       "deal_types": [
         "区域套利",
@@ -295,8 +295,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "Anthropic",
         "Cursor",
+        "Anthropic",
         "OpenAI"
       ],
       "tags": [
@@ -1149,6 +1149,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1247061",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "AIKey365 给 V2EX 送 20 份体验额度，每人 ¥15",
+      "body": "大家好，AIKey365 面向开发者提供多模型 API 接入。这次给 V2EX 准备 20 个名额，每人赠送 ¥15 站内余额（人民币余额单位，不是美元）。\r\n\r\n目前支持的接口与工具：\r\n- OpenAI-compatible API （ Chat Completions / Responses ），API Base URL： https://aikey365.com/v1\r\n- Anthropic Messages API ，可用于 Claude Code 接入\r\n- Gemini 原生 Gemini v1beta API\r\n\r\nClaude Code 与 Gemini 的接入参数、可用模型列表见文档： https://aikey365.com/docs/\r\n服务地址： https://aikey365.com\r\n\r\n领取方式：注册 AIKey365 后，在本帖评论区留下你的 AIKey365 用户名，我会按评论顺序人工发放 ¥15 站内余额，20 个名额发完即止。\r\n\r\n请不要在评论区发送 API Key 。",
+      "url": "https://www.v2ex.com/t/1247061",
+      "author": "mapleisaac",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-08T07:15:49",
+      "fetched_at": "2026-10-08T15:14:55.946828+00:00",
+      "relevance_score": 48,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini"
+      ],
+      "companies": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1246870",
       "source": "v2ex",
       "subreddit": 17,
@@ -1159,7 +1199,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-07T18:37:20",
-      "fetched_at": "2026-10-08T04:38:26.751948+00:00",
+      "fetched_at": "2026-10-08T15:14:15.192851+00:00",
       "relevance_score": 48,
       "deal_types": [
         "免费/试用",
@@ -1519,7 +1559,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-25T04:40:36",
-      "fetched_at": "2026-10-08T04:38:19.135413+00:00",
+      "fetched_at": "2026-10-08T15:14:04.754449+00:00",
       "relevance_score": 46,
       "deal_types": [
         "优惠码",
@@ -1531,8 +1571,8 @@
       ],
       "products": [
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "ChatGPT",
+        "Gemini"
       ],
       "companies": [
         "Anthropic",
@@ -1541,8 +1581,8 @@
       ],
       "tags": [
         "Claude",
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "优惠码",
         "降价/折扣"
       ],
@@ -2039,7 +2079,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-24T17:03:56",
-      "fetched_at": "2026-10-08T04:38:59.665860+00:00",
+      "fetched_at": "2026-10-08T15:14:50.756630+00:00",
       "relevance_score": 44,
       "deal_types": [
         "优惠码",
@@ -3495,7 +3535,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T13:20:59",
-      "fetched_at": "2026-10-08T04:38:19.135435+00:00",
+      "fetched_at": "2026-10-08T15:14:04.754466+00:00",
       "relevance_score": 39,
       "deal_types": [
         "优惠码",
@@ -3507,8 +3547,8 @@
       ],
       "products": [
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "ChatGPT",
+        "Gemini"
       ],
       "companies": [
         "Anthropic",
@@ -3517,8 +3557,8 @@
       ],
       "tags": [
         "Claude",
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "优惠码",
         "降价/折扣"
       ],
@@ -3572,7 +3612,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T00:18:03",
-      "fetched_at": "2026-10-08T04:38:19.135443+00:00",
+      "fetched_at": "2026-10-08T15:14:04.754476+00:00",
       "relevance_score": 39,
       "deal_types": [
         "优惠码",
@@ -3584,8 +3624,8 @@
       ],
       "products": [
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "ChatGPT",
+        "Gemini"
       ],
       "companies": [
         "Anthropic",
@@ -3594,8 +3634,8 @@
       ],
       "tags": [
         "Claude",
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "优惠码",
         "降价/折扣"
       ],
@@ -5393,7 +5433,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-23T20:14:21",
-      "fetched_at": "2026-10-08T04:38:19.135425+00:00",
+      "fetched_at": "2026-10-08T15:14:04.754456+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -6366,7 +6406,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-03T07:31:54",
-      "fetched_at": "2026-10-08T04:38:19.135387+00:00",
+      "fetched_at": "2026-10-08T15:14:04.754419+00:00",
       "relevance_score": 35,
       "deal_types": [
         "API优惠"
@@ -7402,7 +7442,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-08T04:38:48.850226+00:00",
+      "fetched_at": "2026-10-08T15:14:39.823161+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8020,83 +8060,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1246788",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "📱 💳 2026 最新 ChatGPT / Claude 会员充值 订阅指南（ iPhone 用户）",
-      "body": "现在 Claude 、ChatGPT 、Gemini 等 AI 应用越来越火，但很多国内用户在 iPhone 上开通会员时，都会遇到支付方式受限的问题，比如无法用国内 visa 信用卡充值会员。  \r\n本文以 Claude 为例，整理一套尽量简单、直观的充值流程：\r\n\r\n准备美区 App Store 账号 → 兑换礼品卡余额 → 在 ChatGPT / Claude App 内完成订阅。\r\n\r\nGitHub 项目： https://github.com/sunreview/GetClaudeProByAppleIO\r\n\r\n---\r\n\r\n## ✅ 适合谁\r\n\r\n- 想在 iPhone 上开通 ChatGPT / Claude 会员的用户\r\n- 没有国外信用卡，但愿意使用美区 Apple ID 的用户\r\n- 已经能正常访问 App Store 美区应用，希望用更简单方式完成订阅的用户\r\n\r\n---\r\n\r\n## 1️⃣ 注册美区 Apple ID\r\n\r\n先准备一个美区 Apple ID ，并在 iPhone 上登录 App Store ，下载 ChatGPT / Claude iOS 应用程",
-      "url": "https://www.v2ex.com/t/1246788",
-      "author": "tomridder",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-07T08:27:58",
-      "fetched_at": "2026-10-08T04:38:19.135352+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "区域套利",
-        "礼品卡"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Gift Card"
-      ],
-      "products": [
-        "Claude",
-        "Gemini",
-        "ChatGPT"
-      ],
-      "companies": [
-        "Anthropic",
-        "Google",
-        "OpenAI"
-      ],
-      "tags": [
-        "Claude",
-        "Gemini",
-        "ChatGPT",
-        "区域套利",
-        "礼品卡"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1246763",
-      "source": "v2ex",
-      "subreddit": 16,
-      "title": "🚀 2026 年国内用户如何充值 ChatGPT Plus？保姆级视频图文教程（新手可用）",
-      "body": "> 面向国内 / 中文用户的 **ChatGPT Plus 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 ChatGPT 账号**升级 Plus 订阅**。本文整理了从购买卡密、获取账号 Token 、提交充值到确认 Plus 状态的完整 **图文 + 视频** 流程，2026 年最新、新手可对照操作。\r\n\r\n## 🔗 快速入口\r\n\r\n| 用途                         | 地址                                             |\r\n| ---------------------------- | ------------------------------------------------ |\r\n| 📘 本教程原始页面（含视频）   | https://recharge.aigc248.com/                    |\r\n| ⭐ GitHub 项目                | https://github.com/sunreview/GetChatGPTPlusPaper |\r\n|",
-      "url": "https://www.v2ex.com/t/1246763",
-      "author": "tomridder",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-07T06:28:04",
-      "fetched_at": "2026-10-08T04:38:19.135378+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "礼品卡",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Gift Card",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "礼品卡",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "hn_49989006",
       "source": "hackernews",
       "subreddit": "",
@@ -8131,40 +8094,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1246759",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "🚀 2026 年国内用户如何充值 Claude Pro？保姆级图文教程（新手可用）",
-      "body": "> 面向国内 / 中文用户的 **Claude Pro 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 Claude 账号**升级 Pro 订阅**。本文整理了从购买卡密、验证卡密、复制 Organization ID 、提交充值到确认 Pro 状态的完整**图文**流程，2026 年最新、新手可对照操作。\r\n\r\n## 🔗 快速入口\r\n\r\n> ### ‼️ 建议通过 📮 接码链接 接收 登陆 Claude 账号验证码，降低封号风险！！ ‼️\r\n\r\n| 用途                       | 地址                                      |\r\n| -------------------------- | ----------------------------------------- |\r\n| 📘 本教程原始页面           | https://getclaude.aigc248.com/            |\r\n| ⭐ GitHub 项目              | https://github.com/su",
-      "url": "https://www.v2ex.com/t/1246759",
-      "author": "tomridder",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-07T05:51:40",
-      "fetched_at": "2026-10-08T04:38:21.546339+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "礼品卡",
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Gift Card",
-        "Workaround"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "礼品卡",
-        "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1243743",
       "source": "v2ex",
       "subreddit": 285,
@@ -8175,7 +8104,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-08T04:38:48.849985+00:00",
+      "fetched_at": "2026-10-08T15:14:39.822913+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -8767,7 +8696,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-08T04:38:32.004913+00:00",
+      "fetched_at": "2026-10-08T15:14:20.459820+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9100,7 +9029,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-08T04:38:46.128647+00:00",
+      "fetched_at": "2026-10-08T15:14:37.018069+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -10195,6 +10124,117 @@
         "ChatGPT",
         "区域套利",
         "礼品卡"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1246788",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "📱 💳 2026 最新 ChatGPT / Claude 会员充值 订阅指南（ iPhone 用户）",
+      "body": "现在 Claude 、ChatGPT 、Gemini 等 AI 应用越来越火，但很多国内用户在 iPhone 上开通会员时，都会遇到支付方式受限的问题，比如无法用国内 visa 信用卡充值会员。  \r\n本文以 Claude 为例，整理一套尽量简单、直观的充值流程：\r\n\r\n准备美区 App Store 账号 → 兑换礼品卡余额 → 在 ChatGPT / Claude App 内完成订阅。\r\n\r\nGitHub 项目： https://github.com/sunreview/GetClaudeProByAppleIO\r\n\r\n---\r\n\r\n## ✅ 适合谁\r\n\r\n- 想在 iPhone 上开通 ChatGPT / Claude 会员的用户\r\n- 没有国外信用卡，但愿意使用美区 Apple ID 的用户\r\n- 已经能正常访问 App Store 美区应用，希望用更简单方式完成订阅的用户\r\n\r\n---\r\n\r\n## 1️⃣ 注册美区 Apple ID\r\n\r\n先准备一个美区 Apple ID ，并在 iPhone 上登录 App Store ，下载 ChatGPT / Claude iOS 应用程",
+      "url": "https://www.v2ex.com/t/1246788",
+      "author": "tomridder",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-07T08:27:58",
+      "fetched_at": "2026-10-08T15:14:04.754388+00:00",
+      "relevance_score": 31,
+      "deal_types": [
+        "区域套利",
+        "礼品卡"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Gift Card"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Gemini"
+      ],
+      "companies": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "区域套利",
+        "礼品卡"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1246763",
+      "source": "v2ex",
+      "subreddit": 16,
+      "title": "🚀 2026 年国内用户如何充值 ChatGPT Plus？保姆级视频图文教程（新手可用）",
+      "body": "> 面向国内 / 中文用户的 **ChatGPT Plus 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 ChatGPT 账号**升级 Plus 订阅**。本文整理了从购买卡密、获取账号 Token 、提交充值到确认 Plus 状态的完整 **图文 + 视频** 流程，2026 年最新、新手可对照操作。\r\n\r\n## 🔗 快速入口\r\n\r\n| 用途                         | 地址                                             |\r\n| ---------------------------- | ------------------------------------------------ |\r\n| 📘 本教程原始页面（含视频）   | https://recharge.aigc248.com/                    |\r\n| ⭐ GitHub 项目                | https://github.com/sunreview/GetChatGPTPlusPaper |\r\n|",
+      "url": "https://www.v2ex.com/t/1246763",
+      "author": "tomridder",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-07T06:28:04",
+      "fetched_at": "2026-10-08T15:14:04.754410+00:00",
+      "relevance_score": 31,
+      "deal_types": [
+        "礼品卡",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Gift Card",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "礼品卡",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1246759",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "🚀 2026 年国内用户如何充值 Claude Pro？保姆级图文教程（新手可用）",
+      "body": "> 面向国内 / 中文用户的 **Claude Pro 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 Claude 账号**升级 Pro 订阅**。本文整理了从购买卡密、验证卡密、复制 Organization ID 、提交充值到确认 Pro 状态的完整**图文**流程，2026 年最新、新手可对照操作。\r\n\r\n## 🔗 快速入口\r\n\r\n> ### ‼️ 建议通过 📮 接码链接 接收 登陆 Claude 账号验证码，降低封号风险！！ ‼️\r\n\r\n| 用途                       | 地址                                      |\r\n| -------------------------- | ----------------------------------------- |\r\n| 📘 本教程原始页面           | https://getclaude.aigc248.com/            |\r\n| ⭐ GitHub 项目              | https://github.com/su",
+      "url": "https://www.v2ex.com/t/1246759",
+      "author": "tomridder",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-07T05:51:40",
+      "fetched_at": "2026-10-08T15:14:07.698599+00:00",
+      "relevance_score": 31,
+      "deal_types": [
+        "礼品卡",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Gift Card",
+        "Workaround"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "礼品卡",
+        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -11471,40 +11511,6 @@
       "tags": [
         "Claude",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1212734",
-      "source": "v2ex",
-      "subreddit": 1347,
-      "title": "新渠道新特价， Claude Pro 正规渠道直充卡密价格由 128 调整为 118，我们依然给您一个月足月的质保订阅",
-      "body": "新渠道新特价，Claude Pro 正规渠道直充卡密价格由 128 调整为 118 ，我们依然给您一个月足月的质保订阅，感谢大家都对我们智友社的关注和支持！\r\n\r\nClaude Pro 正规渠道直充卡密商品购买链接： https://pay.ldxp.cn/item/dqhhrb",
-      "url": "https://www.v2ex.com/t/1212734",
-      "author": "Ai2You",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-14T08:40:12",
-      "fetched_at": "2026-05-20T03:30:31.777147+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "礼品卡",
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Gift Card",
-        "Price Drop"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "礼品卡",
-        "降价/折扣"
       ],
       "is_deal": true
     }

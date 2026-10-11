@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T04:11:39.473444+00:00",
+  "last_updated": "2026-10-11T14:42:28.772274+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 278,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-10-11T04:09:11.352606+00:00",
+      "fetched_at": "2026-10-11T14:40:02.967042+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -2042,7 +2042,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-07T18:37:20",
-      "fetched_at": "2026-10-11T04:09:40.014215+00:00",
+      "fetched_at": "2026-10-11T14:40:32.356702+00:00",
       "relevance_score": 44,
       "deal_types": [
         "免费/试用",
@@ -2079,7 +2079,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-24T17:03:56",
-      "fetched_at": "2026-10-11T04:09:40.014235+00:00",
+      "fetched_at": "2026-10-11T14:40:32.356736+00:00",
       "relevance_score": 44,
       "deal_types": [
         "优惠码",
@@ -2096,16 +2096,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "ChatGPT"
+        "ChatGPT",
+        "Claude"
       ],
       "companies": [
         "Anthropic",
         "OpenAI"
       ],
       "tags": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "优惠码",
         "礼品卡",
         "免费/试用",
@@ -3061,7 +3061,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-10T16:36:34",
-      "fetched_at": "2026-10-11T04:09:45.226844+00:00",
+      "fetched_at": "2026-10-11T14:40:37.089618+00:00",
       "relevance_score": 41,
       "deal_types": [
         "免费/试用",
@@ -4726,6 +4726,40 @@
         "区域套利",
         "礼品卡",
         "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1247814",
+      "source": "v2ex",
+      "subreddit": 1317,
+      "title": "Cursor pro 免费领取活动，有个羊毛",
+      "body": "https://x.com/zyon1527/status/2109163834287980673?s=46 cursor pro 免费领取活动，抓紧冲",
+      "url": "https://www.v2ex.com/t/1247814",
+      "author": "Black4dcp",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-11T06:45:00",
+      "fetched_at": "2026-10-11T14:40:11.870386+00:00",
+      "relevance_score": 37,
+      "deal_types": [
+        "免费/试用",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Workaround"
+      ],
+      "products": [
+        "Cursor"
+      ],
+      "companies": [
+        "Cursor"
+      ],
+      "tags": [
+        "Cursor",
+        "免费/试用",
+        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -6430,6 +6464,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1247761",
+      "source": "v2ex",
+      "subreddit": "programmer",
+      "title": "Google Play 开通 Claude Pro，搭配大陆护照 KYC，安全上车中...",
+      "body": "昨天使用 google play 开了一个 claude pro 的新号（原动态： https://x.com/licoycn/status/2108784475241062521 ），然后一订阅就让我要验证身份，当时就想放弃了，但是转头一想要不试试，反正一百多，然后使用大陆护照进行了身份验证，秒通过。\r\n\r\n然后再去 claude 中点击订阅，这个时候已经订阅过了，就会直接成功，然后身份验证也过了，就可以直接用了，然后挂上了 CPA ，一直到今天都是稳稳的，目前已经用了周额度 26%了\r\n\r\n现在是 2 个 claude pro 在 cpa 上轮询，反正没啥问题，看看后续吧，存活记录也会一直更新到 X 。",
+      "url": "https://www.v2ex.com/t/1247761",
+      "author": "licoycn",
+      "score": 0,
+      "num_comments": 31,
+      "created_at": "2026-10-11T01:06:47+00:00",
+      "fetched_at": "2026-10-11T14:39:50.294850+00:00",
+      "relevance_score": 35,
+      "deal_types": [
+        "区域套利",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "区域套利",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1245566",
       "source": "v2ex",
       "subreddit": 1135,
@@ -7325,7 +7393,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-03T07:31:54",
-      "fetched_at": "2026-10-11T04:09:00.235013+00:00",
+      "fetched_at": "2026-10-11T14:39:53.810202+00:00",
       "relevance_score": 34,
       "deal_types": [
         "API优惠"
@@ -7334,16 +7402,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "ChatGPT"
+        "ChatGPT",
+        "Claude"
       ],
       "companies": [
         "Anthropic",
         "OpenAI"
       ],
       "tags": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "API优惠"
       ],
       "is_deal": true
@@ -7476,7 +7544,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-11T04:09:30.139685+00:00",
+      "fetched_at": "2026-10-11T14:40:22.687411+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8094,36 +8162,33 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1247761",
+      "id": "v2ex_1247865",
       "source": "v2ex",
-      "subreddit": "programmer",
-      "title": "Google Play 开通 Claude Pro，搭配大陆护照 KYC，安全上车中...",
-      "body": "昨天使用 google play 开了一个 claude pro 的新号（原动态： https://x.com/licoycn/status/2108784475241062521 ），然后一订阅就让我要验证身份，当时就想放弃了，但是转头一想要不试试，反正一百多，然后使用大陆护照进行了身份验证，秒通过。\r\n\r\n然后再去 claude 中点击订阅，这个时候已经订阅过了，就会直接成功，然后身份验证也过了，就可以直接用了，然后挂上了 CPA ，一直到今天都是稳稳的，目前已经用了周额度 26%了\r\n\r\n现在是 2 个 claude pro 在 cpa 上轮询，反正没啥问题，看看后续吧，存活记录也会一直更新到 X 。",
-      "url": "https://www.v2ex.com/t/1247761",
-      "author": "licoycn",
+      "subreddit": 864,
+      "title": "ChatGPT Plus 半价成品号｜ 79 元",
+      "body": "# **ChatGPT Plus 半价成品号 | 79 元**\r\n\r\n> ⚠️ 声明：这是第三方渠道，和 OpenAI 官方没有关系。\r\n\r\n手上有 ChatGPT Plus 成品号在出，简单说下情况：\r\n\r\n---\r\n\r\n**🎯 你买到的是什么？**\r\n\r\n- 一个**已经开好 Plus** 的 ChatGPT 账号，到手就能用，不用再折腾充值\r\n- 当前这个月的 Plus 已经激活了，登录就是满血状态\r\n- 用完这个月之后，还能找我**半价续费 2 个月**，每月只要 **75 元**，比自己开划算不少\r\n\r\n**💰 价格：79 元**\r\n\r\n目前有多个库存，需要的话可以直接下单。\r\n\r\n---\r\n\r\n**🛒 怎么买？**\r\n\r\n👉 [点这里下单]( https://wzyp.cn/shop/5ZNZ8CWU)\r\n\r\n下单后按商品页的流程发货。拿到账号后，**第一件事先试登录**，确认没问题。\r\n\r\n登录的时候会有个 **2FA 验证**，别慌，购买页面里有详细步骤，照着走就行。\r\n\r\n> 🔒 **重要提醒**：密码、2FA 密钥、验证码这些东西，**千万别在帖子、评论或群聊里发出",
+      "url": "https://www.v2ex.com/t/1247865",
+      "author": "Misaka9903",
       "score": 0,
-      "num_comments": 9,
-      "created_at": "2026-10-11T01:06:47+00:00",
-      "fetched_at": "2026-10-11T04:08:56.183060+00:00",
+      "num_comments": 0,
+      "created_at": "2026-10-11T12:27:10",
+      "fetched_at": "2026-10-11T14:39:53.810136+00:00",
       "relevance_score": 33,
       "deal_types": [
-        "区域套利",
-        "API优惠"
+        "降价/折扣"
       ],
       "deal_types_en": [
-        "Regional Pricing",
-        "API Deal"
+        "Price Drop"
       ],
       "products": [
-        "Claude"
+        "ChatGPT"
       ],
       "companies": [
-        "Anthropic"
+        "OpenAI"
       ],
       "tags": [
-        "Claude",
-        "区域套利",
-        "API优惠"
+        "ChatGPT",
+        "降价/折扣"
       ],
       "is_deal": true
     },
@@ -8172,7 +8237,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-11T04:09:30.139560+00:00",
+      "fetched_at": "2026-10-11T14:40:22.687183+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -8764,7 +8829,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-11T04:09:13.643149+00:00",
+      "fetched_at": "2026-10-11T14:40:05.214276+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9097,7 +9162,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-11T04:09:27.547215+00:00",
+      "fetched_at": "2026-10-11T14:40:20.277150+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -10196,40 +10261,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1247688",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "全网最低价 ChatGPT plus 和 pro",
-      "body": "全网最低价！！！！\r\nChatGPT plus pro *5 *10 *25.\r\n\r\nplus:120\r\npro: \r\n\tx5：:680\r\n\tx10:1100\r\n    x25:3500\r\nhttps://gptibo.com/r/4KB4TF   \r\n童叟无欺，团购更有优惠！！！帮助 v 友用到 codex （ 52/100 ）！！！\r\n有需要 加 v: OTk0MjEyODEy",
-      "url": "https://www.v2ex.com/t/1247688",
-      "author": "xmengxinxin",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-10T09:37:44",
-      "fetched_at": "2026-10-11T04:09:00.234981+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "拼车/合租",
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Price Drop"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "拼车/合租",
-        "降价/折扣"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1247562",
       "source": "v2ex",
       "subreddit": 300,
@@ -10240,7 +10271,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-10T03:17:22",
-      "fetched_at": "2026-10-11T04:09:00.234988+00:00",
+      "fetched_at": "2026-10-11T14:39:53.810177+00:00",
       "relevance_score": 31,
       "deal_types": [
         "降价/折扣"
@@ -10249,16 +10280,16 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
-        "ChatGPT"
+        "ChatGPT",
+        "Claude"
       ],
       "companies": [
         "Anthropic",
         "OpenAI"
       ],
       "tags": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "降价/折扣"
       ],
       "is_deal": true
@@ -11465,43 +11496,6 @@
         "Anthropic"
       ],
       "tags": [
-        "Claude",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1213511",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[限时福利] 600 刀 codex pro 额度进群领，每日真实福利（已累计赠送 6200 刀，群中均有记录）",
-      "body": "我们有什么：\r\n稳定性\r\n已连续稳定提供服务 5 个月，每日用量均在百亿 token 以上\r\n\r\n模型保真\r\n均是自己号池，支持验证真假，掺水支持全额退款\r\n\r\n各种渠道，特殊需求均能满足\r\nclaude\r\nclaude_aws\t\t\t0.8 (亚马逊官方 api 会员限时专享,质量比 max 还高)\r\nclaude-kiro \t\t0.25\r\nclaude-windsurf\t\t0.35\r\nclaude_max\t\t\t1.8 （包纯）\r\n\r\ncodex\r\ncx\t\t\t\t\t0.4(会员低至 0.2)\r\nimage-2\t\t\t\t0.1/张（ 1k/2k ） 0.2/张（ 4k ）\r\n\r\ngemini\t\t\t\t0.6\r\n\r\ngrok     \t\t\t0.7\r\n\r\n每日定时发放福利，快进来薅，不定时开启抽奖\r\n\r\nq 群： https://qm.qq.com/q/bfZs3czPs4 \r\n\r\n官网链接： https://next.zhima.world",
-      "url": "https://www.v2ex.com/t/1213511",
-      "author": "kk2685803719",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-18T06:53:42",
-      "fetched_at": "2026-05-18T21:13:12.811173+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini",
-        "Claude"
-      ],
-      "companies": [
-        "Google",
-        "Anthropic"
-      ],
-      "tags": [
-        "Gemini",
         "Claude",
         "免费/试用",
         "API优惠"

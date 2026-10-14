@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-14T03:41:00.078639+00:00",
+  "last_updated": "2026-10-14T09:20:45.424388+00:00",
   "total_deals": 300,
   "sources": {
-    "v2ex": 278,
+    "v2ex": 279,
     "reddit": 5,
     "smzdm": 2,
-    "hackernews": 15
+    "hackernews": 14
   },
   "llm_filtered": false,
   "deals": [
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-10-14T03:38:39.892231+00:00",
+      "fetched_at": "2026-10-14T09:18:26.647816+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -2042,7 +2042,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-07T18:37:20",
-      "fetched_at": "2026-10-14T03:39:08.427850+00:00",
+      "fetched_at": "2026-10-14T09:18:53.323244+00:00",
       "relevance_score": 44,
       "deal_types": [
         "免费/试用",
@@ -2488,7 +2488,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-12T11:02:21",
-      "fetched_at": "2026-10-14T03:38:30.376515+00:00",
+      "fetched_at": "2026-10-14T09:18:16.030703+00:00",
       "relevance_score": 43,
       "deal_types": [
         "优惠码",
@@ -2499,18 +2499,18 @@
         "Price Drop"
       ],
       "products": [
-        "ChatGPT",
         "Claude",
+        "ChatGPT",
         "Gemini"
       ],
       "companies": [
+        "OpenAI",
         "Google",
-        "Anthropic",
-        "OpenAI"
+        "Anthropic"
       ],
       "tags": [
-        "ChatGPT",
         "Claude",
+        "ChatGPT",
         "Gemini",
         "优惠码",
         "降价/折扣"
@@ -3603,6 +3603,43 @@
         "Claude",
         "免费/试用",
         "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1248726",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "跃点 API｜ Codex 0.2 倍率，主打稳定、高缓存、不降智，回帖送 3 刀体验额度",
+      "body": "我在维护跃点 API ，邀请 V 友体验 Codex / Claude Code 接入。\r\n\r\nCodex 主推 0.2 倍率稳定档，支持缓存计费。OpenAI 账号每 15 分钟质量抽检，按结果自动分组，检测失败暂停调度。\r\n\r\n官网首页公开鹈鹕测试记录，无需登录即可查看，欢迎直接看测试结果。\r\n\r\nClaude 提供 1 倍率老官号渠道，非 Kiro 等渠道，额度有限，先到先得。倍率均相对于本站模型基础价。\r\n\r\n官网 https://mxwq.net/\r\n\r\n注册后，在本帖回帖留下站内用户 ID ，送 3 站内余额（后台显示 $3 ）体验额度，无需先充值。请勿公开 API Key 。\r\n\r\nQQ 交流群 1109088245",
+      "url": "https://www.v2ex.com/t/1248726",
+      "author": "maybe0410",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-14T07:02:32",
+      "fetched_at": "2026-10-14T09:18:58.025938+00:00",
+      "relevance_score": 39,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "免费/试用",
         "API优惠"
       ],
       "is_deal": true
@@ -4823,7 +4860,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-14T02:08:24",
-      "fetched_at": "2026-10-14T03:38:46.686094+00:00",
+      "fetched_at": "2026-10-14T09:18:33.684677+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -6563,7 +6600,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-11T16:20:11",
-      "fetched_at": "2026-10-14T03:38:30.376518+00:00",
+      "fetched_at": "2026-10-14T09:18:16.030710+00:00",
       "relevance_score": 35,
       "deal_types": [
         "区域套利",
@@ -6586,40 +6623,6 @@
         "区域套利",
         "拼车/合租",
         "免费/试用"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1247814",
-      "source": "v2ex",
-      "subreddit": 1317,
-      "title": "Cursor pro 免费领取活动，有个羊毛",
-      "body": "https://x.com/zyon1527/status/2109163834287980673?s=46 cursor pro 免费领取活动，抓紧冲",
-      "url": "https://www.v2ex.com/t/1247814",
-      "author": "Black4dcp",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-11T06:45:00",
-      "fetched_at": "2026-10-14T03:38:49.005845+00:00",
-      "relevance_score": 35,
-      "deal_types": [
-        "免费/试用",
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Workaround"
-      ],
-      "products": [
-        "Cursor"
-      ],
-      "companies": [
-        "Cursor"
-      ],
-      "tags": [
-        "Cursor",
-        "免费/试用",
-        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -7710,7 +7713,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-14T03:38:58.212744+00:00",
+      "fetched_at": "2026-10-14T09:18:44.508038+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8328,6 +8331,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1247814",
+      "source": "v2ex",
+      "subreddit": 1317,
+      "title": "Cursor pro 免费领取活动，有个羊毛",
+      "body": "https://x.com/zyon1527/status/2109163834287980673?s=46 cursor pro 免费领取活动，抓紧冲",
+      "url": "https://www.v2ex.com/t/1247814",
+      "author": "Black4dcp",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-11T06:45:00",
+      "fetched_at": "2026-10-14T09:18:35.748290+00:00",
+      "relevance_score": 33,
+      "deal_types": [
+        "免费/试用",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Workaround"
+      ],
+      "products": [
+        "Cursor"
+      ],
+      "companies": [
+        "Cursor"
+      ],
+      "tags": [
+        "Cursor",
+        "免费/试用",
+        "薅羊毛/技巧"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "hn_49989006",
       "source": "hackernews",
       "subreddit": "",
@@ -8372,7 +8409,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-14T03:38:58.212598+00:00",
+      "fetched_at": "2026-10-14T09:18:44.507820+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -8964,7 +9001,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-14T03:38:42.273233+00:00",
+      "fetched_at": "2026-10-14T09:18:28.826325+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9297,7 +9334,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-14T03:38:55.810628+00:00",
+      "fetched_at": "2026-10-14T09:18:42.119740+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -10406,7 +10443,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-11T12:27:10",
-      "fetched_at": "2026-10-14T03:38:30.376526+00:00",
+      "fetched_at": "2026-10-14T09:18:16.030721+00:00",
       "relevance_score": 31,
       "deal_types": [
         "降价/折扣"
@@ -11479,43 +11516,6 @@
         "Claude",
         "ChatGPT",
         "Gemini",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "hn_48285753",
-      "source": "hackernews",
-      "subreddit": "",
-      "title": "Bedrock and a hard place: Claude adventure leaves AWS user with $30K invoice",
-      "body": "This user had <i>wwwaaayyy</i> too much fun vibe coding at the Anthropic casino.<p>Now you are in debt to the casino after too many roulette spins, slot machine  pulls and gambling on free trial poker bets on <i>expensive</i> tokens that the AWS and Anthropic dealers were selling to you.<p>Never touch the Claude machine at peak hours. The poker chips get too expensive.",
-      "url": "https://news.ycombinator.com/item?id=48285618",
-      "author": "rvz",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-26T20:48:06Z",
-      "fetched_at": "2026-05-27T08:05:08.062431+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T23:39:11.876888+00:00",
+  "last_updated": "2026-10-14T03:41:00.078639+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 278,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-10-13T23:36:45.347648+00:00",
+      "fetched_at": "2026-10-14T03:38:39.892231+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -2042,7 +2042,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-07T18:37:20",
-      "fetched_at": "2026-10-13T23:37:15.653367+00:00",
+      "fetched_at": "2026-10-14T03:39:08.427850+00:00",
       "relevance_score": 44,
       "deal_types": [
         "免费/试用",
@@ -2488,7 +2488,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-12T11:02:21",
-      "fetched_at": "2026-10-13T23:36:34.310610+00:00",
+      "fetched_at": "2026-10-14T03:38:30.376515+00:00",
       "relevance_score": 43,
       "deal_types": [
         "优惠码",
@@ -2499,19 +2499,19 @@
         "Price Drop"
       ],
       "products": [
+        "ChatGPT",
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "Gemini"
       ],
       "companies": [
-        "Anthropic",
         "Google",
+        "Anthropic",
         "OpenAI"
       ],
       "tags": [
+        "ChatGPT",
         "Claude",
         "Gemini",
-        "ChatGPT",
         "优惠码",
         "降价/折扣"
       ],
@@ -3141,7 +3141,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-12T10:33:16",
-      "fetched_at": "2026-10-13T23:36:52.965135+00:00",
+      "fetched_at": "2026-10-14T03:38:46.686128+00:00",
       "relevance_score": 40,
       "deal_types": [
         "免费/试用",
@@ -4809,6 +4809,46 @@
         "区域套利",
         "礼品卡",
         "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1248605",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "芒果 AI｜ DeepSeek 4.1、Kimi、GLM 全线 0.05 折！注册即送体验金，百亿 Token 自由不是梦",
+      "body": "愿天下开发者都有便宜好用的 AI 聚合中转。\r\n\r\n1. 国模击穿底价，全线 0.05 折起\r\n\r\nDeepSeek-4.1 / Kimi / GLM 全面接入，注册就送 2 元体验额度直接跑跑看。\r\n\r\nDeepSeek-4.1-Flash 约等于不要钱：60 亿 Token 仅需二十来块，高并发、长上下文随便造。\r\n\r\n2. 多模态与生图能力全面拉满\r\n\r\nGrok：支持完整视频与图片生成工作流。\r\n\r\nGPT 生图：提供 0.015 元（一厘五）经济档与 0.15 元（一毛五）高质量档，要走量还是要画质随心选。\r\n\r\n3. 高性能旗舰模型常驻稳定\r\n\r\n想体验 Claude 3.5 / 新版模型？没问题！\r\n\r\n芒果稳定通道已上线，低延迟、不卡流，猛猛刷代码不掉线。\r\n\r\n4. 芒果不仅是 API 站，还是好玩的技术社区\r\n\r\n专属编码工具：基于轻量编辑器深度定制，内嵌专属“芒果娘”陪伴写代码。\r\n\r\n活跃交流群：日常探讨 Prompt 技巧、API 落地、工作流搭建，技术氛围拉满。\r\n\r\n站长响应快：任何模型诉求或部署疑问直接群内反馈，光速跟进。\r\n\r\n“烂不烂问厨房，芒果好不",
+      "url": "https://www.v2ex.com/t/1248605",
+      "author": "superhreo123",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-14T02:08:24",
+      "fetched_at": "2026-10-14T03:38:46.686094+00:00",
+      "relevance_score": 37,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -6523,7 +6563,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-11T16:20:11",
-      "fetched_at": "2026-10-13T23:36:34.310617+00:00",
+      "fetched_at": "2026-10-14T03:38:30.376518+00:00",
       "relevance_score": 35,
       "deal_types": [
         "区域套利",
@@ -6560,7 +6600,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-11T06:45:00",
-      "fetched_at": "2026-10-13T23:36:55.482200+00:00",
+      "fetched_at": "2026-10-14T03:38:49.005845+00:00",
       "relevance_score": 35,
       "deal_types": [
         "免费/试用",
@@ -7670,7 +7710,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-13T23:37:05.806688+00:00",
+      "fetched_at": "2026-10-14T03:38:58.212744+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8332,7 +8372,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-13T23:37:05.806483+00:00",
+      "fetched_at": "2026-10-14T03:38:58.212598+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -8924,7 +8964,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-13T23:36:47.937673+00:00",
+      "fetched_at": "2026-10-14T03:38:42.273233+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9257,7 +9297,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-13T23:37:03.018019+00:00",
+      "fetched_at": "2026-10-14T03:38:55.810628+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -10366,7 +10406,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-11T12:27:10",
-      "fetched_at": "2026-10-13T23:36:34.310624+00:00",
+      "fetched_at": "2026-10-14T03:38:30.376526+00:00",
       "relevance_score": 31,
       "deal_types": [
         "降价/折扣"
@@ -11476,40 +11516,6 @@
         "Claude",
         "免费/试用",
         "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1247761",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "Google Play 开通 Claude Pro，搭配大陆护照 KYC，安全上车中...",
-      "body": "昨天使用 google play 开了一个 claude pro 的新号（原动态： https://x.com/licoycn/status/2108784475241062521 ），然后一订阅就让我要验证身份，当时就想放弃了，但是转头一想要不试试，反正一百多，然后使用大陆护照进行了身份验证，秒通过。\r\n\r\n然后再去 claude 中点击订阅，这个时候已经订阅过了，就会直接成功，然后身份验证也过了，就可以直接用了，然后挂上了 CPA ，一直到今天都是稳稳的，目前已经用了周额度 26%了\r\n\r\n现在是 2 个 claude pro 在 cpa 上轮询，反正没啥问题，看看后续吧，存活记录也会一直更新到 X 。",
-      "url": "https://www.v2ex.com/t/1247761",
-      "author": "licoycn",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-11T01:06:47",
-      "fetched_at": "2026-10-13T23:36:37.091358+00:00",
-      "relevance_score": 30,
-      "deal_types": [
-        "区域套利",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "区域套利",
         "API优惠"
       ],
       "is_deal": true

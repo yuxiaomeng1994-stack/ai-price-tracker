@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T16:38:04.180720+00:00",
+  "last_updated": "2026-10-14T23:02:30.333459+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 279,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-10-14T16:35:43.402735+00:00",
+      "fetched_at": "2026-10-14T22:59:36.857435+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -2032,43 +2032,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1246870",
-      "source": "v2ex",
-      "subreddit": 17,
-      "title": "Mistral Large 4：免费多模态 AI Playground 与 OpenAI 兼容 API",
-      "body": "最近在整理多模态 AI 工具时，发现了 Mistral Large 4 。它面向文本和图像任务，适合用来做编码、文档问答、写作、工具调用和结构化 JSON 输出。\r\n\r\n官网提供免费的登录后 Playground ，可以先直接试用；同时有产品文档和 OpenAI 兼容 API ，模型 ID 是 mistral-large-4-0 。公开规格列出的上下文窗口是 1M tokens ，官网集成文档说明支持 524,288 tokens 和公开图片 URL 。\r\n\r\n如果想体验一下，可以从这里开始：\r\nhttps://mistrallarge4.com/\r\n\r\n产品是 freemium 模式，付费访问通过一次性 credit packs 和月度订阅提供，最低价格为 $10 。对我来说，它比较适合先拿一个真实任务验证，再决定是否通过 API 接入自己的工作流。",
-      "url": "https://www.v2ex.com/t/1246870",
-      "author": "jiames1969",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-07T18:37:20",
-      "fetched_at": "2026-10-14T16:36:10.987819+00:00",
-      "relevance_score": 44,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1244679",
       "source": "v2ex",
       "subreddit": 1241,
@@ -2488,7 +2451,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-12T11:02:21",
-      "fetched_at": "2026-10-14T16:35:32.396176+00:00",
+      "fetched_at": "2026-10-14T22:59:26.988519+00:00",
       "relevance_score": 43,
       "deal_types": [
         "优惠码",
@@ -2499,21 +2462,58 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
+        "Gemini",
         "ChatGPT",
-        "Gemini"
+        "Claude"
       ],
       "companies": [
         "Google",
-        "Anthropic",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "Gemini",
+        "ChatGPT",
+        "Claude",
+        "优惠码",
+        "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1246870",
+      "source": "v2ex",
+      "subreddit": 17,
+      "title": "Mistral Large 4：免费多模态 AI Playground 与 OpenAI 兼容 API",
+      "body": "最近在整理多模态 AI 工具时，发现了 Mistral Large 4 。它面向文本和图像任务，适合用来做编码、文档问答、写作、工具调用和结构化 JSON 输出。\r\n\r\n官网提供免费的登录后 Playground ，可以先直接试用；同时有产品文档和 OpenAI 兼容 API ，模型 ID 是 mistral-large-4-0 。公开规格列出的上下文窗口是 1M tokens ，官网集成文档说明支持 524,288 tokens 和公开图片 URL 。\r\n\r\n如果想体验一下，可以从这里开始：\r\nhttps://mistrallarge4.com/\r\n\r\n产品是 freemium 模式，付费访问通过一次性 credit packs 和月度订阅提供，最低价格为 $10 。对我来说，它比较适合先拿一个真实任务验证，再决定是否通过 API 接入自己的工作流。",
+      "url": "https://www.v2ex.com/t/1246870",
+      "author": "jiames1969",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-07T18:37:20",
+      "fetched_at": "2026-10-14T23:00:02.991219+00:00",
+      "relevance_score": 43,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
         "OpenAI"
       ],
       "tags": [
-        "Claude",
         "ChatGPT",
-        "Gemini",
-        "优惠码",
-        "降价/折扣"
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -3618,7 +3618,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-14T07:02:32",
-      "fetched_at": "2026-10-14T16:36:15.812467+00:00",
+      "fetched_at": "2026-10-14T23:00:07.277176+00:00",
       "relevance_score": 39,
       "deal_types": [
         "免费/试用",
@@ -3629,16 +3629,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "ChatGPT"
+        "ChatGPT",
+        "Claude"
       ],
       "companies": [
-        "Anthropic",
-        "OpenAI"
+        "OpenAI",
+        "Anthropic"
       ],
       "tags": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "免费/试用",
         "API优惠"
       ],
@@ -4860,7 +4860,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-14T02:08:24",
-      "fetched_at": "2026-10-14T16:35:50.684722+00:00",
+      "fetched_at": "2026-10-14T22:59:43.639176+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -5590,7 +5590,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-14T09:14:38",
-      "fetched_at": "2026-10-14T16:35:57.678020+00:00",
+      "fetched_at": "2026-10-14T22:59:50.016149+00:00",
       "relevance_score": 36,
       "deal_types": [
         "拼车/合租",
@@ -7710,7 +7710,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-14T16:36:02.301964+00:00",
+      "fetched_at": "2026-10-14T22:59:54.543604+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8338,7 +8338,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-11T16:20:11",
-      "fetched_at": "2026-10-14T16:35:32.396181+00:00",
+      "fetched_at": "2026-10-14T22:59:26.988526+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -8375,7 +8375,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-11T06:45:00",
-      "fetched_at": "2026-10-14T16:35:53.115826+00:00",
+      "fetched_at": "2026-10-14T22:59:45.669160+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -8443,7 +8443,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-14T16:36:02.301737+00:00",
+      "fetched_at": "2026-10-14T22:59:54.543445+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -9035,7 +9035,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-14T16:35:45.905704+00:00",
+      "fetched_at": "2026-10-14T22:59:39.147631+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9368,7 +9368,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-14T16:35:59.708533+00:00",
+      "fetched_at": "2026-10-14T22:59:52.026800+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",

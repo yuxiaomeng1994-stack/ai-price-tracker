@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T09:20:45.424388+00:00",
+  "last_updated": "2026-10-14T16:38:04.180720+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 279,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-10-14T09:18:26.647816+00:00",
+      "fetched_at": "2026-10-14T16:35:43.402735+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -2042,7 +2042,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-07T18:37:20",
-      "fetched_at": "2026-10-14T09:18:53.323244+00:00",
+      "fetched_at": "2026-10-14T16:36:10.987819+00:00",
       "relevance_score": 44,
       "deal_types": [
         "免费/试用",
@@ -2488,7 +2488,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-12T11:02:21",
-      "fetched_at": "2026-10-14T09:18:16.030703+00:00",
+      "fetched_at": "2026-10-14T16:35:32.396176+00:00",
       "relevance_score": 43,
       "deal_types": [
         "优惠码",
@@ -2504,9 +2504,9 @@
         "Gemini"
       ],
       "companies": [
-        "OpenAI",
         "Google",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "Claude",
@@ -3618,7 +3618,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-14T07:02:32",
-      "fetched_at": "2026-10-14T09:18:58.025938+00:00",
+      "fetched_at": "2026-10-14T16:36:15.812467+00:00",
       "relevance_score": 39,
       "deal_types": [
         "免费/试用",
@@ -3633,8 +3633,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "Claude",
@@ -4860,7 +4860,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-14T02:08:24",
-      "fetched_at": "2026-10-14T09:18:33.684677+00:00",
+      "fetched_at": "2026-10-14T16:35:50.684722+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -5576,6 +5576,40 @@
         "拼车/合租",
         "降价/折扣",
         "薅羊毛/技巧"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1248782",
+      "source": "v2ex",
+      "subreddit": 1140,
+      "title": "ChatGPT Pro 100x 拼车一名长期车友 仅 Codex",
+      "body": "**现在招募一名车友 350 R/月，获得 Pro 100x 账户的 1/2 额度**\r\n\r\n为了防止降智，统一访问的 IP 地址，我搭了一个 sub2api ，Los Angeles, California  DC2 线路。 用于用量统计和审计，车友可以通过账号查看 key 和用量。\r\n\r\n因为本人自用长期使用，所以不存在账单日，上车车友顺延 31 天，跟随 OpenAI 官方重置重置额度。上车期间有发放重置卡的，约定一个时间使用（我们都把额度先刷完）。\r\n\r\n## 额度\r\n\r\n根据 https://modeldial.com/subscriptions?period=week ，100x 跑 GPT-6.1 Sol 每周约为 17.51 亿 Token ，每周 API 等值 USD ≈ $345 ，这个月重置多，先按每人 $250 上限计算，用完了再商量。\r\n\r\n\r\n## 严禁 Cyber 和其他违规行为\r\n\r\n严谨违规行为，本人长期稳定编码使用，车友原因触发任何官方封禁的，退款与否取决于我去 OpenAI 申诉成功与否。\r\n\r\n翻车按剩余时间退款。\r\n\r\n联系：cXE6MjQ0N",
+      "url": "https://www.v2ex.com/t/1248782",
+      "author": "lzhenyu0",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-14T09:14:38",
+      "fetched_at": "2026-10-14T16:35:57.678020+00:00",
+      "relevance_score": 36,
+      "deal_types": [
+        "拼车/合租",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "拼车/合租",
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -6586,43 +6620,6 @@
         "拼车/合租",
         "降价/折扣",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1247912",
-      "source": "v2ex",
-      "subreddit": 12,
-      "title": "ChatGPT 免费送一个月 Plus，在安卓 Google Play 端有活动吗",
-      "body": "目前了解的情况是：\r\n\r\nWeb 端：有活动，但是中卡和港卡都付不了，Google Pay 和 Apple Pay 也不行，信息都是直通的\r\n\r\niPhone 端：美区 id 可以绑美区 PayPal 付款（套壳），但是鸡贼奥特曼没给活动，嫖不了\r\n\r\nAndroid Google Play 端:已知可以绑定任意地区的卡进行支付（套壳），但是有没有活动不知道，身边没安卓设备，因此咨询 v 友\r\n\r\n如果有活动的话，我明天就去小米之家白嫖样机弄了\r\n\r\n自己手机开个热点，开 http 代理共享，给门店样机 fq ，直接一条龙干进去，理论上应该可行",
-      "url": "https://www.v2ex.com/t/1247912",
-      "author": "haoyh1",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-11T16:20:11",
-      "fetched_at": "2026-10-14T09:18:16.030710+00:00",
-      "relevance_score": 35,
-      "deal_types": [
-        "区域套利",
-        "拼车/合租",
-        "免费/试用"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Group Buy",
-        "Free/Trial"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "区域套利",
-        "拼车/合租",
-        "免费/试用"
       ],
       "is_deal": true
     },
@@ -7713,7 +7710,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-14T09:18:44.508038+00:00",
+      "fetched_at": "2026-10-14T16:36:02.301964+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8331,6 +8328,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1247912",
+      "source": "v2ex",
+      "subreddit": 12,
+      "title": "ChatGPT 免费送一个月 Plus，在安卓 Google Play 端有活动吗",
+      "body": "目前了解的情况是：\r\n\r\nWeb 端：有活动，但是中卡和港卡都付不了，Google Pay 和 Apple Pay 也不行，信息都是直通的\r\n\r\niPhone 端：美区 id 可以绑美区 PayPal 付款（套壳），但是鸡贼奥特曼没给活动，嫖不了\r\n\r\nAndroid Google Play 端:已知可以绑定任意地区的卡进行支付（套壳），但是有没有活动不知道，身边没安卓设备，因此咨询 v 友\r\n\r\n如果有活动的话，我明天就去小米之家白嫖样机弄了\r\n\r\n自己手机开个热点，开 http 代理共享，给门店样机 fq ，直接一条龙干进去，理论上应该可行",
+      "url": "https://www.v2ex.com/t/1247912",
+      "author": "haoyh1",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-11T16:20:11",
+      "fetched_at": "2026-10-14T16:35:32.396181+00:00",
+      "relevance_score": 33,
+      "deal_types": [
+        "区域套利",
+        "拼车/合租",
+        "免费/试用"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Group Buy",
+        "Free/Trial"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "区域套利",
+        "拼车/合租",
+        "免费/试用"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1247814",
       "source": "v2ex",
       "subreddit": 1317,
@@ -8341,7 +8375,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-11T06:45:00",
-      "fetched_at": "2026-10-14T09:18:35.748290+00:00",
+      "fetched_at": "2026-10-14T16:35:53.115826+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -8409,7 +8443,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-14T09:18:44.507820+00:00",
+      "fetched_at": "2026-10-14T16:36:02.301737+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -9001,7 +9035,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-14T09:18:28.826325+00:00",
+      "fetched_at": "2026-10-14T16:35:45.905704+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9334,7 +9368,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-14T09:18:42.119740+00:00",
+      "fetched_at": "2026-10-14T16:35:59.708533+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -10429,37 +10463,6 @@
         "ChatGPT",
         "区域套利",
         "礼品卡"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1247865",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "ChatGPT Plus 半价成品号｜ 79 元",
-      "body": "# **ChatGPT Plus 半价成品号 | 79 元**\r\n\r\n> ⚠️ 声明：这是第三方渠道，和 OpenAI 官方没有关系。\r\n\r\n手上有 ChatGPT Plus 成品号在出，简单说下情况：\r\n\r\n---\r\n\r\n**🎯 你买到的是什么？**\r\n\r\n- 一个**已经开好 Plus** 的 ChatGPT 账号，到手就能用，不用再折腾充值\r\n- 当前这个月的 Plus 已经激活了，登录就是满血状态\r\n- 用完这个月之后，还能找我**半价续费 2 个月**，每月只要 **75 元**，比自己开划算不少\r\n\r\n**💰 价格：79 元**\r\n\r\n目前有多个库存，需要的话可以直接下单。\r\n\r\n---\r\n\r\n**🛒 怎么买？**\r\n\r\n👉 [点这里下单]( https://wzyp.cn/shop/5ZNZ8CWU)\r\n\r\n下单后按商品页的流程发货。拿到账号后，**第一件事先试登录**，确认没问题。\r\n\r\n登录的时候会有个 **2FA 验证**，别慌，购买页面里有详细步骤，照着走就行。\r\n\r\n> 🔒 **重要提醒**：密码、2FA 密钥、验证码这些东西，**千万别在帖子、评论或群聊里发出",
-      "url": "https://www.v2ex.com/t/1247865",
-      "author": "Misaka9903",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-11T12:27:10",
-      "fetched_at": "2026-10-14T09:18:16.030721+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Price Drop"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "降价/折扣"
       ],
       "is_deal": true
     },

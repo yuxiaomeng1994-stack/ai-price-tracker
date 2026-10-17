@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T03:08:23.467437+00:00",
+  "last_updated": "2026-10-17T08:19:14.566448+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 279,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-10-17T03:06:03.902241+00:00",
+      "fetched_at": "2026-10-17T08:16:52.418536+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -836,7 +836,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-16T01:06:33",
-      "fetched_at": "2026-10-17T03:06:31.866038+00:00",
+      "fetched_at": "2026-10-17T08:17:20.785895+00:00",
       "relevance_score": 54,
       "deal_types": [
         "免费/试用",
@@ -1841,43 +1841,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1249340",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "LinkAGI 中转站降价： GPT Plus 0.18 倍率、Pro 0.25，欢迎试用",
-      "body": "大家好，我是 LinkAGI 的站长。最近把 GPT 两条渠道的倍率往下调了：\r\n\r\n- **GPT Plus：0.18 倍率**\r\n- **GPT Pro：0.25 倍率**\r\n\r\n这两档都支持外接客户端，平时用 Codex 写代码，或者给自己的脚本接 GPT API ，可以来试试。\r\n\r\n举个例子，`gpt-6.1-sol` 在 Plus 的标准短上下文档（≤272k ），输入 **¥0.36 / 百万 Token**，输出 **¥1.80 / 百万 Token**。按人民币和实际用量计费，每次调用的 Token 、缓存和扣费都能在日志里看。\r\n\r\n**想先体验，注册后联系客服领取额度就行。QQ 交流群：342205412 。**\r\n\r\n[注册 LinkAGI]( https://api.linktoagi.com/sign-up?utm_source=v2ex&utm_medium=community&utm_campaign=codex_price_20261016&utm_content=signup) · [客服与群二维码]( https://16871233.github",
-      "url": "https://www.v2ex.com/t/1249340",
-      "author": "zykoo",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-16T05:37:43",
-      "fetched_at": "2026-10-17T03:05:56.162763+00:00",
-      "relevance_score": 45,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1240948",
       "source": "v2ex",
       "subreddit": 864,
@@ -2518,6 +2481,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1249340",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "LinkAGI 中转站降价： GPT Plus 0.18 倍率、Pro 0.25，欢迎试用",
+      "body": "大家好，我是 LinkAGI 的站长。最近把 GPT 两条渠道的倍率往下调了：\r\n\r\n- **GPT Plus：0.18 倍率**\r\n- **GPT Pro：0.25 倍率**\r\n\r\n这两档都支持外接客户端，平时用 Codex 写代码，或者给自己的脚本接 GPT API ，可以来试试。\r\n\r\n举个例子，`gpt-6.1-sol` 在 Plus 的标准短上下文档（≤272k ），输入 **¥0.36 / 百万 Token**，输出 **¥1.80 / 百万 Token**。按人民币和实际用量计费，每次调用的 Token 、缓存和扣费都能在日志里看。\r\n\r\n**想先体验，注册后联系客服领取额度就行。QQ 交流群：342205412 。**\r\n\r\n[注册 LinkAGI]( https://api.linktoagi.com/sign-up?utm_source=v2ex&utm_medium=community&utm_campaign=codex_price_20261016&utm_content=signup) · [客服与群二维码]( https://16871233.github",
+      "url": "https://www.v2ex.com/t/1249340",
+      "author": "zykoo",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-16T05:37:43",
+      "fetched_at": "2026-10-17T08:16:42.319407+00:00",
+      "relevance_score": 43,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1246870",
       "source": "v2ex",
       "subreddit": 17,
@@ -2528,7 +2528,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-07T18:37:20",
-      "fetched_at": "2026-10-17T03:06:31.866089+00:00",
+      "fetched_at": "2026-10-17T08:17:20.785945+00:00",
       "relevance_score": 43,
       "deal_types": [
         "免费/试用",
@@ -3175,7 +3175,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-12T11:02:21",
-      "fetched_at": "2026-10-17T03:05:53.682923+00:00",
+      "fetched_at": "2026-10-17T08:16:39.857951+00:00",
       "relevance_score": 41,
       "deal_types": [
         "优惠码",
@@ -3186,19 +3186,19 @@
         "Price Drop"
       ],
       "products": [
+        "ChatGPT",
         "Gemini",
-        "Claude",
-        "ChatGPT"
+        "Claude"
       ],
       "companies": [
-        "OpenAI",
         "Google",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
+        "ChatGPT",
         "Gemini",
         "Claude",
-        "ChatGPT",
         "优惠码",
         "降价/折扣"
       ],
@@ -4974,7 +4974,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-17T00:49:44",
-      "fetched_at": "2026-10-17T03:06:36.646816+00:00",
+      "fetched_at": "2026-10-17T08:17:25.436849+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -5687,43 +5687,6 @@
         "拼车/合租",
         "降价/折扣",
         "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1249319",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "送点免费的落地纯净 ip 流量， Muse/Claude/Codex 均可用",
-      "body": "🎁ZooProxy 免费送，1 亿 IP 池，新用户五折优惠+九折优惠码，$0.38/GB,$0.9/IP ！！\r\n\r\n注册，进入控制台找到 cdk 兑换即可\r\n\r\n邀请码：veexfwaif\r\n\r\n五折优惠+九折优惠码可叠加使用\r\n\r\n优惠码：IPFighter Exclusive\r\n\r\n注册即刻兑换：\r\n\r\nhttps://zooproxy.com/?kwd=LQ-v2ex\r\n\r\n9LZD-L2Q7-N56M\r\n\r\nA6UT-MCUG-C9JM\r\n\r\nUBEL-VCZ8-AVZA\r\n\r\nBGB3-5ZRH-KG72\r\n\r\nEP6T-2QA5-DSB7\r\n\r\nPEQD-ZJKV-8ZGC\r\n\r\nGTCZ-9JSS-WZZZ\r\n\r\n9X9Y-VLSW-7GNC\r\n\r\n没领取到的，注册直接问客服要！！！想要优惠也可以询问客服哦！！！\r\n\r\n也可以联系 https://t.me/Zooproxy7",
-      "url": "https://www.v2ex.com/t/1249319",
-      "author": "Mayday9421",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-16T04:18:27",
-      "fetched_at": "2026-10-17T03:06:13.544215+00:00",
-      "relevance_score": 36,
-      "deal_types": [
-        "优惠码",
-        "礼品卡",
-        "免费/试用"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Gift Card",
-        "Free/Trial"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "优惠码",
-        "礼品卡",
-        "免费/试用"
       ],
       "is_deal": true
     },
@@ -7623,6 +7586,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1249319",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "送点免费的落地纯净 ip 流量， Muse/Claude/Codex 均可用",
+      "body": "🎁ZooProxy 免费送，1 亿 IP 池，新用户五折优惠+九折优惠码，$0.38/GB,$0.9/IP ！！\r\n\r\n注册，进入控制台找到 cdk 兑换即可\r\n\r\n邀请码：veexfwaif\r\n\r\n五折优惠+九折优惠码可叠加使用\r\n\r\n优惠码：IPFighter Exclusive\r\n\r\n注册即刻兑换：\r\n\r\nhttps://zooproxy.com/?kwd=LQ-v2ex\r\n\r\n9LZD-L2Q7-N56M\r\n\r\nA6UT-MCUG-C9JM\r\n\r\nUBEL-VCZ8-AVZA\r\n\r\nBGB3-5ZRH-KG72\r\n\r\nEP6T-2QA5-DSB7\r\n\r\nPEQD-ZJKV-8ZGC\r\n\r\nGTCZ-9JSS-WZZZ\r\n\r\n9X9Y-VLSW-7GNC\r\n\r\n没领取到的，注册直接问客服要！！！想要优惠也可以询问客服哦！！！\r\n\r\n也可以联系 https://t.me/Zooproxy7",
+      "url": "https://www.v2ex.com/t/1249319",
+      "author": "Mayday9421",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-16T04:18:27",
+      "fetched_at": "2026-10-17T08:17:02.873006+00:00",
+      "relevance_score": 34,
+      "deal_types": [
+        "优惠码",
+        "礼品卡",
+        "免费/试用"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Gift Card",
+        "Free/Trial"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "优惠码",
+        "礼品卡",
+        "免费/试用"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1248886",
       "source": "v2ex",
       "subreddit": 864,
@@ -7633,7 +7633,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-15T00:52:51",
-      "fetched_at": "2026-10-17T03:06:31.866050+00:00",
+      "fetched_at": "2026-10-17T08:17:20.785901+00:00",
       "relevance_score": 34,
       "deal_types": [
         "免费/试用",
@@ -7670,7 +7670,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-14T09:14:38",
-      "fetched_at": "2026-10-17T03:06:18.220746+00:00",
+      "fetched_at": "2026-10-17T08:17:07.173134+00:00",
       "relevance_score": 34,
       "deal_types": [
         "拼车/合租",
@@ -7895,7 +7895,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-17T03:06:22.850896+00:00",
+      "fetched_at": "2026-10-17T08:17:11.699887+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8523,7 +8523,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-15T17:09:23",
-      "fetched_at": "2026-10-17T03:06:18.220734+00:00",
+      "fetched_at": "2026-10-17T08:17:07.173127+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -8560,7 +8560,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-15T03:28:50",
-      "fetched_at": "2026-10-17T03:05:53.682903+00:00",
+      "fetched_at": "2026-10-17T08:16:39.857918+00:00",
       "relevance_score": 33,
       "deal_types": [
         "优惠码",
@@ -8575,16 +8575,16 @@
         "API Deal"
       ],
       "products": [
-        "Gemini",
-        "ChatGPT"
+        "ChatGPT",
+        "Gemini"
       ],
       "companies": [
-        "OpenAI",
-        "Google"
+        "Google",
+        "OpenAI"
       ],
       "tags": [
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "优惠码",
         "学生/教育",
         "免费/试用",
@@ -8603,7 +8603,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-14T02:08:24",
-      "fetched_at": "2026-10-17T03:06:11.079346+00:00",
+      "fetched_at": "2026-10-17T08:17:00.314998+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -8643,7 +8643,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-11T16:20:11",
-      "fetched_at": "2026-10-17T03:05:53.682930+00:00",
+      "fetched_at": "2026-10-17T08:16:39.857962+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -8748,7 +8748,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-17T03:06:22.850688+00:00",
+      "fetched_at": "2026-10-17T08:17:11.699716+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -9340,7 +9340,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-17T03:06:06.243239+00:00",
+      "fetched_at": "2026-10-17T08:16:54.846102+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9598,6 +9598,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1249558",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "🥭 芒果 AI：国产模型 0.05 折起， AI 生图 0.015 元起，送 1 元体验额度",
+      "body": "# 🥭 芒果 AI：国产模型 0.05 折起，AI 生图 0.015 元起，送 1 元体验额度\r\n\r\n# 让 API 更便宜，让开发少点成本。\r\n\r\n做 AI 开发，模型效果重要，调用成本也很重要。\r\n\r\nDeepSeek 、Kimi 、GLM 、Claude 等模型，一个平台接入；日常开发、AI 编程、批量调用、AI 生图，按需选择，不必为每种需求折腾不同的接口。\r\n\r\n🥭 芒果 AI ，想让开发者用更低的成本，把 AI 真正用起来。\r\n\r\n## 01 ｜国产模型，价格直接打下来\r\n\r\n# 0.05 折起\r\n\r\nDeepSeek · Kimi · GLM\r\n\r\n覆盖日常问答、代码生成、逻辑分析、批量任务等常见场景。\r\n\r\n不管是自己写项目、搭建 AI Agent ，还是开发应用调用 API ，都能按需求选择合适的模型，减少不必要的调用开销。\r\n\r\n新用户注册即送 1 元体验额度，先跑通接口、测试模型，再决定是否长期使用。\r\n\r\n## 02 ｜ AI 生图，低成本也能玩\r\n\r\n\r\n## 经济档\r\n\r\n# ¥0.015 起\r\n\r\n适合快速出图、批量生成与创意验证\r\n\r\n\r\n## 高质量档",
+      "url": "https://www.v2ex.com/t/1249558",
+      "author": "superhreo123",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-17T04:53:35",
+      "fetched_at": "2026-10-17T08:17:00.314928+00:00",
+      "relevance_score": 32,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1249493",
       "source": "v2ex",
       "subreddit": 1162,
@@ -9608,7 +9645,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-10-16T15:31:22",
-      "fetched_at": "2026-10-17T03:05:58.638186+00:00",
+      "fetched_at": "2026-10-17T08:16:45.063298+00:00",
       "relevance_score": 32,
       "deal_types": [
         "学生/教育",
@@ -9707,7 +9744,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-17T03:06:20.457420+00:00",
+      "fetched_at": "2026-10-17T08:17:09.177782+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -11470,46 +11507,6 @@
         "ChatGPT",
         "区域套利",
         "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1224288",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "主 Claude/gpt 满血纯正注册回帖进群留 ID 领 10 刀体验",
-      "body": "ei-token 站主打 claude/gpt 纯净满血稳定 各位博友； 大家使用中转站的过程当中常见的痛点 1 不稳定；野鸡中转站用共享号池，动不动就限流 2 掺假混号严重：模型能力阉割、上下文乱窜、输出质量下降 3 逆向工程风险高：用非官方手段，随时可能遭受打击，服务突然挂掉 4 数据安全隐患：请求经过不可信第三方，隐私和敏感数据随时可能泄露 5 延迟高、成功率低：多层转发导致响应慢，生产环境根本不敢用 6 价格不透明：表面便宜，实际缓存少、溢价高，跑一个月发现比官方还贵 7 跑路风险：干一段时间卷钱跑路，充值余额直接打水漂 8 兼容性差：SDK 对不上，各种奇奇怪怪的报错  中转站在这郑重承诺 1 本站不掺水，无逆向，不混号，政务级数据安全保障 2 无逆向工程：绝不采用任何非官方或逆向手段，保障 API 调用的合法性和稳定性。3 不混用号池：每一次请求都走纯净的官方通道和自建 claude 号池，杜绝第三方号池带来的不确定性和风险。4 绝不跑路，绝不跑路！（扣扣群：537777741 ）地址 https://www.eirouter.com",
-      "url": "https://www.v2ex.com/t/1224288",
-      "author": "eizzz",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-01T10:05:42",
-      "fetched_at": "2026-07-04T06:47:24.382114+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "拼车/合租",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "拼车/合租",
-        "免费/试用",
-        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true

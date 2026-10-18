@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T22:01:14.878731+00:00",
+  "last_updated": "2026-10-18T03:11:04.419102+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 279,
@@ -239,7 +239,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-15T08:36:35",
-      "fetched_at": "2026-10-17T21:58:51.605446+00:00",
+      "fetched_at": "2026-10-18T03:08:43.821389+00:00",
       "relevance_score": 68,
       "deal_types": [
         "区域套利",
@@ -836,7 +836,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-16T01:06:33",
-      "fetched_at": "2026-10-17T21:59:20.085433+00:00",
+      "fetched_at": "2026-10-18T03:09:12.832895+00:00",
       "relevance_score": 54,
       "deal_types": [
         "免费/试用",
@@ -2491,7 +2491,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-16T05:37:43",
-      "fetched_at": "2026-10-17T21:58:43.242745+00:00",
+      "fetched_at": "2026-10-18T03:08:35.719434+00:00",
       "relevance_score": 43,
       "deal_types": [
         "免费/试用",
@@ -2528,7 +2528,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-07T18:37:20",
-      "fetched_at": "2026-10-17T21:59:20.085458+00:00",
+      "fetched_at": "2026-10-18T03:09:12.832926+00:00",
       "relevance_score": 43,
       "deal_types": [
         "免费/试用",
@@ -3175,7 +3175,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-12T11:02:21",
-      "fetched_at": "2026-10-17T21:58:40.681494+00:00",
+      "fetched_at": "2026-10-18T03:08:33.225124+00:00",
       "relevance_score": 41,
       "deal_types": [
         "优惠码",
@@ -3186,19 +3186,19 @@
         "Price Drop"
       ],
       "products": [
+        "Gemini",
         "Claude",
-        "ChatGPT",
-        "Gemini"
+        "ChatGPT"
       ],
       "companies": [
-        "Anthropic",
+        "Google",
         "OpenAI",
-        "Google"
+        "Anthropic"
       ],
       "tags": [
+        "Gemini",
         "Claude",
         "ChatGPT",
-        "Gemini",
         "优惠码",
         "降价/折扣"
       ],
@@ -4964,43 +4964,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1249515",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "自建反代和用中转差在哪？新人领 10 美元免费额度",
-      "body": "自己买台海外 VPS 搭反代，和直接用中转，到底差在哪？这个问题常被问到。\r\n\r\n省钱吗？ VPS 本身要花钱，API 还是按官方原价走。aicoding.inc 按 1.9 折、2.9 折、4.9 折三档消耗，差距一算就出来了。\r\n\r\n稳定吗？自建线路全看那一台机器，晚高峰网络抖了只能自己扛。我们这边是数万用户、200 多家企业共用的线路，出了问题有人盯着处理。\r\n\r\n麻烦吗？反代要续证书、盯 IP 有没有被封，还得有张海外卡付官方账单。这边国内支付就能充值，在 Claude Code 里改一下 ANTHROPIC_BASE_URL 就能用。\r\n\r\n喜欢自己掌控整条链路的，自建也没问题。想对比一下的，加群领 10 美元额度，两边跑同一个任务看看。\r\n\r\nhttps://aicoding.inc\r\n  ",
-      "url": "https://www.v2ex.com/t/1249515",
-      "author": "aicodinginc",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-17T00:49:44",
-      "fetched_at": "2026-10-17T21:59:24.875511+00:00",
-      "relevance_score": 37,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1241957",
       "source": "v2ex",
       "subreddit": 864,
@@ -6701,6 +6664,80 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1249695",
+      "source": "v2ex",
+      "subreddit": 1135,
+      "title": "[出] ChatGPT Team 订阅 长期车位 80/月",
+      "body": "10 月份，OpenAI 开启了为期 30 天的升级计划（每日若无重大升级或投票不满意即重置额度）\r\n🔥今天是第十天，今天又重置额度了。目前前八天重置 5 次。（配合仅周限号，额度很充足了）\r\n💡活动剩 20 天。要么吃到重置额度，要么享受到最新的升级服务，横竖不亏！！！\r\n\r\n[核心权益]\r\n--codex 额度等同于 GPT Plus ，网页端比 plus 多两个高阶模型（ GPT-6 Pro / xhigh ）。\r\n\r\n[车费与规则]\r\n-- 价格：80/月（长期车，支持按月续费，最长可 80 元月费续费 48 个月）\r\n--仅周限 90/月 [稀有号，没有 5h 限制]\r\n\r\n上车：发送你的 GPT 注册邮箱，我直接邀请加入。\r\n保障：母号质保，翻车换新车或按剩余天数折算退款；\r\n-----支持先上车体验 1 小时，满意再付款。\r\n注意：请使用干净稳定 IP ；个人违规封号或中途跳车不退。\r\n\r\n绿泡泡(Base64):eHVmYWNlMTk4OA==（备注：V 友）",
+      "url": "https://www.v2ex.com/t/1249695",
+      "author": "yinjun622",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-18T00:41:29",
+      "fetched_at": "2026-10-18T03:08:41.309084+00:00",
+      "relevance_score": 35,
+      "deal_types": [
+        "拼车/合租",
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "拼车/合租",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1249515",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "自建反代和用中转差在哪？新人领 10 美元免费额度",
+      "body": "自己买台海外 VPS 搭反代，和直接用中转，到底差在哪？这个问题常被问到。\r\n\r\n省钱吗？ VPS 本身要花钱，API 还是按官方原价走。aicoding.inc 按 1.9 折、2.9 折、4.9 折三档消耗，差距一算就出来了。\r\n\r\n稳定吗？自建线路全看那一台机器，晚高峰网络抖了只能自己扛。我们这边是数万用户、200 多家企业共用的线路，出了问题有人盯着处理。\r\n\r\n麻烦吗？反代要续证书、盯 IP 有没有被封，还得有张海外卡付官方账单。这边国内支付就能充值，在 Claude Code 里改一下 ANTHROPIC_BASE_URL 就能用。\r\n\r\n喜欢自己掌控整条链路的，自建也没问题。想对比一下的，加群领 10 美元额度，两边跑同一个任务看看。\r\n\r\nhttps://aicoding.inc\r\n  ",
+      "url": "https://www.v2ex.com/t/1249515",
+      "author": "aicodinginc",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-17T00:49:44",
+      "fetched_at": "2026-10-18T03:09:17.629728+00:00",
+      "relevance_score": 35,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1245566",
       "source": "v2ex",
       "subreddit": 1135,
@@ -7596,7 +7633,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-16T04:18:27",
-      "fetched_at": "2026-10-17T21:59:01.377698+00:00",
+      "fetched_at": "2026-10-18T03:08:52.843929+00:00",
       "relevance_score": 34,
       "deal_types": [
         "优惠码",
@@ -7619,43 +7656,6 @@
         "优惠码",
         "礼品卡",
         "免费/试用"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1248886",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "🥭 芒果 AI · 让每一份 Token 都物超所值 [低价模型 · 多模态生成 · 稳定通道 · 开发者社区]",
-      "body": "# 🥭 芒果 AI · 让每一份 Token 都物超所值\r\n\r\n### 01 ｜国模低价，成本直接打下来\r\n\r\nDeepSeek · Kimi · GLM 等模型全面接入\r\n\r\n全线模型低至 0.05 折起，注册即送 2 元体验额度，先体验，再决定是否长期使用。\r\n\r\nDeepSeek-4.1-Flash 等高性价比模型，适合高频调用、批量任务与日常开发。\r\n\r\n### 02 ｜多模态与 AI 生图，一站式接入\r\n\r\n图片生成 \r\n\r\n- 经济档：0.015 元起\r\n\r\n- 高质量档：0.15 元起\r\n\r\n无论是产品原型、创意设计，还是批量内容生产，都能根据预算选择合适的生成方案。\r\n\r\n### 03 ｜旗舰模型与稳定通道，认真写代码\r\n\r\n面向 AI 编程与高频开发场景\r\n\r\nClaude 系列及其他旗舰模型通道持续更新，兼顾响应速度、可用性与开发体验。\r\n\r\n从代码补全、复杂问题分析，到长时间编程协作，让 AI 更顺手地融入你的工作流。\r\n\r\n\r\n### 04 ｜不止是 API 中转，更是开发者的交流阵地\r\n\r\n- 专属编码工具\r\n\r\n基于轻量编辑器深度定制，融入专属「芒果娘」，让",
-      "url": "https://www.v2ex.com/t/1248886",
-      "author": "superhreo123",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-15T00:52:51",
-      "fetched_at": "2026-10-17T21:59:20.085439+00:00",
-      "relevance_score": 34,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
       ],
       "is_deal": true
     },
@@ -7861,7 +7861,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-17T21:59:11.151600+00:00",
+      "fetched_at": "2026-10-18T03:09:02.335108+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8489,7 +8489,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-15T17:09:23",
-      "fetched_at": "2026-10-17T21:59:06.042993+00:00",
+      "fetched_at": "2026-10-18T03:08:57.600194+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -8526,7 +8526,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-15T03:28:50",
-      "fetched_at": "2026-10-17T21:58:40.681478+00:00",
+      "fetched_at": "2026-10-18T03:08:33.225108+00:00",
       "relevance_score": 33,
       "deal_types": [
         "优惠码",
@@ -8541,16 +8541,16 @@
         "API Deal"
       ],
       "products": [
-        "ChatGPT",
-        "Gemini"
+        "Gemini",
+        "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Google"
+        "Google",
+        "OpenAI"
       ],
       "tags": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "优惠码",
         "学生/教育",
         "免费/试用",
@@ -8609,7 +8609,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-11T16:20:11",
-      "fetched_at": "2026-10-17T21:58:40.681498+00:00",
+      "fetched_at": "2026-10-18T03:08:33.225129+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -8714,7 +8714,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-17T21:59:11.151446+00:00",
+      "fetched_at": "2026-10-18T03:09:02.334913+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -9306,7 +9306,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-17T21:58:54.033839+00:00",
+      "fetched_at": "2026-10-18T03:08:46.259059+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9574,7 +9574,44 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-17T04:53:35",
-      "fetched_at": "2026-10-17T21:58:58.724879+00:00",
+      "fetched_at": "2026-10-18T03:08:50.600843+00:00",
+      "relevance_score": 32,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1248886",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "🥭 芒果 AI · 让每一份 Token 都物超所值 [低价模型 · 多模态生成 · 稳定通道 · 开发者社区]",
+      "body": "# 🥭 芒果 AI · 让每一份 Token 都物超所值\r\n\r\n### 01 ｜国模低价，成本直接打下来\r\n\r\nDeepSeek · Kimi · GLM 等模型全面接入\r\n\r\n全线模型低至 0.05 折起，注册即送 2 元体验额度，先体验，再决定是否长期使用。\r\n\r\nDeepSeek-4.1-Flash 等高性价比模型，适合高频调用、批量任务与日常开发。\r\n\r\n### 02 ｜多模态与 AI 生图，一站式接入\r\n\r\n图片生成 \r\n\r\n- 经济档：0.015 元起\r\n\r\n- 高质量档：0.15 元起\r\n\r\n无论是产品原型、创意设计，还是批量内容生产，都能根据预算选择合适的生成方案。\r\n\r\n### 03 ｜旗舰模型与稳定通道，认真写代码\r\n\r\n面向 AI 编程与高频开发场景\r\n\r\nClaude 系列及其他旗舰模型通道持续更新，兼顾响应速度、可用性与开发体验。\r\n\r\n从代码补全、复杂问题分析，到长时间编程协作，让 AI 更顺手地融入你的工作流。\r\n\r\n\r\n### 04 ｜不止是 API 中转，更是开发者的交流阵地\r\n\r\n- 专属编码工具\r\n\r\n基于轻量编辑器深度定制，融入专属「芒果娘」，让",
+      "url": "https://www.v2ex.com/t/1248886",
+      "author": "superhreo123",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-15T00:52:51",
+      "fetched_at": "2026-10-18T03:09:12.832901+00:00",
       "relevance_score": 32,
       "deal_types": [
         "免费/试用",
@@ -9611,7 +9648,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-14T09:14:38",
-      "fetched_at": "2026-10-17T21:59:06.042996+00:00",
+      "fetched_at": "2026-10-18T03:08:57.600198+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -9710,7 +9747,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-17T21:59:08.436221+00:00",
+      "fetched_at": "2026-10-18T03:08:59.850193+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -11473,40 +11510,6 @@
         "ChatGPT",
         "区域套利",
         "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1249493",
-      "source": "v2ex",
-      "subreddit": 1162,
-      "title": "gemini 学生账号 Pro 会员 ccswitch 报 429（配额超限）",
-      "body": "请问下我之前通过闲鱼买了学生账号的 gemini pro 会员，怎么在 ccswitch/magpie 中接入这个会员呢？我直接用创建的 api key 来接入，一直报 HTTP 429（配额超限）",
-      "url": "https://www.v2ex.com/t/1249493",
-      "author": "liujan",
-      "score": 0,
-      "num_comments": 1,
-      "created_at": "2026-10-16T15:31:22",
-      "fetched_at": "2026-10-17T21:58:45.839753+00:00",
-      "relevance_score": 30,
-      "deal_types": [
-        "学生/教育",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Student/Edu",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "学生/教育",
         "API优惠"
       ],
       "is_deal": true

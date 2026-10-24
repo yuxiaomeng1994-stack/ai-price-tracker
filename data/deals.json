@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T03:26:09.727698+00:00",
+  "last_updated": "2026-10-24T08:42:32.693322+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 279,
@@ -709,46 +709,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1251270",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[推广] TokVi 海外模型更新： Claude Opus 5.5 / Sonnet 5.5，开放免费额度体验",
-      "body": "V 友们好，最近又来更新一下 TokVi 的模型服务。\r\n\r\n之前主要跟大家分享 DeepSeek 、MiniMax H3 这些国产模型，这次想重点聊聊 Claude 。\r\n\r\n这段时间关注 Claude Opus 5.5 和 Sonnet 5.5 的开发者应该不少，尤其是用 AI 辅助写代码、做 Agent 、处理大型项目的朋友。\r\n\r\nTokVi 这次重点推广 Claude 5.5 系列的 API 接入，希望给需要频繁调用海外模型的开发者多一个选择。\r\n\r\n对于 API 中转服务，我觉得大家真正关心的还是几件事：\r\n\r\n模型能不能正常调用，返回结果是否符合预期\r\n\r\n计费是否清楚，调用成本是否可控\r\n\r\n高并发或者长任务时是否稳定\r\n\r\n接入开发工具是否方便\r\n\r\n这些也欢迎大家实际测试后反馈，不想只靠口头宣传。\r\n\r\n另外，国内站的福利活动还在继续：\r\n\r\n🎁 新注册至少赠送 5 元体验额度\r\n\r\n🎁 评论区发放 10 元起盲盒兑换码\r\n\r\n🎁 限时充值 7 折，具体规则以活动页为准\r\n\r\n🎁 符合条件的邀请返利 10%\r\n\r\nMiniMax H3 视频生成 API 目前也有约官",
-      "url": "https://www.v2ex.com/t/1251270",
-      "author": "TokViAI",
-      "score": 0,
-      "num_comments": 1,
-      "created_at": "2026-10-23T07:04:39",
-      "fetched_at": "2026-10-24T03:23:53.287741+00:00",
-      "relevance_score": 55,
-      "deal_types": [
-        "优惠码",
-        "礼品卡",
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Gift Card",
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "优惠码",
-        "礼品卡",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1233709",
       "source": "v2ex",
       "subreddit": 864,
@@ -876,7 +836,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-18T12:30:48",
-      "fetched_at": "2026-10-24T03:23:37.648493+00:00",
+      "fetched_at": "2026-10-24T08:40:04.405228+00:00",
       "relevance_score": 54,
       "deal_types": [
         "拼车/合租",
@@ -889,18 +849,18 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "Gemini"
       ],
       "companies": [
-        "Google",
         "Anthropic",
-        "OpenAI"
+        "OpenAI",
+        "Google"
       ],
       "tags": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "Gemini",
         "拼车/合租",
         "免费/试用",
@@ -945,6 +905,86 @@
         "Claude",
         "优惠码",
         "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1251270",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[推广] TokVi 海外模型更新： Claude Opus 5.5 / Sonnet 5.5，开放免费额度体验",
+      "body": "V 友们好，最近又来更新一下 TokVi 的模型服务。\r\n\r\n之前主要跟大家分享 DeepSeek 、MiniMax H3 这些国产模型，这次想重点聊聊 Claude 。\r\n\r\n这段时间关注 Claude Opus 5.5 和 Sonnet 5.5 的开发者应该不少，尤其是用 AI 辅助写代码、做 Agent 、处理大型项目的朋友。\r\n\r\nTokVi 这次重点推广 Claude 5.5 系列的 API 接入，希望给需要频繁调用海外模型的开发者多一个选择。\r\n\r\n对于 API 中转服务，我觉得大家真正关心的还是几件事：\r\n\r\n模型能不能正常调用，返回结果是否符合预期\r\n\r\n计费是否清楚，调用成本是否可控\r\n\r\n高并发或者长任务时是否稳定\r\n\r\n接入开发工具是否方便\r\n\r\n这些也欢迎大家实际测试后反馈，不想只靠口头宣传。\r\n\r\n另外，国内站的福利活动还在继续：\r\n\r\n🎁 新注册至少赠送 5 元体验额度\r\n\r\n🎁 评论区发放 10 元起盲盒兑换码\r\n\r\n🎁 限时充值 7 折，具体规则以活动页为准\r\n\r\n🎁 符合条件的邀请返利 10%\r\n\r\nMiniMax H3 视频生成 API 目前也有约官",
+      "url": "https://www.v2ex.com/t/1251270",
+      "author": "TokViAI",
+      "score": 0,
+      "num_comments": 1,
+      "created_at": "2026-10-23T07:04:39",
+      "fetched_at": "2026-10-24T08:40:19.162954+00:00",
+      "relevance_score": 53,
+      "deal_types": [
+        "优惠码",
+        "礼品卡",
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Gift Card",
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "优惠码",
+        "礼品卡",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1251442",
+      "source": "v2ex",
+      "subreddit": 1140,
+      "title": "Gemini ai pro 学生清退+拼车",
+      "body": "手上有个账号一直订阅着 200G 的 standard, 前几天的漏洞想着也去薅一次学生会员, 结果今天批量取消订阅了, 退了$8.99, 但之前还没过期的会员也给取消掉了... 薅羊毛倒亏了 10 几刀\r\n\r\n现在就 2 种方式\r\n1. 薅一年的 AI plus\r\n2. 月付 8.99 的 AI Pro\r\n\r\n我采用了方案 2, Gemini 的 Notebook 还是停适合研究学习的, Antigravity 中的 Flash 额度也基本充足\r\n\r\n已经被 v 友忽悠过 2 次了, 用学生优惠 0 元收我(其他账号)正价拼车费用, 挣这个钱有意思吗, 还是自己开车吧\r\n\r\n顺带这里也一起招长期车友. 真长期, 自用账号\r\n\r\n- 费用月付, $8.99 / 6 * 6.7(按汇率浮动) = 10 元\r\n- 只要 8.99 的学生优惠在, 就一直按这个续费. 如果这个学生优惠没了, 我也会用走 199.9 的年费续了\r\n- 翻车我退款, 无论 google 是否退我费\r\n- 月付机制, 跳车会在当月周期结束后退出即可\r\n- 美区账号 (只要 play profile 是美区或未设置都",
+      "url": "https://www.v2ex.com/t/1251442",
+      "author": "jollywang",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-24T03:46:16",
+      "fetched_at": "2026-10-24T08:40:04.405188+00:00",
+      "relevance_score": 52,
+      "deal_types": [
+        "拼车/合租",
+        "学生/教育",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Student/Edu",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "拼车/合租",
+        "学生/教育",
+        "薅羊毛/技巧",
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -1079,7 +1119,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-16T01:06:33",
-      "fetched_at": "2026-10-24T03:24:13.891848+00:00",
+      "fetched_at": "2026-10-24T08:40:37.039549+00:00",
       "relevance_score": 51,
       "deal_types": [
         "免费/试用",
@@ -1469,43 +1509,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1251255",
-      "source": "v2ex",
-      "subreddit": 69,
-      "title": "收 Claude 7 天试用链接，我目前定价 10 元一个链接，如果觉得便宜也可谈价格",
-      "body": "Anthropic 的 Guest Pass 活动，之前主要面向 Max 用户，现在符合条件的 Pro 用户也能参与。\r\n\r\n🎁 Max 用户最多送 3 张邀请卡\r\n✅ Pro 用户符合资格也能邀请好友\r\n🚀 被邀请者免费体验 7 天 Claude Pro\r\n💰 好友转付费，邀请者有机会获得 $10 使用额度\r\n\r\n查看方式：\r\n\r\nClaude Code 输入 `/passes`，查看是否有邀请名额。\r\n\r\n官方活动规则：\r\nhttps://support.claude.com/en/articles/13456702-claude-code-claude-cowork-and-claude-design-guest-passes",
-      "url": "https://www.v2ex.com/t/1251255",
-      "author": "jalen0x",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-23T06:39:22",
-      "fetched_at": "2026-10-24T03:23:34.830338+00:00",
-      "relevance_score": 47,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1234650",
       "source": "v2ex",
       "subreddit": 148,
@@ -1722,7 +1725,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-20T06:45:14",
-      "fetched_at": "2026-10-24T03:23:34.830382+00:00",
+      "fetched_at": "2026-10-24T08:40:01.885650+00:00",
       "relevance_score": 46,
       "deal_types": [
         "免费/试用",
@@ -1739,8 +1742,8 @@
         "Gemini"
       ],
       "companies": [
-        "Google",
-        "Anthropic"
+        "Anthropic",
+        "Google"
       ],
       "tags": [
         "Claude",
@@ -2036,6 +2039,43 @@
         "免费/试用",
         "降价/折扣",
         "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1251255",
+      "source": "v2ex",
+      "subreddit": 69,
+      "title": "收 Claude 7 天试用链接，我目前定价 10 元一个链接，如果觉得便宜也可谈价格",
+      "body": "Anthropic 的 Guest Pass 活动，之前主要面向 Max 用户，现在符合条件的 Pro 用户也能参与。\r\n\r\n🎁 Max 用户最多送 3 张邀请卡\r\n✅ Pro 用户符合资格也能邀请好友\r\n🚀 被邀请者免费体验 7 天 Claude Pro\r\n💰 好友转付费，邀请者有机会获得 $10 使用额度\r\n\r\n查看方式：\r\n\r\nClaude Code 输入 `/passes`，查看是否有邀请名额。\r\n\r\n官方活动规则：\r\nhttps://support.claude.com/en/articles/13456702-claude-code-claude-cowork-and-claude-design-guest-passes",
+      "url": "https://www.v2ex.com/t/1251255",
+      "author": "jalen0x",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-23T06:39:22",
+      "fetched_at": "2026-10-24T08:40:01.885614+00:00",
+      "relevance_score": 45,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
@@ -3415,7 +3455,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-12T11:02:21",
-      "fetched_at": "2026-10-24T03:24:11.089982+00:00",
+      "fetched_at": "2026-10-24T08:40:34.813430+00:00",
       "relevance_score": 40,
       "deal_types": [
         "优惠码",
@@ -3426,18 +3466,18 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "Gemini"
       ],
       "companies": [
-        "Google",
         "Anthropic",
-        "OpenAI"
+        "OpenAI",
+        "Google"
       ],
       "tags": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "Gemini",
         "优惠码",
         "降价/折扣"
@@ -4487,7 +4527,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-23T01:25:48",
-      "fetched_at": "2026-10-24T03:24:19.167196+00:00",
+      "fetched_at": "2026-10-24T08:40:41.743651+00:00",
       "relevance_score": 38,
       "deal_types": [
         "拼车/合租",
@@ -5891,46 +5931,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1251299",
-      "source": "v2ex",
-      "subreddit": 17,
-      "title": "做了个 Mac 小工具，在屏幕边上看 Codex / Claude Code 还剩多少额度",
-      "body": "平时 Codex 和 Claude Code 都在用，每次想看还剩多少额度都得点开页面,很不方便.\r\n\r\nEdgeQuota 贴在 Mac 屏幕边上。Codex 或 Claude Code 开始干活时它自己滑出来，干完自动收起。能看到：\r\n\r\n- 5 小时额度和每周额度，还剩多少、几点重置\r\n- 正在跑的会话，哪个在等你确认\r\n\r\nCodex 用的是官方 Codex ，Claude 走 Claude Code 自带的状态栏和 hooks 。不要密码，不读浏览器 cookie ，也没有我自己的服务器。\r\n\r\n![](  )\r\n\r\n\r\n几点说明：\r\n- **国区 App Store 搜不到**，目前没上架中国大陆区，要用美区、港区、台区等外区 Apple ID 下载\r\n- 目前支持 Apple 芯片的 Mac ，macOS 13 以上\r\n- Claude Code 要 2.1.268 以上； Codex 第一次登录要在 ChatGPT 安全设置里打开「设备代码登录」，app 里有指引\r\n- 免费试用 7 天，之后一次买断 $4.99 ，没有订阅\r\n\r\n\r\nApp Store： https:",
-      "url": "https://www.v2ex.com/t/1251299",
-      "author": "kunc345",
-      "score": 0,
-      "num_comments": 2,
-      "created_at": "2026-10-23T08:02:54",
-      "fetched_at": "2026-10-24T03:23:40.444671+00:00",
-      "relevance_score": 36,
-      "deal_types": [
-        "区域套利",
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "ChatGPT"
-      ],
-      "companies": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "tags": [
-        "Claude",
-        "ChatGPT",
-        "区域套利",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1250391",
       "source": "v2ex",
       "subreddit": 12,
@@ -5941,7 +5941,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-20T10:06:18",
-      "fetched_at": "2026-10-24T03:23:32.100568+00:00",
+      "fetched_at": "2026-10-24T08:39:59.427379+00:00",
       "relevance_score": 36,
       "deal_types": [
         "优惠码",
@@ -5952,18 +5952,18 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "Gemini"
       ],
       "companies": [
-        "Google",
         "Anthropic",
-        "OpenAI"
+        "OpenAI",
+        "Google"
       ],
       "tags": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "Gemini",
         "优惠码",
         "降价/折扣"
@@ -7943,6 +7943,86 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1251436",
+      "source": "v2ex",
+      "subreddit": "programmer",
+      "title": "Pro 已掉，羊毛没了🤣",
+      "body": "我查了一下邮箱，原因找到了：今天太平洋时间下午 5:04 ，Google Play 发了一封「退款已获批准」，退的是 US$9.79 ，对应的商品是「 Google AI Pro (5 TB) with YouTube Premium 」，订单号 SOP.3392-6561-1462-83481 ，也就是 10/19 升级的那个订阅。订阅退款之后一般会直接取消，所以 Gemini 就变回免费版了。\r\n\r\nRoger ，这个退款是你自己申请的吗？如果不是，建议去 Google Play 订阅管理 看一下，重新订阅之后小团就能接着跑剩下的场景。\r\n\r\n算了算了，反正额度也不多",
+      "url": "https://www.v2ex.com/t/1251436",
+      "author": "Rogeryxx",
+      "score": 0,
+      "num_comments": 15,
+      "created_at": "2026-10-24T03:23:25+00:00",
+      "fetched_at": "2026-10-24T08:39:55.577052+00:00",
+      "relevance_score": 34,
+      "deal_types": [
+        "区域套利",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Free/Trial",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "区域套利",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1251299",
+      "source": "v2ex",
+      "subreddit": 17,
+      "title": "做了个 Mac 小工具，在屏幕边上看 Codex / Claude Code 还剩多少额度",
+      "body": "平时 Codex 和 Claude Code 都在用，每次想看还剩多少额度都得点开页面,很不方便.\r\n\r\nEdgeQuota 贴在 Mac 屏幕边上。Codex 或 Claude Code 开始干活时它自己滑出来，干完自动收起。能看到：\r\n\r\n- 5 小时额度和每周额度，还剩多少、几点重置\r\n- 正在跑的会话，哪个在等你确认\r\n\r\nCodex 用的是官方 Codex ，Claude 走 Claude Code 自带的状态栏和 hooks 。不要密码，不读浏览器 cookie ，也没有我自己的服务器。\r\n\r\n![](  )\r\n\r\n\r\n几点说明：\r\n- **国区 App Store 搜不到**，目前没上架中国大陆区，要用美区、港区、台区等外区 Apple ID 下载\r\n- 目前支持 Apple 芯片的 Mac ，macOS 13 以上\r\n- Claude Code 要 2.1.268 以上； Codex 第一次登录要在 ChatGPT 安全设置里打开「设备代码登录」，app 里有指引\r\n- 免费试用 7 天，之后一次买断 $4.99 ，没有订阅\r\n\r\n\r\nApp Store： https:",
+      "url": "https://www.v2ex.com/t/1251299",
+      "author": "kunc345",
+      "score": 0,
+      "num_comments": 2,
+      "created_at": "2026-10-23T08:02:54",
+      "fetched_at": "2026-10-24T08:40:07.135865+00:00",
+      "relevance_score": 34,
+      "deal_types": [
+        "区域套利",
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "区域套利",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "hn_50168972",
       "source": "hackernews",
       "subreddit": "",
@@ -8178,7 +8258,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-24T03:24:03.401560+00:00",
+      "fetched_at": "2026-10-24T08:40:27.910768+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8806,7 +8886,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-20T10:01:49Z",
-      "fetched_at": "2026-10-24T03:24:26.304850+00:00",
+      "fetched_at": "2026-10-24T08:40:48.721091+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -8951,7 +9031,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-24T03:24:03.401548+00:00",
+      "fetched_at": "2026-10-24T08:40:27.910756+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -9543,7 +9623,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-24T03:23:45.754979+00:00",
+      "fetched_at": "2026-10-24T08:40:12.031044+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9801,43 +9881,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1250583",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "用上 antigravity 和 gemini pro 了",
-      "body": "在 v 站逛的时候看到打折开 gemini 的 pro ，我就去看了一下，之前为了 claude 还是 gpt ，把支付区转到波尔维亚去了，显示还是 bob ，只要 35bob ，我直接马上心动。\r\n \r\n    \r\n  \r\n但是很快就提示报错了，因为我人在马来西亚，play 的支付区是 bob ，然后就提示错了，我研究了一下没折腾初有啥区别，然后我就回去又点了一下，直接就订阅成功了，只不过变回美刀区了，没有享受到 20 块钱 RMB 的 gemini pro ，怒花 5 美刀订阅。\r\n\r\n下了这个 antigravity 的客户端，2026 年了，居然客户端完全不支持语言切换，有且只有英语，美国大豆包你在干什么！！\r\n\r\n感觉随便弄了下作业，感觉 gemini 4 的周限用的挺快的，随便俩问题就 2%了，至于效果的话，还得体验一下\r\n\r\n   \r\n \r\n但是有一个很好的就是，他这个客户端里面还有别的模型可以用，用量居然好像是分开算的，这样看的话性价比很高了",
-      "url": "https://www.v2ex.com/t/1250583",
-      "author": "shum0412",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-21T04:21:48",
-      "fetched_at": "2026-10-24T03:23:34.830368+00:00",
-      "relevance_score": 32,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop"
-      ],
-      "products": [
-        "Claude",
-        "Gemini"
-      ],
-      "companies": [
-        "Google",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "Gemini",
-        "免费/试用",
-        "降价/折扣"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1250076",
       "source": "v2ex",
       "subreddit": 69,
@@ -9848,7 +9891,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-19T09:19:29",
-      "fetched_at": "2026-10-24T03:23:58.503339+00:00",
+      "fetched_at": "2026-10-24T08:40:23.419442+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -9882,7 +9925,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-17T00:49:44",
-      "fetched_at": "2026-10-24T03:24:21.783579+00:00",
+      "fetched_at": "2026-10-24T08:40:43.988768+00:00",
       "relevance_score": 32,
       "deal_types": [
         "免费/试用",
@@ -10058,7 +10101,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-24T03:24:00.781369+00:00",
+      "fetched_at": "2026-10-24T08:40:25.484945+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -11204,7 +11247,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-19T14:38:01",
-      "fetched_at": "2026-10-24T03:23:58.503337+00:00",
+      "fetched_at": "2026-10-24T08:40:23.419440+00:00",
       "relevance_score": 31,
       "deal_types": [
         "拼车/合租",
@@ -11241,7 +11284,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-18T16:28:08",
-      "fetched_at": "2026-10-24T03:23:32.100579+00:00",
+      "fetched_at": "2026-10-24T08:39:59.427390+00:00",
       "relevance_score": 31,
       "deal_types": [
         "拼车/合租",
@@ -11315,7 +11358,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-15T00:52:51",
-      "fetched_at": "2026-10-24T03:24:13.891853+00:00",
+      "fetched_at": "2026-10-24T08:40:37.039554+00:00",
       "relevance_score": 31,
       "deal_types": [
         "免费/试用",
@@ -11482,46 +11525,6 @@
         "Claude",
         "区域套利",
         "拼车/合租",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1238232",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "Lever AI｜ GPT / Codex 仅 0.3 倍率， Claude、Gemini 全系列模型一站式使用",
-      "body": "还在为 AI API 价格高、线路不稳定、模型被偷换而烦恼？\r\n\r\nLever AI 为开发者和 AI 用户提供稳定、高性价比的大模型服务：\r\n\r\nhttps://leverai.net\r\n\r\nGPT / Codex 线路仅需 0.3 倍率，支持 Claude 、Gemini 等主流模型。无论是编程开发、内容创作、日常对话还是图片生成，一个平台即可满足。\r\n\r\n核心优势：\r\n\r\nGPT / Codex 低至 0.3 倍率\r\n\r\n自建账号池，不使用来源不明的共享号池\r\n\r\n每个上游账号均通过正规渠道逐笔充值\r\n\r\n不掺水、不降智、不偷换模型\r\n\r\n调用什么模型，就提供什么模型\r\n\r\n充值比例 1:1 ，充值 1 元到账 1 元\r\n\r\n支持按量计费，用多少付多少\r\n\r\n提供 GPT 轻量月度套餐\r\n\r\n支持 Claude 、Gemini 等主流模型\r\n\r\n提供 Codex 、Claude Code 一键配置工具\r\n\r\n支持在线对话和图片生成\r\n\r\n余额、用量及调用记录清晰可查\r\n\r\n开发者无需反复修改复杂配置。通过网站提供的一键配置工具，即可快速完成 Codex 、Claude Code ",
-      "url": "https://www.v2ex.com/t/1238232",
-      "author": "949002396",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-08-30T15:08:33",
-      "fetched_at": "2026-08-31T03:48:47.811792+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "拼车/合租",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini",
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic",
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "Claude",
-        "拼车/合租",
-        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true

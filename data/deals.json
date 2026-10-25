@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T03:21:28.848153+00:00",
+  "last_updated": "2026-10-25T09:00:41.718370+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 279,
@@ -836,7 +836,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-18T12:30:48",
-      "fetched_at": "2026-10-25T03:19:04.496262+00:00",
+      "fetched_at": "2026-10-25T08:58:13.451215+00:00",
       "relevance_score": 54,
       "deal_types": [
         "拼车/合租",
@@ -849,19 +849,19 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
+        "Gemini",
         "ChatGPT",
-        "Gemini"
+        "Claude"
       ],
       "companies": [
-        "OpenAI",
         "Google",
+        "OpenAI",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
+        "Claude",
         "拼车/合租",
         "免费/试用",
         "API优惠"
@@ -919,7 +919,7 @@
       "score": 0,
       "num_comments": 1,
       "created_at": "2026-10-23T07:04:39",
-      "fetched_at": "2026-10-25T03:19:19.039571+00:00",
+      "fetched_at": "2026-10-25T08:58:28.449005+00:00",
       "relevance_score": 53,
       "deal_types": [
         "优惠码",
@@ -944,46 +944,6 @@
         "优惠码",
         "礼品卡",
         "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1251442",
-      "source": "v2ex",
-      "subreddit": 1140,
-      "title": "Gemini ai pro 学生清退+拼车",
-      "body": "手上有个账号一直订阅着 200G 的 standard, 前几天的漏洞想着也去薅一次学生会员, 结果今天批量取消订阅了, 退了$8.99, 但之前还没过期的会员也给取消掉了... 薅羊毛倒亏了 10 几刀\r\n\r\n现在就 2 种方式\r\n1. 薅一年的 AI plus\r\n2. 月付 8.99 的 AI Pro\r\n\r\n我采用了方案 2, Gemini 的 Notebook 还是停适合研究学习的, Antigravity 中的 Flash 额度也基本充足\r\n\r\n已经被 v 友忽悠过 2 次了, 用学生优惠 0 元收我(其他账号)正价拼车费用, 挣这个钱有意思吗, 还是自己开车吧\r\n\r\n顺带这里也一起招长期车友. 真长期, 自用账号\r\n\r\n- 费用月付, $8.99 / 6 * 6.7(按汇率浮动) = 10 元\r\n- 只要 8.99 的学生优惠在, 就一直按这个续费. 如果这个学生优惠没了, 我也会用走 199.9 的年费续了\r\n- 翻车我退款, 无论 google 是否退我费\r\n- 月付机制, 跳车会在当月周期结束后退出即可\r\n- 美区账号 (只要 play profile 是美区或未设置都",
-      "url": "https://www.v2ex.com/t/1251442",
-      "author": "jollywang",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-10-25T03:19:04.496207+00:00",
-      "relevance_score": 52,
-      "deal_types": [
-        "拼车/合租",
-        "学生/教育",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Student/Edu",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "拼车/合租",
-        "学生/教育",
-        "薅羊毛/技巧",
         "API优惠"
       ],
       "is_deal": true
@@ -1119,7 +1079,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-16T01:06:33",
-      "fetched_at": "2026-10-25T03:19:37.545837+00:00",
+      "fetched_at": "2026-10-25T08:58:46.280502+00:00",
       "relevance_score": 51,
       "deal_types": [
         "免费/试用",
@@ -1224,6 +1184,46 @@
         "Cursor",
         "免费/试用",
         "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1251442",
+      "source": "v2ex",
+      "subreddit": 1140,
+      "title": "Gemini ai pro 学生清退+拼车",
+      "body": "手上有个账号一直订阅着 200G 的 standard, 前几天的漏洞想着也去薅一次学生会员, 结果今天批量取消订阅了, 退了$8.99, 但之前还没过期的会员也给取消掉了... 薅羊毛倒亏了 10 几刀\r\n\r\n现在就 2 种方式\r\n1. 薅一年的 AI plus\r\n2. 月付 8.99 的 AI Pro\r\n\r\n我采用了方案 2, Gemini 的 Notebook 还是停适合研究学习的, Antigravity 中的 Flash 额度也基本充足\r\n\r\n已经被 v 友忽悠过 2 次了, 用学生优惠 0 元收我(其他账号)正价拼车费用, 挣这个钱有意思吗, 还是自己开车吧\r\n\r\n顺带这里也一起招长期车友. 真长期, 自用账号\r\n\r\n- 费用月付, $8.99 / 6 * 6.7(按汇率浮动) = 10 元\r\n- 只要 8.99 的学生优惠在, 就一直按这个续费. 如果这个学生优惠没了, 我也会用走 199.9 的年费续了\r\n- 翻车我退款, 无论 google 是否退我费\r\n- 月付机制, 跳车会在当月周期结束后退出即可\r\n- 美区账号 (只要 play profile 是美区或未设置都",
+      "url": "https://www.v2ex.com/t/1251442",
+      "author": "jollywang",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-24T03:46:16",
+      "fetched_at": "2026-10-25T08:58:13.451169+00:00",
+      "relevance_score": 50,
+      "deal_types": [
+        "拼车/合租",
+        "学生/教育",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Student/Edu",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "拼车/合租",
+        "学生/教育",
+        "薅羊毛/技巧",
         "API优惠"
       ],
       "is_deal": true
@@ -1725,7 +1725,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-20T06:45:14",
-      "fetched_at": "2026-10-25T03:19:01.963646+00:00",
+      "fetched_at": "2026-10-25T08:58:11.151993+00:00",
       "relevance_score": 46,
       "deal_types": [
         "免费/试用",
@@ -1738,16 +1738,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "免费/试用",
         "薅羊毛/技巧",
         "API优惠"
@@ -2054,7 +2054,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-23T06:39:22",
-      "fetched_at": "2026-10-25T03:19:01.963582+00:00",
+      "fetched_at": "2026-10-25T08:58:11.151942+00:00",
       "relevance_score": 45,
       "deal_types": [
         "免费/试用",
@@ -3408,6 +3408,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1251639",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[LinkAGI] GPT / Codex 0.15 倍率起，进群领 3 元体验额度",
+      "body": "我是 LinkAGI 的站长，给最近想接 GPT 、Claude 、Gemini API 的朋友留个试用入口。**进 QQ 群可领 3 元体验额度**，先拿自己的代码、文档跑一跑，再决定要不要充值。\r\n\r\n官网：[api.linktoagi.com]( https://api.linktoagi.com/?utm_source=v2ex&utm_medium=community&utm_campaign=trial_20261025&utm_content=home) · [注册]( https://api.linktoagi.com/sign-up?utm_source=v2ex&utm_medium=community&utm_campaign=trial_20261025&utm_content=signup)\r\n\r\nGPT 的 Sale 组是 **0.15 倍率，只接 Codex**；需要外接客户端的，可以选 Plus / Pro 。站里也有 Claude 、Gemini 、DeepSeek 、GLM ，具体模型和费用在[模型广场]( https://api.linktoagi",
+      "url": "https://www.v2ex.com/t/1251639",
+      "author": "zykoo",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-25T07:39:10",
+      "fetched_at": "2026-10-25T08:58:11.151914+00:00",
+      "relevance_score": 40,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini",
+        "Claude"
+      ],
+      "companies": [
+        "Google",
+        "Anthropic"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1249340",
       "source": "v2ex",
       "subreddit": 864,
@@ -3455,7 +3495,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-12T11:02:21",
-      "fetched_at": "2026-10-25T03:19:35.346550+00:00",
+      "fetched_at": "2026-10-25T08:58:43.941339+00:00",
       "relevance_score": 40,
       "deal_types": [
         "优惠码",
@@ -3466,19 +3506,19 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
+        "Gemini",
         "ChatGPT",
-        "Gemini"
+        "Claude"
       ],
       "companies": [
-        "OpenAI",
         "Google",
+        "OpenAI",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
+        "Claude",
         "优惠码",
         "降价/折扣"
       ],
@@ -5941,7 +5981,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T09:23:54",
-      "fetched_at": "2026-10-25T03:18:59.525018+00:00",
+      "fetched_at": "2026-10-25T08:58:08.708412+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -5978,7 +6018,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-20T10:06:18",
-      "fetched_at": "2026-10-25T03:18:59.525084+00:00",
+      "fetched_at": "2026-10-25T08:58:08.708474+00:00",
       "relevance_score": 36,
       "deal_types": [
         "优惠码",
@@ -5989,19 +6029,19 @@
         "Price Drop"
       ],
       "products": [
-        "Claude",
+        "Gemini",
         "ChatGPT",
-        "Gemini"
+        "Claude"
       ],
       "companies": [
-        "OpenAI",
         "Google",
+        "OpenAI",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
+        "Claude",
         "优惠码",
         "降价/折扣"
       ],
@@ -8255,7 +8295,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-25T03:19:28.487014+00:00",
+      "fetched_at": "2026-10-25T08:58:37.408263+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -8873,46 +8913,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1251436",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "Pro 已掉，羊毛没了🤣",
-      "body": "我查了一下邮箱，原因找到了：今天太平洋时间下午 5:04 ，Google Play 发了一封「退款已获批准」，退的是 US$9.79 ，对应的商品是「 Google AI Pro (5 TB) with YouTube Premium 」，订单号 SOP.3392-6561-1462-83481 ，也就是 10/19 升级的那个订阅。订阅退款之后一般会直接取消，所以 Gemini 就变回免费版了。\r\n\r\nRoger ，这个退款是你自己申请的吗？如果不是，建议去 Google Play 订阅管理 看一下，重新订阅之后小团就能接着跑剩下的场景。\r\n\r\n算了算了，反正额度也不多",
-      "url": "https://www.v2ex.com/t/1251436",
-      "author": "Rogeryxx",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-24T03:23:25",
-      "fetched_at": "2026-10-25T03:19:04.496212+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "区域套利",
-        "免费/试用",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Free/Trial",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "区域套利",
-        "免费/试用",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "hn_50163693",
       "source": "hackernews",
       "subreddit": "",
@@ -8923,7 +8923,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-20T10:01:49Z",
-      "fetched_at": "2026-10-25T03:19:49.099239+00:00",
+      "fetched_at": "2026-10-25T08:58:57.629935+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -9068,7 +9068,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-25T03:19:28.486987+00:00",
+      "fetched_at": "2026-10-25T08:58:37.408228+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -9660,7 +9660,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-25T03:19:11.824839+00:00",
+      "fetched_at": "2026-10-25T08:58:21.446462+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -9928,7 +9928,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-19T09:19:29",
-      "fetched_at": "2026-10-25T03:19:23.793724+00:00",
+      "fetched_at": "2026-10-25T08:58:33.233933+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -9962,7 +9962,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-17T00:49:44",
-      "fetched_at": "2026-10-25T03:19:44.184397+00:00",
+      "fetched_at": "2026-10-25T08:58:52.978406+00:00",
       "relevance_score": 32,
       "deal_types": [
         "免费/试用",
@@ -10138,7 +10138,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-15T03:03:11",
-      "fetched_at": "2026-10-25T03:19:26.020376+00:00",
+      "fetched_at": "2026-10-25T08:58:35.192728+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -11237,6 +11237,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1251436",
+      "source": "v2ex",
+      "subreddit": 300,
+      "title": "Pro 已掉，羊毛没了🤣",
+      "body": "我查了一下邮箱，原因找到了：今天太平洋时间下午 5:04 ，Google Play 发了一封「退款已获批准」，退的是 US$9.79 ，对应的商品是「 Google AI Pro (5 TB) with YouTube Premium 」，订单号 SOP.3392-6561-1462-83481 ，也就是 10/19 升级的那个订阅。订阅退款之后一般会直接取消，所以 Gemini 就变回免费版了。\r\n\r\nRoger ，这个退款是你自己申请的吗？如果不是，建议去 Google Play 订阅管理 看一下，重新订阅之后小团就能接着跑剩下的场景。\r\n\r\n算了算了，反正额度也不多",
+      "url": "https://www.v2ex.com/t/1251436",
+      "author": "Rogeryxx",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-24T03:23:25",
+      "fetched_at": "2026-10-25T08:58:13.451173+00:00",
+      "relevance_score": 31,
+      "deal_types": [
+        "区域套利",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Free/Trial",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "区域套利",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "hn_50193447",
       "source": "hackernews",
       "subreddit": "",
@@ -11284,7 +11324,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-19T14:38:01",
-      "fetched_at": "2026-10-25T03:19:23.793720+00:00",
+      "fetched_at": "2026-10-25T08:58:33.233930+00:00",
       "relevance_score": 31,
       "deal_types": [
         "拼车/合租",
@@ -11321,7 +11361,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-18T16:28:08",
-      "fetched_at": "2026-10-25T03:18:59.525099+00:00",
+      "fetched_at": "2026-10-25T08:58:08.708489+00:00",
       "relevance_score": 31,
       "deal_types": [
         "拼车/合租",
@@ -11395,7 +11435,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-15T00:52:51",
-      "fetched_at": "2026-10-25T03:19:37.545843+00:00",
+      "fetched_at": "2026-10-25T08:58:46.280512+00:00",
       "relevance_score": 31,
       "deal_types": [
         "免费/试用",
@@ -11488,40 +11528,6 @@
         "Gemini",
         "优惠码",
         "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1241865",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "RSI AI 多模型 API 聚合站｜ GPT / Claude / Fable 低至官方价 0.05x｜ OpenAI 兼容 API",
-      "body": "网址： https://rsiai.net\r\n\r\n各位佬友好，RSI AI 来给大家交个作业。\r\n\r\n最近大家应该都在折腾 GPT 、Claude 、Fable 这些模型，API 价格也看得眼花。\r\n\r\n我们自己也是 API 重度用户，所以做了 RSI AI ，主要就是想解决一个问题：\r\n\r\n同样的模型，为什么一定要按官方价格用？\r\n\r\nRSI AI 是什么？\r\n简单来说就是一个多模型 API Gateway 。\r\n\r\nGPT / Opus / Fable 等模型都可以通过一个 API Key 接入，不用每个平台单独搞一套 Key 。\r\n\r\n支持 OpenAI-compatible API ，已经在用 OpenAI SDK 的基本不用重新折腾，换一下 API Key / Base URL 就可以开始测试。\r\n\r\n目前主要支持\r\nGPT\r\n\r\nOpus\r\n\r\nFable\r\n\r\n其他模型持续增加\r\n\r\n具体模型和实时价格以站内为准。\r\n\r\n价格\r\n这个也是我们比较核心的东西：\r\n\r\n部分模型最低可以到官方价格的 5% 左右。\r\n\r\n也就是说：\r\n\r\n官方如果 $1\r\n\r\nRSI AI 部分",
-      "url": "https://www.v2ex.com/t/1241865",
-      "author": "yjyxabc",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-14T06:20:11",
-      "fetched_at": "2026-09-16T22:40:06.981594+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "ChatGPT",
         "API优惠"
       ],
       "is_deal": true

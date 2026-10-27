@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-27T09:40:03.985231+00:00",
+  "last_updated": "2026-10-27T17:33:11.421021+00:00",
   "total_deals": 300,
   "sources": {
-    "v2ex": 279,
+    "v2ex": 280,
     "reddit": 5,
     "smzdm": 2,
-    "hackernews": 14
+    "hackernews": 13
   },
   "llm_filtered": false,
   "deals": [
@@ -1079,7 +1079,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-16T01:06:33",
-      "fetched_at": "2026-10-27T09:38:20.028519+00:00",
+      "fetched_at": "2026-10-27T17:31:23.971612+00:00",
       "relevance_score": 51,
       "deal_types": [
         "免费/试用",
@@ -1282,7 +1282,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-10-27T09:37:41.651219+00:00",
+      "fetched_at": "2026-10-27T17:30:45.015294+00:00",
       "relevance_score": 48,
       "deal_types": [
         "拼车/合租",
@@ -2684,6 +2684,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1252350",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "想体验更稳定的 AI 接口？ DeepSeek 限时免费蹬",
+      "body": "不敢说是全网最低，毕竟价格这东西太卷了。\r\n但我们更想把重点放在两个字：稳定。\r\n接口能不能长期用、调用稳不稳、出了问题有没有人处理，这些才是真正影响使用体验的地方。\r\n现在新用户注册，可直接用于测试和体验多个 AI 渠道，包括：\r\nPlus / Pro / Claude / Kiro / Max20x 等渠道\r\n适合用来：\r\n* 调试 API 调用\r\n* 测试不同模型效果\r\n* 跑自动化工具\r\n* 接入自己的项目\r\n* 体验多渠道 AI 能力\r\n无需额外付费，注册后即可开始测试。\r\n🎁 新用户福利：DeepSeek 限时免费蹬 \r\n🌐 注册地址： https://tk168.vip\r\n💬 绿泡泡：ycc000701 \r\n我们不一定最便宜\r\n但会尽量做到更稳定、更省心、有售后。\r\n新用户注册好跟帖留下账号，稍后赠送\r\n\r\n最新 MUSE AI 免费帮助注册，注册即送 10 亿额度\r\n邀请码：OJ4WGD",
+      "url": "https://www.v2ex.com/t/1252350",
+      "author": "djlen520",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-27T12:26:46",
+      "fetched_at": "2026-10-27T17:30:42.687658+00:00",
+      "relevance_score": 43,
+      "deal_types": [
+        "优惠码",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "优惠码",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1251255",
       "source": "v2ex",
       "subreddit": 69,
@@ -2694,7 +2734,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-23T06:39:22",
-      "fetched_at": "2026-10-27T09:37:39.334806+00:00",
+      "fetched_at": "2026-10-27T17:30:42.687862+00:00",
       "relevance_score": 43,
       "deal_types": [
         "免费/试用",
@@ -3972,7 +4012,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T01:17:30",
-      "fetched_at": "2026-10-27T09:37:39.334785+00:00",
+      "fetched_at": "2026-10-27T17:30:42.687842+00:00",
       "relevance_score": 39,
       "deal_types": [
         "降价/折扣",
@@ -4598,7 +4638,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-25T07:39:10",
-      "fetched_at": "2026-10-27T09:37:39.334795+00:00",
+      "fetched_at": "2026-10-27T17:30:42.687852+00:00",
       "relevance_score": 38,
       "deal_types": [
         "免费/试用",
@@ -4615,8 +4655,8 @@
         "Claude"
       ],
       "companies": [
-        "Anthropic",
-        "Google"
+        "Google",
+        "Anthropic"
       ],
       "tags": [
         "Gemini",
@@ -5352,6 +5392,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1252343",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[Best AI 中转站] V 站拉新送福利啦，免费使用 7 天，每人 70$额度。",
+      "body": "## Best AI：[https://aisale.best/]( https://aisale.best/)\r\n\r\nBest AI 提供稳定高性价比的 API 中转服务，拥有自建账号池，提供多种稳定的模型分组。欢迎个人、企业和工作室用户对接使用。\r\n\r\n## 模型分组\r\n\r\n| 分组          | 说明                    | 倍率   |\r\n| ----------- | --------------------- | ---- |\r\n| GPT 通用      | 日常开发，学习探索，兼顾使用体验与性价比  | 0.18 |\r\n| GPT 企业      | 面向团队与业务项目，提供专属沟通与专属服务 | 0.3  |\r\n| Claude Kiro | Kiro 号池               | 0.2  |\r\n| Claude Max  | Max 号池                | 1.5  |\r\n\r\n## V 站专属活动\r\n\r\n参与方式：\r\n\r\n1. 在评论区留言\r\n2. 加入 QQ 群：`112861465`\r\n3. 完成以上两步后，在",
+      "url": "https://www.v2ex.com/t/1252343",
+      "author": "yellowxu",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-27T12:01:42",
+      "fetched_at": "2026-10-27T17:30:47.492179+00:00",
+      "relevance_score": 37,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1251943",
       "source": "v2ex",
       "subreddit": 300,
@@ -6069,46 +6146,6 @@
         "拼车/合租",
         "降价/折扣",
         "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1250391",
-      "source": "v2ex",
-      "subreddit": 12,
-      "title": "AI 订阅站 HuiAI， ChatGPT/Claude/Gemini, plus 今天特惠 128 起 可开票",
-      "body": "今日特惠 ChatGPT plus128 起。。。\r\nPlus 折扣码 HUIA@5 立减 5 元 Pro 5x 折扣 HUIAI@15 立减 15 元 Pro 20x 折扣 HUIAI@30 立减 30 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、 微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;\r\n开上之后出问题优先修 下单:https://www.huiai.me/\r\n有问题直接回帖。",
-      "url": "https://www.v2ex.com/t/1250391",
-      "author": "log226",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-20T10:06:18",
-      "fetched_at": "2026-10-27T09:37:36.897569+00:00",
-      "relevance_score": 36,
-      "deal_types": [
-        "优惠码",
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Price Drop"
-      ],
-      "products": [
-        "Gemini",
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic",
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "ChatGPT",
-        "Claude",
-        "优惠码",
-        "降价/折扣"
       ],
       "is_deal": true
     },
@@ -7173,7 +7210,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T08:33:00",
-      "fetched_at": "2026-10-27T09:37:39.334772+00:00",
+      "fetched_at": "2026-10-27T17:30:42.687830+00:00",
       "relevance_score": 35,
       "deal_types": [
         "免费/试用",
@@ -7188,14 +7225,54 @@
         "Claude"
       ],
       "companies": [
-        "Anthropic",
-        "Google"
+        "Google",
+        "Anthropic"
       ],
       "tags": [
         "Gemini",
         "Claude",
         "免费/试用",
         "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1250391",
+      "source": "v2ex",
+      "subreddit": 12,
+      "title": "AI 订阅站 HuiAI， ChatGPT/Claude/Gemini, plus 今天特惠 128 起 可开票",
+      "body": "今日特惠 ChatGPT plus128 起。。。\r\nPlus 折扣码 HUIA@5 立减 5 元 Pro 5x 折扣 HUIAI@15 立减 15 元 Pro 20x 折扣 HUIAI@30 立减 30 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、 微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;\r\n开上之后出问题优先修 下单:https://www.huiai.me/\r\n有问题直接回帖。",
+      "url": "https://www.v2ex.com/t/1250391",
+      "author": "log226",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-20T10:06:18",
+      "fetched_at": "2026-10-27T17:30:40.100427+00:00",
+      "relevance_score": 35,
+      "deal_types": [
+        "优惠码",
+        "降价/折扣"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Price Drop"
+      ],
+      "products": [
+        "Gemini",
+        "ChatGPT",
+        "Claude"
+      ],
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Anthropic"
+      ],
+      "tags": [
+        "Gemini",
+        "ChatGPT",
+        "Claude",
+        "优惠码",
+        "降价/折扣"
       ],
       "is_deal": true
     },
@@ -8397,7 +8474,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-27T09:38:04.557423+00:00",
+      "fetched_at": "2026-10-27T17:31:08.029651+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -9170,7 +9247,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-27T09:38:04.557405+00:00",
+      "fetched_at": "2026-10-27T17:31:08.029635+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -9762,7 +9839,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-27T09:37:48.903940+00:00",
+      "fetched_at": "2026-10-27T17:30:52.428778+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -10020,6 +10097,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1252127",
+      "source": "v2ex",
+      "subreddit": "openai",
+      "title": "chatgpt 菲律宾订阅，谁有苹果礼品卡购买渠道？",
+      "body": "",
+      "url": "https://www.v2ex.com/t/1252127",
+      "author": "SFLYYQ",
+      "score": 0,
+      "num_comments": 21,
+      "created_at": "2026-10-27T01:54:22+00:00",
+      "fetched_at": "2026-10-27T17:30:30.372834+00:00",
+      "relevance_score": 32,
+      "deal_types": [
+        "区域套利",
+        "礼品卡"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Gift Card"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "区域套利",
+        "礼品卡"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1252007",
       "source": "v2ex",
       "subreddit": 864,
@@ -10073,7 +10184,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T08:24:35",
-      "fetched_at": "2026-10-27T09:38:00.069832+00:00",
+      "fetched_at": "2026-10-27T17:31:03.727810+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -10107,7 +10218,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T09:23:54",
-      "fetched_at": "2026-10-27T09:37:36.897526+00:00",
+      "fetched_at": "2026-10-27T17:30:40.100395+00:00",
       "relevance_score": 32,
       "deal_types": [
         "免费/试用",
@@ -10144,7 +10255,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-17T00:49:44",
-      "fetched_at": "2026-10-27T09:38:20.028511+00:00",
+      "fetched_at": "2026-10-27T17:31:23.971606+00:00",
       "relevance_score": 32,
       "deal_types": [
         "免费/试用",
@@ -11397,114 +11508,6 @@
       "created_at": "2026-04-19T04:40:52",
       "fetched_at": "2026-05-17T20:51:29.422076+00:00",
       "relevance_score": 32,
-      "deal_types": [
-        "区域套利",
-        "礼品卡"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Gift Card"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "区域套利",
-        "礼品卡"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "hn_50193447",
-      "source": "hackernews",
-      "subreddit": "",
-      "title": "Show HN: Continue a ChatGPT/Claude/Gemini chat in another free AI at the limit",
-      "body": "",
-      "url": "https://aifreetoday.com/us/transfer-chat/",
-      "author": "kiterentev",
-      "score": 1,
-      "num_comments": 0,
-      "created_at": "2026-10-22T10:16:35Z",
-      "fetched_at": "2026-10-22T16:41:27.476439+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "免费/试用"
-      ],
-      "deal_types_en": [
-        "Free/Trial"
-      ],
-      "products": [
-        "Claude",
-        "ChatGPT",
-        "Gemini"
-      ],
-      "companies": [
-        "Google",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "ChatGPT",
-        "Gemini",
-        "免费/试用"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1250140",
-      "source": "v2ex",
-      "subreddit": 1140,
-      "title": "chatgpt codex team 拼车 80/月",
-      "body": "10 月份，OpenAI 开启了为期 30 天的升级计划（每日若无重大升级或投票不满意即重置额度）\r\n🔥今天是第十天，今天又重置额度了。目前前八天重置 5 次。（配合仅周限号，额度很充足了）\r\n💡活动剩 18 天。要么吃到重置额度，要么享受到最新的升级服务，横竖不亏！！！\r\n\r\n[核心权益]\r\n--codex 额度等同于 GPT Plus ，网页端比 plus 多两个高阶模型（ GPT-6 Pro / xhigh ）。\r\n\r\n[车费与规则]\r\n-- 价格：80/月（长期车，支持按月续费，最长可 80 元月费续费 48 个月）\r\n\r\n上车：发送你的 GPT 注册邮箱，我直接邀请加入。\r\n保障：母号质保，翻车换新车或按剩余天数折算退款；\r\n-----支持先上车体验 1 小时，满意再付款。\r\n注意：请使用干净稳定 IP ；个人违规封号或中途跳车不退。\r\n\r\n绿泡泡(Base64):eHVmYWNlMTk4OA==（备注：V 友）",
-      "url": "https://www.v2ex.com/t/1250140",
-      "author": "zgdselina26",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-19T14:38:01",
-      "fetched_at": "2026-10-26T09:44:48.441849+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "拼车/合租",
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "拼车/合租",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1252127",
-      "source": "v2ex",
-      "subreddit": "openai",
-      "title": "chatgpt 菲律宾订阅，谁有苹果礼品卡购买渠道？",
-      "body": "",
-      "url": "https://www.v2ex.com/t/1252127",
-      "author": "SFLYYQ",
-      "score": 0,
-      "num_comments": 20,
-      "created_at": "2026-10-27T01:54:22+00:00",
-      "fetched_at": "2026-10-27T09:37:13.184962+00:00",
-      "relevance_score": 30,
       "deal_types": [
         "区域套利",
         "礼品卡"

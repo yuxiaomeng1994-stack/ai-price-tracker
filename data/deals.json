@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T04:09:16.187630+00:00",
+  "last_updated": "2026-10-28T14:55:25.321796+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 280,
@@ -1282,7 +1282,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-10-28T04:06:48.932909+00:00",
+      "fetched_at": "2026-10-28T14:52:59.334436+00:00",
       "relevance_score": 48,
       "deal_types": [
         "拼车/合租",
@@ -2684,41 +2684,38 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1252350",
+      "id": "v2ex_1252623",
       "source": "v2ex",
       "subreddit": 864,
-      "title": "想体验更稳定的 AI 接口？ DeepSeek 限时免费蹬",
-      "body": "不敢说是全网最低，毕竟价格这东西太卷了。\r\n但我们更想把重点放在两个字：稳定。\r\n接口能不能长期用、调用稳不稳、出了问题有没有人处理，这些才是真正影响使用体验的地方。\r\n现在新用户注册，可直接用于测试和体验多个 AI 渠道，包括：\r\nPlus / Pro / Claude / Kiro / Max20x 等渠道\r\n适合用来：\r\n* 调试 API 调用\r\n* 测试不同模型效果\r\n* 跑自动化工具\r\n* 接入自己的项目\r\n* 体验多渠道 AI 能力\r\n无需额外付费，注册后即可开始测试。\r\n🎁 新用户福利：DeepSeek 限时免费蹬 \r\n🌐 注册地址： https://tk168.vip\r\n💬 绿泡泡：ycc000701 \r\n我们不一定最便宜\r\n但会尽量做到更稳定、更省心、有售后。\r\n新用户注册好跟帖留下账号，稍后赠送\r\n\r\n最新 MUSE AI 免费帮助注册，注册即送 10 亿额度\r\n邀请码：OJ4WGD",
-      "url": "https://www.v2ex.com/t/1252350",
-      "author": "djlen520",
+      "title": "[Midalo API 中转站] 给佬友新用户注册送 $5 体验额度｜ GPT、Claude、国模，一把 Key 接入",
+      "body": "-   站点注册地址： https://agent.midalo.ai/ （一定要用这个地址注册，不然看不到注册 ID，防止后面领不到鸡蛋）\r\n-   本站主打平价，计费透明\r\n-   留下注册 ID 送 2 体验金，加入 QQ 群送 3 体验金，合计 5$，足够完整测试一整天\r\n-   Midalo API 官方 QQ 群：1030748124（注册后进群，私信管理员或联系客服发送账户 ID 即可随机领取 2-5$不等额度鸡蛋，24 小时内到账）\r\n-   客服 QQ：3809674723\r\n-   微信联系方式：wjn168178 （添加备注来意）\r\n\r\n\r\n## 1：模型示例\r\n\r\n-   claude（全系）\r\n-   kiro\r\n-   GPT-Image\r\n-   GPT-Pro（Codex 线 · gpt-5 / gpt-6 系列文本模型 · 适配 Codex CLI 与编程 IDE · 支持上下文缓存 ）\r\n-   Gemini-Antigravity\r\n-   Gemini-CLI\r\n-   Grok\r\n-   Deepseek\r\n-   GLM（grok-4.5）\r",
+      "url": "https://www.v2ex.com/t/1252623",
+      "author": "wxy3464",
       "score": 0,
       "num_comments": 0,
-      "created_at": "2026-10-27T12:26:46",
-      "fetched_at": "2026-10-28T04:06:46.885128+00:00",
+      "created_at": "2026-10-28T10:27:15",
+      "fetched_at": "2026-10-28T14:52:57.026101+00:00",
       "relevance_score": 43,
       "deal_types": [
-        "优惠码",
         "免费/试用",
-        "降价/折扣",
         "API优惠"
       ],
       "deal_types_en": [
-        "Promo Code",
         "Free/Trial",
-        "Price Drop",
         "API Deal"
       ],
       "products": [
+        "Gemini",
         "Claude"
       ],
       "companies": [
-        "Anthropic"
+        "Anthropic",
+        "Google"
       ],
       "tags": [
+        "Gemini",
         "Claude",
-        "优惠码",
         "免费/试用",
-        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
@@ -3371,6 +3368,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1252350",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "想体验更稳定的 AI 接口？ DeepSeek 限时免费蹬",
+      "body": "不敢说是全网最低，毕竟价格这东西太卷了。\r\n但我们更想把重点放在两个字：稳定。\r\n接口能不能长期用、调用稳不稳、出了问题有没有人处理，这些才是真正影响使用体验的地方。\r\n现在新用户注册，可直接用于测试和体验多个 AI 渠道，包括：\r\nPlus / Pro / Claude / Kiro / Max20x 等渠道\r\n适合用来：\r\n* 调试 API 调用\r\n* 测试不同模型效果\r\n* 跑自动化工具\r\n* 接入自己的项目\r\n* 体验多渠道 AI 能力\r\n无需额外付费，注册后即可开始测试。\r\n🎁 新用户福利：DeepSeek 限时免费蹬 \r\n🌐 注册地址： https://tk168.vip\r\n💬 绿泡泡：ycc000701 \r\n我们不一定最便宜\r\n但会尽量做到更稳定、更省心、有售后。\r\n新用户注册好跟帖留下账号，稍后赠送\r\n\r\n最新 MUSE AI 免费帮助注册，注册即送 10 亿额度\r\n邀请码：OJ4WGD",
+      "url": "https://www.v2ex.com/t/1252350",
+      "author": "djlen520",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-27T12:26:46",
+      "fetched_at": "2026-10-28T14:52:57.026114+00:00",
+      "relevance_score": 41,
+      "deal_types": [
+        "优惠码",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "优惠码",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1248956",
       "source": "v2ex",
       "subreddit": 864,
@@ -4012,7 +4049,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-28T03:02:10",
-      "fetched_at": "2026-10-28T04:07:03.015713+00:00",
+      "fetched_at": "2026-10-28T14:53:12.968366+00:00",
       "relevance_score": 39,
       "deal_types": [
         "优惠码",
@@ -4055,7 +4092,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T01:17:30",
-      "fetched_at": "2026-10-28T04:06:46.885170+00:00",
+      "fetched_at": "2026-10-28T14:52:57.026152+00:00",
       "relevance_score": 39,
       "deal_types": [
         "降价/折扣",
@@ -4666,46 +4703,6 @@
       "tags": [
         "Gemini",
         "Claude",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1251639",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[LinkAGI] GPT / Codex 0.15 倍率起，进群领 3 元体验额度",
-      "body": "我是 LinkAGI 的站长，给最近想接 GPT 、Claude 、Gemini API 的朋友留个试用入口。**进 QQ 群可领 3 元体验额度**，先拿自己的代码、文档跑一跑，再决定要不要充值。\r\n\r\n官网：[api.linktoagi.com]( https://api.linktoagi.com/?utm_source=v2ex&utm_medium=community&utm_campaign=trial_20261025&utm_content=home) · [注册]( https://api.linktoagi.com/sign-up?utm_source=v2ex&utm_medium=community&utm_campaign=trial_20261025&utm_content=signup)\r\n\r\nGPT 的 Sale 组是 **0.15 倍率，只接 Codex**；需要外接客户端的，可以选 Plus / Pro 。站里也有 Claude 、Gemini 、DeepSeek 、GLM ，具体模型和费用在[模型广场]( https://api.linktoagi",
-      "url": "https://www.v2ex.com/t/1251639",
-      "author": "zykoo",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-25T07:39:10",
-      "fetched_at": "2026-10-28T04:06:46.885179+00:00",
-      "relevance_score": 38,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "Gemini"
-      ],
-      "companies": [
-        "Anthropic",
-        "Google"
-      ],
-      "tags": [
-        "Claude",
-        "Gemini",
-        "免费/试用",
-        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
@@ -6193,6 +6190,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1251639",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[LinkAGI] GPT / Codex 0.15 倍率起，进群领 3 元体验额度",
+      "body": "我是 LinkAGI 的站长，给最近想接 GPT 、Claude 、Gemini API 的朋友留个试用入口。**进 QQ 群可领 3 元体验额度**，先拿自己的代码、文档跑一跑，再决定要不要充值。\r\n\r\n官网：[api.linktoagi.com]( https://api.linktoagi.com/?utm_source=v2ex&utm_medium=community&utm_campaign=trial_20261025&utm_content=home) · [注册]( https://api.linktoagi.com/sign-up?utm_source=v2ex&utm_medium=community&utm_campaign=trial_20261025&utm_content=signup)\r\n\r\nGPT 的 Sale 组是 **0.15 倍率，只接 Codex**；需要外接客户端的，可以选 Plus / Pro 。站里也有 Claude 、Gemini 、DeepSeek 、GLM ，具体模型和费用在[模型广场]( https://api.linktoagi",
+      "url": "https://www.v2ex.com/t/1251639",
+      "author": "zykoo",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-25T07:39:10",
+      "fetched_at": "2026-10-28T14:52:57.026160+00:00",
+      "relevance_score": 36,
+      "deal_types": [
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1250070",
       "source": "v2ex",
       "subreddit": 864,
@@ -7253,7 +7290,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T08:33:00",
-      "fetched_at": "2026-10-28T04:06:46.885155+00:00",
+      "fetched_at": "2026-10-28T14:52:57.026139+00:00",
       "relevance_score": 35,
       "deal_types": [
         "免费/试用",
@@ -7264,16 +7301,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
         "Anthropic",
         "Google"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "免费/试用",
         "API优惠"
       ],
@@ -7290,7 +7327,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-20T10:06:18",
-      "fetched_at": "2026-10-28T04:06:44.428537+00:00",
+      "fetched_at": "2026-10-28T14:52:54.538968+00:00",
       "relevance_score": 35,
       "deal_types": [
         "优惠码",
@@ -7301,19 +7338,19 @@
         "Price Drop"
       ],
       "products": [
+        "Gemini",
         "ChatGPT",
-        "Claude",
-        "Gemini"
+        "Claude"
       ],
       "companies": [
         "OpenAI",
-        "Google",
-        "Anthropic"
+        "Anthropic",
+        "Google"
       ],
       "tags": [
+        "Gemini",
         "ChatGPT",
         "Claude",
-        "Gemini",
         "优惠码",
         "降价/折扣"
       ],
@@ -8517,7 +8554,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-28T04:07:12.215503+00:00",
+      "fetched_at": "2026-10-28T14:53:21.944462+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -9290,7 +9327,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-28T04:07:12.215486+00:00",
+      "fetched_at": "2026-10-28T14:53:21.944434+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -9882,7 +9919,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-28T04:06:56.172091+00:00",
+      "fetched_at": "2026-10-28T14:53:06.164100+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -10193,7 +10230,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T08:24:35",
-      "fetched_at": "2026-10-28T04:07:07.896864+00:00",
+      "fetched_at": "2026-10-28T14:53:17.127334+00:00",
       "relevance_score": 32,
       "deal_types": [
         "拼车/合租",
@@ -10227,7 +10264,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T09:23:54",
-      "fetched_at": "2026-10-28T04:06:44.428513+00:00",
+      "fetched_at": "2026-10-28T14:52:54.538941+00:00",
       "relevance_score": 32,
       "deal_types": [
         "免费/试用",
@@ -11501,40 +11538,6 @@
         "ChatGPT",
         "免费/试用",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1206961",
-      "source": "v2ex",
-      "subreddit": 184,
-      "title": "[土耳其🇹🇷内购] 稳定币直付多地区 Apple Store / Google Play 内购以及购买其他虚拟商品， Openai 土区约 5.6 折，大部分包含邮件收据",
-      "body": "写在前面\r\n\r\nApple 和 Google Play 的账号余额与国家/地区强绑定，转区前需注意：\r\n\r\n- **Apple store**：改区前必须先花完余额并取消所有相关订阅，否则无法切换。\r\n- **Google Play**：切区后旧区余额在新区无法使用，但切回旧区后仍可继续使用。\r\n\r\n所以建议先确认好目标区服，再决定是否下单购买对应区礼品卡。\r\n\r\n$V2EX 是跑在 Solana 上的 SPL 代币，需要先换成 USDC /USDT 或者其他虚拟货币才能在下列部分平台消费。链上操作记得预留少量 SOL 做 gas ，建议在已 KYC 的交易所内完成兑换。\r\n\r\n仅提出一种成熟的支付思路以及常见商家举例，本人并不对实际交易承担责任，币圈诈骗猖獗，建议提高警惕。\r\n\r\n-----\r\n\r\n什么是「稳定币直付」\r\n\r\n就是 USDC / USDT 等不经过法币兑换，直接在平台结账页选择加密货币支付，填入钱包地址或扫码，付完即发码。整个流程不需要绑卡、不需要银行转账，适合手里已经持有稳定币的人。\r\n\r\n-----\r\n稳定币直付礼品卡\r\n\r\n**Bitrefill**：下单时选择",
-      "url": "https://www.v2ex.com/t/1206961",
-      "author": "ideard",
-      "score": 0,
-      "num_comments": 3,
-      "created_at": "2026-04-19T04:40:52",
-      "fetched_at": "2026-05-17T20:51:29.422076+00:00",
-      "relevance_score": 32,
-      "deal_types": [
-        "区域套利",
-        "礼品卡"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Gift Card"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "区域套利",
-        "礼品卡"
       ],
       "is_deal": true
     }

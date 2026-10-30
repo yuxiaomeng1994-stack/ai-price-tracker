@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T20:55:38.303253+00:00",
+  "last_updated": "2026-10-30T04:32:27.307226+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 280,
@@ -1282,7 +1282,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-10-29T20:53:17.446069+00:00",
+      "fetched_at": "2026-10-30T04:29:33.599849+00:00",
       "relevance_score": 48,
       "deal_types": [
         "拼车/合租",
@@ -1509,40 +1509,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1252714",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "ChatGPT 订阅也能领 API 额度了：最高每月 500 美元，手把手教你领取",
-      "body": "官网帮助页： https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions\r\n\r\n## 额度\r\n- Pro100 = $100\r\n- Pro200 = $200\r\n- Pro500 = $500\r\n- Business Standard = 每个付费席位每月 20 美元\r\n- Business Premium = 每个付费席位每月 100 美元\r\n\r\n## 领取条件\r\n- 你有有效的 ChatGPT Pro 或 Business 付费订阅，且订阅已生效至少 7 天。\r\n- 免费试用和赠送的订阅不符合条件。\r\n- 你需要是 ChatGPT 订阅或 Business 工作空间的所有者，同时也是接收额度的 API 组织的所有者。\r\n- 用于关联的 ChatGPT 账户和 API 账户，邮箱地址需要一致。\r\n- 如果你使用的是 ChatGPT Plus 、Go 或免费版，目前不在这项福利的适用范围内，Enterprise 也不符合这项福利的条件。\r\n\r\n##",
-      "url": "https://www.v2ex.com/t/1252714",
-      "author": "licoycn",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-29T00:05:21",
-      "fetched_at": "2026-10-29T20:53:12.728839+00:00",
-      "relevance_score": 47,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1234650",
       "source": "v2ex",
       "subreddit": 148,
@@ -1759,7 +1725,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-29T09:44:33",
-      "fetched_at": "2026-10-29T20:53:19.805409+00:00",
+      "fetched_at": "2026-10-30T04:29:36.545694+00:00",
       "relevance_score": 46,
       "deal_types": [
         "免费/试用",
@@ -1772,16 +1738,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "ChatGPT"
+        "ChatGPT",
+        "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -2113,6 +2079,40 @@
         "免费/试用",
         "降价/折扣",
         "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1252714",
+      "source": "v2ex",
+      "subreddit": 300,
+      "title": "ChatGPT 订阅也能领 API 额度了：最高每月 500 美元，手把手教你领取",
+      "body": "官网帮助页： https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions\r\n\r\n## 额度\r\n- Pro100 = $100\r\n- Pro200 = $200\r\n- Pro500 = $500\r\n- Business Standard = 每个付费席位每月 20 美元\r\n- Business Premium = 每个付费席位每月 100 美元\r\n\r\n## 领取条件\r\n- 你有有效的 ChatGPT Pro 或 Business 付费订阅，且订阅已生效至少 7 天。\r\n- 免费试用和赠送的订阅不符合条件。\r\n- 你需要是 ChatGPT 订阅或 Business 工作空间的所有者，同时也是接收额度的 API 组织的所有者。\r\n- 用于关联的 ChatGPT 账户和 API 账户，邮箱地址需要一致。\r\n- 如果你使用的是 ChatGPT Plus 、Go 或免费版，目前不在这项福利的适用范围内，Enterprise 也不符合这项福利的条件。\r\n\r\n##",
+      "url": "https://www.v2ex.com/t/1252714",
+      "author": "licoycn",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-29T00:05:21",
+      "fetched_at": "2026-10-30T04:29:28.239461+00:00",
+      "relevance_score": 45,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "免费/试用",
         "API优惠"
       ],
       "is_deal": true
@@ -2866,6 +2866,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1253086",
+      "source": "v2ex",
+      "subreddit": "openai",
+      "title": "目前为止有通过 Google Play 订阅 ChatGPT 的用户领到了赠送的 API 额度吗？",
+      "body": "我看站里有 AppStore 订阅的用户说领到了额度，但还没看过 Play 用户说领了的",
+      "url": "https://www.v2ex.com/t/1253086",
+      "author": "Removable",
+      "score": 0,
+      "num_comments": 18,
+      "created_at": "2026-10-30T02:27:01+00:00",
+      "fetched_at": "2026-10-30T04:29:19.183945+00:00",
+      "relevance_score": 42,
+      "deal_types": [
+        "区域套利",
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "区域套利",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1237643",
       "source": "v2ex",
       "subreddit": 864,
@@ -3415,7 +3452,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-28T10:27:15",
-      "fetched_at": "2026-10-29T20:53:15.199378+00:00",
+      "fetched_at": "2026-10-30T04:29:31.070503+00:00",
       "relevance_score": 41,
       "deal_types": [
         "免费/试用",
@@ -3452,7 +3489,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-27T12:26:46",
-      "fetched_at": "2026-10-29T20:53:15.199387+00:00",
+      "fetched_at": "2026-10-30T04:29:31.070513+00:00",
       "relevance_score": 41,
       "deal_types": [
         "优惠码",
@@ -5504,7 +5541,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-28T03:02:10",
-      "fetched_at": "2026-10-29T20:53:31.772229+00:00",
+      "fetched_at": "2026-10-30T04:29:49.631954+00:00",
       "relevance_score": 37,
       "deal_types": [
         "优惠码",
@@ -5615,7 +5652,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T01:17:30",
-      "fetched_at": "2026-10-29T20:53:49.822121+00:00",
+      "fetched_at": "2026-10-30T04:30:10.376204+00:00",
       "relevance_score": 37,
       "deal_types": [
         "降价/折扣",
@@ -6342,7 +6379,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-29T10:22:08",
-      "fetched_at": "2026-10-29T20:53:54.236820+00:00",
+      "fetched_at": "2026-10-30T04:30:15.413819+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -6379,7 +6416,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-25T07:39:10",
-      "fetched_at": "2026-10-29T20:53:17.446063+00:00",
+      "fetched_at": "2026-10-30T04:29:33.599845+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -7455,40 +7492,6 @@
         "拼车/合租",
         "降价/折扣",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1252793",
-      "source": "v2ex",
-      "subreddit": 16,
-      "title": "Gemini Pro 学生优惠一年套餐免费领取",
-      "body": "https://youtu.be/53kkyeFJp-0",
-      "url": "https://www.v2ex.com/t/1252793",
-      "author": "whatsyouname",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-29T03:22:26",
-      "fetched_at": "2026-10-29T20:53:17.446019+00:00",
-      "relevance_score": 35,
-      "deal_types": [
-        "学生/教育",
-        "免费/试用"
-      ],
-      "deal_types_en": [
-        "Student/Edu",
-        "Free/Trial"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "学生/教育",
-        "免费/试用"
       ],
       "is_deal": true
     },
@@ -8730,7 +8733,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-29T20:53:40.693478+00:00",
+      "fetched_at": "2026-10-30T04:29:59.887940+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -9348,6 +9351,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1252793",
+      "source": "v2ex",
+      "subreddit": "deals",
+      "title": "Gemini Pro 学生优惠一年套餐免费领取",
+      "body": "https://youtu.be/53kkyeFJp-0",
+      "url": "https://www.v2ex.com/t/1252793",
+      "author": "whatsyouname",
+      "score": 0,
+      "num_comments": 5,
+      "created_at": "2026-10-29T03:22:26+00:00",
+      "fetched_at": "2026-10-30T04:29:25.486921+00:00",
+      "relevance_score": 33,
+      "deal_types": [
+        "学生/教育",
+        "免费/试用"
+      ],
+      "deal_types_en": [
+        "Student/Edu",
+        "Free/Trial"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "学生/教育",
+        "免费/试用"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1251958",
       "source": "v2ex",
       "subreddit": 380,
@@ -9358,7 +9395,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T08:33:00",
-      "fetched_at": "2026-10-29T20:53:17.446057+00:00",
+      "fetched_at": "2026-10-30T04:29:33.599840+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -9540,7 +9577,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-29T20:53:40.693463+00:00",
+      "fetched_at": "2026-10-30T04:29:59.887929+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -10132,7 +10169,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-29T20:53:24.312633+00:00",
+      "fetched_at": "2026-10-30T04:29:41.689154+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -10443,7 +10480,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T09:23:54",
-      "fetched_at": "2026-10-29T20:53:12.728871+00:00",
+      "fetched_at": "2026-10-30T04:29:28.239485+00:00",
       "relevance_score": 32,
       "deal_types": [
         "免费/试用",
@@ -11494,46 +11531,6 @@
         "Claude",
         "区域套利",
         "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1216296",
-      "source": "v2ex",
-      "subreddit": 1135,
-      "title": "个人充值 chatgpt/claude API 的方法有哪些呀",
-      "body": "会员可以买礼品卡充值 在手机商店订阅的方式买 那 API 呢?\r\n之前能用虚拟信用卡平台 但后来政策改动了 现在已经不对个人开放了\r\n\r\n不用中转站,个人充值给自己用的方法还有哪些呀(没境外银行卡/信用卡/加密货币)",
-      "url": "https://www.v2ex.com/t/1216296",
-      "author": "Chuizi997",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-05-28T15:54:41",
-      "fetched_at": "2026-06-04T21:42:08.606713+00:00",
-      "relevance_score": 32,
-      "deal_types": [
-        "礼品卡",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Gift Card",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "ChatGPT",
-        "Claude",
-        "礼品卡",
-        "薅羊毛/技巧",
         "API优惠"
       ],
       "is_deal": true

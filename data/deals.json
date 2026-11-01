@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T23:08:44.070996+00:00",
+  "last_updated": "2026-11-01T04:33:44.072935+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 282,
@@ -1479,7 +1479,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-10-31T23:06:21.279354+00:00",
+      "fetched_at": "2026-11-01T04:31:17.413410+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -2079,40 +2079,6 @@
         "免费/试用",
         "降价/折扣",
         "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1252714",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "ChatGPT 订阅也能领 API 额度了：最高每月 500 美元，手把手教你领取",
-      "body": "官网帮助页： https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions\r\n\r\n## 额度\r\n- Pro100 = $100\r\n- Pro200 = $200\r\n- Pro500 = $500\r\n- Business Standard = 每个付费席位每月 20 美元\r\n- Business Premium = 每个付费席位每月 100 美元\r\n\r\n## 领取条件\r\n- 你有有效的 ChatGPT Pro 或 Business 付费订阅，且订阅已生效至少 7 天。\r\n- 免费试用和赠送的订阅不符合条件。\r\n- 你需要是 ChatGPT 订阅或 Business 工作空间的所有者，同时也是接收额度的 API 组织的所有者。\r\n- 用于关联的 ChatGPT 账户和 API 账户，邮箱地址需要一致。\r\n- 如果你使用的是 ChatGPT Plus 、Go 或免费版，目前不在这项福利的适用范围内，Enterprise 也不符合这项福利的条件。\r\n\r\n##",
-      "url": "https://www.v2ex.com/t/1252714",
-      "author": "licoycn",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-29T00:05:21",
-      "fetched_at": "2026-10-31T23:06:16.535397+00:00",
-      "relevance_score": 45,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "免费/试用",
         "API优惠"
       ],
       "is_deal": true
@@ -2754,6 +2720,40 @@
         "Claude",
         "区域套利",
         "礼品卡"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1252714",
+      "source": "v2ex",
+      "subreddit": 300,
+      "title": "ChatGPT 订阅也能领 API 额度了：最高每月 500 美元，手把手教你领取",
+      "body": "官网帮助页： https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions\r\n\r\n## 额度\r\n- Pro100 = $100\r\n- Pro200 = $200\r\n- Pro500 = $500\r\n- Business Standard = 每个付费席位每月 20 美元\r\n- Business Premium = 每个付费席位每月 100 美元\r\n\r\n## 领取条件\r\n- 你有有效的 ChatGPT Pro 或 Business 付费订阅，且订阅已生效至少 7 天。\r\n- 免费试用和赠送的订阅不符合条件。\r\n- 你需要是 ChatGPT 订阅或 Business 工作空间的所有者，同时也是接收额度的 API 组织的所有者。\r\n- 用于关联的 ChatGPT 账户和 API 账户，邮箱地址需要一致。\r\n- 如果你使用的是 ChatGPT Plus 、Go 或免费版，目前不在这项福利的适用范围内，Enterprise 也不符合这项福利的条件。\r\n\r\n##",
+      "url": "https://www.v2ex.com/t/1252714",
+      "author": "licoycn",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-29T00:05:21",
+      "fetched_at": "2026-11-01T04:31:12.917079+00:00",
+      "relevance_score": 43,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "免费/试用",
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -4083,7 +4083,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-28T10:27:15",
-      "fetched_at": "2026-10-31T23:06:21.279318+00:00",
+      "fetched_at": "2026-11-01T04:31:17.413394+00:00",
       "relevance_score": 39,
       "deal_types": [
         "免费/试用",
@@ -4098,8 +4098,8 @@
         "Claude"
       ],
       "companies": [
-        "Anthropic",
-        "Google"
+        "Google",
+        "Anthropic"
       ],
       "tags": [
         "Gemini",
@@ -4701,43 +4701,6 @@
         "免费/试用",
         "薅羊毛/技巧",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1253341",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "双十一 Huiai 让利来袭 ChatGPT Plus126 元起，可开票。。。",
-      "body": "今天 ChatGPT Plus/Pro 特惠，¥126 起。\r\nPlus 折扣码 HUIAI@5 立减 5 元\r\nPro 5x 折扣 HUIAI@15 立减 15 元\r\nPro 10x 折扣 HUIAI@30 立减 30 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、 \r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.me/\r\n有问题直接回帖。",
-      "url": "https://www.v2ex.com/t/1253341",
-      "author": "log226",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-31T00:57:54",
-      "fetched_at": "2026-10-31T23:06:16.535361+00:00",
-      "relevance_score": 38,
-      "deal_types": [
-        "优惠码",
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Price Drop"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "Claude",
-        "优惠码",
-        "降价/折扣"
       ],
       "is_deal": true
     },
@@ -5689,7 +5652,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T01:17:30",
-      "fetched_at": "2026-10-31T23:06:59.604008+00:00",
+      "fetched_at": "2026-11-01T04:31:55.593607+00:00",
       "relevance_score": 37,
       "deal_types": [
         "降价/折扣",
@@ -6406,6 +6369,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1253341",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "双十一 Huiai 让利来袭 ChatGPT Plus126 元起，可开票。。。",
+      "body": "今天 ChatGPT Plus/Pro 特惠，¥126 起。\r\nPlus 折扣码 HUIAI@5 立减 5 元\r\nPro 5x 折扣 HUIAI@15 立减 15 元\r\nPro 10x 折扣 HUIAI@30 立减 30 元\r\nChatGPT Plus / Pro , Claude Pro / Max 、 \r\n微信、支付宝付款，不用海外信用卡付款后自动开通，订单进度和售后都能查开通失败全额退;开上之后出问题优先修\r\n下单:https://www.huiai.me/\r\n有问题直接回帖。",
+      "url": "https://www.v2ex.com/t/1253341",
+      "author": "log226",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-31T00:57:54",
+      "fetched_at": "2026-11-01T04:31:12.917062+00:00",
+      "relevance_score": 36,
+      "deal_types": [
+        "优惠码",
+        "降价/折扣"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Price Drop"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "优惠码",
+        "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1252940",
       "source": "v2ex",
       "subreddit": 864,
@@ -6453,7 +6453,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-25T07:39:10",
-      "fetched_at": "2026-10-31T23:06:21.279347+00:00",
+      "fetched_at": "2026-11-01T04:31:17.413407+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -6470,8 +6470,8 @@
         "Claude"
       ],
       "companies": [
-        "Anthropic",
-        "Google"
+        "Google",
+        "Anthropic"
       ],
       "tags": [
         "Gemini",
@@ -8505,7 +8505,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-30T05:13:08",
-      "fetched_at": "2026-10-31T23:06:39.648924+00:00",
+      "fetched_at": "2026-11-01T04:31:35.464210+00:00",
       "relevance_score": 34,
       "deal_types": [
         "拼车/合租",
@@ -8804,7 +8804,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-10-31T23:06:43.936605+00:00",
+      "fetched_at": "2026-11-01T04:31:39.898936+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -9422,40 +9422,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1252793",
-      "source": "v2ex",
-      "subreddit": "deals",
-      "title": "Gemini Pro 学生优惠一年套餐免费领取",
-      "body": "https://youtu.be/53kkyeFJp-0",
-      "url": "https://www.v2ex.com/t/1252793",
-      "author": "whatsyouname",
-      "score": 0,
-      "num_comments": 5,
-      "created_at": "2026-10-29T03:22:26+00:00",
-      "fetched_at": "2026-10-31T23:06:14.042221+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "学生/教育",
-        "免费/试用"
-      ],
-      "deal_types_en": [
-        "Student/Edu",
-        "Free/Trial"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "学生/教育",
-        "免费/试用"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1251958",
       "source": "v2ex",
       "subreddit": 380,
@@ -9466,7 +9432,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T08:33:00",
-      "fetched_at": "2026-10-31T23:06:21.279333+00:00",
+      "fetched_at": "2026-11-01T04:31:17.413401+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -9481,8 +9447,8 @@
         "Claude"
       ],
       "companies": [
-        "Anthropic",
-        "Google"
+        "Google",
+        "Anthropic"
       ],
       "tags": [
         "Gemini",
@@ -9648,7 +9614,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-10-31T23:06:43.936586+00:00",
+      "fetched_at": "2026-11-01T04:31:39.898927+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -10240,7 +10206,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-10-31T23:06:28.075263+00:00",
+      "fetched_at": "2026-11-01T04:31:24.081108+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -10498,43 +10464,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1253345",
-      "source": "v2ex",
-      "subreddit": 17,
-      "title": "给「管住自己」的炒股工具接上了 AI： MCP、API Key， Claude 插件和 skill 在 GitHub 开源了",
-      "body": "月初发过一帖：[炒股老不按自己定的规则来，干脆写了个工具管住自己]( https://www.v2ex.com/t/1246267)。简单说，就是把自己的买卖规则写下来，每天收盘后按规则扫一遍自选股，再把实际的操作记下来，复盘时看自己到底守没守规则。\r\n\r\n这几周主要做了 AI 接入。现在可以在 Claude 、ChatGPT 、Claude Code 、Cursor 这类 AI 应用里，直接用自己在 Stock Compass 的记录。\r\n\r\n## 能干什么\r\n\r\n连上之后可以这样问：\r\n\r\n- 我的港股自选股有哪些？止损都设在哪？\r\n- 这周我的策略记录了哪些买入信号？\r\n- 我今天以 382.4 买了 200 股 700 ，帮我记一下，止损 350 。\r\n- 帮我写一个突破策略，8% 止损，然后给我导入用的 JSON 。\r\n\r\nAI 能读的是你自己的自选、持仓、信号、交易和价格提醒。如果你允许修改，它还能记录、更正或删除交易，改止损和目标，设价格提醒。\r\n\r\n还是只记账：不连券商，不会下单，也不给买卖建议。信号就是你自己写的规则触发了。\r\n\r\n## 怎么接\r\n\r\n最省事的办法是把",
-      "url": "https://www.v2ex.com/t/1253345",
-      "author": "Krist",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-31T01:22:58",
-      "fetched_at": "2026-10-31T23:06:19.001309+00:00",
-      "relevance_score": 32,
-      "deal_types": [
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "API Deal"
-      ],
-      "products": [
-        "Cursor",
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "Cursor",
-        "Anthropic",
-        "OpenAI"
-      ],
-      "tags": [
-        "Cursor",
-        "ChatGPT",
-        "Claude",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1253224",
       "source": "v2ex",
       "subreddit": 864,
@@ -10545,7 +10474,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-30T07:44:33",
-      "fetched_at": "2026-10-31T23:06:16.535365+00:00",
+      "fetched_at": "2026-11-01T04:31:12.917064+00:00",
       "relevance_score": 32,
       "deal_types": [
         "API优惠"
@@ -10554,16 +10483,16 @@
         "API Deal"
       ],
       "products": [
-        "ChatGPT",
-        "Claude"
+        "Claude",
+        "ChatGPT"
       ],
       "companies": [
         "Anthropic",
         "OpenAI"
       ],
       "tags": [
-        "ChatGPT",
         "Claude",
+        "ChatGPT",
         "API优惠"
       ],
       "is_deal": true
@@ -10579,7 +10508,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-30T04:31:44",
-      "fetched_at": "2026-10-31T23:06:35.299534+00:00",
+      "fetched_at": "2026-11-01T04:31:31.050187+00:00",
       "relevance_score": 32,
       "deal_types": [
         "免费/试用",
@@ -10594,8 +10523,8 @@
         "Claude"
       ],
       "companies": [
-        "Anthropic",
-        "Google"
+        "Google",
+        "Anthropic"
       ],
       "tags": [
         "Gemini",
@@ -11475,6 +11404,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1252793",
+      "source": "v2ex",
+      "subreddit": "deals",
+      "title": "Gemini Pro 学生优惠一年套餐免费领取",
+      "body": "https://youtu.be/53kkyeFJp-0",
+      "url": "https://www.v2ex.com/t/1252793",
+      "author": "whatsyouname",
+      "score": 0,
+      "num_comments": 5,
+      "created_at": "2026-10-29T03:22:26+00:00",
+      "fetched_at": "2026-11-01T04:31:10.560113+00:00",
+      "relevance_score": 31,
+      "deal_types": [
+        "学生/教育",
+        "免费/试用"
+      ],
+      "deal_types_en": [
+        "Student/Edu",
+        "Free/Trial"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "学生/教育",
+        "免费/试用"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1251512",
       "source": "v2ex",
       "subreddit": 864,
@@ -11485,7 +11448,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T09:23:54",
-      "fetched_at": "2026-10-31T23:06:46.167395+00:00",
+      "fetched_at": "2026-11-01T04:31:42.288484+00:00",
       "relevance_score": 31,
       "deal_types": [
         "免费/试用",
@@ -11507,6 +11470,43 @@
         "ChatGPT",
         "免费/试用",
         "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1253345",
+      "source": "v2ex",
+      "subreddit": 17,
+      "title": "给「管住自己」的炒股工具接上了 AI： MCP、API Key， Claude 插件和 skill 在 GitHub 开源了",
+      "body": "月初发过一帖：[炒股老不按自己定的规则来，干脆写了个工具管住自己]( https://www.v2ex.com/t/1246267)。简单说，就是把自己的买卖规则写下来，每天收盘后按规则扫一遍自选股，再把实际的操作记下来，复盘时看自己到底守没守规则。\r\n\r\n这几周主要做了 AI 接入。现在可以在 Claude 、ChatGPT 、Claude Code 、Cursor 这类 AI 应用里，直接用自己在 Stock Compass 的记录。\r\n\r\n## 能干什么\r\n\r\n连上之后可以这样问：\r\n\r\n- 我的港股自选股有哪些？止损都设在哪？\r\n- 这周我的策略记录了哪些买入信号？\r\n- 我今天以 382.4 买了 200 股 700 ，帮我记一下，止损 350 。\r\n- 帮我写一个突破策略，8% 止损，然后给我导入用的 JSON 。\r\n\r\nAI 能读的是你自己的自选、持仓、信号、交易和价格提醒。如果你允许修改，它还能记录、更正或删除交易，改止损和目标，设价格提醒。\r\n\r\n还是只记账：不连券商，不会下单，也不给买卖建议。信号就是你自己写的规则触发了。\r\n\r\n## 怎么接\r\n\r\n最省事的办法是把",
+      "url": "https://www.v2ex.com/t/1253345",
+      "author": "Krist",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-31T01:22:58",
+      "fetched_at": "2026-11-01T04:31:15.303423+00:00",
+      "relevance_score": 30,
+      "deal_types": [
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "API Deal"
+      ],
+      "products": [
+        "Cursor",
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "Cursor",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "Cursor",
+        "Claude",
+        "ChatGPT",
         "API优惠"
       ],
       "is_deal": true

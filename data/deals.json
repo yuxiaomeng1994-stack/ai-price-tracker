@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T20:15:07.145378+00:00",
+  "last_updated": "2026-11-02T04:36:28.460343+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 282,
@@ -1479,7 +1479,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-01T20:12:37.757201+00:00",
+      "fetched_at": "2026-11-02T04:34:04.154415+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -2734,7 +2734,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-29T00:05:21",
-      "fetched_at": "2026-11-01T20:12:32.411384+00:00",
+      "fetched_at": "2026-11-02T04:33:59.550954+00:00",
       "relevance_score": 43,
       "deal_types": [
         "免费/试用",
@@ -4083,7 +4083,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-28T10:27:15",
-      "fetched_at": "2026-11-01T20:12:37.757179+00:00",
+      "fetched_at": "2026-11-02T04:34:04.154403+00:00",
       "relevance_score": 39,
       "deal_types": [
         "免费/试用",
@@ -4098,8 +4098,8 @@
         "Gemini"
       ],
       "companies": [
-        "Anthropic",
-        "Google"
+        "Google",
+        "Anthropic"
       ],
       "tags": [
         "Claude",
@@ -4700,6 +4700,46 @@
         "礼品卡",
         "免费/试用",
         "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1253731",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "受不了官方 Claude 的价格和封号，自己搭了个聚合中转，分享下",
+      "body": "利益相关先说在前：这是我自己的项目 kevoryn.com 。\r\n\r\n起因就是官方 Claude / ChatGPT 的 API 又贵、又要国外卡、挂 agent 跑一跑额度就见底，还时不时风控。干脆做了个聚合中转自用，现在开放出来。\r\n\r\n几个我觉得有用的点：\r\n\r\n一个 key 调 80+ 模型，Claude / GPT / Gemini / Grok 和国产的 DeepSeek / Kimi / GLM / Qwen 都在。保留原生协议，代码只换 base_url 和 key ，不用改。\r\n\r\n  OpenAI 兼容:   https://api.kevoryn.com/v1\r\n  Anthropic 原生: https://api.kevoryn.com   (客户端补 /v1/messages)\r\n  Gemini 原生:    https://api.kevoryn.com   (客户端补 /v1beta)\r\n\r\n分组按渠道质量分层，官方直连贵但稳，特价/第三方渠道便宜，按需求选。价格和官方价对照在 kevoryn.com/model-plaza ，文档 kevoryn.c",
+      "url": "https://www.v2ex.com/t/1253731",
+      "author": "hhe22007",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-02T03:22:20",
+      "fetched_at": "2026-11-02T04:34:15.332039+00:00",
+      "relevance_score": 38,
+      "deal_types": [
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "Gemini",
+        "ChatGPT"
+      ],
+      "companies": [
+        "Google",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "tags": [
+        "Claude",
+        "Gemini",
+        "ChatGPT",
+        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
@@ -5463,6 +5503,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1253750",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "AIKey365 新用户福利：注册即送 10 元 API 额度，限量 20 名",
+      "body": "大家好，介绍一下我们正在运营的 AIKey365：\r\n\r\nhttps://aikey365.com\r\n\r\n这是一个面向开发者的 AI API 聚合服务，支持 Codex 、Claude 、Gemini 等模型的 API 接入。\r\n\r\n现在开展一轮新用户体验活动：\r\n\r\n**新注册用户赠送 10 元 API 调用额度！**\r\n\r\n活动规则：\r\n\r\n1. 仅限活动发布后新注册的用户。\r\n2. 每个符合条件的用户赠送 10 元 API 调用额度。\r\n3. 每个账号仅限领取一次，额度不可提现。\r\n4. 首批限量 20 人，送完结束。\r\n5. 此前领取过本站赠额的用户不参与本次活动。\r\n\r\n参与方式：\r\n\r\n1. 访问 https://aikey365.com 注册账号。\r\n2. 在本帖回复你的注册用户名。\r\n3. 我们核实符合条件后，直接为账号添加 10 元额度。\r\n\r\n不需要转发、点赞，也不需要完成其他任务。\r\n\r\n欢迎有实际 API 使用需求的朋友体验，也欢迎反馈使用感受。",
+      "url": "https://www.v2ex.com/t/1253750",
+      "author": "mapleisaac",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-02T03:59:27",
+      "fetched_at": "2026-11-02T04:34:39.336907+00:00",
+      "relevance_score": 37,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "Gemini"
+      ],
+      "companies": [
+        "Google",
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "Gemini",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1252826",
       "source": "v2ex",
       "subreddit": 16,
@@ -5637,43 +5714,6 @@
       ],
       "tags": [
         "Cursor",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1251758",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "🥭 芒果 AI｜ 程序员省钱指南：跑分涨了，账单别涨——DeepSeek 和 Kimi 都能低价跑",
-      "body": "# 🥭 程序员省钱指南：跑分涨了，账单别涨——DeepSeek 和 Kimi 都能低价跑\r\n\r\n**一句话结论：DeepSeek-4.1-Flash 1017 编程和终端 Agent 有提升； Kimi K3.1 Pro 在终端编程基准上逼近 Claude Opus 5.5 ，API 定价只有 Opus 的一半。想低成本试这两个模型，芒果 AI 国产模型 0.05 折起，新用户先送 1 元额度。**\r\n\r\n## 你是不是也这样？\r\n\r\n- 修 Bug 修到凌晨，想让 AI 看终端报错，结果模型绕半天\r\n- 写小工具时，代码生成、改错、跑命令来回切，Token 悄悄烧完\r\n- 看上了更强的模型，一看 API 价格又把手缩回来\r\n- 想跑自动化 Agent ，又怕高频调用把预算打穿\r\n\r\n这次有两个模型值得放进你的候选名单。\r\n\r\n## DeepSeek-4.1-Flash 1017：日常干活够用的那一档\r\n\r\n**① 终端里干活**\r\nTerminal-Bench 4.0 从 31.2 提到 42.3 。终端操作类任务有改善，适合经常在命令行里折腾的人。\r\n\r\n**② 写代码、改代码**",
-      "url": "https://www.v2ex.com/t/1251758",
-      "author": "superhreo123",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-26T01:17:30",
-      "fetched_at": "2026-11-01T20:13:21.682340+00:00",
-      "relevance_score": 37,
-      "deal_types": [
-        "降价/折扣",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Price Drop",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "降价/折扣",
-        "薅羊毛/技巧",
         "API优惠"
       ],
       "is_deal": true
@@ -6379,7 +6419,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-31T00:57:54",
-      "fetched_at": "2026-11-01T20:12:32.411360+00:00",
+      "fetched_at": "2026-11-02T04:33:59.550942+00:00",
       "relevance_score": 36,
       "deal_types": [
         "优惠码",
@@ -6394,8 +6434,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "Claude",
@@ -6438,6 +6478,43 @@
         "Claude",
         "Gemini",
         "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1251758",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "🥭 芒果 AI｜ 程序员省钱指南：跑分涨了，账单别涨——DeepSeek 和 Kimi 都能低价跑",
+      "body": "# 🥭 程序员省钱指南：跑分涨了，账单别涨——DeepSeek 和 Kimi 都能低价跑\r\n\r\n**一句话结论：DeepSeek-4.1-Flash 1017 编程和终端 Agent 有提升； Kimi K3.1 Pro 在终端编程基准上逼近 Claude Opus 5.5 ，API 定价只有 Opus 的一半。想低成本试这两个模型，芒果 AI 国产模型 0.05 折起，新用户先送 1 元额度。**\r\n\r\n## 你是不是也这样？\r\n\r\n- 修 Bug 修到凌晨，想让 AI 看终端报错，结果模型绕半天\r\n- 写小工具时，代码生成、改错、跑命令来回切，Token 悄悄烧完\r\n- 看上了更强的模型，一看 API 价格又把手缩回来\r\n- 想跑自动化 Agent ，又怕高频调用把预算打穿\r\n\r\n这次有两个模型值得放进你的候选名单。\r\n\r\n## DeepSeek-4.1-Flash 1017：日常干活够用的那一档\r\n\r\n**① 终端里干活**\r\nTerminal-Bench 4.0 从 31.2 提到 42.3 。终端操作类任务有改善，适合经常在命令行里折腾的人。\r\n\r\n**② 写代码、改代码**",
+      "url": "https://www.v2ex.com/t/1251758",
+      "author": "superhreo123",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-10-26T01:17:30",
+      "fetched_at": "2026-11-02T04:34:41.537675+00:00",
+      "relevance_score": 36,
+      "deal_types": [
+        "降价/折扣",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Price Drop",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "降价/折扣",
+        "薅羊毛/技巧",
         "API优惠"
       ],
       "is_deal": true
@@ -7503,7 +7580,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-25T07:39:10",
-      "fetched_at": "2026-11-01T20:12:37.757196+00:00",
+      "fetched_at": "2026-11-02T04:34:04.154412+00:00",
       "relevance_score": 35,
       "deal_types": [
         "免费/试用",
@@ -7520,8 +7597,8 @@
         "Gemini"
       ],
       "companies": [
-        "Anthropic",
-        "Google"
+        "Google",
+        "Anthropic"
       ],
       "tags": [
         "Claude",
@@ -8505,7 +8582,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-30T05:13:08",
-      "fetched_at": "2026-11-01T20:12:58.935418+00:00",
+      "fetched_at": "2026-11-02T04:34:21.825295+00:00",
       "relevance_score": 34,
       "deal_types": [
         "拼车/合租",
@@ -8804,7 +8881,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-11-01T20:13:03.979972+00:00",
+      "fetched_at": "2026-11-02T04:34:26.180892+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -9432,7 +9509,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T08:33:00",
-      "fetched_at": "2026-11-01T20:12:37.757190+00:00",
+      "fetched_at": "2026-11-02T04:34:04.154410+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -9447,8 +9524,8 @@
         "Gemini"
       ],
       "companies": [
-        "Anthropic",
-        "Google"
+        "Google",
+        "Anthropic"
       ],
       "tags": [
         "Claude",
@@ -9614,7 +9691,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-11-01T20:13:03.979957+00:00",
+      "fetched_at": "2026-11-02T04:34:26.180880+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -10206,7 +10283,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-11-01T20:12:45.568196+00:00",
+      "fetched_at": "2026-11-02T04:34:10.820859+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -10474,7 +10551,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-30T07:44:33",
-      "fetched_at": "2026-11-01T20:12:32.411363+00:00",
+      "fetched_at": "2026-11-02T04:33:59.550943+00:00",
       "relevance_score": 32,
       "deal_types": [
         "API优惠"
@@ -10487,8 +10564,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic"
+        "Anthropic",
+        "OpenAI"
       ],
       "tags": [
         "Claude",
@@ -11414,7 +11491,7 @@
       "score": 0,
       "num_comments": 5,
       "created_at": "2026-10-29T03:22:26+00:00",
-      "fetched_at": "2026-11-01T20:12:29.347453+00:00",
+      "fetched_at": "2026-11-02T04:33:57.139007+00:00",
       "relevance_score": 31,
       "deal_types": [
         "学生/教育",
@@ -11434,80 +11511,6 @@
         "Gemini",
         "学生/教育",
         "免费/试用"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1251512",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "2026 年如何快速且靠谱的搞定你的 ChatGPT Plus/Pro 订阅，亲测四种行之有效的方法",
-      "body": "# 2026 年如何快速且靠谱的搞定你的 ChatGPT Plus/Pro 订阅，亲测四种行之有效的方法\r\n\r\n2026 年简直是 AI 时代，不管你是做视频，还是写文案，或者是写代码基本离不开 AI 了。说真的，我是挺害怕 AI 未来会真的控制人类（开个玩笑，但不的不说现在的 AI 真的是强大的离谱）\r\n\r\n我以前纯粹是手敲代码，自从去年用了 ChatGPT 之后，一发不可收拾，刚开始只是在网页版上查报错，写正则，直到 codex 的出现，简直是逆天了，直接发给 codex 提示词，它就能帮你搞定你所需要的东西。\r\n\r\n但无奈的是免费版几乎用不了 codex,可能你说几句话就没有额度了，而且用不了它最先进的模型。想要用好的模型，你就的充 plus 甚至 pro 。但 ChatGPT 目前没有对中国用户开通付款方式，所以真的卡住了太多人了。\r\n\r\n我是各种方法都折腾过，开通过虚拟卡，但发现充过一两次就用不成了，然后自己又去折腾美区苹果 ID ，为此还专门买了个港版苹果手机，但买来的苹果 ID ，充了一两次又没办法充了。真的是各种折腾。后来觉得太麻烦了，索性一直是找的第三方代充，无非也就",
-      "url": "https://www.v2ex.com/t/1251512",
-      "author": "liuyao729",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-24T09:23:54",
-      "fetched_at": "2026-11-01T20:13:06.491201+00:00",
-      "relevance_score": 31,
-      "deal_types": [
-        "免费/试用",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "免费/试用",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1253345",
-      "source": "v2ex",
-      "subreddit": 17,
-      "title": "给「管住自己」的炒股工具接上了 AI： MCP、API Key， Claude 插件和 skill 在 GitHub 开源了",
-      "body": "月初发过一帖：[炒股老不按自己定的规则来，干脆写了个工具管住自己]( https://www.v2ex.com/t/1246267)。简单说，就是把自己的买卖规则写下来，每天收盘后按规则扫一遍自选股，再把实际的操作记下来，复盘时看自己到底守没守规则。\r\n\r\n这几周主要做了 AI 接入。现在可以在 Claude 、ChatGPT 、Claude Code 、Cursor 这类 AI 应用里，直接用自己在 Stock Compass 的记录。\r\n\r\n## 能干什么\r\n\r\n连上之后可以这样问：\r\n\r\n- 我的港股自选股有哪些？止损都设在哪？\r\n- 这周我的策略记录了哪些买入信号？\r\n- 我今天以 382.4 买了 200 股 700 ，帮我记一下，止损 350 。\r\n- 帮我写一个突破策略，8% 止损，然后给我导入用的 JSON 。\r\n\r\nAI 能读的是你自己的自选、持仓、信号、交易和价格提醒。如果你允许修改，它还能记录、更正或删除交易，改止损和目标，设价格提醒。\r\n\r\n还是只记账：不连券商，不会下单，也不给买卖建议。信号就是你自己写的规则触发了。\r\n\r\n## 怎么接\r\n\r\n最省事的办法是把",
-      "url": "https://www.v2ex.com/t/1253345",
-      "author": "Krist",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-31T01:22:58",
-      "fetched_at": "2026-11-01T20:12:35.117646+00:00",
-      "relevance_score": 30,
-      "deal_types": [
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "ChatGPT",
-        "Cursor"
-      ],
-      "companies": [
-        "Cursor",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "ChatGPT",
-        "Cursor",
-        "API优惠"
       ],
       "is_deal": true
     }

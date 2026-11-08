@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T04:36:55.612178+00:00",
+  "last_updated": "2026-11-08T14:49:18.220728+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 283,
@@ -1522,7 +1522,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-08T04:34:38.640646+00:00",
+      "fetched_at": "2026-11-08T14:47:08.938567+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -2368,7 +2368,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-03T10:01:51",
-      "fetched_at": "2026-11-08T04:34:19.701308+00:00",
+      "fetched_at": "2026-11-08T14:46:48.876779+00:00",
       "relevance_score": 44,
       "deal_types": [
         "免费/试用",
@@ -2379,16 +2379,16 @@
         "API Deal"
       ],
       "products": [
-        "Gemini",
-        "Claude"
+        "Claude",
+        "Gemini"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "免费/试用",
         "API优惠"
       ],
@@ -4193,6 +4193,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1255323",
+      "source": "v2ex",
+      "subreddit": "openai",
+      "title": "ChatGPT Pro 相比 Plus 的回答质量有明显提升吗？还是 Plus + Claude Pro 更值得？",
+      "body": "想请教一下用过 ChatGPT Pro 和 Claude Pro 的朋友：\r\n\r\n我目前已经有 **ChatGPT Plus 年费会员**，平时主要用来做技术问题分析、编程开发（ Codex ）、大模型部署、技术调研等，使用频率比较高。\r\n\r\n现在比较纠结的是：**ChatGPT Pro 相比 Plus ，回答质量和推理能力真的有明显提升吗？** 还是主要区别在于使用额度、模型权限和任务处理能力？\r\n\r\n我目前考虑两个方案：\r\n\r\n1. **继续使用 ChatGPT Plus + 额外订阅 Claude Pro**，同时体验 Codex 和 Claude Code ，两者互补。\r\n2. **直接升级 ChatGPT Pro**，集中使用 OpenAI 的高级模型和更高额度。\r\n\r\n想听听实际长期使用过的朋友分享，尤其是复杂技术问题分析、代码开发、长任务处理方面，Pro 和 Plus 的实际体验差距有多大？\r\n\r\n**如果是你们，会更推荐 ChatGPT Plus + Claude Pro ，还是直接 ChatGPT Pro ？** 希望听到一些真实使用体验，而不只是参数对比。",
+      "url": "https://www.v2ex.com/t/1255323",
+      "author": "yangyinqi85ink",
+      "score": 0,
+      "num_comments": 15,
+      "created_at": "2026-11-08T05:01:07+00:00",
+      "fetched_at": "2026-11-08T14:46:37.568731+00:00",
+      "relevance_score": 39,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1252350",
       "source": "v2ex",
       "subreddit": 864,
@@ -4798,7 +4835,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-06T10:23:49",
-      "fetched_at": "2026-11-08T04:34:59.217733+00:00",
+      "fetched_at": "2026-11-08T14:47:28.181605+00:00",
       "relevance_score": 38,
       "deal_types": [
         "免费/试用",
@@ -4866,7 +4903,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-28T10:27:15",
-      "fetched_at": "2026-11-08T04:34:22.272698+00:00",
+      "fetched_at": "2026-11-08T14:46:51.409079+00:00",
       "relevance_score": 38,
       "deal_types": [
         "免费/试用",
@@ -4877,16 +4914,16 @@
         "API Deal"
       ],
       "products": [
-        "Gemini",
-        "Claude"
+        "Claude",
+        "Gemini"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "免费/试用",
         "API优惠"
       ],
@@ -6567,7 +6604,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-03T09:55:05",
-      "fetched_at": "2026-11-08T04:34:19.701310+00:00",
+      "fetched_at": "2026-11-08T14:46:48.876781+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -6580,16 +6617,16 @@
         "API Deal"
       ],
       "products": [
-        "Gemini",
-        "Claude"
+        "Claude",
+        "Gemini"
       ],
       "companies": [
         "Google",
         "Anthropic"
       ],
       "tags": [
-        "Gemini",
         "Claude",
+        "Gemini",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -6684,7 +6721,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-26T01:17:30",
-      "fetched_at": "2026-11-08T04:35:01.593906+00:00",
+      "fetched_at": "2026-11-08T14:47:30.739023+00:00",
       "relevance_score": 36,
       "deal_types": [
         "降价/折扣",
@@ -8810,7 +8847,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-08T04:34:43.143421+00:00",
+      "fetched_at": "2026-11-08T14:47:12.997175+00:00",
       "relevance_score": 34,
       "deal_types": [
         "拼车/合租",
@@ -9152,7 +9189,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-11-08T04:34:45.741877+00:00",
+      "fetched_at": "2026-11-08T14:47:15.522911+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -9770,43 +9807,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1255216",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "超低倍率 Ai 中转聚合站全天绿色,gpt 稳定不降智 0.06.注册赠送 1 刀体验额度",
-      "body": "11 月 7 日中转倍率\r\n福利分组 「严禁破限违规』：0.069x\r\ncodex-pro 「不降智』 ：0.1x\r\nclaude-krio：0.25x\r\nGPT- vip 企业级分组 「稳定不降智』 ：0.12x\r\ngemini 「底线低』：0.15x 支持生图\r\n马斯克 grok：0.1x\r\ngpt 不限速，不降智模式 主打稳定\r\n联系客服赠送 2 刀体验额度",
-      "url": "https://www.v2ex.com/t/1255216",
-      "author": "zhouhongfei245",
-      "score": 0,
-      "num_comments": 1,
-      "created_at": "2026-11-07T08:33:17",
-      "fetched_at": "2026-11-08T04:34:19.701224+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini",
-        "Claude"
-      ],
-      "companies": [
-        "Google",
-        "Anthropic"
-      ],
-      "tags": [
-        "Gemini",
-        "Claude",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1254842",
       "source": "v2ex",
       "subreddit": 864,
@@ -9817,7 +9817,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-05T15:25:03",
-      "fetched_at": "2026-11-08T04:34:19.701276+00:00",
+      "fetched_at": "2026-11-08T14:46:48.876752+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -10144,7 +10144,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-11-08T04:34:45.741859+00:00",
+      "fetched_at": "2026-11-08T14:47:15.522896+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -10736,7 +10736,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-11-08T04:34:29.068598+00:00",
+      "fetched_at": "2026-11-08T14:46:59.331381+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -11472,35 +11472,35 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1255180",
+      "id": "v2ex_1255374",
       "source": "v2ex",
-      "subreddit": 864,
-      "title": "[站长自荐] AI 中转站 YYDS API： claude、ChatGPT 纯血模型， API 价格低至官方 1 折，支持微信小额充值",
-      "body": "各位 V 友好，自荐一下自己运营的 AI API 中转站：YYDS API 。\r\n\r\n地址： https://yyds.page/\r\n\r\n主要面向需要给 AI 客户端、编程工具和自己的项目接 API 的用户。目前主打两个点：\r\n\r\n价格低\r\n\r\nAPI 价格低至对应模型官方价格的 1 折，按量计费，具体模型和计费项目可以在站内价目表查看。\r\n\r\n纯血模型\r\n\r\n按标注的模型提供服务，不用小模型冒充大模型，不把其他模型改名出售。欢迎用自己熟悉的任务，对比实际效果和用量。\r\n\r\n接入和付款方面：\r\n\r\n兼容 OpenAI 接口格式，可接入支持自定义 API 的客户端和应用。\r\n\r\n支持微信和 USDT 充值，可以先小额使用。\r\n\r\n项目基于开源 New API 搭建，我主要做本站的接入、支付和界面定制，以及日常运营维护。\r\n\r\n如果你正在找低成本的 API 接入渠道，欢迎看看。建议先用小额额度跑几个日常任务，看看效果、费用和工具兼容性是否符合自己的需求，再决定是否继续使用。\r\n\r\n模型、价格或接入方式有不清楚的地方，可以在评论区问。",
-      "url": "https://www.v2ex.com/t/1255180",
-      "author": "d11yushi1",
+      "subreddit": 69,
+      "title": "收 gpt 和 Claude 订阅送的免费 api 额度 量大随时跑完 稳定结算",
+      "body": "收 gpt 和 Claude 订阅送的免费 api 额度 量大随时跑完\r\n  需要的联系我 tg （@kkaiapi ）",
+      "url": "https://www.v2ex.com/t/1255374",
+      "author": "pksyqcj",
       "score": 0,
       "num_comments": 0,
-      "created_at": "2026-11-07T05:38:02",
-      "fetched_at": "2026-11-08T04:34:59.217712+00:00",
+      "created_at": "2026-11-08T11:17:20",
+      "fetched_at": "2026-11-08T14:46:54.681008+00:00",
       "relevance_score": 31,
       "deal_types": [
+        "免费/试用",
         "API优惠"
       ],
       "deal_types_en": [
+        "Free/Trial",
         "API Deal"
       ],
       "products": [
-        "ChatGPT",
         "Claude"
       ],
       "companies": [
-        "OpenAI",
         "Anthropic"
       ],
       "tags": [
-        "ChatGPT",
         "Claude",
+        "免费/试用",
         "API优惠"
       ],
       "is_deal": true

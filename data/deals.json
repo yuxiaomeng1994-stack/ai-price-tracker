@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T22:57:06.931546+00:00",
+  "last_updated": "2026-11-20T05:51:26.615120+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 284,
@@ -1282,7 +1282,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-12T16:00:36",
-      "fetched_at": "2026-11-19T22:55:03.897777+00:00",
+      "fetched_at": "2026-11-20T05:48:46.954958+00:00",
       "relevance_score": 50,
       "deal_types": [
         "免费/试用",
@@ -1402,7 +1402,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-19T16:24:34",
-      "fetched_at": "2026-11-19T22:55:06.155725+00:00",
+      "fetched_at": "2026-11-20T05:48:49.378927+00:00",
       "relevance_score": 49,
       "deal_types": [
         "免费/试用",
@@ -1442,7 +1442,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-11T08:45:19",
-      "fetched_at": "2026-11-19T22:55:39.655512+00:00",
+      "fetched_at": "2026-11-20T05:49:23.832836+00:00",
       "relevance_score": 49,
       "deal_types": [
         "免费/试用",
@@ -1456,18 +1456,18 @@
       ],
       "products": [
         "Cursor",
-        "ChatGPT",
-        "Claude"
+        "Claude",
+        "ChatGPT"
       ],
       "companies": [
-        "Cursor",
+        "OpenAI",
         "Anthropic",
-        "OpenAI"
+        "Cursor"
       ],
       "tags": [
         "Cursor",
-        "ChatGPT",
         "Claude",
+        "ChatGPT",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -1682,7 +1682,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-19T22:55:24.161088+00:00",
+      "fetched_at": "2026-11-20T05:49:07.892036+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -6052,7 +6052,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-12T15:46:43",
-      "fetched_at": "2026-11-19T22:55:39.655505+00:00",
+      "fetched_at": "2026-11-20T05:49:23.832830+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -6065,19 +6065,19 @@
         "API Deal"
       ],
       "products": [
-        "ChatGPT",
-        "Gemini",
-        "Claude"
-      ],
-      "companies": [
-        "Google",
-        "Anthropic",
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
         "Gemini",
         "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Anthropic"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "ChatGPT",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -9484,7 +9484,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-13T14:07:07",
-      "fetched_at": "2026-11-19T22:55:03.897772+00:00",
+      "fetched_at": "2026-11-20T05:48:46.954952+00:00",
       "relevance_score": 34,
       "deal_types": [
         "区域套利",
@@ -9495,16 +9495,16 @@
         "Gift Card"
       ],
       "products": [
-        "ChatGPT",
-        "Claude"
+        "Claude",
+        "ChatGPT"
       ],
       "companies": [
-        "Anthropic",
-        "OpenAI"
+        "OpenAI",
+        "Anthropic"
       ],
       "tags": [
-        "ChatGPT",
         "Claude",
+        "ChatGPT",
         "区域套利",
         "礼品卡"
       ],
@@ -9934,7 +9934,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-11-19T22:55:30.947858+00:00",
+      "fetched_at": "2026-11-20T05:49:14.846878+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -10562,7 +10562,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-18T14:31:01",
-      "fetched_at": "2026-11-19T22:55:24.161026+00:00",
+      "fetched_at": "2026-11-20T05:49:07.891960+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -10574,21 +10574,21 @@
       ],
       "products": [
         "Cursor",
-        "ChatGPT",
         "Gemini",
-        "Claude"
+        "Claude",
+        "ChatGPT"
       ],
       "companies": [
+        "OpenAI",
         "Google",
         "Anthropic",
-        "Cursor",
-        "OpenAI"
+        "Cursor"
       ],
       "tags": [
         "Cursor",
-        "ChatGPT",
         "Gemini",
         "Claude",
+        "ChatGPT",
         "免费/试用",
         "薅羊毛/技巧"
       ],
@@ -10621,46 +10621,6 @@
       ],
       "tags": [
         "ChatGPT",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1257630",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[LinkAGI] GPT 0.08 倍率，新增 Pro+ 分组，新用户 5 元 API 体验额度",
-      "body": "各位 V 友好，给自己运营的 LinkAGI 中转站打个广告。\r\n\r\n主营 GPT，另有 Gemini、Claude、Grok、DeepSeek、智谱等模型。\r\n\r\n### ⚡ 分组与倍率\r\n\r\n| Codex 分组 | 倍率 |\r\n| --- | ---: |\r\n| Sale | **0.08** |\r\n| Plus | **0.15** |\r\n| Pro | **0.25** |\r\n| Pro+ | **0.35** |\r\n\r\n充值比例 **1:1**。\r\n\r\n### 🎁 新用户 5 元体验额度\r\n\r\n新用户**加入交流群并在本帖留言，可领取 5 元站内 API 体验额度**。\r\n\r\n### 🎲 消费累计抽奖\r\n\r\n每消费满 **20 元**，可获得 **1 次抽奖机会**，最高可得 **100 元站内额度**。\r\n\r\n**未消费金额支持无理由退款，支持开具发票。**\r\n\r\n### 🔗 站点与交流\r\n\r\n官网：https://api.linktoagi.com\r\n\r\nQQ 交流群：**342205412** · [点击加群](https://qm.qq.com/q/E968hOM5",
-      "url": "https://www.v2ex.com/t/1257630",
-      "author": "zykoo",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-17T03:08:09",
-      "fetched_at": "2026-11-19T22:55:06.155823+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini",
-        "Claude"
-      ],
-      "companies": [
-        "Google",
-        "Anthropic"
-      ],
-      "tags": [
-        "Gemini",
-        "Claude",
-        "免费/试用",
-        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
@@ -10747,7 +10707,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-19T22:55:28.468993+00:00",
+      "fetched_at": "2026-11-20T05:49:12.566612+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11006,7 +10966,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-11-19T22:55:30.947848+00:00",
+      "fetched_at": "2026-11-20T05:49:14.846858+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11527,7 +11487,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-11-19T22:55:14.897027+00:00",
+      "fetched_at": "2026-11-20T05:48:58.416066+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利"
@@ -11544,6 +11504,40 @@
       "tags": [
         "ChatGPT",
         "区域套利"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258049",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "ChatGPT Plus 个人独立账号代充，新站上线补贴 110 元/月（限量优惠，附掉单全赔）",
+      "body": "各位 V 友大家好，自己写的一个海外 AI 订阅自助充值小站刚上线，这几天在圈子里陆续成交了 32 单，整体流程已经跑通。\r\n\r\n为了给新站攒一波首批口碑，小站放出一批 110 元/月的补贴名额（日常价 125 元/月，使用 V2EX 专属优惠码立减 15 元），流程全透明，有需要的朋友可以直接上车。\r\n\r\n[为什么选这里？]\r\n\r\n官方独立直充：直接充进你自己的 OpenAI 个人账号，非拼车、非共享号，聊天记录与数据完全独立。\r\n\r\n无需提供账号密码：通过官方网页端支付链接代付，全程不碰你的账号密码，彻底打消安全顾虑。\r\n\r\n自助下单与查单：网站下单后可实时查看订单状态，一般几分钟内完成充值，不强制自动续费。\r\n\r\n真人在岗兜底：正规卡段支付，承诺订阅期内非账号自身违规导致的掉单/封号，直接全额赔付或按天比例退款，不扯皮。\r\n\r\n[价格明细]\r\n· ChatGPT Plus（V2EX 补贴价）：110 元 / 月（原价 125 元，下单输入优惠码 V2EX 立减 15 元，限量 30 单）\r\n· ChatGPT Pro 5x：680 元 / 月\r\n· ChatGPT Pro 20x",
+      "url": "https://www.v2ex.com/t/1258049",
+      "author": "fixfix",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-18T08:56:54",
+      "fetched_at": "2026-11-20T05:48:46.954915+00:00",
+      "relevance_score": 32,
+      "deal_types": [
+        "拼车/合租",
+        "优惠码"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Promo Code"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "拼车/合租",
+        "优惠码"
       ],
       "is_deal": true
     }

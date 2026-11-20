@@ -5,7 +5,7 @@
     <link>https://yuxiaomeng1994-stack.github.io/ai-price-tracker/</link>
     <description>自动追踪全网 Claude/ChatGPT/Gemini 等 AI 订阅优惠信息</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:45:45 +0000</lastBuildDate>
     <atom:link href="https://yuxiaomeng1994-stack.github.io/ai-price-tracker/data/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -314,6 +314,44 @@ OpenAI 兼容接口：/v1/chat/completions 、/v1/responses
       <pubDate>Mon, 11 May 2026 06:00:00 +0000</pubDate>
       <description><![CDATA[<p><strong>评分:</strong> 58 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude</p><p><strong>类型:</strong> 拼车/合租</p><p>Claude Pro 家庭版支持5个席位，目前车上3人，还剩2个位置。每人每月35元，需提前支付3个月。稳定老车，已运行6个月。</p>]]></description>
       <category>Claude</category><category>拼车/合租</category>
+    </item>
+    <item>
+      <title>上线了一个 AI 羊毛网站，搜集 300 款免费 AI 工具，分享一下，求大家反馈。</title>
+      <link>https://www.v2ex.com/t/1258553</link>
+      <guid isPermaLink="false">v2ex_1258553</guid>
+      <pubDate>Fri, 20 Nov 2026 06:55:08 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 57 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Cursor, Copilot</p><p><strong>类型:</strong> 拼车/合租, 学生/教育, 免费/试用, 薅羊毛/技巧, API优惠</p><p>自己平时用 AI 工具比较多，发现各家其实都有不少免费额度、试用活动和开发者福利，但信息很分散，有些活动过期了也没人更新。
+
+所以做了个网站，把这些资源整理到了一起。
+
+地址：https://aiymao.com
+
+目前收录 307 项 AI 免费方案和优惠，主要包括：
+
+- AI 编程工具：Cursor、Trae、GitHub Copilot 等
+- AI 图片、视频、语音生成工具
+- 大模型免费 API、Token 额度
+- 云服务和开发者免费额度
+- 学生、初创企业专属优惠
+
+做这个网站主要想解决两个问题：
+
+一是找到免费的 AI 工具，二是搞清楚到底免费多少、需要什么条件、是否需要绑定信用卡。
+
+后续打算继续完善资源更新、过期活动清理以及模型和 API 免费渠道的对比。
+
+欢迎大家体验一下，想听听各位对筛选功能和资源准确性的建议。
+
+如果还有什么值得收录的免费 AI 资源，也欢迎推荐。
+
+### 网站首屏
+
+![AI 羊毛网站首页](https://ghproxy.net/ )
+
+### AI 产品列表
+
+![AI 工</p>]]></description>
+      <category>Cursor</category><category>Copilot</category><category>拼车/合租</category><category>学生/教育</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
     <item>
       <title>从 X 上搬运来的白嫖 GPT Plus 教程</title>
@@ -715,30 +753,6 @@ Gemini pro 也可以代充，欢迎咨询。
       <category>ChatGPT</category><category>Claude</category><category>Gemini</category><category>优惠码</category><category>礼品卡</category><category>降价/折扣</category>
     </item>
     <item>
-      <title>做了个 Claude Pro 续费 + API 额度的小站（AI 手工坊），欢迎挑刺</title>
-      <link>https://www.v2ex.com/t/1258397</link>
-      <guid isPermaLink="false">v2ex_1258397</guid>
-      <pubDate>Thu, 19 Nov 2026 16:24:34 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 49 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude</p><p><strong>类型:</strong> 免费/试用, 降价/折扣, 薅羊毛/技巧, API优惠</p><p>一个人做的小站 zhatgpt.com，名字叫「AI 手工坊」，卖的东西很窄，只围绕 Claude：
-
-**1. Claude Pro / Max / Ultra 续费**
-
-自己注册 Claude 账号，到开通 Pro 那一步，下单后自动发一张美国虚拟卡（卡号、CVV 在订单页看），你自己付款。Pro 目前促销 ¥258（原价 ¥268，到 11-23）；Max ¥1200，Ultra ¥2200。验证链接和邮件可以直接在站内收，会转发到你注册的邮箱。
-
-**2. Claude Team 席位**
-
-¥299，Pro 的 1.25 倍额度，管理员是我自己，美国住宅 IP + 美国信用卡。
-
-**3. API 额度**
-
-api.zhatgpt.com，按 Claude 官方价的 1.5 折计费，首次充值送等额。Claude Code 和各种客户端都能接，首页有配置教程。想先试用可以私信我。
-
-**先说风险，不想让你踩坑：**
-
-- 这不是官方渠道，不保证不封号。Anthropic 对 IP、时区、KYC 都很敏感，下单前请先用 https://ip.n</p>]]></description>
-      <category>Claude</category><category>免费/试用</category><category>降价/折扣</category><category>薅羊毛/技巧</category><category>API优惠</category>
-    </item>
-    <item>
       <title>[双 11 降价更新] GPT Plus 降至 0.03x（月卡 0.024），上新 0.04x 双 11 GPT 不降智组 &amp; 0.15x Cursor-Claude！国模 0x 全免 + 每 2 小时空投</title>
       <link>https://www.v2ex.com/t/1256217</link>
       <guid isPermaLink="false">v2ex_1256217</guid>
@@ -842,6 +856,30 @@ Claude Code 与 Gemini 的接入参数、可用模型列表见文档： https://
       <pubDate>Fri, 08 May 2026 20:00:00 +0000</pubDate>
       <description><![CDATA[<p><strong>评分:</strong> 48 | <strong>来源:</strong> hackernews</p><p><strong>产品:</strong> Cursor</p><p><strong>类型:</strong> 免费/试用</p><p>Cursor is offering free Pro subscriptions to verified open source maintainers. Apply through their OSS program page with your GitHub profile.</p>]]></description>
       <category>Cursor</category><category>免费/试用</category>
+    </item>
+    <item>
+      <title>做了个 Claude Pro 续费 + API 额度的小站（AI 手工坊），欢迎挑刺</title>
+      <link>https://www.v2ex.com/t/1258397</link>
+      <guid isPermaLink="false">v2ex_1258397</guid>
+      <pubDate>Thu, 19 Nov 2026 16:24:34 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 47 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude</p><p><strong>类型:</strong> 免费/试用, 降价/折扣, 薅羊毛/技巧, API优惠</p><p>一个人做的小站 zhatgpt.com，名字叫「AI 手工坊」，卖的东西很窄，只围绕 Claude：
+
+**1. Claude Pro / Max / Ultra 续费**
+
+自己注册 Claude 账号，到开通 Pro 那一步，下单后自动发一张美国虚拟卡（卡号、CVV 在订单页看），你自己付款。Pro 目前促销 ¥258（原价 ¥268，到 11-23）；Max ¥1200，Ultra ¥2200。验证链接和邮件可以直接在站内收，会转发到你注册的邮箱。
+
+**2. Claude Team 席位**
+
+¥299，Pro 的 1.25 倍额度，管理员是我自己，美国住宅 IP + 美国信用卡。
+
+**3. API 额度**
+
+api.zhatgpt.com，按 Claude 官方价的 1.5 折计费，首次充值送等额。Claude Code 和各种客户端都能接，首页有配置教程。想先试用可以私信我。
+
+**先说风险，不想让你踩坑：**
+
+- 这不是官方渠道，不保证不封号。Anthropic 对 IP、时区、KYC 都很敏感，下单前请先用 https://ip.n</p>]]></description>
+      <category>Claude</category><category>免费/试用</category><category>降价/折扣</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
     <item>
       <title>Gemini ai pro 学生清退+拼车</title>
@@ -1022,34 +1060,6 @@ Best AI 提供稳定的 API 中转服务，拥有自建账号池，提供多种�
 | GPT 企业      | 面向团队与业务项目，提供专属沟通与专属服务 | 0.3  |
 | Claude Kiro | Kiro 号池               |</p>]]></description>
       <category>ChatGPT</category><category>Claude</category><category>免费/试用</category><category>降价/折扣</category><category>API优惠</category>
-    </item>
-    <item>
-      <title>[羊毛福利] 免费白嫖 claude-opus-5-5, gpt-6.1-sol、 grok-4.7、deepseek-v4.1-flash</title>
-      <link>https://www.v2ex.com/t/1250311</link>
-      <guid isPermaLink="false">v2ex_1250311</guid>
-      <pubDate>Tue, 20 Oct 2026 06:45:14 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 46 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude, Gemini</p><p><strong>类型:</strong> 免费/试用, 薅羊毛/技巧, API优惠</p><p> [羊毛福利] 点击链接注册 API 中转站即可免费领取 2-5 美刀鸡蛋
-
-Midalo API 中转站注册地址： https://agent.midalo.ai/ （一定要用这个地址注册，不然拿不到赠送额度）
-
-Midalo API 官方 QQ 群：1030748124（注册后进群，私信管理员或联系客服发送账户 ID 即可领取 2-5$，24 小时内到账）
-
-客服 QQ：3809674723
-
-### 1：模型示例
-
--   claude（全系）
--   kiro
--   GPT-Image
--   GPT-Pro（Codex 线 · gpt-5 / gpt-6 系列文本模型 · 适配 Codex CLI 与编程 IDE · 支持上下文缓存 ）
--   Gemini-Antigravity
--   Gemini-CLI
--   Grok
--   Deepseek
--   GLM（grok-4.5）
--   Kimi（ K2.7 / K2.8 Preview / K3.1）
--   Kimi-K3（2.8 万亿参数旗舰 · 100 万上下文 ·</p>]]></description>
-      <category>Claude</category><category>Gemini</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://yuxiaomeng1994-stack.github.io/ai-price-tracker/</link>
     <description>自动追踪全网 Claude/ChatGPT/Gemini 等 AI 订阅优惠信息</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 01:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:10:28 +0000</lastBuildDate>
     <atom:link href="https://yuxiaomeng1994-stack.github.io/ai-price-tracker/data/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -316,11 +316,39 @@ OpenAI 兼容接口：/v1/chat/completions 、/v1/responses
       <category>Claude</category><category>拼车/合租</category>
     </item>
     <item>
+      <title>从 X 上搬运来的白嫖 GPT Plus 教程</title>
+      <link>https://www.v2ex.com/t/1206640</link>
+      <guid isPermaLink="false">v2ex_1206640</guid>
+      <pubDate>Fri, 17 Apr 2026 06:42:59 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 56 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT</p><p><strong>类型:</strong> 区域套利, 礼品卡, 免费/试用, 薅羊毛/技巧, API优惠</p><p># 超优质教程
+
+什么 Apple ID 绑定、什么账号对应关系，全不查。这就好比你拿着别人的购物小票去柜台领东西，柜员只看小票真假，不看你身份证。
+
+三端订阅管理都是交给第三方 API 处理的，iOS 系统框架允许 App 把内购凭据往第三方服务器发，这本是正常开发逻辑。但 OpenAI 在这条链路上偷了懒——或者说，压根没想过有人会卡这个环节。
+
+既然漏洞摆在这儿，流程就简单了。
+
+第一步：搞一个土耳其区 Apple ID 。
+
+土耳其区 Plus 标价 499 里拉一个月，折人民币大概八十五块。国内定价多少？一百四五。差价自己算。
+
+往这个土区 Apple ID 里充好礼品卡，钱备足。
+
+第二步：拦截收据。
+
+在你 iPhone 上打开 ChatGPT App ，别登录你想开 Plus 的目标账号，随便登个临时号或者干脆不登。
+
+内购付款之前，配置网络拦截——核心操作就是阻止 ChatGPT App 把收据发给 OpenAI 服务器。
+
+App Store 那边照常扣钱，Apple 照常把收据扔到你手机本地沙盒目录里。但因为你的拦截，这张收</p>]]></description>
+      <category>ChatGPT</category><category>区域套利</category><category>礼品卡</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
+    </item>
+    <item>
       <title>上线了一个 AI 羊毛网站，搜集 300 款免费 AI 工具，分享一下，求大家反馈。</title>
       <link>https://www.v2ex.com/t/1258553</link>
       <guid isPermaLink="false">v2ex_1258553</guid>
       <pubDate>Fri, 20 Nov 2026 06:55:08 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 57 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Copilot, Cursor</p><p><strong>类型:</strong> 拼车/合租, 学生/教育, 免费/试用, 薅羊毛/技巧, API优惠</p><p>自己平时用 AI 工具比较多，发现各家其实都有不少免费额度、试用活动和开发者福利，但信息很分散，有些活动过期了也没人更新。
+      <description><![CDATA[<p><strong>评分:</strong> 55 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Cursor, Copilot</p><p><strong>类型:</strong> 拼车/合租, 学生/教育, 免费/试用, 薅羊毛/技巧, API优惠</p><p>自己平时用 AI 工具比较多，发现各家其实都有不少免费额度、试用活动和开发者福利，但信息很分散，有些活动过期了也没人更新。
 
 所以做了个网站，把这些资源整理到了一起。
 
@@ -351,35 +379,7 @@ OpenAI 兼容接口：/v1/chat/completions 、/v1/responses
 ### AI 产品列表
 
 ![AI 工</p>]]></description>
-      <category>Copilot</category><category>Cursor</category><category>拼车/合租</category><category>学生/教育</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
-    </item>
-    <item>
-      <title>从 X 上搬运来的白嫖 GPT Plus 教程</title>
-      <link>https://www.v2ex.com/t/1206640</link>
-      <guid isPermaLink="false">v2ex_1206640</guid>
-      <pubDate>Fri, 17 Apr 2026 06:42:59 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 56 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT</p><p><strong>类型:</strong> 区域套利, 礼品卡, 免费/试用, 薅羊毛/技巧, API优惠</p><p># 超优质教程
-
-什么 Apple ID 绑定、什么账号对应关系，全不查。这就好比你拿着别人的购物小票去柜台领东西，柜员只看小票真假，不看你身份证。
-
-三端订阅管理都是交给第三方 API 处理的，iOS 系统框架允许 App 把内购凭据往第三方服务器发，这本是正常开发逻辑。但 OpenAI 在这条链路上偷了懒——或者说，压根没想过有人会卡这个环节。
-
-既然漏洞摆在这儿，流程就简单了。
-
-第一步：搞一个土耳其区 Apple ID 。
-
-土耳其区 Plus 标价 499 里拉一个月，折人民币大概八十五块。国内定价多少？一百四五。差价自己算。
-
-往这个土区 Apple ID 里充好礼品卡，钱备足。
-
-第二步：拦截收据。
-
-在你 iPhone 上打开 ChatGPT App ，别登录你想开 Plus 的目标账号，随便登个临时号或者干脆不登。
-
-内购付款之前，配置网络拦截——核心操作就是阻止 ChatGPT App 把收据发给 OpenAI 服务器。
-
-App Store 那边照常扣钱，Apple 照常把收据扔到你手机本地沙盒目录里。但因为你的拦截，这张收</p>]]></description>
-      <category>ChatGPT</category><category>区域套利</category><category>礼品卡</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
+      <category>Cursor</category><category>Copilot</category><category>拼车/合租</category><category>学生/教育</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
     <item>
       <title>高性价比 AI 聚合 API｜一套 Key 调用 GPT/Claude/Gemini 等 78 + 模型</title>
@@ -757,7 +757,7 @@ Gemini pro 也可以代充，欢迎咨询。
       <link>https://www.v2ex.com/t/1256217</link>
       <guid isPermaLink="false">v2ex_1256217</guid>
       <pubDate>Wed, 11 Nov 2026 08:45:19 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 49 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Cursor, Claude, ChatGPT</p><p><strong>类型:</strong> 免费/试用, 降价/折扣, API优惠</p><p>双 11 给站里（ https://api.apichatgpt.org ）做了一波狠的降价和渠道更新，汇报一下最新倍率和福利：
+      <description><![CDATA[<p><strong>评分:</strong> 49 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Cursor, Claude</p><p><strong>类型:</strong> 免费/试用, 降价/折扣, API优惠</p><p>双 11 给站里（ https://api.apichatgpt.org ）做了一波狠的降价和渠道更新，汇报一下最新倍率和福利：
 
 ### 1. 本次三大更新亮点
 - **`gptplus 超低价福利分组` 降至 `0.03x`**：按量余额 **0.03 元 / $1**，周卡 **0.027**，月卡只要 **0.024 元 / $1**（基本等于白送）。
@@ -766,7 +766,7 @@ Gemini pro 也可以代充，欢迎咨询。
 
 ### 2. 核心主力分组倍率速查
 - **全模型白嫖**：`0x 倍率</p>]]></description>
-      <category>Cursor</category><category>Claude</category><category>ChatGPT</category><category>免费/试用</category><category>降价/折扣</category><category>API优惠</category>
+      <category>ChatGPT</category><category>Cursor</category><category>Claude</category><category>免费/试用</category><category>降价/折扣</category><category>API优惠</category>
     </item>
     <item>
       <title>[Apixo] GLM-5.3 仅官方 0.1 倍率｜ DeepSeek $0.04/M｜一个 Key 调用 30+ 模型｜留 ID 送 500 万 tokens</title>

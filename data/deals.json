@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T01:08:45.166256+00:00",
+  "last_updated": "2026-11-21T12:10:28.664720+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 284,
@@ -666,52 +666,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1258553",
-      "source": "v2ex",
-      "subreddit": 17,
-      "title": "上线了一个 AI 羊毛网站，搜集 300 款免费 AI 工具，分享一下，求大家反馈。",
-      "body": "自己平时用 AI 工具比较多，发现各家其实都有不少免费额度、试用活动和开发者福利，但信息很分散，有些活动过期了也没人更新。\r\n\r\n所以做了个网站，把这些资源整理到了一起。\r\n\r\n地址：https://aiymao.com\r\n\r\n目前收录 307 项 AI 免费方案和优惠，主要包括：\r\n\r\n- AI 编程工具：Cursor、Trae、GitHub Copilot 等\r\n- AI 图片、视频、语音生成工具\r\n- 大模型免费 API、Token 额度\r\n- 云服务和开发者免费额度\r\n- 学生、初创企业专属优惠\r\n\r\n做这个网站主要想解决两个问题：\r\n\r\n一是找到免费的 AI 工具，二是搞清楚到底免费多少、需要什么条件、是否需要绑定信用卡。\r\n\r\n后续打算继续完善资源更新、过期活动清理以及模型和 API 免费渠道的对比。\r\n\r\n欢迎大家体验一下，想听听各位对筛选功能和资源准确性的建议。\r\n\r\n如果还有什么值得收录的免费 AI 资源，也欢迎推荐。\r\n\r\n### 网站首屏\r\n\r\n![AI 羊毛网站首页](https://ghproxy.net/ )\r\n\r\n### AI 产品列表\r\n\r\n![AI 工",
-      "url": "https://www.v2ex.com/t/1258553",
-      "author": "lightwind666666",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-20T06:55:08",
-      "fetched_at": "2026-11-21T01:06:26.339777+00:00",
-      "relevance_score": 57,
-      "deal_types": [
-        "拼车/合租",
-        "学生/教育",
-        "免费/试用",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Student/Edu",
-        "Free/Trial",
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "Copilot",
-        "Cursor"
-      ],
-      "companies": [
-        "Microsoft",
-        "Cursor"
-      ],
-      "tags": [
-        "Copilot",
-        "Cursor",
-        "拼车/合租",
-        "学生/教育",
-        "免费/试用",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1206640",
       "source": "v2ex",
       "subreddit": 1135,
@@ -748,6 +702,52 @@
         "ChatGPT",
         "区域套利",
         "礼品卡",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258553",
+      "source": "v2ex",
+      "subreddit": 17,
+      "title": "上线了一个 AI 羊毛网站，搜集 300 款免费 AI 工具，分享一下，求大家反馈。",
+      "body": "自己平时用 AI 工具比较多，发现各家其实都有不少免费额度、试用活动和开发者福利，但信息很分散，有些活动过期了也没人更新。\r\n\r\n所以做了个网站，把这些资源整理到了一起。\r\n\r\n地址：https://aiymao.com\r\n\r\n目前收录 307 项 AI 免费方案和优惠，主要包括：\r\n\r\n- AI 编程工具：Cursor、Trae、GitHub Copilot 等\r\n- AI 图片、视频、语音生成工具\r\n- 大模型免费 API、Token 额度\r\n- 云服务和开发者免费额度\r\n- 学生、初创企业专属优惠\r\n\r\n做这个网站主要想解决两个问题：\r\n\r\n一是找到免费的 AI 工具，二是搞清楚到底免费多少、需要什么条件、是否需要绑定信用卡。\r\n\r\n后续打算继续完善资源更新、过期活动清理以及模型和 API 免费渠道的对比。\r\n\r\n欢迎大家体验一下，想听听各位对筛选功能和资源准确性的建议。\r\n\r\n如果还有什么值得收录的免费 AI 资源，也欢迎推荐。\r\n\r\n### 网站首屏\r\n\r\n![AI 羊毛网站首页](https://ghproxy.net/ )\r\n\r\n### AI 产品列表\r\n\r\n![AI 工",
+      "url": "https://www.v2ex.com/t/1258553",
+      "author": "lightwind666666",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-20T06:55:08",
+      "fetched_at": "2026-11-21T12:08:06.846658+00:00",
+      "relevance_score": 55,
+      "deal_types": [
+        "拼车/合租",
+        "学生/教育",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Student/Edu",
+        "Free/Trial",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Cursor",
+        "Copilot"
+      ],
+      "companies": [
+        "Microsoft",
+        "Cursor"
+      ],
+      "tags": [
+        "Cursor",
+        "Copilot",
+        "拼车/合租",
+        "学生/教育",
         "免费/试用",
         "薅羊毛/技巧",
         "API优惠"
@@ -1328,7 +1328,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-12T16:00:36",
-      "fetched_at": "2026-11-21T01:06:06.797903+00:00",
+      "fetched_at": "2026-11-21T12:08:26.755752+00:00",
       "relevance_score": 50,
       "deal_types": [
         "免费/试用",
@@ -1448,7 +1448,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-11T08:45:19",
-      "fetched_at": "2026-11-21T01:06:45.401294+00:00",
+      "fetched_at": "2026-11-21T12:08:26.755759+00:00",
       "relevance_score": 49,
       "deal_types": [
         "免费/试用",
@@ -1461,19 +1461,19 @@
         "API Deal"
       ],
       "products": [
+        "ChatGPT",
         "Cursor",
-        "Claude",
-        "ChatGPT"
+        "Claude"
       ],
       "companies": [
+        "Cursor",
         "OpenAI",
-        "Anthropic",
-        "Cursor"
+        "Anthropic"
       ],
       "tags": [
+        "ChatGPT",
         "Cursor",
         "Claude",
-        "ChatGPT",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -1688,7 +1688,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-19T16:24:34",
-      "fetched_at": "2026-11-21T01:06:09.341880+00:00",
+      "fetched_at": "2026-11-21T12:07:48.354970+00:00",
       "relevance_score": 47,
       "deal_types": [
         "免费/试用",
@@ -1728,7 +1728,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-21T01:06:36.182187+00:00",
+      "fetched_at": "2026-11-21T12:08:16.945149+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -3879,6 +3879,46 @@
         "ChatGPT",
         "区域套利",
         "礼品卡",
+        "降价/折扣",
+        "薅羊毛/技巧"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258737",
+      "source": "v2ex",
+      "subreddit": 148,
+      "title": "上架谷歌羊毛 xiaomi 渠道，10 块钱 gemini pro 会员，顺便说说我知道的",
+      "body": "## 先说说这渠道是哪来的。\r\n和之前 pixel 类似，小米在国外有活动，购买小米手机赠送 3 个月 gemini pro 会员。\r\n吐槽下谷歌的羊毛是真多，从 jio，pixel，到前两天的零元购，更不要说正价的低价土区和学生优惠，家大不怕薅\r\n\r\n## 问的最多，可以用反重力 Antigravity 吗？\r\n这个取决于账号有没有资格，账号用不了就用不了，与订阅无关\r\n并且账户如果是，香港大陆地区 俄罗斯 白俄罗斯 通过也不可用\r\n并且不要反代，现在对反代非常严格\r\n\r\n## 什么账号能使用？\r\n最近两天谷歌加了风控，不知道是不是更换地区的太多了，账号 90 天换过地区，大概率失败\r\n\r\n## 可以使用什么模型？\r\n和付费 pro 一样，不能使用 Carbon，其他的 Neon 和 Hydrogen 都可以使用\r\n如果要整尽量用小号，虽说封号的概率很小，之前零元购都没有封号，只是掉了订阅，但稳妥还是不要用自己大号。最难搞的还是谷歌账号\r\n\r\n\r\n下单地址，顺便需要代充 gpt 也可以找我，可开票\r\n\r\nhttps://gptcard.shop/",
+      "url": "https://www.v2ex.com/t/1258737",
+      "author": "gptcard",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-21T05:46:23",
+      "fetched_at": "2026-11-21T12:07:51.090776+00:00",
+      "relevance_score": 41,
+      "deal_types": [
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Student/Edu",
+        "Free/Trial",
+        "Price Drop",
+        "Workaround"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "学生/教育",
+        "免费/试用",
         "降价/折扣",
         "薅羊毛/技巧"
       ],
@@ -6098,7 +6138,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-12T15:46:43",
-      "fetched_at": "2026-11-21T01:06:45.401291+00:00",
+      "fetched_at": "2026-11-21T12:08:26.755755+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -6111,19 +6151,19 @@
         "API Deal"
       ],
       "products": [
+        "ChatGPT",
         "Gemini",
-        "Claude",
-        "ChatGPT"
+        "Claude"
       ],
       "companies": [
+        "Google",
         "OpenAI",
-        "Anthropic",
-        "Google"
+        "Anthropic"
       ],
       "tags": [
+        "ChatGPT",
         "Gemini",
         "Claude",
-        "ChatGPT",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -9943,7 +9983,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-11-21T01:06:36.182208+00:00",
+      "fetched_at": "2026-11-21T12:08:16.945176+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -10571,7 +10611,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-18T14:31:01",
-      "fetched_at": "2026-11-21T01:06:29.049120+00:00",
+      "fetched_at": "2026-11-21T12:08:09.641956+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -10582,22 +10622,22 @@
         "Workaround"
       ],
       "products": [
-        "Gemini",
+        "ChatGPT",
         "Cursor",
-        "Claude",
-        "ChatGPT"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
-        "OpenAI",
-        "Anthropic",
         "Google",
-        "Cursor"
+        "Cursor",
+        "OpenAI",
+        "Anthropic"
       ],
       "tags": [
-        "Gemini",
-        "Cursor",
-        "Claude",
         "ChatGPT",
+        "Cursor",
+        "Gemini",
+        "Claude",
         "免费/试用",
         "薅羊毛/技巧"
       ],
@@ -10645,7 +10685,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-13T14:07:07",
-      "fetched_at": "2026-11-21T01:06:06.797898+00:00",
+      "fetched_at": "2026-11-21T12:07:45.571281+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -10656,16 +10696,16 @@
         "Gift Card"
       ],
       "products": [
-        "Claude",
-        "ChatGPT"
+        "ChatGPT",
+        "Claude"
       ],
       "companies": [
         "OpenAI",
         "Anthropic"
       ],
       "tags": [
-        "Claude",
         "ChatGPT",
+        "Claude",
         "区域套利",
         "礼品卡"
       ],
@@ -10753,7 +10793,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-21T01:06:33.775638+00:00",
+      "fetched_at": "2026-11-21T12:08:14.407932+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11012,7 +11052,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-11-21T01:06:36.182196+00:00",
+      "fetched_at": "2026-11-21T12:08:16.945157+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11519,37 +11559,6 @@
         "Claude",
         "学生/教育",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1219553",
-      "source": "v2ex",
-      "subreddit": 1135,
-      "title": "ChatGPT 菲律宾价格最低",
-      "body": "5/21 刚注册土耳其，6/9 号又冲了 500 里拉。现在土耳其价格比美区还要贵。\r\n\r\n以后注定经常换区么？\r\n\r\n# ChatGPT Plus 每月全球价格\r\n\r\n| 排名 | 地区       | 原价              | CNY 价格    | 状态 |\r\n|------|------------|-------------------|------------|------|\r\n| 1    | 菲律宾     | PHP 999           | ¥110.15    | 最低 |\r\n| 2    | 巴基斯坦   | PKR 4,900         | ¥119.49    | -    |\r\n| 3    | 加拿大     | CAD 24.99         | ¥121.61    | -    |\r\n| 4    | 日本       | JPY 3,000         | ¥127.00    | -    |\r\n| 5    | 韩国       | KRW 29,000        | ¥129.14    | -    |\r",
-      "url": "https://www.v2ex.com/t/1219553",
-      "author": "yjxjn",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-11-21T01:06:18.683474+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "区域套利"
-      ],
-      "deal_types_en": [
-        "Regional Pricing"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "区域套利"
       ],
       "is_deal": true
     }

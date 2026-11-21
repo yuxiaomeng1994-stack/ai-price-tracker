@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T12:10:28.664720+00:00",
+  "last_updated": "2026-11-21T21:30:10.969575+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 284,
@@ -719,7 +719,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-20T06:55:08",
-      "fetched_at": "2026-11-21T12:08:06.846658+00:00",
+      "fetched_at": "2026-11-21T21:28:03.006319+00:00",
       "relevance_score": 55,
       "deal_types": [
         "拼车/合租",
@@ -740,8 +740,8 @@
         "Copilot"
       ],
       "companies": [
-        "Microsoft",
-        "Cursor"
+        "Cursor",
+        "Microsoft"
       ],
       "tags": [
         "Cursor",
@@ -1328,7 +1328,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-12T16:00:36",
-      "fetched_at": "2026-11-21T12:08:26.755752+00:00",
+      "fetched_at": "2026-11-21T21:28:20.624628+00:00",
       "relevance_score": 50,
       "deal_types": [
         "免费/试用",
@@ -1448,7 +1448,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-11T08:45:19",
-      "fetched_at": "2026-11-21T12:08:26.755759+00:00",
+      "fetched_at": "2026-11-21T21:28:20.624637+00:00",
       "relevance_score": 49,
       "deal_types": [
         "免费/试用",
@@ -1462,18 +1462,18 @@
       ],
       "products": [
         "ChatGPT",
-        "Cursor",
-        "Claude"
+        "Claude",
+        "Cursor"
       ],
       "companies": [
-        "Cursor",
         "OpenAI",
+        "Cursor",
         "Anthropic"
       ],
       "tags": [
         "ChatGPT",
-        "Cursor",
         "Claude",
+        "Cursor",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -1688,7 +1688,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-19T16:24:34",
-      "fetched_at": "2026-11-21T12:07:48.354970+00:00",
+      "fetched_at": "2026-11-21T21:27:45.850153+00:00",
       "relevance_score": 47,
       "deal_types": [
         "免费/试用",
@@ -1728,7 +1728,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-21T12:08:16.945149+00:00",
+      "fetched_at": "2026-11-21T21:28:11.915477+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -3895,7 +3895,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T05:46:23",
-      "fetched_at": "2026-11-21T12:07:51.090776+00:00",
+      "fetched_at": "2026-11-21T21:27:48.355271+00:00",
       "relevance_score": 41,
       "deal_types": [
         "学生/教育",
@@ -6128,6 +6128,49 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1258834",
+      "source": "v2ex",
+      "subreddit": "programmer",
+      "title": "Gemini 从美区学生 Pro 入正黑五半价了，顺道聊聊当前 Gemini 优惠情况和我个人 AI 使用心得分享",
+      "body": "白嫖谷歌学生 Pro 挺久，说人话是最大的特色，前两个月因为 ChatGPT 狂砍 plus 额度那时就停掉了，现在这时间点再看，停掉 ChatGPT 是对的，新模型拉了额度也烧得非常快。\r\n\r\n以前的流程是：ChatGPT 做开发写脚本写逻辑，Antigravity 挂自动化用 3.8 Flash 定时跑流程执行。\r\n\r\n停掉 ChatGPT 后：DeepSeek Flash 在 ChatGPT 的开发上迭代，Antigravity 保持不变。\r\n\r\n说来也赶巧，恰逢：\r\n\r\n1. Google One 要再次核验学生身份了，又恰逢社区里很多人都倒在了这次核验上。\r\n2. 又恰逢谷歌开启了黑五的半价 Pro 年付活动。\r\n3. 更恰逢 Gemini 4 Neon 在我试过写作后，比之前 3.8Flash 还要符合我的验收要求。\r\n\r\n索性就从学生 Pro 转正到美区黑五优惠了。我写了篇博文配了点图，想转的各位可以参考看看：https://imsxx.com/posts/google-one-black-friday-pro/\r\n\r\n另外，当前这个时间节点订阅 Gemini 的方案有两",
+      "url": "https://www.v2ex.com/t/1258834",
+      "author": "Msxx",
+      "score": 0,
+      "num_comments": 2,
+      "created_at": "2026-11-21T19:31:42+00:00",
+      "fetched_at": "2026-11-21T21:27:39.669497+00:00",
+      "relevance_score": 37,
+      "deal_types": [
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Student/Edu",
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "ChatGPT",
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1256623",
       "source": "v2ex",
       "subreddit": 864,
@@ -6138,7 +6181,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-12T15:46:43",
-      "fetched_at": "2026-11-21T12:08:26.755755+00:00",
+      "fetched_at": "2026-11-21T21:28:20.624631+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -6151,18 +6194,18 @@
         "API Deal"
       ],
       "products": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "Claude"
       ],
       "companies": [
-        "Google",
         "OpenAI",
+        "Google",
         "Anthropic"
       ],
       "tags": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "Claude",
         "免费/试用",
         "降价/折扣",
@@ -9983,7 +10026,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-08-27T13:57:43",
-      "fetched_at": "2026-11-21T12:08:16.945176+00:00",
+      "fetched_at": "2026-11-21T21:28:11.915500+00:00",
       "relevance_score": 34,
       "deal_types": [
         "学生/教育",
@@ -10601,45 +10644,36 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1258117",
+      "id": "v2ex_1258745",
       "source": "v2ex",
-      "subreddit": 17,
-      "title": "Myco：在一个 APP 中使用不同订阅不同机器的 Agent，支持 claude,codex,gemini,deekseek,cursor 等等，可能会是你用过最好用的 Agent 客户端",
-      "body": "项目地址：[Myco](https://github.com/chenhg5/myco)\r\n包含 Mac 和 Windows 客户端，以及 iOS 移动端。\r\n\r\n# 背景\r\n\r\n项目背景是我想薅 A/羊毛，做一个能够让我远程调用 claude.ai 上的 agent，薅 claude 羊毛的客户端，结果做着做着发现，这么久了，市面上很多客户端体验还很落后，于是想分享给大家试试。\r\n\r\n当然如果你想无风险使用 claude，也推荐你用 myco。但你只想管理自己不同订阅的 agent，放到一个地方，我相信这肯定是全网你能找到的体验最好的 APP 了（有点自吹自擂了，请轻喷，但真是矮子里面拔高个）。\r\n\r\n# 特性\r\n\r\n- 支持有 cli 的 agent 接入，包括：claude code / codex / gemini / cursor 等等\r\n- 支持没有 cli 的 agent 接入，包括：claude.ai 的 code agent / chatgpt work / grok bot / workbuddy / 千问办公 等等\r\n- 支持 agent 们互相发现调用派活，比如",
-      "url": "https://www.v2ex.com/t/1258117",
-      "author": "plane",
+      "subreddit": "programmer",
+      "title": "入了 Gemini Pro 之后，已经严肃取消 GPT plus",
+      "body": "Neon 干活确实挺漂亮的，也没 GPT 那么多废话\r\n但是缺点也有：\r\n\r\n1. 额度消耗很快，一个对话，几轮任务下来 week 消耗 92%\r\n2. 反重力不好用，不过官方表示即将支持接入其他 agent，未来应该不是问题\r\n\r\n当前尚存订阅 GLM max(年费，到期看情况续不续）、opencode go（GLM 用完消耗它）、Gemini Pro（代替 GPT 做管理、规划、设计）、GPT（12-01 到期不续）",
+      "url": "https://www.v2ex.com/t/1258745",
+      "author": "jindeq",
       "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-18T14:31:01",
-      "fetched_at": "2026-11-21T12:08:09.641956+00:00",
+      "num_comments": 31,
+      "created_at": "2026-11-21T06:44:16+00:00",
+      "fetched_at": "2026-11-21T21:27:39.669541+00:00",
       "relevance_score": 33,
       "deal_types": [
-        "免费/试用",
-        "薅羊毛/技巧"
+        "API优惠"
       ],
       "deal_types_en": [
-        "Free/Trial",
-        "Workaround"
+        "API Deal"
       ],
       "products": [
-        "ChatGPT",
-        "Cursor",
         "Gemini",
-        "Claude"
+        "ChatGPT"
       ],
       "companies": [
-        "Google",
-        "Cursor",
         "OpenAI",
-        "Anthropic"
+        "Google"
       ],
       "tags": [
-        "ChatGPT",
-        "Cursor",
         "Gemini",
-        "Claude",
-        "免费/试用",
-        "薅羊毛/技巧"
+        "ChatGPT",
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -10685,7 +10719,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-13T14:07:07",
-      "fetched_at": "2026-11-21T12:07:45.571281+00:00",
+      "fetched_at": "2026-11-21T21:27:43.487012+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -10793,7 +10827,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-21T12:08:14.407932+00:00",
+      "fetched_at": "2026-11-21T21:28:09.686980+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11052,7 +11086,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-11-21T12:08:16.945157+00:00",
+      "fetched_at": "2026-11-21T21:28:11.915486+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11519,46 +11553,6 @@
         "拼车/合租",
         "免费/试用",
         "降价/折扣"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1223706",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[乐沃联 API 中转站] Codex / Claude Code 一键接入，学校企业可开票",
-      "body": "你可能也踩过这些坑\r\n想用 Codex / Claude Code ，结果卡在\"需要海外手机号 + 信用卡\"\r\n好不容易绑了卡，48 小时后才能调 API ，急用根本等不了\r\n团队十几个人，每人一个 OpenAI 账号，key 管理一团糟\r\n学校课题组要报销，官方只给英文 invoice ，财务不认\r\n用着用着号被封了，余额直接归零\r\n这些我们都经历过，所以才做了乐沃联 API 中转站。\r\n\r\n一个 key ，直连 Codex / Claude Code / OpenAI / Gemini / DeepSeek ，不用翻墙，学校企业可开票。\r\n\r\nAPI 中转站： https://ai.levolink.com/",
-      "url": "https://www.v2ex.com/t/1223706",
-      "author": "Tony2017",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-06-29T08:41:56",
-      "fetched_at": "2026-06-29T21:27:21.719578+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "学生/教育",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Student/Edu",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini",
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "Google",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "Gemini",
-        "ChatGPT",
-        "Claude",
-        "学生/教育",
-        "API优惠"
       ],
       "is_deal": true
     }

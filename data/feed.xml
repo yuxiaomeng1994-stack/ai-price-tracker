@@ -5,7 +5,7 @@
     <link>https://yuxiaomeng1994-stack.github.io/ai-price-tracker/</link>
     <description>自动追踪全网 Claude/ChatGPT/Gemini 等 AI 订阅优惠信息</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 05:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:59:05 +0000</lastBuildDate>
     <atom:link href="https://yuxiaomeng1994-stack.github.io/ai-price-tracker/data/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -494,6 +494,29 @@ https://www.v2ex.com/t/1234770#reply333
       <category>ChatGPT</category><category>Claude</category><category>Gemini</category><category>拼车/合租</category><category>免费/试用</category><category>API优惠</category>
     </item>
     <item>
+      <title>开源个基于 P2P 网络共享 Token 的项目，一起来共享闲置算力解决生产力</title>
+      <link>https://www.v2ex.com/t/1258937</link>
+      <guid isPermaLink="false">v2ex_1258937</guid>
+      <pubDate>Sun, 22 Nov 2026 12:36:55 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 52 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Gemini, Claude, ChatGPT</p><p><strong>类型:</strong> 拼车/合租, API优惠</p><p>Claude、ChatGPT 的额度每 5 小时刷新一次，有时自己用不完就浪费掉了，同事、朋友却常常额度不够，卡在半路。为了解决这个问题，我做了 **ShareToken**：一个点对点的大模型共享网络，MIT 协议开源。
+
+## 能共享什么
+
+```bash
+sharetoken provider login anthropic     # Claude 订阅（OAuth 登录）
+sharetoken provider login openai        # ChatGPT / Codex 订阅
+sharetoken provider add deepseek        # 或者一个 API key
+sharetoken share add qwen3.8:27b        # 或者本地 Ollama 模型
+```
+
+支持 Claude、ChatGPT、Gemini、Grok 的订阅，各家 API key，以及本地模型。共享出去的额度被别人用掉时，你赚 credit；你也可以用 credit 调用别人共享的模型。
+
+## 用起来是什么样
+
+-</p>]]></description>
+      <category>Gemini</category><category>Claude</category><category>ChatGPT</category><category>拼车/合租</category><category>API优惠</category>
+    </item>
+    <item>
       <title>每周免费 10 亿 token 的 muse，使用场景有哪些呢？附上注册方法，大家一起来探讨</title>
       <link>https://www.v2ex.com/t/1244838</link>
       <guid isPermaLink="false">v2ex_1244838</guid>
@@ -769,6 +792,25 @@ Gemini pro 也可以代充，欢迎咨询。
       <category>Claude</category><category>Cursor</category><category>ChatGPT</category><category>免费/试用</category><category>降价/折扣</category><category>API优惠</category>
     </item>
     <item>
+      <title>赠送 Claude API key，$100</title>
+      <link>https://www.v2ex.com/t/1258959</link>
+      <guid isPermaLink="false">v2ex_1258959</guid>
+      <pubDate>Sun, 22 Nov 2026 14:37:01 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 48 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude</p><p><strong>类型:</strong> 免费/试用, API优惠</p><p>账号被封了但发现之前送的 $100 Credits 还在，不蹬白不蹬，今晚过期大家自取
+
+```
+curl https://api.anthropic.com/v1/messages \
+  --header "x-api-key: c2stYW50LXVzci0xQWRUczl0bzRjS3FUamRTaWhPanYybFg4aDNIeDB0VWtneTliYWhXb1BKb20zRkoxQ2xqSGFKVkJkVVh0WllZcDF6U3J1RlozM21oa2pFS3hPbjgyWndBYk5md2dBQQ==" \
+  --header "anthropic-version: 2026-10-21" \
+  --header "content-type: application/json" \
+  --data '{"model": "claude-opus-5-5", "max_tokens": 1024,
+    "messages": [{"role": "user", "content": "Hello, world"}]}'
+```
+
+（key请</p>]]></description>
+      <category>Claude</category><category>免费/试用</category><category>API优惠</category>
+    </item>
+    <item>
       <title>[Apixo] GLM-5.3 仅官方 0.1 倍率｜ DeepSeek $0.04/M｜一个 Key 调用 30+ 模型｜留 ID 送 500 万 tokens</title>
       <link>https://www.v2ex.com/t/1250473</link>
       <guid isPermaLink="false">v2ex_1250473</guid>
@@ -1029,37 +1071,6 @@ https://dddai.dev</p>]]></description>
 规格：每个 CDK 直接兑换 6 条纯净短效海外住宅 IP （加量不加价！）
 限制：仅限新注册用户！每人只能兑换一次</p>]]></description>
       <category>Claude</category><category>ChatGPT</category><category>Midjourney</category><category>优惠码</category><category>礼品卡</category><category>薅羊毛/技巧</category>
-    </item>
-    <item>
-      <title>正价 Google One AI Pro 5T/Gemini pro 拼车</title>
-      <link>https://www.v2ex.com/t/1214889</link>
-      <guid isPermaLink="false">v2ex_1214889</guid>
-      <pubDate>Sat, 23 May 2026 03:34:27 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 47 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Gemini</p><p><strong>类型:</strong> 拼车/合租, 免费/试用, 薅羊毛/技巧</p><p>5 月 20 日新开的，#Gemini #Google 🇺🇸 Google One 5TB （每人 1024G) + Gemini AI Pro ，美区家庭组，每人每年 230R 。199.99 美元付费车，有付款凭证，不是免费白嫖撸的 bug 车。美区账号或其他账号都可以，私聊上车，先上车，后付费。跳车不退，翻车按比例退款。
-
-联系方式：base64:  c2hpd2VpZG8= 
-注明 V2EX 拼车</p>]]></description>
-      <category>Gemini</category><category>拼车/合租</category><category>免费/试用</category><category>薅羊毛/技巧</category>
-    </item>
-    <item>
-      <title>[Best AI 中转站] 又送福利啦， Claude 或 ChatGPT 免费使用 7 天，每人 70$额度。</title>
-      <link>https://www.v2ex.com/t/1252934</link>
-      <guid isPermaLink="false">v2ex_1252934</guid>
-      <pubDate>Thu, 29 Oct 2026 09:44:33 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 46 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> ChatGPT, Claude</p><p><strong>类型:</strong> 免费/试用, 降价/折扣, API优惠</p><p>## Best AI：[https://aisale.best/]( https://aisale.best/)
-
-Best AI 提供稳定的 API 中转服务，拥有自建账号池，提供多种稳定的模型分组。欢迎个人、企业和工作室用户对接使用。
-
-[上期新人福利文章]( https://www.v2ex.com/t/1252343) 只提供了 ChatGPT 体验包，客户反馈希望能有 Claude 体验包，所以此次准备了 **ChatGPT 体验包** 和 **Claude 体验包** 两种任选一种。
-
-## 模型分组
-
-| 分组          | 说明                    | 倍率   |
-| ----------- | --------------------- | ---- |
-| GPT 通用      | 日常开发，学习探索，兼顾使用体验与性价比  | 0.18 |
-| GPT 企业      | 面向团队与业务项目，提供专属沟通与专属服务 | 0.3  |
-| Claude Kiro | Kiro 号池               |</p>]]></description>
-      <category>ChatGPT</category><category>Claude</category><category>免费/试用</category><category>降价/折扣</category><category>API优惠</category>
     </item>
   </channel>
 </rss>

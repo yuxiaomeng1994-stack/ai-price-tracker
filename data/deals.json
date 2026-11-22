@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T05:14:48.237207+00:00",
+  "last_updated": "2026-11-22T15:59:05.491436+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 284,
@@ -719,7 +719,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-20T06:55:08",
-      "fetched_at": "2026-11-22T05:12:36.838981+00:00",
+      "fetched_at": "2026-11-22T15:57:08.455122+00:00",
       "relevance_score": 55,
       "deal_types": [
         "拼车/合租",
@@ -740,8 +740,8 @@
         "Cursor"
       ],
       "companies": [
-        "Microsoft",
-        "Cursor"
+        "Cursor",
+        "Microsoft"
       ],
       "tags": [
         "Copilot",
@@ -990,6 +990,46 @@
         "Gemini",
         "拼车/合租",
         "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258937",
+      "source": "v2ex",
+      "subreddit": 1140,
+      "title": "开源个基于 P2P 网络共享 Token 的项目，一起来共享闲置算力解决生产力",
+      "body": "Claude、ChatGPT 的额度每 5 小时刷新一次，有时自己用不完就浪费掉了，同事、朋友却常常额度不够，卡在半路。为了解决这个问题，我做了 **ShareToken**：一个点对点的大模型共享网络，MIT 协议开源。\r\n\r\n## 能共享什么\r\n\r\n```bash\r\nsharetoken provider login anthropic     # Claude 订阅（OAuth 登录）\r\nsharetoken provider login openai        # ChatGPT / Codex 订阅\r\nsharetoken provider add deepseek        # 或者一个 API key\r\nsharetoken share add qwen3.8:27b        # 或者本地 Ollama 模型\r\n```\r\n\r\n支持 Claude、ChatGPT、Gemini、Grok 的订阅，各家 API key，以及本地模型。共享出去的额度被别人用掉时，你赚 credit；你也可以用 credit 调用别人共享的模型。\r\n\r\n## 用起来是什么样\r\n\r\n-",
+      "url": "https://www.v2ex.com/t/1258937",
+      "author": "linger12306",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-22T12:36:55",
+      "fetched_at": "2026-11-22T15:56:44.073989+00:00",
+      "relevance_score": 52,
+      "deal_types": [
+        "拼车/合租",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini",
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "ChatGPT",
+        "拼车/合租",
         "API优惠"
       ],
       "is_deal": true
@@ -1328,7 +1368,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-12T16:00:36",
-      "fetched_at": "2026-11-22T05:12:53.759626+00:00",
+      "fetched_at": "2026-11-22T15:57:30.022266+00:00",
       "relevance_score": 50,
       "deal_types": [
         "免费/试用",
@@ -1476,6 +1516,40 @@
         "ChatGPT",
         "免费/试用",
         "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258959",
+      "source": "v2ex",
+      "subreddit": 17,
+      "title": "赠送 Claude API key，$100",
+      "body": "账号被封了但发现之前送的 $100 Credits 还在，不蹬白不蹬，今晚过期大家自取\r\n\r\n```\r\ncurl https://api.anthropic.com/v1/messages \\\r\n  --header \"x-api-key: c2stYW50LXVzci0xQWRUczl0bzRjS3FUamRTaWhPanYybFg4aDNIeDB0VWtneTliYWhXb1BKb20zRkoxQ2xqSGFKVkJkVVh0WllZcDF6U3J1RlozM21oa2pFS3hPbjgyWndBYk5md2dBQQ==\" \\\r\n  --header \"anthropic-version: 2026-10-21\" \\\r\n  --header \"content-type: application/json\" \\\r\n  --data '{\"model\": \"claude-opus-5-5\", \"max_tokens\": 1024,\r\n    \"messages\": [{\"role\": \"user\", \"content\": \"Hello, world\"}]}'\r\n```\r\n\r\n（key请",
+      "url": "https://www.v2ex.com/t/1258959",
+      "author": "kingddc314",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-22T14:37:01",
+      "fetched_at": "2026-11-22T15:57:34.999874+00:00",
+      "relevance_score": 48,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
         "API优惠"
       ],
       "is_deal": true
@@ -1688,7 +1762,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-19T16:24:34",
-      "fetched_at": "2026-11-22T05:12:22.194895+00:00",
+      "fetched_at": "2026-11-22T15:56:44.074021+00:00",
       "relevance_score": 47,
       "deal_types": [
         "免费/试用",
@@ -1728,7 +1802,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-22T05:12:45.149679+00:00",
+      "fetched_at": "2026-11-22T15:57:19.816545+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -3885,83 +3959,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1258860",
-      "source": "v2ex",
-      "subreddit": "programmer",
-      "title": "iOS 土耳其 App Store 半价订阅 google one Ultra 方法",
-      "body": "## 搬运的 L 站的 Wender 大佬的帖子 稍微修改了下\r\n\r\n\r\n### 可惜我已经有 gpt 100 了-。-  ,\r\n\r\n有想买便宜稳定的 VPS 的可以 看看（RN）  https://v2ex.com/t/1258457\r\n\r\n![IMG_0006](https://img.121516.xyz/i/2026/11/22/hbktwb.png)\r\n\r\n\r\n```log\r\n^https://one.google.com/ai\\?.*$\r\n\r\n# 下面是20倍的\r\n20tb\\.m\\.v2 20tb.m\r\n\r\n# 下面是30倍的\r\n30tb\\.ai\\.pro\\.m 30tb.m\r\n\r\n\r\n\r\n```\r\n\r\n\r\n1. 土区iOS账号自备\r\n2. 积分卡自备，1989.99，成本265左右，要是能绑银行卡最好\r\n3. 小火箭（shadowrocket）\r\n4. 下载 Google one 或者 Gemini 都可以，不是 Google 浏览器\r\n5. 在 google one 中可能显示还是原价，不要急，直接点击订阅，跳转到 ios 付款界面就是半价了\r\n\r\n下面直接上图小火箭的",
-      "url": "https://www.v2ex.com/t/1258860",
-      "author": "zw2019",
-      "score": 0,
-      "num_comments": 6,
-      "created_at": "2026-11-22T03:10:22+00:00",
-      "fetched_at": "2026-11-22T05:12:16.309293+00:00",
-      "relevance_score": 41,
-      "deal_types": [
-        "区域套利",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Price Drop",
-        "Workaround"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "区域套利",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1258737",
-      "source": "v2ex",
-      "subreddit": 148,
-      "title": "上架谷歌羊毛 xiaomi 渠道，10 块钱 gemini pro 会员，顺便说说我知道的",
-      "body": "## 先说说这渠道是哪来的。\r\n和之前 pixel 类似，小米在国外有活动，购买小米手机赠送 3 个月 gemini pro 会员。\r\n吐槽下谷歌的羊毛是真多，从 jio，pixel，到前两天的零元购，更不要说正价的低价土区和学生优惠，家大不怕薅\r\n\r\n## 问的最多，可以用反重力 Antigravity 吗？\r\n这个取决于账号有没有资格，账号用不了就用不了，与订阅无关\r\n并且账户如果是，香港大陆地区 俄罗斯 白俄罗斯 通过也不可用\r\n并且不要反代，现在对反代非常严格\r\n\r\n## 什么账号能使用？\r\n最近两天谷歌加了风控，不知道是不是更换地区的太多了，账号 90 天换过地区，大概率失败\r\n\r\n## 可以使用什么模型？\r\n和付费 pro 一样，不能使用 Carbon，其他的 Neon 和 Hydrogen 都可以使用\r\n如果要整尽量用小号，虽说封号的概率很小，之前零元购都没有封号，只是掉了订阅，但稳妥还是不要用自己大号。最难搞的还是谷歌账号\r\n\r\n\r\n下单地址，顺便需要代充 gpt 也可以找我，可开票\r\n\r\nhttps://gptcard.shop/",
-      "url": "https://www.v2ex.com/t/1258737",
-      "author": "gptcard",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-21T05:46:23",
-      "fetched_at": "2026-11-22T05:12:24.583483+00:00",
-      "relevance_score": 41,
-      "deal_types": [
-        "学生/教育",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Student/Edu",
-        "Free/Trial",
-        "Price Drop",
-        "Workaround"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "学生/教育",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1248956",
       "source": "v2ex",
       "subreddit": 864,
@@ -4035,6 +4032,43 @@
         "免费/试用",
         "降价/折扣",
         "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258860",
+      "source": "v2ex",
+      "subreddit": 300,
+      "title": "iOS 土耳其 App Store 半价订阅 google one Ultra 方法",
+      "body": "## 搬运的 L 站的 Wender 大佬的帖子 稍微修改了下\r\n\r\n\r\n### 可惜我已经有 gpt 100 了-。-  ,\r\n\r\n有想买便宜稳定的 VPS 的可以 看看（RN）  https://v2ex.com/t/1258457\r\n\r\n![IMG_0006]( )\r\n\r\n\r\n```log\r\n^https://one.google.com/ai\\?.*$\r\n\r\n# 下面是20倍的\r\n20tb\\.m\\.v2 20tb.m\r\n\r\n# 下面是30倍的\r\n30tb\\.ai\\.pro\\.m 30tb.m\r\n\r\n\r\n\r\n```\r\n\r\n\r\n1. 土区iOS账号自备\r\n2. 积分卡自备，1989.99，成本265左右，要是能绑银行卡最好\r\n3. 小火箭（shadowrocket）\r\n4. 下载 Google one 或者 Gemini 都可以，不是 Google 浏览器\r\n5. 在 google one 中可能显示还是原价，不要急，直接点击订阅，跳转到 ios 付款界面就是半价了\r\n\r\n下面直接上图小火箭的配置，配置完记得打开魔法，要不然不生效。  \r\n**小火箭的配置描述文件要先信任再去信任证",
+      "url": "https://www.v2ex.com/t/1258860",
+      "author": "zw2019",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-22T03:10:22",
+      "fetched_at": "2026-11-22T15:56:47.106938+00:00",
+      "relevance_score": 40,
+      "deal_types": [
+        "区域套利",
+        "降价/折扣",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Price Drop",
+        "Workaround"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "区域套利",
+        "降价/折扣",
+        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -4663,6 +4697,46 @@
         "免费/试用",
         "薅羊毛/技巧",
         "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258737",
+      "source": "v2ex",
+      "subreddit": 148,
+      "title": "上架谷歌羊毛 xiaomi 渠道，10 块钱 gemini pro 会员，顺便说说我知道的",
+      "body": "## 先说说这渠道是哪来的。\r\n和之前 pixel 类似，小米在国外有活动，购买小米手机赠送 3 个月 gemini pro 会员。\r\n吐槽下谷歌的羊毛是真多，从 jio，pixel，到前两天的零元购，更不要说正价的低价土区和学生优惠，家大不怕薅\r\n\r\n## 问的最多，可以用反重力 Antigravity 吗？\r\n这个取决于账号有没有资格，账号用不了就用不了，与订阅无关\r\n并且账户如果是，香港大陆地区 俄罗斯 白俄罗斯 通过也不可用\r\n并且不要反代，现在对反代非常严格\r\n\r\n## 什么账号能使用？\r\n最近两天谷歌加了风控，不知道是不是更换地区的太多了，账号 90 天换过地区，大概率失败\r\n\r\n## 可以使用什么模型？\r\n和付费 pro 一样，不能使用 Carbon，其他的 Neon 和 Hydrogen 都可以使用\r\n如果要整尽量用小号，虽说封号的概率很小，之前零元购都没有封号，只是掉了订阅，但稳妥还是不要用自己大号。最难搞的还是谷歌账号\r\n\r\n\r\n下单地址，顺便需要代充 gpt 也可以找我，可开票\r\n\r\nhttps://gptcard.shop/",
+      "url": "https://www.v2ex.com/t/1258737",
+      "author": "gptcard",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-21T05:46:23",
+      "fetched_at": "2026-11-22T15:56:47.106975+00:00",
+      "relevance_score": 39,
+      "deal_types": [
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Student/Edu",
+        "Free/Trial",
+        "Price Drop",
+        "Workaround"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -5297,49 +5371,6 @@
         "礼品卡",
         "免费/试用",
         "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1258834",
-      "source": "v2ex",
-      "subreddit": "programmer",
-      "title": "Gemini 从美区学生 Pro 入正黑五半价了，顺道聊聊当前 Gemini 优惠情况和我个人 AI 使用心得分享",
-      "body": "白嫖谷歌学生 Pro 挺久，说人话是最大的特色，前两个月因为 ChatGPT 狂砍 plus 额度那时就停掉了，现在这时间点再看，停掉 ChatGPT 是对的，新模型拉了额度也烧得非常快。\r\n\r\n以前的流程是：ChatGPT 做开发写脚本写逻辑，Antigravity 挂自动化用 3.8 Flash 定时跑流程执行。\r\n\r\n停掉 ChatGPT 后：DeepSeek Flash 在 ChatGPT 的开发上迭代，Antigravity 保持不变。\r\n\r\n说来也赶巧，恰逢：\r\n\r\n1. Google One 要再次核验学生身份了，又恰逢社区里很多人都倒在了这次核验上。\r\n2. 又恰逢谷歌开启了黑五的半价 Pro 年付活动。\r\n3. 更恰逢 Gemini 4 Neon 在我试过写作后，比之前 3.8Flash 还要符合我的验收要求。\r\n\r\n索性就从学生 Pro 转正到美区黑五优惠了。我写了篇博文配了点图，想转的各位可以参考看看：https://imsxx.com/posts/google-one-black-friday-pro/\r\n\r\n另外，当前这个时间节点订阅 Gemini 的方案有两",
-      "url": "https://www.v2ex.com/t/1258834",
-      "author": "Msxx",
-      "score": 0,
-      "num_comments": 11,
-      "created_at": "2026-11-21T19:31:42+00:00",
-      "fetched_at": "2026-11-22T05:12:16.309330+00:00",
-      "relevance_score": 38,
-      "deal_types": [
-        "学生/教育",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Student/Edu",
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI",
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "ChatGPT",
-        "学生/教育",
-        "免费/试用",
-        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
@@ -6208,6 +6239,86 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1258900",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "gemini 4neon 性能直逼 fb5.2，吉吉 api 提供 gemini 稳定官 key 源头倍率 1.2 ，支持 4 neon Carbon hydrogen Argon，欢迎各大中转站对接。老规矩送 30 个体验码，自取。",
+      "body": "吉吉 api,稳定不降智源 api 头第一站 https://www.jiji.cc\r\n\r\n\r\nGoogle 这次是真的是放大招了！\r\n\r\nGemini 4 Neon 强势登场，综合实力直接杀入顶级模型第一梯队。\r\n\r\n第三方评测 Artificial Analysis 数据显示：\r\n\r\n• 综合智能指数达到 61 分，跻身全球前三。\r\n• Vals Index 达到 70.87%，与 Claude Fable 5.2 仅差 0.44 个百分点。\r\n• Coding Agent Index 达到 59 分，超过 Claude Fable 5.2 的 58 分。\r\n\r\n更值得关注的是成本表现！\r\n\r\n在 Artificial Analysis 的特定任务测试中，Gemini 4 Neon 单任务成本仅为 $6.44，而 Claude Fable 5.2 Max 为 $26.54，成本低约 76%。\r\n\r\n这也就意味着，顶级模型的能力，未必需要顶级模型的价格！\r\n\r\n如果你一直在使用 Claude、GPT，不妨给 Gemini 4 Neon 一次机会。\r\n\r\n吉吉 API 现已接入 Gem",
+      "url": "https://www.v2ex.com/t/1258900",
+      "author": "jijicc",
+      "score": 0,
+      "num_comments": 1,
+      "created_at": "2026-11-22T07:47:22",
+      "fetched_at": "2026-11-22T15:57:34.999896+00:00",
+      "relevance_score": 37,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini",
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic",
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258834",
+      "source": "v2ex",
+      "subreddit": 300,
+      "title": "Gemini 从美区学生 Pro 入正黑五半价了，顺道聊聊当前 Gemini 优惠情况和我个人 AI 使用心得分享",
+      "body": "白嫖谷歌学生 Pro 挺久，说人话是最大的特色，前两个月因为 ChatGPT 狂砍 plus 额度那时就停掉了，现在这时间点再看，停掉 ChatGPT 是对的，新模型拉了额度也烧得非常快。\r\n\r\n以前的流程是：ChatGPT 做开发写脚本写逻辑，Antigravity 挂自动化用 3.8 Flash 定时跑流程执行。\r\n\r\n停掉 ChatGPT 后：DeepSeek Flash 在 ChatGPT 的开发上迭代，Antigravity 保持不变。\r\n\r\n说来也赶巧，恰逢：\r\n\r\n1. Google One 要再次核验学生身份了，又恰逢社区里很多人都倒在了这次核验上。\r\n2. 又恰逢谷歌开启了黑五的半价 Pro 年付活动。\r\n3. 更恰逢 Gemini 4 Neon 在我试过写作后，比之前 3.8Flash 还要符合我的验收要求。\r\n\r\n索性就从学生 Pro 转正到美区黑五优惠了。我写了篇博文配了点图，想转的各位可以参考看看：https://imsxx.com/posts/google-one-black-friday-pro/\r\n\r\n另外，当前这个时间节点订阅 Gemini 的方案有两",
+      "url": "https://www.v2ex.com/t/1258834",
+      "author": "Msxx",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-21T19:31:42",
+      "fetched_at": "2026-11-22T15:56:40.318362+00:00",
+      "relevance_score": 37,
+      "deal_types": [
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Student/Edu",
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "ChatGPT",
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1256623",
       "source": "v2ex",
       "subreddit": 864,
@@ -6218,7 +6329,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-12T15:46:43",
-      "fetched_at": "2026-11-22T05:12:53.759628+00:00",
+      "fetched_at": "2026-11-22T15:57:30.022268+00:00",
       "relevance_score": 37,
       "deal_types": [
         "免费/试用",
@@ -6231,18 +6342,18 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT"
       ],
       "companies": [
         "OpenAI",
-        "Google",
-        "Anthropic"
+        "Anthropic",
+        "Google"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "ChatGPT",
         "免费/试用",
         "降价/折扣",
@@ -8437,6 +8548,43 @@
         "拼车/合租",
         "降价/折扣",
         "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258882",
+      "source": "v2ex",
+      "subreddit": 12,
+      "title": "分享 Gemini、反重力不在支持区域走过的坑，关键是购买的区域，还有隐私区域。",
+      "body": "之前付了 Google One，结果反重力还是普通套餐，折腾了老半天。\r\n\r\n最有用的是这个官方的帖子：https://discuss.ai.google.dev/t/active-google-ai-pro-subscription-showing-starter-quota-in-antigravity/190722/7\r\n\r\n以下几点是我走过的坑：\r\n- 隐私信息页要确保你的账号在可支持区域，不支持的话，用一段时间不同 ip，申请换区。\r\n- 确保年龄审核过，符合要求。\r\n- 确保 Google Pay 里的区域是支持国家，添加付款方式增加地址来选择区域。\r\n\r\n这里还有个坑就是如果在香港地区订阅了，就改了也不能生效，必须想办法退订，或者一个奇怪的方法（我是这个，做一个家庭组，再解散），刷新订阅。\r\n之后就可以随便用了。",
+      "url": "https://www.v2ex.com/t/1258882",
+      "author": "SLboat",
+      "score": 0,
+      "num_comments": 1,
+      "created_at": "2026-11-22T06:05:42",
+      "fetched_at": "2026-11-22T15:56:49.471989+00:00",
+      "relevance_score": 35,
+      "deal_types": [
+        "区域套利",
+        "拼车/合租",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Regional Pricing",
+        "Group Buy",
+        "Workaround"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "区域套利",
+        "拼车/合租",
+        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -10691,7 +10839,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-22T02:31:17",
-      "fetched_at": "2026-11-22T05:12:26.479698+00:00",
+      "fetched_at": "2026-11-22T15:57:34.999907+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -10702,16 +10850,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
-        "Google",
-        "Anthropic"
+        "Anthropic",
+        "Google"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "免费/试用",
         "API优惠"
       ],
@@ -10759,7 +10907,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-13T14:07:07",
-      "fetched_at": "2026-11-22T05:12:19.899264+00:00",
+      "fetched_at": "2026-11-22T15:56:40.318433+00:00",
       "relevance_score": 33,
       "deal_types": [
         "区域套利",
@@ -10867,7 +11015,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-22T05:12:43.002477+00:00",
+      "fetched_at": "2026-11-22T15:57:17.328007+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11126,7 +11274,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-11-22T05:12:45.149688+00:00",
+      "fetched_at": "2026-11-22T15:57:19.816553+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11408,154 +11556,6 @@
         "免费/试用",
         "降价/折扣",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1227320",
-      "source": "v2ex",
-      "subreddit": 17,
-      "title": "写了一个本地翻译的免费小工具，支持无损翻译 PDF， OCR，欢迎大家体验",
-      "body": "✨ 核心亮点： \r\n🟢 PDF 完美排版翻译 —— 公式插图不乱，双语对照 PDF \r\n🟢 系统级截图 OCR —— 快捷键框选图片、扫描件即刻识别翻译 \r\n🟢 支持本地离线引擎 —— 零数据外流，物理保护机密隐私 \r\n🟢 自定义 API Key —— 自由接入 GPT/Claude/ DeepSeek\r\n\r\n地址： https://neurallen.app/zh",
-      "url": "https://www.v2ex.com/t/1227320",
-      "author": "suckli",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-14T15:56:44",
-      "fetched_at": "2026-07-15T10:02:31.883761+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1226073",
-      "source": "v2ex",
-      "subreddit": 12,
-      "title": "claude,chatgpt Api 的支付方式现在还没找到合适的订阅方法",
-      "body": "有香港中行，工商的银行卡，也不能支付\r\nmastercard 中行的储蓄卡也不行。\r\n客户端我用的苹果支付，但是只能订阅包月的，不能订 API\r\n求解决方案",
-      "url": "https://www.v2ex.com/t/1226073",
-      "author": "hhh6",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-09T05:30:44",
-      "fetched_at": "2026-07-10T02:56:14.946901+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Workaround",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "Claude",
-        "薅羊毛/技巧",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1225834",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "挖到 AI 省钱神器！多模型 API 聚合网关实测",
-      "body": "最近疯狂折腾各类大模型直接给我整麻了。\r\n\r\n一会儿 OpenAI 密钥、一会儿 Claude 账号，国产模型还要单独注册，手机备忘录塞满一堆 Key 。本人记忆力堪比金鱼，隔两天就忘密码，来回切平台调试到心态爆炸，大脑内存全被账号密码霸占，写代码的空间所剩无几。\r\n\r\n偶然挖到 Routescope 这款聚合工具，直接打开新世界大门，堪称 AI 调用圈平价批发超市。\r\n只需要一套 API 接口，就能打通百余款国内外大模型，GPT 、Claude 、Gemini 、各类国产模型全覆盖，再也不用反复登录切换后台。\r\n\r\n最惊喜的是自带智能路由，妥妥程序圈持家小能手。\r\n\r\n输出效果不变的前提下，自动匹配低价模型执行任务，上个月对账对比，直接省下 20%-40% 调用成本。省下来的预算全部犒劳自己，螺蛳粉随便加蛋加炸腐竹，再也不用精打细算。\r\n\r\n整理了全套计费福利，几乎零踩坑：\r\n\r\n    0 月租，纯按量计费，闲置不扣费，杜绝年卡闲置当冤种\r\n    \r\n    1 美元即可充值上手，一瓶可乐钱就能测试，门槛极低\r\n    \r\n    账户余额永久不清零，30 天试用不满意支持全额退",
-      "url": "https://www.v2ex.com/t/1225834",
-      "author": "Tokaify",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-08T06:13:19",
-      "fetched_at": "2026-07-23T06:30:41.055338+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini",
-        "ChatGPT",
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic",
-        "OpenAI",
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "ChatGPT",
-        "Claude",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1224350",
-      "source": "v2ex",
-      "subreddit": 184,
-      "title": "美区 ID 开通 ChatGPT plus 到别人帐号了怎么办",
-      "body": "我的美区 Apple ID 之前帮别人开通 ChatGPT Plus ，但是我记得好像是有六个月过了六个月以后就可以再给别的号开通了，然后我刚才直接就充值了 20 美元开通以后他说我已完成购买，紧接着提示我什么开通到其他账号了然后我就去 Apple 官网申请退款了，能成功退款吗？另外我想问一下大家，现在土耳其的低价区已经没有了，大家都是用什么方式去开通呢？",
-      "url": "https://www.v2ex.com/t/1224350",
-      "author": "qinsisuo",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-01T16:47:18",
-      "fetched_at": "2026-08-21T04:36:47.186752+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "区域套利",
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Regional Pricing",
-        "Price Drop"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "区域套利",
-        "降价/折扣"
       ],
       "is_deal": true
     }

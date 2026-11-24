@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T04:40:10.857747+00:00",
+  "last_updated": "2026-11-24T19:23:16.391162+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 284,
@@ -916,7 +916,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-20T06:55:08",
-      "fetched_at": "2026-11-24T04:38:06.646683+00:00",
+      "fetched_at": "2026-11-24T19:21:15.036070+00:00",
       "relevance_score": 53,
       "deal_types": [
         "拼车/合租",
@@ -933,16 +933,16 @@
         "API Deal"
       ],
       "products": [
-        "Copilot",
-        "Cursor"
+        "Cursor",
+        "Copilot"
       ],
       "companies": [
         "Microsoft",
         "Cursor"
       ],
       "tags": [
-        "Copilot",
         "Cursor",
+        "Copilot",
         "拼车/合租",
         "学生/教育",
         "免费/试用",
@@ -1328,7 +1328,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-22T12:36:55",
-      "fetched_at": "2026-11-24T04:37:43.098920+00:00",
+      "fetched_at": "2026-11-24T19:20:50.760734+00:00",
       "relevance_score": 50,
       "deal_types": [
         "拼车/合租",
@@ -1339,9 +1339,9 @@
         "API Deal"
       ],
       "products": [
-        "Gemini",
+        "Claude",
         "ChatGPT",
-        "Claude"
+        "Gemini"
       ],
       "companies": [
         "OpenAI",
@@ -1349,9 +1349,9 @@
         "Anthropic"
       ],
       "tags": [
-        "Gemini",
-        "ChatGPT",
         "Claude",
+        "ChatGPT",
+        "Gemini",
         "拼车/合租",
         "API优惠"
       ],
@@ -1762,7 +1762,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-24T04:38:06.646714+00:00",
+      "fetched_at": "2026-11-24T19:21:15.036104+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -1994,6 +1994,43 @@
         "拼车/合租",
         "免费/试用",
         "薅羊毛/技巧"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1259438",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[藕片中转站] 想低成本体验 claude 的用户，欢迎来试用，有赠送额度",
+      "body": "claude 封号最烦的就是账号也没了，手头的活也没干完，重新注册订阅又得折腾一大圈。\r\n\r\n与其花时间研究保号攻略，不如先把手头上的任务做下去。通过 https://eopt.ai 接入 claude，可以省去重复开通订阅的步骤，能够快速接入中转，30s 重启开发任务。\r\n\r\n现在官网还有试用活动，额外赠送试用额度，欢迎各位前来试用！！",
+      "url": "https://www.v2ex.com/t/1259438",
+      "author": "yxy19980304",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-24T06:24:10",
+      "fetched_at": "2026-11-24T19:20:55.419288+00:00",
+      "relevance_score": 46,
+      "deal_types": [
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "Workaround",
+        "API Deal"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "免费/试用",
+        "薅羊毛/技巧",
+        "API优惠"
       ],
       "is_deal": true
     },
@@ -4664,46 +4701,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1258737",
-      "source": "v2ex",
-      "subreddit": 148,
-      "title": "上架谷歌羊毛 xiaomi 渠道，10 块钱 gemini pro 会员，顺便说说我知道的",
-      "body": "## 先说说这渠道是哪来的。\r\n和之前 pixel 类似，小米在国外有活动，购买小米手机赠送 3 个月 gemini pro 会员。\r\n吐槽下谷歌的羊毛是真多，从 jio，pixel，到前两天的零元购，更不要说正价的低价土区和学生优惠，家大不怕薅\r\n\r\n## 问的最多，可以用反重力 Antigravity 吗？\r\n这个取决于账号有没有资格，账号用不了就用不了，与订阅无关\r\n并且账户如果是，香港大陆地区 俄罗斯 白俄罗斯 通过也不可用\r\n并且不要反代，现在对反代非常严格\r\n\r\n## 什么账号能使用？\r\n最近两天谷歌加了风控，不知道是不是更换地区的太多了，账号 90 天换过地区，大概率失败\r\n\r\n## 可以使用什么模型？\r\n和付费 pro 一样，不能使用 Carbon，其他的 Neon 和 Hydrogen 都可以使用\r\n如果要整尽量用小号，虽说封号的概率很小，之前零元购都没有封号，只是掉了订阅，但稳妥还是不要用自己大号。最难搞的还是谷歌账号\r\n\r\n\r\n下单地址，顺便需要代充 gpt 也可以找我，可开票\r\n\r\nhttps://gptcard.shop/",
-      "url": "https://www.v2ex.com/t/1258737",
-      "author": "gptcard",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-21T05:46:23",
-      "fetched_at": "2026-11-24T04:38:00.377088+00:00",
-      "relevance_score": 39,
-      "deal_types": [
-        "学生/教育",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Student/Edu",
-        "Free/Trial",
-        "Price Drop",
-        "Workaround"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "学生/教育",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1255536",
       "source": "v2ex",
       "subreddit": 864,
@@ -5339,6 +5336,49 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1259544",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "维索 API：多模型统一接入，支持 OpenAI / Anthropic 接口，送 V 友测试额度",
+      "body": "各位 V 友好，我是维索 API 的站长，来自荐一下自己做的多模型 API 聚合服务。\r\n\r\n**先说明：**这是一个商业中转服务，不是官方免费接口。欢迎大家实测、提问题，也欢迎指出不足。建议先测试自己的使用场景，确认模型、延迟和计费符合预期后再充值，不建议一上来大额充值。\r\n\r\n这个站主要解决的是：开发、调试或者跑 Agent 时，需要在不同模型之间切换，但不想分别注册、充值和维护多套接口配置。\r\n\r\n**目前提供什么**\r\n- 多模型接入：GPT、Claude、Gemini、Grok、DeepSeek、Qwen、GLM、Kimi、MiniMax 等，以及部分图像生成模型。\r\n- 多种接口格式：支持 OpenAI Chat Completions、Responses；部分模型也支持 Anthropic Messages 和 Gemini 接口，具体以模型广场为准。\r\n- 按量计费：不同模型和分组分别计价，调用前可以查看价格，不需要为暂时用不到的平台分别购买订阅。\r\n面向开发工具：可搭配 Claude Code、Codex、OpenCode、Cursor 等支持自定义 API 地址和密",
+      "url": "https://www.v2ex.com/t/1259544",
+      "author": "Haley",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-24T12:25:49",
+      "fetched_at": "2026-11-24T19:20:55.419230+00:00",
+      "relevance_score": 38,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "Cursor",
+        "ChatGPT",
+        "Gemini"
+      ],
+      "companies": [
+        "OpenAI",
+        "Cursor",
+        "Google",
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "Cursor",
+        "ChatGPT",
+        "Gemini",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1258860",
       "source": "v2ex",
       "subreddit": 300,
@@ -5349,7 +5389,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-22T03:10:22",
-      "fetched_at": "2026-11-24T04:37:49.290794+00:00",
+      "fetched_at": "2026-11-24T19:20:57.401417+00:00",
       "relevance_score": 38,
       "deal_types": [
         "区域套利",
@@ -6272,6 +6312,46 @@
         "Gemini",
         "免费/试用",
         "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258737",
+      "source": "v2ex",
+      "subreddit": 148,
+      "title": "上架谷歌羊毛 xiaomi 渠道，10 块钱 gemini pro 会员，顺便说说我知道的",
+      "body": "## 先说说这渠道是哪来的。\r\n和之前 pixel 类似，小米在国外有活动，购买小米手机赠送 3 个月 gemini pro 会员。\r\n吐槽下谷歌的羊毛是真多，从 jio，pixel，到前两天的零元购，更不要说正价的低价土区和学生优惠，家大不怕薅\r\n\r\n## 问的最多，可以用反重力 Antigravity 吗？\r\n这个取决于账号有没有资格，账号用不了就用不了，与订阅无关\r\n并且账户如果是，香港大陆地区 俄罗斯 白俄罗斯 通过也不可用\r\n并且不要反代，现在对反代非常严格\r\n\r\n## 什么账号能使用？\r\n最近两天谷歌加了风控，不知道是不是更换地区的太多了，账号 90 天换过地区，大概率失败\r\n\r\n## 可以使用什么模型？\r\n和付费 pro 一样，不能使用 Carbon，其他的 Neon 和 Hydrogen 都可以使用\r\n如果要整尽量用小号，虽说封号的概率很小，之前零元购都没有封号，只是掉了订阅，但稳妥还是不要用自己大号。最难搞的还是谷歌账号\r\n\r\n\r\n下单地址，顺便需要代充 gpt 也可以找我，可开票\r\n\r\nhttps://gptcard.shop/",
+      "url": "https://www.v2ex.com/t/1258737",
+      "author": "gptcard",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-21T05:46:23",
+      "fetched_at": "2026-11-24T19:21:08.729640+00:00",
+      "relevance_score": 37,
+      "deal_types": [
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Student/Edu",
+        "Free/Trial",
+        "Price Drop",
+        "Workaround"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -7235,7 +7315,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-23T02:27:30",
-      "fetched_at": "2026-11-24T04:37:43.098907+00:00",
+      "fetched_at": "2026-11-24T19:20:50.760715+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -8596,7 +8676,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T19:31:42",
-      "fetched_at": "2026-11-24T04:37:40.993302+00:00",
+      "fetched_at": "2026-11-24T19:20:48.201860+00:00",
       "relevance_score": 35,
       "deal_types": [
         "学生/教育",
@@ -9791,41 +9871,41 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1259090",
+      "id": "v2ex_1259515",
       "source": "v2ex",
       "subreddit": 864,
-      "title": "想用 claude fable 5.2，官方订阅用不了，想试试 Amazon Bedrock 靠谱吗？有没有用过的",
-      "body": "在受限区域无法直连 Anthropic 官方 API 时，使用 Claude Fable 5.2 和 Opus 5.5 最稳定、合规且免去支付障碍的方法，是通过支持多区域路由的公有云平台、内置官方模型的海外 AI 编程工具，或者第三方 API 聚合平台。\r\n\r\n\r\n\r\n\r\n根据你的技术背景和支付条件，主要可以通过以下三类渠道接入：\r\n\r\n一、 第三方 API 聚合平台（最省事，门槛最低）\r\n\r\n这类平台在海外部署了合规节点，将 Anthropic 的接口封装为标准的 OpenAI 兼容格式，无需海外信用卡，且不受地域 IP 限制（国内网络通常可直连或低延迟访问）：\r\n• 国内/跨境开发者常用聚合站：如 Ofox AI、SiliconFlow（硅基流动国际版） 或 302.AI 等平台。注册后支持支付宝/微信充值，直接在后台生成 API Key，调用时只需把 base_url 改为聚合平台地址，模型名称填 anthropic/claude-fable-5-2 或 anthropic/claude-opus-5.5 即可。\r\n• 海外主流聚合路由：如 OpenRouter 或 Togeth",
-      "url": "https://www.v2ex.com/t/1259090",
-      "author": "kpub54",
+      "title": "自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
+      "body": "自己经常用 Claude code，还是非常好用，但是就是额度实在焦虑，充的少，不够用。充了个大的，结果被 A\\封号不退款。。\r\ncodex 发挥又不太稳定，一会很聪明，一会又很蠢，额度是量大管饱，但是两个 agent 指挥来指挥去也不是那么方便。\r\n社区里的模型经常更新换代，Fable 还是稳定发挥，但是下面就是群魔乱舞，每天都有模型变成抢手模型，电脑上下了一堆 agent。\r\n\r\n太痛了，于是自己搓了一套 agent，本身是给团队内部用的，但是发现还挺好用，就给搞研究的佬和学生做了做，起名叫研云后面发现可以通用，就做了简单的商业化，发出来给大家用用看。佬们可以试试。\r\n\r\n几个痛点：\r\n1、模型一大堆，到处接 API，到处充钱：\r\n我们已经接入了很多模型，包括国内的，国外的，都接了接，并且做了很好的国内优化，所以访问稳定性上不是问题。\r\n充进来的费用可以调各种模型，包括生图的，视频的。支持支付宝和微信。也不用去折腾复杂的 API，佬们有啥想用的，直接提我来接，你们用就好了。我们拿到的资源也都是火山或者是阿里的 DeepSeek 资源，比官方调国内模型是有折扣的，也开了免费 Deep",
+      "url": "https://www.v2ex.com/t/1259515",
+      "author": "LuojiPeaon",
       "score": 0,
       "num_comments": 0,
-      "created_at": "2026-11-23T04:53:32",
-      "fetched_at": "2026-11-24T04:38:08.963754+00:00",
+      "created_at": "2026-11-24T09:45:31",
+      "fetched_at": "2026-11-24T19:21:21.810907+00:00",
       "relevance_score": 34,
       "deal_types": [
-        "区域套利",
-        "薅羊毛/技巧",
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
         "API优惠"
       ],
       "deal_types_en": [
-        "Regional Pricing",
-        "Workaround",
+        "Student/Edu",
+        "Free/Trial",
+        "Price Drop",
         "API Deal"
       ],
       "products": [
-        "ChatGPT",
         "Claude"
       ],
       "companies": [
-        "OpenAI",
         "Anthropic"
       ],
       "tags": [
-        "ChatGPT",
         "Claude",
-        "区域套利",
-        "薅羊毛/技巧",
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
@@ -11095,7 +11175,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-24T04:38:04.465977+00:00",
+      "fetched_at": "2026-11-24T19:21:12.747283+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11354,7 +11434,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-11-24T04:38:06.646758+00:00",
+      "fetched_at": "2026-11-24T19:21:15.036120+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11485,74 +11565,6 @@
         "ChatGPT",
         "拼车/合租",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1230851",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "半价 新加坡 Claude 20x",
-      "body": "楼主前几天 bug 时期薅了 2 个号，一个谷歌邮箱的，另一个自建邮箱的，谷歌邮箱的没用，自建邮箱的号拿来给以前的项目做重构了，大半天的时间好像跑了周限的 20%左右。第二天这两个号的订阅都没了，变成了 free 。\r\n\r\n今天上号看自建邮箱的那个号已经被封了，hold 的状态，切换到谷歌邮箱的号没被封，紧接着跳出个弹窗，显示 137 新加坡元可以买 20x 的套餐，坛友有出现过这种情况吗？如果被封了会被退款吗？不知道前一个号是因为薅羊毛被封还是 ip 不干净被封的。\r\n\r\n![截屏 2026-07-29 23.36.04.png]( https://picui.ogmua.cn/s1/2026/07/29/6a6a1f9a988a2.webp)",
-      "url": "https://www.v2ex.com/t/1230851",
-      "author": "810244966",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-07-29T15:43:38",
-      "fetched_at": "2026-08-18T01:08:54.471233+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "Workaround"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1219553",
-      "source": "v2ex",
-      "subreddit": 1135,
-      "title": "ChatGPT 菲律宾价格最低",
-      "body": "5/21 刚注册土耳其，6/9 号又冲了 500 里拉。现在土耳其价格比美区还要贵。\r\n\r\n以后注定经常换区么？\r\n\r\n# ChatGPT Plus 每月全球价格\r\n\r\n| 排名 | 地区       | 原价              | CNY 价格    | 状态 |\r\n|------|------------|-------------------|------------|------|\r\n| 1    | 菲律宾     | PHP 999           | ¥110.15    | 最低 |\r\n| 2    | 巴基斯坦   | PKR 4,900         | ¥119.49    | -    |\r\n| 3    | 加拿大     | CAD 24.99         | ¥121.61    | -    |\r\n| 4    | 日本       | JPY 3,000         | ¥127.00    | -    |\r\n| 5    | 韩国       | KRW 29,000        | ¥129.14    | -    |\r",
-      "url": "https://www.v2ex.com/t/1219553",
-      "author": "yjxjn",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-06-11T02:46:08",
-      "fetched_at": "2026-11-24T04:37:51.275661+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "区域套利"
-      ],
-      "deal_types_en": [
-        "Regional Pricing"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "区域套利"
       ],
       "is_deal": true
     }

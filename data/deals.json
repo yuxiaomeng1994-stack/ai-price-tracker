@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T03:25:24.649110+00:00",
+  "last_updated": "2026-11-25T13:57:05.205699+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 284,
@@ -916,7 +916,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-20T06:55:08",
-      "fetched_at": "2026-11-25T03:23:17.093927+00:00",
+      "fetched_at": "2026-11-25T13:54:52.716735+00:00",
       "relevance_score": 53,
       "deal_types": [
         "拼车/合租",
@@ -933,16 +933,16 @@
         "API Deal"
       ],
       "products": [
-        "Cursor",
-        "Copilot"
+        "Copilot",
+        "Cursor"
       ],
       "companies": [
         "Microsoft",
         "Cursor"
       ],
       "tags": [
-        "Cursor",
         "Copilot",
+        "Cursor",
         "拼车/合租",
         "学生/教育",
         "免费/试用",
@@ -1318,46 +1318,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1258937",
-      "source": "v2ex",
-      "subreddit": 1140,
-      "title": "开源个基于 P2P 网络共享 Token 的项目，一起来共享闲置算力解决生产力",
-      "body": "Claude、ChatGPT 的额度每 5 小时刷新一次，有时自己用不完就浪费掉了，同事、朋友却常常额度不够，卡在半路。为了解决这个问题，我做了 **ShareToken**：一个点对点的大模型共享网络，MIT 协议开源。\r\n\r\n## 能共享什么\r\n\r\n```bash\r\nsharetoken provider login anthropic     # Claude 订阅（OAuth 登录）\r\nsharetoken provider login openai        # ChatGPT / Codex 订阅\r\nsharetoken provider add deepseek        # 或者一个 API key\r\nsharetoken share add qwen3.8:27b        # 或者本地 Ollama 模型\r\n```\r\n\r\n支持 Claude、ChatGPT、Gemini、Grok 的订阅，各家 API key，以及本地模型。共享出去的额度被别人用掉时，你赚 credit；你也可以用 credit 调用别人共享的模型。\r\n\r\n## 用起来是什么样\r\n\r\n-",
-      "url": "https://www.v2ex.com/t/1258937",
-      "author": "linger12306",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-22T12:36:55",
-      "fetched_at": "2026-11-25T03:22:50.401032+00:00",
-      "relevance_score": 50,
-      "deal_types": [
-        "拼车/合租",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "ChatGPT",
-        "Gemini"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic",
-        "Google"
-      ],
-      "tags": [
-        "Claude",
-        "ChatGPT",
-        "Gemini",
-        "拼车/合租",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1256629",
       "source": "v2ex",
       "subreddit": 864,
@@ -1550,6 +1510,46 @@
       "tags": [
         "Claude",
         "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258937",
+      "source": "v2ex",
+      "subreddit": 1140,
+      "title": "开源个基于 P2P 网络共享 Token 的项目，一起来共享闲置算力解决生产力",
+      "body": "Claude、ChatGPT 的额度每 5 小时刷新一次，有时自己用不完就浪费掉了，同事、朋友却常常额度不够，卡在半路。为了解决这个问题，我做了 **ShareToken**：一个点对点的大模型共享网络，MIT 协议开源。\r\n\r\n## 能共享什么\r\n\r\n```bash\r\nsharetoken provider login anthropic     # Claude 订阅（OAuth 登录）\r\nsharetoken provider login openai        # ChatGPT / Codex 订阅\r\nsharetoken provider add deepseek        # 或者一个 API key\r\nsharetoken share add qwen3.8:27b        # 或者本地 Ollama 模型\r\n```\r\n\r\n支持 Claude、ChatGPT、Gemini、Grok 的订阅，各家 API key，以及本地模型。共享出去的额度被别人用掉时，你赚 credit；你也可以用 credit 调用别人共享的模型。\r\n\r\n## 用起来是什么样\r\n\r\n-",
+      "url": "https://www.v2ex.com/t/1258937",
+      "author": "linger12306",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-22T12:36:55",
+      "fetched_at": "2026-11-25T13:54:26.895238+00:00",
+      "relevance_score": 48,
+      "deal_types": [
+        "拼车/合租",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini",
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Anthropic"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "ChatGPT",
+        "拼车/合租",
         "API优惠"
       ],
       "is_deal": true
@@ -1762,7 +1762,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-25T03:23:17.093943+00:00",
+      "fetched_at": "2026-11-25T13:54:52.716753+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -3415,6 +3415,52 @@
       "tags": [
         "Claude",
         "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1259670",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[福利 CDK] Zooproxy 上新美国 AI 优化渠道 IP，赠送动态住宅测试流量",
+      "body": "Zooproxy 上新**美国 AI 优化渠道 IP**，适配 ChatGPT、Claude 等大模型批量任务，单价 $1.25/IP，针对 AI 业务风控做专项优化。\r\n\r\n美国 IP AI 优化套餐专为 AI 业务负载调优，网络针对 AI 机器人访问、API 调用、模型推理实现低延迟稳定连通，针对 AI 平台常见的指纹识别与流量限制做了防护优化，IP 属性更好 有其他业务的客户也可以选择该套餐使用。\r\n\r\n联系官方 TG 客服 @ZooproxyTiger 还可领取专属优惠券。\r\n\r\n🎁V 友专属福利：注册即可兑换 CDK，免费领取动态住宅流量\r\n\r\n官网注册入口：[https://zooproxy.com/?kwd=LQ-v2ex](https://zooproxy.com/?kwd=LQ-v2ex)\r\n\r\n注册登录后进入控制台，找到 CDK 兑换入口直接激活即可。\r\n\r\n邀请码：**veexfwaif**，新用户首单可享半价。 注册时填写\r\n\r\n可用 CDK：\r\n\r\n```\r\nUEJK‑EKE9‑ME97\r\nQB6X‑CMTM‑FCTX\r\n7ZAR‑WKKQ‑ANVH\r\nZYL",
+      "url": "https://www.v2ex.com/t/1259670",
+      "author": "Mayday9421",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-25T03:57:40",
+      "fetched_at": "2026-11-25T13:54:43.531618+00:00",
+      "relevance_score": 42,
+      "deal_types": [
+        "优惠码",
+        "礼品卡",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Gift Card",
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "优惠码",
+        "礼品卡",
+        "免费/试用",
+        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
@@ -5336,49 +5382,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1259544",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "维索 API：多模型统一接入，支持 OpenAI / Anthropic 接口，送 V 友测试额度",
-      "body": "各位 V 友好，我是维索 API 的站长，来自荐一下自己做的多模型 API 聚合服务。\r\n\r\n**先说明：**这是一个商业中转服务，不是官方免费接口。欢迎大家实测、提问题，也欢迎指出不足。建议先测试自己的使用场景，确认模型、延迟和计费符合预期后再充值，不建议一上来大额充值。\r\n\r\n这个站主要解决的是：开发、调试或者跑 Agent 时，需要在不同模型之间切换，但不想分别注册、充值和维护多套接口配置。\r\n\r\n**目前提供什么**\r\n- 多模型接入：GPT、Claude、Gemini、Grok、DeepSeek、Qwen、GLM、Kimi、MiniMax 等，以及部分图像生成模型。\r\n- 多种接口格式：支持 OpenAI Chat Completions、Responses；部分模型也支持 Anthropic Messages 和 Gemini 接口，具体以模型广场为准。\r\n- 按量计费：不同模型和分组分别计价，调用前可以查看价格，不需要为暂时用不到的平台分别购买订阅。\r\n面向开发工具：可搭配 Claude Code、Codex、OpenCode、Cursor 等支持自定义 API 地址和密",
-      "url": "https://www.v2ex.com/t/1259544",
-      "author": "Haley",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-24T12:25:49",
-      "fetched_at": "2026-11-25T03:22:55.205229+00:00",
-      "relevance_score": 38,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "Cursor",
-        "ChatGPT",
-        "Gemini"
-      ],
-      "companies": [
-        "OpenAI",
-        "Cursor",
-        "Anthropic",
-        "Google"
-      ],
-      "tags": [
-        "Claude",
-        "Cursor",
-        "ChatGPT",
-        "Gemini",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1255070",
       "source": "v2ex",
       "subreddit": 864,
@@ -6289,7 +6292,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T05:46:23",
-      "fetched_at": "2026-11-25T03:23:09.590583+00:00",
+      "fetched_at": "2026-11-25T13:54:45.892663+00:00",
       "relevance_score": 37,
       "deal_types": [
         "学生/教育",
@@ -7268,6 +7271,49 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1259544",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "维索 API：多模型统一接入，支持 OpenAI / Anthropic 接口，送 V 友测试额度",
+      "body": "各位 V 友好，我是维索 API 的站长，来自荐一下自己做的多模型 API 聚合服务。\r\n\r\n**先说明：**这是一个商业中转服务，不是官方免费接口。欢迎大家实测、提问题，也欢迎指出不足。建议先测试自己的使用场景，确认模型、延迟和计费符合预期后再充值，不建议一上来大额充值。\r\n\r\n这个站主要解决的是：开发、调试或者跑 Agent 时，需要在不同模型之间切换，但不想分别注册、充值和维护多套接口配置。\r\n\r\n**目前提供什么**\r\n- 多模型接入：GPT、Claude、Gemini、Grok、DeepSeek、Qwen、GLM、Kimi、MiniMax 等，以及部分图像生成模型。\r\n- 多种接口格式：支持 OpenAI Chat Completions、Responses；部分模型也支持 Anthropic Messages 和 Gemini 接口，具体以模型广场为准。\r\n- 按量计费：不同模型和分组分别计价，调用前可以查看价格，不需要为暂时用不到的平台分别购买订阅。\r\n面向开发工具：可搭配 Claude Code、Codex、OpenCode、Cursor 等支持自定义 API 地址和密",
+      "url": "https://www.v2ex.com/t/1259544",
+      "author": "Haley",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-24T12:25:49",
+      "fetched_at": "2026-11-25T13:55:06.420308+00:00",
+      "relevance_score": 36,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Gemini",
+        "Claude",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Cursor",
+        "Anthropic"
+      ],
+      "tags": [
+        "Gemini",
+        "Claude",
+        "ChatGPT",
+        "Cursor",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1259036",
       "source": "v2ex",
       "subreddit": 864,
@@ -7278,7 +7324,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-23T02:27:30",
-      "fetched_at": "2026-11-25T03:22:50.401024+00:00",
+      "fetched_at": "2026-11-25T13:54:26.895231+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -7291,16 +7337,16 @@
         "API Deal"
       ],
       "products": [
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
-        "Anthropic",
-        "Google"
+        "Google",
+        "Anthropic"
       ],
       "tags": [
-        "Claude",
         "Gemini",
+        "Claude",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -7318,7 +7364,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-22T03:10:22",
-      "fetched_at": "2026-11-25T03:22:57.613029+00:00",
+      "fetched_at": "2026-11-25T13:54:33.942101+00:00",
       "relevance_score": 36,
       "deal_types": [
         "区域套利",
@@ -8629,6 +8675,43 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1259806",
+      "source": "v2ex",
+      "subreddit": 12,
+      "title": "冲了 99usd 一年的 Google ai pro ，怎么使用反重力",
+      "body": "学生版好像 11 月底反重力就不能用高阶模型了，所以充了一年的 Google AI Pro 套餐，99 美金。\n\n近期政策收紧（2026 年 11 月底生效）： 免费试用/促销类的学生账号在 Antigravity 中被排除在 Gemini 4 系列（包括 Gemini 4 Hydrogen）之外，模型阵容退回与基础免费版（Basic/Free Tier）一致\n\n之前下载过 antigravity 的应用，但是用起来很难受，而且要开 tun 模式，会影响我使用内部网络的其他服务，有没有什么软件可以只让 antigravity 走特定的代理，其他不走代理",
+      "url": "https://www.v2ex.com/t/1259806",
+      "author": "syh2",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-25T12:13:59",
+      "fetched_at": "2026-11-25T13:54:29.230011+00:00",
+      "relevance_score": 35,
+      "deal_types": [
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣"
+      ],
+      "deal_types_en": [
+        "Student/Edu",
+        "Free/Trial",
+        "Price Drop"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1258882",
       "source": "v2ex",
       "subreddit": 12,
@@ -9828,28 +9911,26 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1259515",
+      "id": "v2ex_1259773",
       "source": "v2ex",
       "subreddit": 864,
-      "title": "自己搓了个 Agent，解决了一些 AI 工具的痛点吧，大家可以体验体验",
-      "body": "自己经常用 Claude code，还是非常好用，但是就是额度实在焦虑，充的少，不够用。充了个大的，结果被 A\\封号不退款。。\r\ncodex 发挥又不太稳定，一会很聪明，一会又很蠢，额度是量大管饱，但是两个 agent 指挥来指挥去也不是那么方便。\r\n社区里的模型经常更新换代，Fable 还是稳定发挥，但是下面就是群魔乱舞，每天都有模型变成抢手模型，电脑上下了一堆 agent。\r\n\r\n太痛了，于是自己搓了一套 agent，本身是给团队内部用的，但是发现还挺好用，就给搞研究的佬和学生做了做，起名叫研云后面发现可以通用，就做了简单的商业化，发出来给大家用用看。佬们可以试试。\r\n\r\n几个痛点：\r\n1、模型一大堆，到处接 API，到处充钱：\r\n我们已经接入了很多模型，包括国内的，国外的，都接了接，并且做了很好的国内优化，所以访问稳定性上不是问题。\r\n充进来的费用可以调各种模型，包括生图的，视频的。支持支付宝和微信。也不用去折腾复杂的 API，佬们有啥想用的，直接提我来接，你们用就好了。我们拿到的资源也都是火山或者是阿里的 DeepSeek 资源，比官方调国内模型是有折扣的，也开了免费 Deep",
-      "url": "https://www.v2ex.com/t/1259515",
-      "author": "LuojiPeaon",
+      "title": "回帖 + 加群送 $18 额度，Claude Code / Codex 改个地址就能用，GPT 低至官方 1.35 折 | 林易 API",
+      "body": "各位 V 友好，我们是林易 API（[linyiapi.ai](https://linyiapi.ai)）团队，做 AI 大模型 API 中转。这次发帖推广：回帖送 $8，加群再送 $10，一共 $18。欢迎来试、来挑刺。\r\n**活动时间：帖子还在，活动就一直有效。**\r\n## 🎁 福利\r\n| 福利 | 额度 | 怎么领 |\r\n| --- | --- | --- |\r\n| 回帖送 | $8 | 在本帖回帖，然后进群发「V2EX 用户名 + 楼层号 + 注册账号」 |\r\n| 加群送 | $10 | 站点右上角 [客服] 按钮点开，扫码进群发「注册账号 + 领额度」 |\r\n\r\n步骤：\r\n1. 在 [linyiapi.ai](https://linyiapi.ai) 注册账号。\r\n2. 在本帖回帖，写一句你最常用的模型或使用场景，比如「Claude Code 写前端」「Codex 跑脚本」。\r\n3. 加 QQ 群 1054620269，按上表发送信息，核对后发放。两份可以一起领。\r\n说明：\r\n- 每个 V2EX 账号、每个林易账号，每份福利各限领 1 次。\r\n- 赠送额度直接计入控制台余额，",
+      "url": "https://www.v2ex.com/t/1259773",
+      "author": "butlgme",
       "score": 0,
       "num_comments": 0,
-      "created_at": "2026-11-24T09:45:31",
-      "fetched_at": "2026-11-25T03:23:24.158692+00:00",
+      "created_at": "2026-11-25T09:12:11",
+      "fetched_at": "2026-11-25T13:55:01.712278+00:00",
       "relevance_score": 34,
       "deal_types": [
-        "学生/教育",
+        "拼车/合租",
         "免费/试用",
-        "降价/折扣",
         "API优惠"
       ],
       "deal_types_en": [
-        "Student/Edu",
+        "Group Buy",
         "Free/Trial",
-        "Price Drop",
         "API Deal"
       ],
       "products": [
@@ -9860,9 +9941,8 @@
       ],
       "tags": [
         "Claude",
-        "学生/教育",
+        "拼车/合租",
         "免费/试用",
-        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
@@ -10993,7 +11073,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T19:31:42",
-      "fetched_at": "2026-11-25T03:22:47.866635+00:00",
+      "fetched_at": "2026-11-25T13:54:24.369557+00:00",
       "relevance_score": 33,
       "deal_types": [
         "学生/教育",
@@ -11008,16 +11088,16 @@
         "API Deal"
       ],
       "products": [
-        "ChatGPT",
-        "Gemini"
+        "Gemini",
+        "ChatGPT"
       ],
       "companies": [
         "OpenAI",
         "Google"
       ],
       "tags": [
-        "ChatGPT",
         "Gemini",
+        "ChatGPT",
         "学生/教育",
         "免费/试用",
         "降价/折扣",
@@ -11175,7 +11255,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-25T03:23:14.367504+00:00",
+      "fetched_at": "2026-11-25T13:54:50.112020+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11434,7 +11514,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-11-25T03:23:17.093952+00:00",
+      "fetched_at": "2026-11-25T13:54:52.716764+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11490,80 +11570,6 @@
       "tags": [
         "ChatGPT",
         "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1233657",
-      "source": "v2ex",
-      "subreddit": 300,
-      "title": "吐槽一下关于 xAI",
-      "body": "被这家公司坑了好几次。\r\n\r\n众所周知，xAI 在 Grok-3 阶段开放了数据共享计划，在 console 开启数据共享之后允许 xAI 试用训练数据，并且每个月获得 150USD 的额度，这个计划仅 1 个月就结束了。毕竟是免费的东西，我忍了。但是我后续有其他业务要调用 xAI 的 API 的时候发现**数据共享计划加入之后是无法退出的**，一个持续 1 个月的数据共享计划，这个目的性是不是太明显了。\r\n\r\n第二件事：由于之前的部分业务需要，综合对比了之后发现 xAI 的 grok-4.1-fast / grok-4-fast 模型是同类模型里性价比最好的，远超 gemini flash 系，甚至当时（大约 2025 年 6 月）比 DeepSeek 还有性价比。而且并发限制及其宽松。\r\n\r\n我在业务中使用了这个模型，直到几个月后，这个模型居然被毫无征兆的删除了，**并且所有调用这个模型的路由不会被 404 ，而是会被路由到价格贵了大约 10-20 倍的 Grok-4.2**,期间没有收到任何邮件通知，或者其他任何 API 方面的代码，使用 grok-4.1-fast 模型代号，就",
-      "url": "https://www.v2ex.com/t/1233657",
-      "author": "EvanClausen",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-08-11T11:50:57",
-      "fetched_at": "2026-08-12T05:37:31.835460+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "拼车/合租",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "拼车/合租",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1233242",
-      "source": "v2ex",
-      "subreddit": 69,
-      "title": "菲区 x20 拼车，差一人",
-      "body": "ChatGPT pro 20x 找人一起分摊成本。\r\n\r\n300RMB/月，每周限额 500 刀，官方重置额度，账号会同步重置。\r\n\r\n保证账号稳定续费。跟随官方重置额度。提供最大可能的技术支持。\r\n\r\n菲区购买，通过官网网页直购，如果发生被封，大家一起承担，奥特曼退就退。\r\n\r\nsub2api 交付。\r\n\r\n关于账号：\r\n\r\n上车的车友，可提供官网订购记录，100%保证是官网订购的。\r\n\r\n\r\n使用说明：\r\n\r\n1 、禁止破限制逆向等违规行为，发现清退车，不退款。\r\n\r\n2 、半路跳车不退。\r\n\r\n3 、禁止共享，禁止高并发，禁止违法用途。\r\n\r\n绿泡泡：am9udHkwNTIx",
-      "url": "https://www.v2ex.com/t/1233242",
-      "author": "jonty",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-08-10T06:11:29",
-      "fetched_at": "2026-08-13T09:11:06.632770+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "拼车/合租",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "拼车/合租",
         "API优惠"
       ],
       "is_deal": true

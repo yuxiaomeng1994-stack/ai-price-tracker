@@ -5,7 +5,7 @@
     <link>https://yuxiaomeng1994-stack.github.io/ai-price-tracker/</link>
     <description>自动追踪全网 Claude/ChatGPT/Gemini 等 AI 订阅优惠信息</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 03:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:57:05 +0000</lastBuildDate>
     <atom:link href="https://yuxiaomeng1994-stack.github.io/ai-price-tracker/data/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -437,7 +437,7 @@ ChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra
       <link>https://www.v2ex.com/t/1258553</link>
       <guid isPermaLink="false">v2ex_1258553</guid>
       <pubDate>Fri, 20 Nov 2026 06:55:08 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 53 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Cursor, Copilot</p><p><strong>类型:</strong> 拼车/合租, 学生/教育, 免费/试用, 薅羊毛/技巧, API优惠</p><p>自己平时用 AI 工具比较多，发现各家其实都有不少免费额度、试用活动和开发者福利，但信息很分散，有些活动过期了也没人更新。
+      <description><![CDATA[<p><strong>评分:</strong> 53 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Copilot, Cursor</p><p><strong>类型:</strong> 拼车/合租, 学生/教育, 免费/试用, 薅羊毛/技巧, API优惠</p><p>自己平时用 AI 工具比较多，发现各家其实都有不少免费额度、试用活动和开发者福利，但信息很分散，有些活动过期了也没人更新。
 
 所以做了个网站，把这些资源整理到了一起。
 
@@ -468,7 +468,7 @@ ChatGPT Plus / Pro , Claude Pro / Max 、Gemini Pro / Ultra
 ### AI 产品列表
 
 ![AI 工</p>]]></description>
-      <category>Cursor</category><category>Copilot</category><category>拼车/合租</category><category>学生/教育</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
+      <category>Copilot</category><category>Cursor</category><category>拼车/合租</category><category>学生/教育</category><category>免费/试用</category><category>薅羊毛/技巧</category><category>API优惠</category>
     </item>
     <item>
       <title>TokenMarket 运行三个月，感谢 V 友支持｜新用户送 2 元试用额度，再享 15 天免费分组体验； QQ 交流群： 483252460</title>
@@ -679,29 +679,6 @@ GLM 5.2 免费，免费，免费！
       <category>Cursor</category><category>免费/试用</category><category>降价/折扣</category><category>API优惠</category>
     </item>
     <item>
-      <title>开源个基于 P2P 网络共享 Token 的项目，一起来共享闲置算力解决生产力</title>
-      <link>https://www.v2ex.com/t/1258937</link>
-      <guid isPermaLink="false">v2ex_1258937</guid>
-      <pubDate>Sun, 22 Nov 2026 12:36:55 +0000</pubDate>
-      <description><![CDATA[<p><strong>评分:</strong> 50 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Claude, ChatGPT, Gemini</p><p><strong>类型:</strong> 拼车/合租, API优惠</p><p>Claude、ChatGPT 的额度每 5 小时刷新一次，有时自己用不完就浪费掉了，同事、朋友却常常额度不够，卡在半路。为了解决这个问题，我做了 **ShareToken**：一个点对点的大模型共享网络，MIT 协议开源。
-
-## 能共享什么
-
-```bash
-sharetoken provider login anthropic     # Claude 订阅（OAuth 登录）
-sharetoken provider login openai        # ChatGPT / Codex 订阅
-sharetoken provider add deepseek        # 或者一个 API key
-sharetoken share add qwen3.8:27b        # 或者本地 Ollama 模型
-```
-
-支持 Claude、ChatGPT、Gemini、Grok 的订阅，各家 API key，以及本地模型。共享出去的额度被别人用掉时，你赚 credit；你也可以用 credit 调用别人共享的模型。
-
-## 用起来是什么样
-
--</p>]]></description>
-      <category>Claude</category><category>ChatGPT</category><category>Gemini</category><category>拼车/合租</category><category>API优惠</category>
-    </item>
-    <item>
       <title>🔥Crab AI｜ OpenAI 官渠 - Cheap 渠道倍率低至 0.07x｜开启高缓低价超性价比 ｜ 试用额度免费领</title>
       <link>https://www.v2ex.com/t/1256629</link>
       <guid isPermaLink="false">v2ex_1256629</guid>
@@ -809,6 +786,29 @@ curl https://api.anthropic.com/v1/messages \
 
 （key请</p>]]></description>
       <category>Claude</category><category>免费/试用</category><category>API优惠</category>
+    </item>
+    <item>
+      <title>开源个基于 P2P 网络共享 Token 的项目，一起来共享闲置算力解决生产力</title>
+      <link>https://www.v2ex.com/t/1258937</link>
+      <guid isPermaLink="false">v2ex_1258937</guid>
+      <pubDate>Sun, 22 Nov 2026 12:36:55 +0000</pubDate>
+      <description><![CDATA[<p><strong>评分:</strong> 48 | <strong>来源:</strong> v2ex</p><p><strong>产品:</strong> Gemini, Claude, ChatGPT</p><p><strong>类型:</strong> 拼车/合租, API优惠</p><p>Claude、ChatGPT 的额度每 5 小时刷新一次，有时自己用不完就浪费掉了，同事、朋友却常常额度不够，卡在半路。为了解决这个问题，我做了 **ShareToken**：一个点对点的大模型共享网络，MIT 协议开源。
+
+## 能共享什么
+
+```bash
+sharetoken provider login anthropic     # Claude 订阅（OAuth 登录）
+sharetoken provider login openai        # ChatGPT / Codex 订阅
+sharetoken provider add deepseek        # 或者一个 API key
+sharetoken share add qwen3.8:27b        # 或者本地 Ollama 模型
+```
+
+支持 Claude、ChatGPT、Gemini、Grok 的订阅，各家 API key，以及本地模型。共享出去的额度被别人用掉时，你赚 credit；你也可以用 credit 调用别人共享的模型。
+
+## 用起来是什么样
+
+-</p>]]></description>
+      <category>Gemini</category><category>Claude</category><category>ChatGPT</category><category>拼车/合租</category><category>API优惠</category>
     </item>
     <item>
       <title>[Apixo] GLM-5.3 仅官方 0.1 倍率｜ DeepSeek $0.04/M｜一个 Key 调用 30+ 模型｜留 ID 送 500 万 tokens</title>

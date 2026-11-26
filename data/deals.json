@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-26T00:04:55.047560+00:00",
+  "last_updated": "2026-11-26T08:03:37.377224+00:00",
   "total_deals": 300,
   "sources": {
-    "v2ex": 283,
+    "v2ex": 284,
     "reddit": 5,
     "smzdm": 2,
-    "hackernews": 10
+    "hackernews": 9
   },
   "llm_filtered": false,
   "deals": [
@@ -916,7 +916,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-20T06:55:08",
-      "fetched_at": "2026-11-26T00:00:17.590449+00:00",
+      "fetched_at": "2026-11-26T08:00:59.505653+00:00",
       "relevance_score": 53,
       "deal_types": [
         "拼车/合租",
@@ -933,16 +933,16 @@
         "API Deal"
       ],
       "products": [
-        "Copilot",
-        "Cursor"
+        "Cursor",
+        "Copilot"
       ],
       "companies": [
         "Cursor",
         "Microsoft"
       ],
       "tags": [
-        "Copilot",
         "Cursor",
+        "Copilot",
         "拼车/合租",
         "学生/教育",
         "免费/试用",
@@ -1762,7 +1762,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-26T00:00:17.590478+00:00",
+      "fetched_at": "2026-11-26T08:00:59.505679+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -3420,52 +3420,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1259670",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[福利 CDK] Zooproxy 上新美国 AI 优化渠道 IP，赠送动态住宅测试流量",
-      "body": "Zooproxy 上新**美国 AI 优化渠道 IP**，适配 ChatGPT、Claude 等大模型批量任务，单价 $1.25/IP，针对 AI 业务风控做专项优化。\r\n\r\n美国 IP AI 优化套餐专为 AI 业务负载调优，网络针对 AI 机器人访问、API 调用、模型推理实现低延迟稳定连通，针对 AI 平台常见的指纹识别与流量限制做了防护优化，IP 属性更好 有其他业务的客户也可以选择该套餐使用。\r\n\r\n联系官方 TG 客服 @ZooproxyTiger 还可领取专属优惠券。\r\n\r\n🎁V 友专属福利：注册即可兑换 CDK，免费领取动态住宅流量\r\n\r\n官网注册入口：[https://zooproxy.com/?kwd=LQ-v2ex](https://zooproxy.com/?kwd=LQ-v2ex)\r\n\r\n注册登录后进入控制台，找到 CDK 兑换入口直接激活即可。\r\n\r\n邀请码：**veexfwaif**，新用户首单可享半价。 注册时填写\r\n\r\n可用 CDK：\r\n\r\n```\r\nUEJK‑EKE9‑ME97\r\nQB6X‑CMTM‑FCTX\r\n7ZAR‑WKKQ‑ANVH\r\nZYL",
-      "url": "https://www.v2ex.com/t/1259670",
-      "author": "Mayday9421",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-25T03:57:40",
-      "fetched_at": "2026-11-26T00:00:08.436090+00:00",
-      "relevance_score": 42,
-      "deal_types": [
-        "优惠码",
-        "礼品卡",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Promo Code",
-        "Gift Card",
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "ChatGPT",
-        "优惠码",
-        "礼品卡",
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1253086",
       "source": "v2ex",
       "subreddit": "openai",
@@ -4112,6 +4066,52 @@
       "tags": [
         "Cursor",
         "优惠码",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1259670",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "[福利 CDK] Zooproxy 上新美国 AI 优化渠道 IP，赠送动态住宅测试流量",
+      "body": "Zooproxy 上新**美国 AI 优化渠道 IP**，适配 ChatGPT、Claude 等大模型批量任务，单价 $1.25/IP，针对 AI 业务风控做专项优化。\r\n\r\n美国 IP AI 优化套餐专为 AI 业务负载调优，网络针对 AI 机器人访问、API 调用、模型推理实现低延迟稳定连通，针对 AI 平台常见的指纹识别与流量限制做了防护优化，IP 属性更好 有其他业务的客户也可以选择该套餐使用。\r\n\r\n联系官方 TG 客服 @ZooproxyTiger 还可领取专属优惠券。\r\n\r\n🎁V 友专属福利：注册即可兑换 CDK，免费领取动态住宅流量\r\n\r\n官网注册入口：[https://zooproxy.com/?kwd=LQ-v2ex](https://zooproxy.com/?kwd=LQ-v2ex)\r\n\r\n注册登录后进入控制台，找到 CDK 兑换入口直接激活即可。\r\n\r\n邀请码：**veexfwaif**，新用户首单可享半价。 注册时填写\r\n\r\n可用 CDK：\r\n\r\n```\r\nUEJK‑EKE9‑ME97\r\nQB6X‑CMTM‑FCTX\r\n7ZAR‑WKKQ‑ANVH\r\nZYL",
+      "url": "https://www.v2ex.com/t/1259670",
+      "author": "Mayday9421",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-25T03:57:40",
+      "fetched_at": "2026-11-26T08:00:49.489113+00:00",
+      "relevance_score": 40,
+      "deal_types": [
+        "优惠码",
+        "礼品卡",
+        "免费/试用",
+        "降价/折扣",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Promo Code",
+        "Gift Card",
+        "Free/Trial",
+        "Price Drop",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "优惠码",
+        "礼品卡",
         "免费/试用",
         "降价/折扣",
         "API优惠"
@@ -5382,6 +5382,49 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1259917",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "做了个 ai 代充聚合网站，商家可以 free 提交你的商店",
+      "body": "最近做了个网站叫「订阅家」，把不同商家的 AI 会员报价放在同一页，方便按套餐比较。\r\n\r\n我想解决的是，同一个套餐只看价格很容易比错。有的是给自己的账号充值，有的是合租或者卡密，库存、到账时间和售后也各不相同。所以套餐页把这些信息放在报价旁边，另外标了最近更新时间。有历史记录的套餐也能看价格走势。\r\n\r\n可以直接看几个套餐：\r\n- ChatGPT Plus：https://dingyuejia.com/product/chatgpt-plus\r\n- Claude Pro：https://dingyuejia.com/product/claude-pro\r\n- Google AI Pro：https://dingyuejia.com/product/gemini-advanced\r\n官网：https://dingyuejia.com/\r\n\r\n查价不用登录，付款和售后由对应商家处理。报价和库存可能变化，最终以商家结算页为准。\r\n\r\n想听听大家的意见：如果两家报价差十几块，你最想先看到哪个信息？是充值方式、售后，还是这条报价什么时候更新的？ 我在考虑把最常用的几项放到手机端报价列表的前面。",
+      "url": "https://www.v2ex.com/t/1259917",
+      "author": "huahua974",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-26T02:26:42",
+      "fetched_at": "2026-11-26T08:00:28.873344+00:00",
+      "relevance_score": 38,
+      "deal_types": [
+        "拼车/合租",
+        "礼品卡",
+        "免费/试用"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Gift Card",
+        "Free/Trial"
+      ],
+      "products": [
+        "Claude",
+        "Gemini",
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Anthropic"
+      ],
+      "tags": [
+        "Claude",
+        "Gemini",
+        "ChatGPT",
+        "拼车/合租",
+        "礼品卡",
+        "免费/试用"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "hn_50643837",
       "source": "hackernews",
       "subreddit": "",
@@ -5392,7 +5435,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-25T16:07:19Z",
-      "fetched_at": "2026-11-26T00:03:20.008270+00:00",
+      "fetched_at": "2026-11-26T08:02:00.958408+00:00",
       "relevance_score": 38,
       "deal_types": [
         "拼车/合租",
@@ -5405,19 +5448,19 @@
         "API Deal"
       ],
       "products": [
+        "Cursor",
         "Claude",
-        "ChatGPT",
-        "Cursor"
+        "ChatGPT"
       ],
       "companies": [
+        "Cursor",
         "OpenAI",
-        "Anthropic",
-        "Cursor"
+        "Anthropic"
       ],
       "tags": [
+        "Cursor",
         "Claude",
         "ChatGPT",
-        "Cursor",
         "拼车/合租",
         "免费/试用",
         "API优惠"
@@ -6335,7 +6378,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T05:46:23",
-      "fetched_at": "2026-11-26T00:00:10.795320+00:00",
+      "fetched_at": "2026-11-26T08:00:52.080278+00:00",
       "relevance_score": 37,
       "deal_types": [
         "学生/教育",
@@ -7407,7 +7450,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-22T03:10:22",
-      "fetched_at": "2026-11-25T23:59:59.090421+00:00",
+      "fetched_at": "2026-11-26T08:00:39.203960+00:00",
       "relevance_score": 36,
       "deal_types": [
         "区域套利",
@@ -8728,7 +8771,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-25T12:13:59",
-      "fetched_at": "2026-11-25T23:59:54.174750+00:00",
+      "fetched_at": "2026-11-26T08:00:34.155681+00:00",
       "relevance_score": 35,
       "deal_types": [
         "学生/教育",
@@ -9954,6 +9997,37 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1259985",
+      "source": "v2ex",
+      "subreddit": 148,
+      "title": "[350 收] 土区 ChatGPT Plus 499 里拉，带邮箱 + Apple ID",
+      "body": "自用收购一个土耳其区 ChatGPT Plus 账号，有闲置的大佬可以联系。\r\n\r\n**收购要求：**\r\n- 土耳其区 ChatGPT Plus 订阅账号，续费价格为 499 里拉（需可验证 App Store 订阅页）\r\n- 当前状态：未断订\r\n- 带完整原始邮箱（优先 Google 邮箱）+ 土区 Apple ID\r\n- 账号状态正常，无异常登录或风控封禁记录\r\n\r\n有意的大佬请**先在帖子下回复**，再联系主页 TG，看到会及时回复。",
+      "url": "https://www.v2ex.com/t/1259985",
+      "author": "siliconfox",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-26T05:35:28",
+      "fetched_at": "2026-11-26T08:00:28.873322+00:00",
+      "relevance_score": 34,
+      "deal_types": [
+        "区域套利"
+      ],
+      "deal_types_en": [
+        "Regional Pricing"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "区域套利"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1259773",
       "source": "v2ex",
       "subreddit": 864,
@@ -9964,7 +10038,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-25T09:12:11",
-      "fetched_at": "2026-11-26T00:00:26.291516+00:00",
+      "fetched_at": "2026-11-26T08:01:10.081358+00:00",
       "relevance_score": 34,
       "deal_types": [
         "拼车/合租",
@@ -11116,7 +11190,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T19:31:42",
-      "fetched_at": "2026-11-25T23:59:49.501126+00:00",
+      "fetched_at": "2026-11-26T08:00:28.873395+00:00",
       "relevance_score": 33,
       "deal_types": [
         "学生/教育",
@@ -11298,7 +11372,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-26T00:00:15.123157+00:00",
+      "fetched_at": "2026-11-26T08:00:56.750143+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11509,77 +11583,6 @@
         "Cursor",
         "免费/试用",
         "薅羊毛/技巧"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "hn_49989006",
-      "source": "hackernews",
-      "subreddit": "",
-      "title": "FreeLLMAPI – One OpenAI-Compatible API for Multiple Free LLM Providers",
-      "body": "FreeLLMAPI is an open-source LLM gateway that combines free tiers from multiple AI providers behind a single OpenAI-compatible &#x2F;v1 endpoint.<p>It currently supports dozens of providers and hundreds of free model endpoints, with automatic routing, fallback when a provider hits rate limits, encrypted API key storage, and usage tracking for different free-tier limits. It can also connect to custom OpenAI-compatible endpoints.<p>The project can be self-hosted with Docker or used through its des",
-      "url": "https://news.ycombinator.com/item?id=49989005",
-      "author": "Moon_Y",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-07T06:18:38Z",
-      "fetched_at": "2026-10-08T04:39:20.125479+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1243743",
-      "source": "v2ex",
-      "subreddit": 285,
-      "title": "[换] 三个月 GPT team 会员 换一个教育优惠资格（mac mini m6）",
-      "body": "这板块真冷清，我来搞个活动吧。\r\n\r\n这个活动只有学生仔才能参与哦。\r\n我需要在京东购买一个 mac mini m6 ，需要国补叠加教育优惠。\r\n\r\ngpt team 会员其实就是 gpt plus ，一个月价值官网是 140 ，\r\n有优惠码拼车的话，价值大概也是 90 元一个月。\r\n\r\n三个月 GPT 会员换一个代购资格买 mac mini m6  [ 16g 512G/24g 512G ] 这两个规格都可以。\r\n\r\n截止日期到国庆节结束我就不要了哈。",
-      "url": "https://www.v2ex.com/t/1243743",
-      "author": "yinjun622",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-11-26T00:00:17.590486+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "拼车/合租",
-        "优惠码",
-        "学生/教育"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Promo Code",
-        "Student/Edu"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "拼车/合租",
-        "优惠码",
-        "学生/教育"
       ],
       "is_deal": true
     }

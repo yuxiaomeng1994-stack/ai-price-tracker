@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-25T13:57:05.205699+00:00",
+  "last_updated": "2026-11-26T00:04:55.047560+00:00",
   "total_deals": 300,
   "sources": {
-    "v2ex": 284,
+    "v2ex": 283,
     "reddit": 5,
     "smzdm": 2,
-    "hackernews": 9
+    "hackernews": 10
   },
   "llm_filtered": false,
   "deals": [
@@ -916,7 +916,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-20T06:55:08",
-      "fetched_at": "2026-11-25T13:54:52.716735+00:00",
+      "fetched_at": "2026-11-26T00:00:17.590449+00:00",
       "relevance_score": 53,
       "deal_types": [
         "拼车/合租",
@@ -937,8 +937,8 @@
         "Cursor"
       ],
       "companies": [
-        "Microsoft",
-        "Cursor"
+        "Cursor",
+        "Microsoft"
       ],
       "tags": [
         "Copilot",
@@ -1525,7 +1525,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-22T12:36:55",
-      "fetched_at": "2026-11-25T13:54:26.895238+00:00",
+      "fetched_at": "2026-11-25T23:59:51.931398+00:00",
       "relevance_score": 48,
       "deal_types": [
         "拼车/合租",
@@ -1762,7 +1762,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-25T13:54:52.716753+00:00",
+      "fetched_at": "2026-11-26T00:00:17.590478+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -3430,7 +3430,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-25T03:57:40",
-      "fetched_at": "2026-11-25T13:54:43.531618+00:00",
+      "fetched_at": "2026-11-26T00:00:08.436090+00:00",
       "relevance_score": 42,
       "deal_types": [
         "优惠码",
@@ -5382,6 +5382,49 @@
       "is_deal": true
     },
     {
+      "id": "hn_50643837",
+      "source": "hackernews",
+      "subreddit": "",
+      "title": "Zapier offers free MCP tool calls until Jan. 5",
+      "body": "Hi HN, I work on Zapier&#x27;s agent discovery team.<p>Zapier has made Zapier MCP free to use until January 5, 2027. Zapier MCP is the connection between Zapier and AI tools: connect it to Claude, ChatGPT, Cursor or any MCP client, and your agent can take actions in 10,000+ apps through accounts you&#x27;ve connected and approved. No API keys are shared with the model, and you can revoke access in Zapier.<p>To try it, add a server at <a href=\"https:&#x2F;&#x2F;mcp.zapier.com\" rel=\"nofollow\">http",
+      "url": "https://news.ycombinator.com/item?id=50643836",
+      "author": "ckor",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-25T16:07:19Z",
+      "fetched_at": "2026-11-26T00:03:20.008270+00:00",
+      "relevance_score": 38,
+      "deal_types": [
+        "拼车/合租",
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "ChatGPT",
+        "Cursor"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Cursor"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "Cursor",
+        "拼车/合租",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1255070",
       "source": "v2ex",
       "subreddit": 864,
@@ -6292,7 +6335,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T05:46:23",
-      "fetched_at": "2026-11-25T13:54:45.892663+00:00",
+      "fetched_at": "2026-11-26T00:00:10.795320+00:00",
       "relevance_score": 37,
       "deal_types": [
         "学生/教育",
@@ -7281,7 +7324,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-24T12:25:49",
-      "fetched_at": "2026-11-25T13:55:06.420308+00:00",
+      "fetched_at": "2026-11-26T00:00:30.595609+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -7300,8 +7343,8 @@
       "companies": [
         "OpenAI",
         "Google",
-        "Cursor",
-        "Anthropic"
+        "Anthropic",
+        "Cursor"
       ],
       "tags": [
         "Gemini",
@@ -7324,7 +7367,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-23T02:27:30",
-      "fetched_at": "2026-11-25T13:54:26.895231+00:00",
+      "fetched_at": "2026-11-25T23:59:51.931388+00:00",
       "relevance_score": 36,
       "deal_types": [
         "免费/试用",
@@ -7341,8 +7384,8 @@
         "Claude"
       ],
       "companies": [
-        "Google",
-        "Anthropic"
+        "Anthropic",
+        "Google"
       ],
       "tags": [
         "Gemini",
@@ -7364,7 +7407,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-22T03:10:22",
-      "fetched_at": "2026-11-25T13:54:33.942101+00:00",
+      "fetched_at": "2026-11-25T23:59:59.090421+00:00",
       "relevance_score": 36,
       "deal_types": [
         "区域套利",
@@ -8685,7 +8728,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-25T12:13:59",
-      "fetched_at": "2026-11-25T13:54:29.230011+00:00",
+      "fetched_at": "2026-11-25T23:59:54.174750+00:00",
       "relevance_score": 35,
       "deal_types": [
         "学生/教育",
@@ -9921,7 +9964,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-25T09:12:11",
-      "fetched_at": "2026-11-25T13:55:01.712278+00:00",
+      "fetched_at": "2026-11-26T00:00:26.291516+00:00",
       "relevance_score": 34,
       "deal_types": [
         "拼车/合租",
@@ -11073,7 +11116,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T19:31:42",
-      "fetched_at": "2026-11-25T13:54:24.369557+00:00",
+      "fetched_at": "2026-11-25T23:59:49.501126+00:00",
       "relevance_score": 33,
       "deal_types": [
         "学生/教育",
@@ -11255,7 +11298,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-25T13:54:50.112020+00:00",
+      "fetched_at": "2026-11-26T00:00:15.123157+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11514,7 +11557,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-09-21T12:30:28",
-      "fetched_at": "2026-11-25T13:54:52.716764+00:00",
+      "fetched_at": "2026-11-26T00:00:17.590486+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11537,40 +11580,6 @@
         "拼车/合租",
         "优惠码",
         "学生/教育"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1234171",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "[梅开四度] ChatGPT 低至 0.06 倍｜新老用户留言 ID 再送 5 元（价值 250 万 Token），充值多赠送",
-      "body": "### Banyane 第四波福利\r\n\r\n**官网：** https://api.banyane.top \r\n\r\n感谢支持，新增「 OpenAI 006 特惠」分组，倍率直接降到 **0.06** 倍。\r\n\r\n覆盖对话、代码开发、复杂推理及长文本处理等能力。自用不掺水、不降智、不套壳，欢迎随意测试验证。\r\n\r\n**🎁 本帖福利**\r\n\r\n新老用户注册后，在本帖留言用户名，赠送 5 元额度\r\n\r\n**欢迎加入售后 QQ 183980069 群，使用过程中遇到任何问题都可以随时反馈，群内高强度在线，及时提供技术解答和售后支持。**",
-      "url": "https://www.v2ex.com/t/1234171",
-      "author": "kelrvins",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-08-13T09:44:31",
-      "fetched_at": "2026-08-14T01:50:36.932361+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "tags": [
-        "ChatGPT",
-        "免费/试用",
-        "API优惠"
       ],
       "is_deal": true
     }

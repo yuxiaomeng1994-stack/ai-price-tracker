@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T08:03:37.377224+00:00",
+  "last_updated": "2026-11-26T18:23:10.909409+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 284,
@@ -916,7 +916,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-20T06:55:08",
-      "fetched_at": "2026-11-26T08:00:59.505653+00:00",
+      "fetched_at": "2026-11-26T18:21:08.550032+00:00",
       "relevance_score": 53,
       "deal_types": [
         "拼车/合租",
@@ -933,16 +933,16 @@
         "API Deal"
       ],
       "products": [
-        "Cursor",
-        "Copilot"
+        "Copilot",
+        "Cursor"
       ],
       "companies": [
-        "Cursor",
-        "Microsoft"
+        "Microsoft",
+        "Cursor"
       ],
       "tags": [
-        "Cursor",
         "Copilot",
+        "Cursor",
         "拼车/合租",
         "学生/教育",
         "免费/试用",
@@ -1762,7 +1762,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-26T08:00:59.505679+00:00",
+      "fetched_at": "2026-11-26T18:21:08.550048+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -5392,7 +5392,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-26T02:26:42",
-      "fetched_at": "2026-11-26T08:00:28.873344+00:00",
+      "fetched_at": "2026-11-26T18:20:40.999807+00:00",
       "relevance_score": 38,
       "deal_types": [
         "拼车/合租",
@@ -5405,19 +5405,19 @@
         "Free/Trial"
       ],
       "products": [
+        "ChatGPT",
         "Claude",
-        "Gemini",
-        "ChatGPT"
+        "Gemini"
       ],
       "companies": [
         "OpenAI",
-        "Google",
-        "Anthropic"
+        "Anthropic",
+        "Google"
       ],
       "tags": [
+        "ChatGPT",
         "Claude",
         "Gemini",
-        "ChatGPT",
         "拼车/合租",
         "礼品卡",
         "免费/试用"
@@ -6378,7 +6378,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T05:46:23",
-      "fetched_at": "2026-11-26T08:00:52.080278+00:00",
+      "fetched_at": "2026-11-26T18:21:02.045576+00:00",
       "relevance_score": 37,
       "deal_types": [
         "学生/教育",
@@ -7450,7 +7450,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-22T03:10:22",
-      "fetched_at": "2026-11-26T08:00:39.203960+00:00",
+      "fetched_at": "2026-11-26T18:20:50.368655+00:00",
       "relevance_score": 36,
       "deal_types": [
         "区域套利",
@@ -8761,43 +8761,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1259806",
-      "source": "v2ex",
-      "subreddit": 12,
-      "title": "冲了 99usd 一年的 Google ai pro ，怎么使用反重力",
-      "body": "学生版好像 11 月底反重力就不能用高阶模型了，所以充了一年的 Google AI Pro 套餐，99 美金。\n\n近期政策收紧（2026 年 11 月底生效）： 免费试用/促销类的学生账号在 Antigravity 中被排除在 Gemini 4 系列（包括 Gemini 4 Hydrogen）之外，模型阵容退回与基础免费版（Basic/Free Tier）一致\n\n之前下载过 antigravity 的应用，但是用起来很难受，而且要开 tun 模式，会影响我使用内部网络的其他服务，有没有什么软件可以只让 antigravity 走特定的代理，其他不走代理",
-      "url": "https://www.v2ex.com/t/1259806",
-      "author": "syh2",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-25T12:13:59",
-      "fetched_at": "2026-11-26T08:00:34.155681+00:00",
-      "relevance_score": 35,
-      "deal_types": [
-        "学生/教育",
-        "免费/试用",
-        "降价/折扣"
-      ],
-      "deal_types_en": [
-        "Student/Edu",
-        "Free/Trial",
-        "Price Drop"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "学生/教育",
-        "免费/试用",
-        "降价/折扣"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1258882",
       "source": "v2ex",
       "subreddit": 12,
@@ -10007,7 +9970,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-26T05:35:28",
-      "fetched_at": "2026-11-26T08:00:28.873322+00:00",
+      "fetched_at": "2026-11-26T18:20:40.999802+00:00",
       "relevance_score": 34,
       "deal_types": [
         "区域套利"
@@ -10024,43 +9987,6 @@
       "tags": [
         "ChatGPT",
         "区域套利"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1259773",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "回帖 + 加群送 $18 额度，Claude Code / Codex 改个地址就能用，GPT 低至官方 1.35 折 | 林易 API",
-      "body": "各位 V 友好，我们是林易 API（[linyiapi.ai](https://linyiapi.ai)）团队，做 AI 大模型 API 中转。这次发帖推广：回帖送 $8，加群再送 $10，一共 $18。欢迎来试、来挑刺。\r\n**活动时间：帖子还在，活动就一直有效。**\r\n## 🎁 福利\r\n| 福利 | 额度 | 怎么领 |\r\n| --- | --- | --- |\r\n| 回帖送 | $8 | 在本帖回帖，然后进群发「V2EX 用户名 + 楼层号 + 注册账号」 |\r\n| 加群送 | $10 | 站点右上角 [客服] 按钮点开，扫码进群发「注册账号 + 领额度」 |\r\n\r\n步骤：\r\n1. 在 [linyiapi.ai](https://linyiapi.ai) 注册账号。\r\n2. 在本帖回帖，写一句你最常用的模型或使用场景，比如「Claude Code 写前端」「Codex 跑脚本」。\r\n3. 加 QQ 群 1054620269，按上表发送信息，核对后发放。两份可以一起领。\r\n说明：\r\n- 每个 V2EX 账号、每个林易账号，每份福利各限领 1 次。\r\n- 赠送额度直接计入控制台余额，",
-      "url": "https://www.v2ex.com/t/1259773",
-      "author": "butlgme",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-25T09:12:11",
-      "fetched_at": "2026-11-26T08:01:10.081358+00:00",
-      "relevance_score": 34,
-      "deal_types": [
-        "拼车/合租",
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "拼车/合租",
-        "免费/试用",
-        "API优惠"
       ],
       "is_deal": true
     },
@@ -11143,6 +11069,83 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1260070",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "CodeGo：一个 API 交易市场——470 多个分组在交易，222 个模型全覆盖",
+      "body": "两个场景应该都见过：一边是有人手里 API 额度、通道闲置着用不完，过期作废；另一边是有人想用 Claude Code、Codex 的 API，要么开通麻烦，要么只能买贵价套餐，用多少买多少做不到。\r\n\r\nCodeGo（codegoai.com）做的是一个 API 交易市场：闲置的 API 可以拿出来交易，让它产生价值；需要的人在市场里挑选，一个 key 就能接入使用。\r\n\r\n现在的规模（今天刚去数过）：\r\n- 市场里有 470 多个第三方分组在交易，另有 4 个官方分组（Pro、Azure-GPT、OpenAI-Key、free）\r\n- 覆盖 222 个模型、13 家提供商：Claude、GPT/Codex、Gemini、DeepSeek、GLM、Kimi、Grok、Qwen 等主流系列基本都在，还有 7 个免费模型可以先试\r\n\r\n适合谁：\r\n- 手里有闲置 API 额度/通道、不想让它白白过期的\r\n- 想灵活买到 Claude Code / Codex API、不想被套餐绑定的\r\n- 想在一个市场里比较不同分组价格和质量的团队\r\n\r\n地址 codegoai.com，手里有闲置 AP",
+      "url": "https://www.v2ex.com/t/1260070",
+      "author": "s2644752646",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-26T09:17:48",
+      "fetched_at": "2026-11-26T18:20:43.216497+00:00",
+      "relevance_score": 33,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1259806",
+      "source": "v2ex",
+      "subreddit": 12,
+      "title": "冲了 99usd 一年的 Google ai pro ，怎么使用反重力",
+      "body": "学生版好像 11 月底反重力就不能用高阶模型了，所以充了一年的 Google AI Pro 套餐，99 美金。\n\n近期政策收紧（2026 年 11 月底生效）： 免费试用/促销类的学生账号在 Antigravity 中被排除在 Gemini 4 系列（包括 Gemini 4 Hydrogen）之外，模型阵容退回与基础免费版（Basic/Free Tier）一致\n\n之前下载过 antigravity 的应用，但是用起来很难受，而且要开 tun 模式，会影响我使用内部网络的其他服务，有没有什么软件可以只让 antigravity 走特定的代理，其他不走代理",
+      "url": "https://www.v2ex.com/t/1259806",
+      "author": "syh2",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-25T12:13:59",
+      "fetched_at": "2026-11-26T18:20:45.410208+00:00",
+      "relevance_score": 33,
+      "deal_types": [
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣"
+      ],
+      "deal_types_en": [
+        "Student/Edu",
+        "Free/Trial",
+        "Price Drop"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1258856",
       "source": "v2ex",
       "subreddit": 69,
@@ -11190,7 +11193,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T19:31:42",
-      "fetched_at": "2026-11-26T08:00:28.873395+00:00",
+      "fetched_at": "2026-11-26T18:20:40.999836+00:00",
       "relevance_score": 33,
       "deal_types": [
         "学生/教育",
@@ -11205,16 +11208,16 @@
         "API Deal"
       ],
       "products": [
-        "Gemini",
-        "ChatGPT"
+        "ChatGPT",
+        "Gemini"
       ],
       "companies": [
         "OpenAI",
         "Google"
       ],
       "tags": [
-        "Gemini",
         "ChatGPT",
+        "Gemini",
         "学生/教育",
         "免费/试用",
         "降价/折扣",
@@ -11372,7 +11375,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-26T08:00:56.750143+00:00",
+      "fetched_at": "2026-11-26T18:21:06.284133+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",

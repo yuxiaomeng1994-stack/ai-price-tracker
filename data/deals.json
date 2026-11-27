@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T18:23:10.909409+00:00",
+  "last_updated": "2026-11-27T02:42:05.329793+00:00",
   "total_deals": 300,
   "sources": {
     "v2ex": 284,
@@ -916,7 +916,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-20T06:55:08",
-      "fetched_at": "2026-11-26T18:21:08.550032+00:00",
+      "fetched_at": "2026-11-27T02:40:06.466492+00:00",
       "relevance_score": 53,
       "deal_types": [
         "拼车/合租",
@@ -933,16 +933,16 @@
         "API Deal"
       ],
       "products": [
-        "Copilot",
-        "Cursor"
+        "Cursor",
+        "Copilot"
       ],
       "companies": [
-        "Microsoft",
-        "Cursor"
+        "Cursor",
+        "Microsoft"
       ],
       "tags": [
-        "Copilot",
         "Cursor",
+        "Copilot",
         "拼车/合租",
         "学生/教育",
         "免费/试用",
@@ -1762,7 +1762,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-26T18:21:08.550048+00:00",
+      "fetched_at": "2026-11-27T02:40:06.466513+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -5382,49 +5382,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1259917",
-      "source": "v2ex",
-      "subreddit": 864,
-      "title": "做了个 ai 代充聚合网站，商家可以 free 提交你的商店",
-      "body": "最近做了个网站叫「订阅家」，把不同商家的 AI 会员报价放在同一页，方便按套餐比较。\r\n\r\n我想解决的是，同一个套餐只看价格很容易比错。有的是给自己的账号充值，有的是合租或者卡密，库存、到账时间和售后也各不相同。所以套餐页把这些信息放在报价旁边，另外标了最近更新时间。有历史记录的套餐也能看价格走势。\r\n\r\n可以直接看几个套餐：\r\n- ChatGPT Plus：https://dingyuejia.com/product/chatgpt-plus\r\n- Claude Pro：https://dingyuejia.com/product/claude-pro\r\n- Google AI Pro：https://dingyuejia.com/product/gemini-advanced\r\n官网：https://dingyuejia.com/\r\n\r\n查价不用登录，付款和售后由对应商家处理。报价和库存可能变化，最终以商家结算页为准。\r\n\r\n想听听大家的意见：如果两家报价差十几块，你最想先看到哪个信息？是充值方式、售后，还是这条报价什么时候更新的？ 我在考虑把最常用的几项放到手机端报价列表的前面。",
-      "url": "https://www.v2ex.com/t/1259917",
-      "author": "huahua974",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-26T02:26:42",
-      "fetched_at": "2026-11-26T18:20:40.999807+00:00",
-      "relevance_score": 38,
-      "deal_types": [
-        "拼车/合租",
-        "礼品卡",
-        "免费/试用"
-      ],
-      "deal_types_en": [
-        "Group Buy",
-        "Gift Card",
-        "Free/Trial"
-      ],
-      "products": [
-        "ChatGPT",
-        "Claude",
-        "Gemini"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic",
-        "Google"
-      ],
-      "tags": [
-        "ChatGPT",
-        "Claude",
-        "Gemini",
-        "拼车/合租",
-        "礼品卡",
-        "免费/试用"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "hn_50643837",
       "source": "hackernews",
       "subreddit": "",
@@ -6378,7 +6335,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T05:46:23",
-      "fetched_at": "2026-11-26T18:21:02.045576+00:00",
+      "fetched_at": "2026-11-27T02:40:00.096444+00:00",
       "relevance_score": 37,
       "deal_types": [
         "学生/教育",
@@ -7357,6 +7314,49 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1259917",
+      "source": "v2ex",
+      "subreddit": 864,
+      "title": "做了个 ai 代充聚合网站，商家可以 free 提交你的商店",
+      "body": "最近做了个网站叫「订阅家」，把不同商家的 AI 会员报价放在同一页，方便按套餐比较。\r\n\r\n我想解决的是，同一个套餐只看价格很容易比错。有的是给自己的账号充值，有的是合租或者卡密，库存、到账时间和售后也各不相同。所以套餐页把这些信息放在报价旁边，另外标了最近更新时间。有历史记录的套餐也能看价格走势。\r\n\r\n可以直接看几个套餐：\r\n- ChatGPT Plus：https://dingyuejia.com/product/chatgpt-plus\r\n- Claude Pro：https://dingyuejia.com/product/claude-pro\r\n- Google AI Pro：https://dingyuejia.com/product/gemini-advanced\r\n官网：https://dingyuejia.com/\r\n\r\n查价不用登录，付款和售后由对应商家处理。报价和库存可能变化，最终以商家结算页为准。\r\n\r\n想听听大家的意见：如果两家报价差十几块，你最想先看到哪个信息？是充值方式、售后，还是这条报价什么时候更新的？ 我在考虑把最常用的几项放到手机端报价列表的前面。",
+      "url": "https://www.v2ex.com/t/1259917",
+      "author": "huahua974",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-26T02:26:42",
+      "fetched_at": "2026-11-27T02:39:40.796870+00:00",
+      "relevance_score": 36,
+      "deal_types": [
+        "拼车/合租",
+        "礼品卡",
+        "免费/试用"
+      ],
+      "deal_types_en": [
+        "Group Buy",
+        "Gift Card",
+        "Free/Trial"
+      ],
+      "products": [
+        "ChatGPT",
+        "Gemini",
+        "Claude"
+      ],
+      "companies": [
+        "Google",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Gemini",
+        "Claude",
+        "拼车/合租",
+        "礼品卡",
+        "免费/试用"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1259544",
       "source": "v2ex",
       "subreddit": 864,
@@ -7450,7 +7450,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-22T03:10:22",
-      "fetched_at": "2026-11-26T18:20:50.368655+00:00",
+      "fetched_at": "2026-11-27T02:39:49.507139+00:00",
       "relevance_score": 36,
       "deal_types": [
         "区域套利",
@@ -9970,7 +9970,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-26T05:35:28",
-      "fetched_at": "2026-11-26T18:20:40.999802+00:00",
+      "fetched_at": "2026-11-27T02:39:40.796863+00:00",
       "relevance_score": 34,
       "deal_types": [
         "区域套利"
@@ -11079,7 +11079,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-26T09:17:48",
-      "fetched_at": "2026-11-26T18:20:43.216497+00:00",
+      "fetched_at": "2026-11-27T02:39:43.110436+00:00",
       "relevance_score": 33,
       "deal_types": [
         "免费/试用",
@@ -11091,18 +11091,18 @@
       ],
       "products": [
         "ChatGPT",
-        "Claude",
-        "Gemini"
+        "Gemini",
+        "Claude"
       ],
       "companies": [
+        "Google",
         "OpenAI",
-        "Anthropic",
-        "Google"
+        "Anthropic"
       ],
       "tags": [
         "ChatGPT",
-        "Claude",
         "Gemini",
+        "Claude",
         "免费/试用",
         "API优惠"
       ],
@@ -11193,7 +11193,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T19:31:42",
-      "fetched_at": "2026-11-26T18:20:40.999836+00:00",
+      "fetched_at": "2026-11-27T02:39:40.796912+00:00",
       "relevance_score": 33,
       "deal_types": [
         "学生/教育",
@@ -11375,7 +11375,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-26T18:21:06.284133+00:00",
+      "fetched_at": "2026-11-27T02:40:04.319337+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",

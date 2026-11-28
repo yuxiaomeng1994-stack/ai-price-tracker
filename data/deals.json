@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-27T23:57:25.679990+00:00",
+  "last_updated": "2026-11-28T06:26:56.038406+00:00",
   "total_deals": 300,
   "sources": {
-    "v2ex": 284,
+    "v2ex": 285,
     "reddit": 5,
     "smzdm": 2,
-    "hackernews": 9
+    "hackernews": 8
   },
   "llm_filtered": false,
   "deals": [
@@ -959,7 +959,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-20T06:55:08",
-      "fetched_at": "2026-11-27T23:55:21.806479+00:00",
+      "fetched_at": "2026-11-28T06:24:46.145723+00:00",
       "relevance_score": 52,
       "deal_types": [
         "拼车/合租",
@@ -976,16 +976,16 @@
         "API Deal"
       ],
       "products": [
-        "Copilot",
-        "Cursor"
+        "Cursor",
+        "Copilot"
       ],
       "companies": [
-        "Microsoft",
-        "Cursor"
+        "Cursor",
+        "Microsoft"
       ],
       "tags": [
-        "Copilot",
         "Cursor",
+        "Copilot",
         "拼车/合租",
         "学生/教育",
         "免费/试用",
@@ -1328,7 +1328,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-27T21:20:57",
-      "fetched_at": "2026-11-27T23:54:51.017805+00:00",
+      "fetched_at": "2026-11-28T06:24:18.040011+00:00",
       "relevance_score": 50,
       "deal_types": [
         "拼车/合租",
@@ -1805,7 +1805,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-10-24T03:46:16",
-      "fetched_at": "2026-11-27T23:55:21.806507+00:00",
+      "fetched_at": "2026-11-28T06:24:46.145738+00:00",
       "relevance_score": 47,
       "deal_types": [
         "拼车/合租",
@@ -4126,7 +4126,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-27T16:11:46",
-      "fetched_at": "2026-11-27T23:54:51.017827+00:00",
+      "fetched_at": "2026-11-28T06:24:18.040016+00:00",
       "relevance_score": 40,
       "deal_types": [
         "免费/试用",
@@ -4144,8 +4144,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "Google",
         "Anthropic",
+        "Google",
         "OpenAI"
       ],
       "tags": [
@@ -6374,6 +6374,40 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1260498",
+      "source": "v2ex",
+      "subreddit": "programmer",
+      "title": "用美区 appleID 开了个 gemini pro, 花了 1.99 刀",
+      "body": "这两天折腾的 claude 和 gemini，记录一下：\r\n\r\ngemini pro:\r\n一开始用的一个 gmail, 从中国区转到美国区的，发现买不了，登录了另外一个 gmail 账号，我看是 TW 地区的，可以继续往下走,到支付环节需要填收货地址，填写了美国的免税地址，居然通过了（前两天买 claude pro 也是类似的流程， 但是填写美区地址后还让绑定美区银行卡，放弃了）\r\n\r\n\r\nclaude pro:\r\ngemini 买成功了，又试了一下 claude pro,居然不要绑美区银行卡了，购买成功后，返回 APP，到了 KFC 环节，卡住了，下周去办理护照，打算先用护照试一下",
+      "url": "https://www.v2ex.com/t/1260498",
+      "author": "kpub54",
+      "score": 0,
+      "num_comments": 11,
+      "created_at": "2026-11-28T01:31:17+00:00",
+      "fetched_at": "2026-11-28T06:24:14.490421+00:00",
+      "relevance_score": 37,
+      "deal_types": [
+        "区域套利"
+      ],
+      "deal_types_en": [
+        "Regional Pricing"
+      ],
+      "products": [
+        "Claude",
+        "Gemini"
+      ],
+      "companies": [
+        "Anthropic",
+        "Google"
+      ],
+      "tags": [
+        "Claude",
+        "Gemini",
+        "区域套利"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1258900",
       "source": "v2ex",
       "subreddit": 864,
@@ -6407,46 +6441,6 @@
         "Gemini",
         "免费/试用",
         "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "v2ex_1258737",
-      "source": "v2ex",
-      "subreddit": 148,
-      "title": "上架谷歌羊毛 xiaomi 渠道，10 块钱 gemini pro 会员，顺便说说我知道的",
-      "body": "## 先说说这渠道是哪来的。\r\n和之前 pixel 类似，小米在国外有活动，购买小米手机赠送 3 个月 gemini pro 会员。\r\n吐槽下谷歌的羊毛是真多，从 jio，pixel，到前两天的零元购，更不要说正价的低价土区和学生优惠，家大不怕薅\r\n\r\n## 问的最多，可以用反重力 Antigravity 吗？\r\n这个取决于账号有没有资格，账号用不了就用不了，与订阅无关\r\n并且账户如果是，香港大陆地区 俄罗斯 白俄罗斯 通过也不可用\r\n并且不要反代，现在对反代非常严格\r\n\r\n## 什么账号能使用？\r\n最近两天谷歌加了风控，不知道是不是更换地区的太多了，账号 90 天换过地区，大概率失败\r\n\r\n## 可以使用什么模型？\r\n和付费 pro 一样，不能使用 Carbon，其他的 Neon 和 Hydrogen 都可以使用\r\n如果要整尽量用小号，虽说封号的概率很小，之前零元购都没有封号，只是掉了订阅，但稳妥还是不要用自己大号。最难搞的还是谷歌账号\r\n\r\n\r\n下单地址，顺便需要代充 gpt 也可以找我，可开票\r\n\r\nhttps://gptcard.shop/",
-      "url": "https://www.v2ex.com/t/1258737",
-      "author": "gptcard",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-11-21T05:46:23",
-      "fetched_at": "2026-11-27T23:55:14.139073+00:00",
-      "relevance_score": 37,
-      "deal_types": [
-        "学生/教育",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
-      ],
-      "deal_types_en": [
-        "Student/Edu",
-        "Free/Trial",
-        "Price Drop",
-        "Workaround"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "tags": [
-        "Gemini",
-        "学生/教育",
-        "免费/试用",
-        "降价/折扣",
-        "薅羊毛/技巧"
       ],
       "is_deal": true
     },
@@ -7400,46 +7394,6 @@
       "is_deal": true
     },
     {
-      "id": "v2ex_1260276",
-      "source": "v2ex",
-      "subreddit": "google",
-      "title": "在订阅了 Claude Google AI Pro 之后决定还是保留一个 ChatGPT Plus",
-      "body": "最近刚刚订阅了 Google AI Pro, 再加上长期以来 Codex 写代码太折磨，我就把 ChatGPT Plus 给退订了昨天有一个比较简单的问题想问 Gemini，但它的回答很明显不如 ChatGPT 免费版本, 两个都没有开记忆功能\r\n\r\n我决定保留 ChatGPT 的订阅，作为询问日常问题的首选\r\n\r\n这个问题就是让他给我介绍一下 Strapi。我知道很多年以前的 Jamstack 概念，自己也会写前后端代码，但我需要一个更加能快速上手的介绍。\r\n\r\nChatGPT 在内容的结构组织以及概念介绍上（比如 Content Type Builder、Content Manager 这些东西），都比 Google 做得好, 上图\r\n\r\n\r\n| ChatGPT Web | Gemini Web Neon 4 Medium |\r\n| ------ | ------ |\r\n|![](https://i.v2ex.co/i9s62D23.png)        | ![](https://i.v2ex.co/yfNo9Ssu.png)       |\r\n\r\n\r\n\r\n\r\n本人成分: \r\n",
-      "url": "https://www.v2ex.com/t/1260276",
-      "author": "mauve",
-      "score": 0,
-      "num_comments": 16,
-      "created_at": "2026-11-27T03:59:58+00:00",
-      "fetched_at": "2026-11-27T23:54:44.844957+00:00",
-      "relevance_score": 36,
-      "deal_types": [
-        "免费/试用",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "API Deal"
-      ],
-      "products": [
-        "Claude",
-        "Gemini",
-        "ChatGPT"
-      ],
-      "companies": [
-        "Google",
-        "Anthropic",
-        "OpenAI"
-      ],
-      "tags": [
-        "Claude",
-        "Gemini",
-        "ChatGPT",
-        "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
       "id": "v2ex_1259917",
       "source": "v2ex",
       "subreddit": 864,
@@ -7450,7 +7404,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-26T02:26:42",
-      "fetched_at": "2026-11-27T23:54:51.017851+00:00",
+      "fetched_at": "2026-11-28T06:24:18.040030+00:00",
       "relevance_score": 36,
       "deal_types": [
         "拼车/合租",
@@ -7468,8 +7422,8 @@
         "ChatGPT"
       ],
       "companies": [
-        "Google",
         "Anthropic",
+        "Google",
         "OpenAI"
       ],
       "tags": [
@@ -7576,7 +7530,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-22T03:10:22",
-      "fetched_at": "2026-11-27T23:55:01.177504+00:00",
+      "fetched_at": "2026-11-28T06:24:27.507031+00:00",
       "relevance_score": 36,
       "deal_types": [
         "区域套利",
@@ -7597,6 +7551,46 @@
       "tags": [
         "Gemini",
         "区域套利",
+        "降价/折扣",
+        "薅羊毛/技巧"
+      ],
+      "is_deal": true
+    },
+    {
+      "id": "v2ex_1258737",
+      "source": "v2ex",
+      "subreddit": 148,
+      "title": "上架谷歌羊毛 xiaomi 渠道，10 块钱 gemini pro 会员，顺便说说我知道的",
+      "body": "## 先说说这渠道是哪来的。\r\n和之前 pixel 类似，小米在国外有活动，购买小米手机赠送 3 个月 gemini pro 会员。\r\n吐槽下谷歌的羊毛是真多，从 jio，pixel，到前两天的零元购，更不要说正价的低价土区和学生优惠，家大不怕薅\r\n\r\n## 问的最多，可以用反重力 Antigravity 吗？\r\n这个取决于账号有没有资格，账号用不了就用不了，与订阅无关\r\n并且账户如果是，香港大陆地区 俄罗斯 白俄罗斯 通过也不可用\r\n并且不要反代，现在对反代非常严格\r\n\r\n## 什么账号能使用？\r\n最近两天谷歌加了风控，不知道是不是更换地区的太多了，账号 90 天换过地区，大概率失败\r\n\r\n## 可以使用什么模型？\r\n和付费 pro 一样，不能使用 Carbon，其他的 Neon 和 Hydrogen 都可以使用\r\n如果要整尽量用小号，虽说封号的概率很小，之前零元购都没有封号，只是掉了订阅，但稳妥还是不要用自己大号。最难搞的还是谷歌账号\r\n\r\n\r\n下单地址，顺便需要代充 gpt 也可以找我，可开票\r\n\r\nhttps://gptcard.shop/",
+      "url": "https://www.v2ex.com/t/1258737",
+      "author": "gptcard",
+      "score": 0,
+      "num_comments": 0,
+      "created_at": "2026-11-21T05:46:23",
+      "fetched_at": "2026-11-28T06:24:39.403944+00:00",
+      "relevance_score": 36,
+      "deal_types": [
+        "学生/教育",
+        "免费/试用",
+        "降价/折扣",
+        "薅羊毛/技巧"
+      ],
+      "deal_types_en": [
+        "Student/Edu",
+        "Free/Trial",
+        "Price Drop",
+        "Workaround"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "tags": [
+        "Gemini",
+        "学生/教育",
+        "免费/试用",
         "降价/折扣",
         "薅羊毛/技巧"
       ],
@@ -8897,7 +8891,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-27T07:50:38",
-      "fetched_at": "2026-11-27T23:54:56.145926+00:00",
+      "fetched_at": "2026-11-28T06:24:22.902295+00:00",
       "relevance_score": 35,
       "deal_types": [
         "拼车/合租",
@@ -10120,6 +10114,46 @@
       "is_deal": true
     },
     {
+      "id": "v2ex_1260276",
+      "source": "v2ex",
+      "subreddit": "google",
+      "title": "在订阅了 Claude Google AI Pro 之后决定还是保留一个 ChatGPT Plus",
+      "body": "最近刚刚订阅了 Google AI Pro, 再加上长期以来 Codex 写代码太折磨，我就把 ChatGPT Plus 给退订了昨天有一个比较简单的问题想问 Gemini，但它的回答很明显不如 ChatGPT 免费版本, 两个都没有开记忆功能\r\n\r\n我决定保留 ChatGPT 的订阅，作为询问日常问题的首选\r\n\r\n这个问题就是让他给我介绍一下 Strapi。我知道很多年以前的 Jamstack 概念，自己也会写前后端代码，但我需要一个更加能快速上手的介绍。\r\n\r\nChatGPT 在内容的结构组织以及概念介绍上（比如 Content Type Builder、Content Manager 这些东西），都比 Google 做得好, 上图\r\n\r\n\r\n| ChatGPT Web | Gemini Web Neon 4 Medium |\r\n| ------ | ------ |\r\n|![](https://i.v2ex.co/i9s62D23.png)        | ![](https://i.v2ex.co/yfNo9Ssu.png)       |\r\n\r\n\r\n\r\n\r\n本人成分: \r\n",
+      "url": "https://www.v2ex.com/t/1260276",
+      "author": "mauve",
+      "score": 0,
+      "num_comments": 16,
+      "created_at": "2026-11-27T03:59:58+00:00",
+      "fetched_at": "2026-11-28T06:24:12.085572+00:00",
+      "relevance_score": 34,
+      "deal_types": [
+        "免费/试用",
+        "API优惠"
+      ],
+      "deal_types_en": [
+        "Free/Trial",
+        "API Deal"
+      ],
+      "products": [
+        "Claude",
+        "Gemini",
+        "ChatGPT"
+      ],
+      "companies": [
+        "Anthropic",
+        "Google",
+        "OpenAI"
+      ],
+      "tags": [
+        "Claude",
+        "Gemini",
+        "ChatGPT",
+        "免费/试用",
+        "API优惠"
+      ],
+      "is_deal": true
+    },
+    {
       "id": "v2ex_1257409",
       "source": "v2ex",
       "subreddit": 148,
@@ -11282,7 +11316,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-21T19:31:42",
-      "fetched_at": "2026-11-27T23:55:21.806473+00:00",
+      "fetched_at": "2026-11-28T06:24:46.145716+00:00",
       "relevance_score": 33,
       "deal_types": [
         "学生/教育",
@@ -11464,7 +11498,7 @@
       "score": 0,
       "num_comments": 0,
       "created_at": "2026-11-04T06:05:28",
-      "fetched_at": "2026-11-27T23:55:19.062971+00:00",
+      "fetched_at": "2026-11-28T06:24:43.792760+00:00",
       "relevance_score": 33,
       "deal_types": [
         "拼车/合租",
@@ -11563,43 +11597,6 @@
         "Gemini",
         "Claude",
         "免费/试用",
-        "API优惠"
-      ],
-      "is_deal": true
-    },
-    {
-      "id": "hn_50163693",
-      "source": "hackernews",
-      "subreddit": "",
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "body": "If you are paying for the API anyways, I don&#x27;t think it makes a difference.  What is different is if you are on a subscription then you need to pay more to use `claude -p`.  But then Anthropic started adding free credits, at least for Team and above plans, to offset the cost.  Drug dealer pricing.<p>But don&#x27;t worry, I&#x27;m sure next week it&#x27;ll all change in some new and confusing way.  And not for the benefit of the customer.",
-      "url": "https://news.ycombinator.com/item?id=50148855",
-      "author": "frumiousirc",
-      "score": 0,
-      "num_comments": 0,
-      "created_at": "2026-10-20T10:01:49Z",
-      "fetched_at": "2026-10-26T09:45:13.414035+00:00",
-      "relevance_score": 33,
-      "deal_types": [
-        "免费/试用",
-        "降价/折扣",
-        "API优惠"
-      ],
-      "deal_types_en": [
-        "Free/Trial",
-        "Price Drop",
-        "API Deal"
-      ],
-      "products": [
-        "Claude"
-      ],
-      "companies": [
-        "Anthropic"
-      ],
-      "tags": [
-        "Claude",
-        "免费/试用",
-        "降价/折扣",
         "API优惠"
       ],
       "is_deal": true
